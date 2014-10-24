@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+{% include language-code.html %}
+
+<body>
+<div id="page-wrapper">
+    {% include tagmanager.html %}
+    {% include topbar.html %}
+    {% include header.html %}
+    {% include mainmenu-blog.html %}
+    <div class="content">
+		<div class="grd-grid-8 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-left">
+			<header class="post-header">
+			    <!-- <h1 class="post-title">{{ page.title }}</h1>		 -->
+			</header>
+			<article>
+			    
+			    {{ content }}
+			</article>
+		</div>
+		<div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
+			<aside>
+			{% include en/sidebar-video-commodities-videos.html %}
+			</aside>
+		</div>
+
+	<div class="push"></div>
+</div>
+	{% include footer.html %}
+</div>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+<div id="main-menu" class="tab-menu">
+    <div class="menu-raw">
+    <div class="tab-menu-wrap grd-container">
+        <div class="grd-grid-12 grd-no-gutter-left grd-no-gutter-right">
+            <button class="nav-button">Toggle Navigation</button>
+            <ul class="items primary-nav">
+                
+                <li>
+                    <a href="{{ '/' | prepend: site.baseurl }}">What's New<!-- <img src="http://blog.binary.com/files/theme/home-icon.png" width="20" height="16" alt=""> --></a>
+                </li>
+                {% for node in site.main-en %}
+                {% if page.url == node.url %}<li class="active">{% else %}<li>{% endif %}
+                    <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    </div>
+</div>

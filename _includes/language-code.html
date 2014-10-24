@@ -1,0 +1,55 @@
+<script>
+    $(function() {
+
+        function langCodeIdx(url) {
+            return url.substring(0, url.length - 1).lastIndexOf('/');
+        }
+
+        function isLangCode(langCode) {
+          console.log('is it ', langCode)
+            return (langCode == 'en'
+                || langCode == 'de'
+                || langCode == 'id'
+                || langCode == 'zh'
+                || langCode == 'pl'
+                || langCode == 'ru'
+                || langCode == 'pt'
+                || langCode == 'es'
+                || langCode == 'fr');
+        }
+
+        function langFromUrl(url) {
+            var langs = ['en', 'de', 'id', 'zh', 'pl', 'ru', 'pt', 'es', 'fr'],
+                parser = document.createElement('a');
+
+            parser.href = url;
+            langCode = parser.pathname.substring(1, 3);
+
+            return isLangCode(langCode) ? langCode : 'en';
+        }
+
+        var currLang = langFromUrl(window.location.href);
+
+        console.log(currLang);
+
+        $('#language_select select').val(currLang)
+
+        $('#language_select select').on('change', function() {
+
+            var url = window.location.href,
+                parser = document.createElement('a'),
+                lang = $('#language_select select option:selected').val(),
+                lastIdx = langCodeIdx(url),
+                codeInUrl = url.substring(lastIdx + 1, lastIdx + 3),
+                langOffset = isLangCode(codeInUrl) ? 3 : 0,
+                newUrl2 = url.substring(0, lastIdx + 1)
+                    + (lang == 'en' ? '' : (lang + '-'))
+                    + url.substring(lastIdx + 1 + langOffset);
+
+            parser.href = window.location.href;
+            parser.pathname = '/' + lang + parser.pathname.substring(3);
+            
+            window.location.href = parser.href;
+        });
+    });
+</script>

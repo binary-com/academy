@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Binary.com Blog</title>
+    <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+
+    <link rel="stylesheet" href="https://static.binary.com/css/binary.min.css">
+    <link rel="stylesheet" href="http://0.0.0.0:4000/css/style.css">
+    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <link rel="canonical" href="http://blog2.binary.com/page2/">
+	<script src='https://static.binary.com/js/lib.min.js?c93c0d85aead993064f9859e48436aa1' defer='true'></script>
+    <script src='https://static.binary.com/js/data.min.js?62dd7a2f2bb592a0ee8008e1bd7706d9' defer='true'></script>
+    <script src='https://static.binary.com/js/binary.min.js?e0862a6186b557360fedb5ef79fe507d' defer='true'></script>
+    <script>
+        $(document).ready(function(){
+            $(".nav-button").click(function () {
+            $(".nav-button,.primary-nav").toggleClass("open");
+            });    
+        });
+    </script>
+</script>
+</head>
+
+<script>
+    $(function() {
+
+        function langCodeIdx(url) {
+            return url.substring(0, url.length - 1).lastIndexOf('/');
+        }
+
+        function isLangCode(langCode) {
+          console.log('is it ', langCode)
+            return (langCode == 'en'
+                || langCode == 'de'
+                || langCode == 'id'
+                || langCode == 'zh'
+                || langCode == 'pl'
+                || langCode == 'ru'
+                || langCode == 'pt'
+                || langCode == 'es'
+                || langCode == 'fr');
+        }
+
+        function langFromUrl(url) {
+            var langs = ['en', 'de', 'id', 'zh', 'pl', 'ru', 'pt', 'es', 'fr'],
+                parser = document.createElement('a');
+
+            parser.href = url;
+            langCode = parser.pathname.substring(1, 3);
+
+            return isLangCode(langCode) ? langCode : 'en';
+        }
+
+        var currLang = langFromUrl(window.location.href);
+
+        console.log(currLang);
+
+        $('#language_select select').val(currLang)
+
+        $('#language_select select').on('change', function() {
+
+            var url = window.location.href,
+                parser = document.createElement('a'),
+                lang = $('#language_select select option:selected').val(),
+                lastIdx = langCodeIdx(url),
+                codeInUrl = url.substring(lastIdx + 1, lastIdx + 3),
+                langOffset = isLangCode(codeInUrl) ? 3 : 0,
+                newUrl2 = url.substring(0, lastIdx + 1)
+                    + (lang == 'en' ? '' : (lang + '-'))
+                    + url.substring(lastIdx + 1 + langOffset);
+
+            parser.href = window.location.href;
+            parser.pathname = '/' + lang + parser.pathname.substring(3);
+            
+            window.location.href = parser.href;
+        });
+    });
+</script>
+
+
+<body>
+    <div id="page-wrapper">
+    
+    <div id="topbar">
+	<div class="grd-container">
+		<div class="grd-grid-12 grd-parent">
+		<div class="grd-grid-6 grd-grid-mobile-12 by_client_type client_virtual" id="virtualupgrade" style="">
+			</div>
+			<div class="grd-grid-6 grd-grid-mobile-12 grd-parent" id="topbar-info">
+				<div class="grd-grid-5 grd-grid-mobile-7" id="gmt-clock"></div>
+				<div class="grd-grid-3 grd-hide-mobile" id="contact-us">
+					<a class="pjaxload" href="https://www.binary.com/c/contact.cgi?l=EN">Contact Us</a>
+				</div>
+				<div class="grd-grid-4 grd-grid-mobile-5">
+					<div class="EN" id="language_select">
+						<select>
+	<option value="en">English</option>
+	<option value="de">Deutsch</option>
+	<option value="id">Bahasa Indonesia</option>
+	<option value="zh_cn">简体中文</option>
+	<option value="pl">Polish</option>
+	<option value="ru">Русский</option>
+	<option value="pt">Português</option>
+	<option value="es">Español</option>
+	<option value="fr">Français</option>
+</select>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div id="header">
+    <div class="grd-container">
+        <div class="grd-row-padding">
+            <div class="grd-grid-3 grd-grid-mobile-2 grd-grid-phablet-1">
+                <a id="logo" href="/" class="unbind_later">
+                    <div class="grd-grid-3 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter">
+                        <img class="responsive" src="https://static.binary.com/images/pages/binary-symbol-logo.svg">
+                    </div>
+                    <div class="grd-grid-9 grd-hide-mobile grd-hide-phablet" id="binary-logo-text">
+                        <img class="responsive" src="https://static.binary.com/images/pages/binary-type-logo.svg">
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+ 
+    <div id="main-menu" class="tab-menu">
+    <div class="menu-raw">
+    <div class="tab-menu-wrap grd-container">
+        <div class="grd-grid-12 grd-no-gutter-left grd-no-gutter-right">
+            <button class="nav-button">Toggle Navigation</button>
+            <ul class="items primary-nav">
+                
+                <li>
+                    <a href="/">What's New<!-- <img src="http://blog.binary.com/files/theme/home-icon.png" width="20" height="16" alt=""> --></a>
+                </li>
+                
+                <li>
+                    <a href="/en/strategy-guide/">Strategy Guide</a>
+                </li>
+                
+                <li>
+                    <a href="/en/daily-report/">Daily Report</a>
+                </li>
+                
+                <li>
+                    <a href="/en/video/">Videos</a>
+                </li>
+                
+                <li>
+                    <a href="/en/webinars/">Webinars</a>
+                </li>
+                
+                <li>
+                    <a href="/en/contributors/">Contributors</a>
+                </li>
+                
+                <li>
+                    <a href="/en/downloads/">Downloads</a>
+                </li>
+                
+                <li>
+                    <a href="/en/events/">Events</a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+    </div>
+</div>
+
+    <div class='home-content'>
+    <div id='page_info' style='display: none;'>
+        <title>Binary.com : : Online Trading platform for binary options on Forex, Indices, Stocks, Commodities and Global Sector Indices</title>
+        <div id='content_class'>home-content</div>
+    </div>
+    <div id='banner'>
+        <div class='grd-container'>
+            <div class='grd-grid-12 grd-hide-mobile grd-hide-phablet grd-row-padding grd-no-gutter-left grd-no-gutter-right'>
+                <div id='slider'>
+                    <div class='slides-container'>
+                        <div class='invisibleslides slides' id='slide-1'>
+                            <h1 class='dark'>FREE WEBINARS</h1>
+                            <p>Binary.com teams up with Professional Speakers to offer free webinars for everyone.</p>
+                            <h4>
+                                <a class='learn-more pjaxload' href="/en/webinars/">Find Out More</a>
+                            </h4>
+                        </div>
+                        <div class='invisibleslides slides' id='slide-2'>
+                            <h1 class='dark'>EVENTS</h1>
+                            <p>Schedule of the various Events & Webinars taking place on Binary.com.</p>
+                            <h4>
+                                <a class='learn-more pjaxload' href='/en/events/'>Find Out More</a>
+                            </h4>
+                        </div>
+                        <div class='invisibleslides slides' id='slide-3'>
+                            <h1 class='dark'>DOWNLOADS</h1>
+                            <p>All the help you need to get started is right here and it's free. Simply browse through the various learning resources below and download.</p>
+                            <h4>
+                                <a class='learn-more pjaxload' href="/en/downloads/">Find Out More</a>
+                            </h4>
+                        </div>
+                        <!-- <div class='invisibleslides slides' id='slide-4'>
+                            <h1 class='dark'>Technology leader with more than 10 years experience...</h1>
+                            <p>Trade with confidence with the industry pioneer.</p>
+                            <h4>
+                                <a class='learn-more pjaxload' href='https://www.binary.com/why-us?l=EN'>Learn More</a>
+                            </h4>
+                        </div>
+                        <div class='invisibleslides slides' id='slide-5'>
+                            <h1 class='dark'>Novice or Expert...</h1>
+                            <p>With payouts from $1 to $100,000, we have you covered.</p>
+                            <h4>
+                                <a class='learn-more pjaxload' href='https://www.binary.com/why-us?l=EN'>Learn More</a>
+                            </h4>
+                        </div> -->
+                    </div>
+                    <ul class='slides-pagination'>
+                        <li class='current'>
+                            <a href='#0'>&nbsp;</a>
+                        </li>
+                        <li>
+                            <a href='#1'>&nbsp;</a>
+                        </li>
+                        <li>
+                            <a href='#2'>&nbsp;</a>
+                        </li>
+                        <!-- <li>
+                            <a href='#3'>&nbsp;</a>
+                        </li>
+                        <li>
+                            <a href='#4'>&nbsp;</a>
+                        </li> -->
+                    </ul>
+                </div>
+            </div>
+           <!--  <div class='grd-grid-3 grd-grid-mobile-12 grd-grid-phablet-12 '>
+                <div class='grd-grid-12 grd-grid-mobile-12 grd-grid-phablet-12 '>
+                    <div class="home-page-cta">
+                    <p>Get started with just $5</p>
+                    <a class="button button-focus" href="#">
+                        <span>OPEN A FREE ACCOUNT</span>
+                    </a>
+                    </div></div>
+ <div class="grd-grid-6 grd-hide-mobile grd-hide-phablet grd-with-padding">
+        <img class="responsive" src="https://static.binary.com/images/pages/why-us/why-us-proven-record_1.svg">
+      </div>
+      <div class="grd-grid-6 grd-hide-mobile grd-hide-phablet grd-with-padding">
+        <img class="responsive" src="https://static.binary.com/images/pages/why-us/why-us-GBAF-award-2012.svg">
+      </div>
+            </div>
+ -->
+        </div>
+    </div>
+
+</div>
+   <div class="content">
+        <div class="grd-grid-8 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-left">
+            <div class="home">
+
+  <div class="post-list">
+    
+    
+      <div class="post">
+        <h1>
+          <a class="post-link" href="/webinar-videos-8-10-2014">The Commodities Corner: Non Farm Payroll Special</a>
+        </h1>
+        <span class="post-meta">Oct 7, 2014</span>
+        <article class="post-content">
+          <iframe width="480" height="360" src="//www.youtube.com/embed/P7fULjToK18?list=UUATAKOpB9mWQGMYgk-Y4MTw" frameborder="0" allowfullscreen=""></iframe>
+
+
+        </article>
+        <div class="readMore">
+          <a class="post-link" href="/webinar-videos-8-10-2014">Read more...</a>
+          <div style="clear:both;"></div>
+        </div>
+        
+      </div>
+    
+      <div class="post">
+        <h1>
+          <a class="post-link" href="/daily-report-7-10-2014">Tue, 07 Oct 2014: Dollar steadies after Monday Dump</a>
+        </h1>
+        <span class="post-meta">Oct 7, 2014</span>
+        <article class="post-content">
+          <p>The dollar index is steadying itself after experiencing the biggest sell off from its current run yesterday. This morning, the dollar is steady as traders wait for the main morning data to come through. The S&amp;P 500 is still on the back foot however.</p>
+
+
+        </article>
+        <div class="readMore">
+          <a class="post-link" href="/daily-report-7-10-2014">Read more...</a>
+          <div style="clear:both;"></div>
+        </div>
+        
+      </div>
+    
+      <div class="post">
+        <h1>
+          <a class="post-link" href="/webinar-videos-8-10-2014">18th August 2014 : Live Trading Room - Delivered by Professional Trader Chris Svorcik</a>
+        </h1>
+        <span class="post-meta">Oct 6, 2014</span>
+        <article class="post-content">
+          <iframe width="480" height="360" src="//www.youtube.com/embed/isjHdBFrQSo" frameborder="0" allowfullscreen=""></iframe>
+
+
+        </article>
+        <div class="readMore">
+          <a class="post-link" href="/webinar-videos-8-10-2014">Read more...</a>
+          <div style="clear:both;"></div>
+        </div>
+        
+      </div>
+    
+      <div class="post">
+        <h1>
+          <a class="post-link" href="/webinar-videos-8-10-2014">6th October 2014 : Live Trading Room - Delivered by Professional Trader Chris Svorcik</a>
+        </h1>
+        <span class="post-meta">Oct 6, 2014</span>
+        <article class="post-content">
+          <iframe width="480" height="360" src="//www.youtube.com/embed/ghmSXEd4hDU?list=UUATAKOpB9mWQGMYgk-Y4MTw" frameborder="0" allowfullscreen=""></iframe>
+
+
+        </article>
+        <div class="readMore">
+          <a class="post-link" href="/webinar-videos-8-10-2014">Read more...</a>
+          <div style="clear:both;"></div>
+        </div>
+        
+      </div>
+    
+      <div class="post">
+        <h1>
+          <a class="post-link" href="/webinar-videos-8-10-2014">18th August 2014 : Live Trading Room - Delivered by Professional Trader Chris Svorcik</a>
+        </h1>
+        <span class="post-meta">Oct 6, 2014</span>
+        <article class="post-content">
+          <iframe width="480" height="360" src="//www.youtube.com/embed/isjHdBFrQSo" frameborder="0" allowfullscreen=""></iframe>
+
+
+        </article>
+        <div class="readMore">
+          <a class="post-link" href="/webinar-videos-8-10-2014">Read more...</a>
+          <div style="clear:both;"></div>
+        </div>
+        
+      </div>
+    
+      <div class="post">
+        <h1>
+          <a class="post-link" href="/daily-report-8-10-2014">Mon, 06 Oct 2014 - Dollar Backs Off After NFP Rally</a>
+        </h1>
+        <span class="post-meta">Oct 6, 2014</span>
+        <article class="post-content">
+          <p>The US dollar index is subsiding slightly after a barnstorming set of economic items on Friday. Today’s losses are still nothing to Friday’s gains, but it’s enough to ease the pressure on the dollar pairs. The S&amp;P 500 also enjoyed Friday’s activities, but is showing some follow on buying this morning.
+<img src="/images/08-10-2014-08-17-18.jpg" alt="" /></p>
+
+
+        </article>
+        <div class="readMore">
+          <a class="post-link" href="/daily-report-8-10-2014">Read more...</a>
+          <div style="clear:both;"></div>
+        </div>
+        
+      </div>
+    
+
+  </div>
+
+  <!-- <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p> -->
+
+</div>
+
+<div class="pagination">
+  
+    <a class="prev" href="/index.html">&laquo; Prev</a>
+  
+
+  
+    
+      <a href="/">1</a>
+    
+  
+    
+      <em>2</em>
+    
+  
+    
+      <a href="/page3">3</a>
+    
+  
+    
+      <a href="/page4">4</a>
+    
+  
+    
+      <a href="/page5">5</a>
+    
+  
+    
+      <a href="/page6">6</a>
+    
+  
+
+  
+    <a class="next" href="/page3">Next &raquo;</a>
+  
+</div>
+
+
+        </div>
+        <div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
+            <aside>
+            <div class="sidebar">
+    <h2 class="center">Ready to start?</h2>
+    <p class="center-aligned">
+        <a class="button button-focus" href="#">
+            <span>OPEN A FREE ACCOUNT</span>
+        </a>
+    </p>
+
+</div>
+<div class="sidebar">
+        <p class="center">
+            Want to learn more?
+            <br>
+            <a class="bold" href="https://www.binary.com/tour?l=EN">View the Tour</a>
+        </p>
+
+</div>
+<div class="sidebar">
+    <center>
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-page" data-width="243" data-href="https://plus.google.com/106251151552682209951" data-showcoverphoto="false" data-rel="publisher"></div>
+
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</center>
+
+</div>
+<div class="sidebar">
+  <center>
+    <a class="twitter-timeline" href="https://twitter.com/Binarydotcom" data-widget-id="519399239860776960">Tweets by @Binarydotcom</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</center>
+</div>
+<div class="sidebar">
+    <h2>RECENT POSTS</h2>
+    <ul class="bullet">
+          <li><a href="#">Three New Forex Markets Available</a></li>
+          <li><a href="#">Revamped Tick Trades from Binary.com</a></li>
+          <li><a href="#">The Quick 10% & Lucky 10 Digits Get a Complete Upgrade</a></li>
+          <li><a href="#">Binary.com launches Smart Indices</a></li>
+          <li><a href="#">Revamped Tick Trades from Binary.com</a></li>
+         <!--  <li><a href="#">Shares Awards 2014</a></li>
+          <li><a href="#">Three New Forex Markets Available</a></li> -->
+        </ul>
+
+</div>
+<div class="sidebar">
+<center><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fbinarydotcom&amp;width=260&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:290px;" allowTransparency="true"></iframe></center>
+</div>
+            </aside>
+        </div>
+
+
+<div class="push"></div>
+    </div>
+    <div id="footer" style="margin-top: 0px;">
+  <div id="footer-menu">
+    <div class="grd-container grd-default-container">
+      <div class="grd-grid-6 grd-grid-mobile-12 grd-parent">
+        <div class="grd-grid-4">
+          <div id="accounts_links" class="by_client_type client_logged_out client_virtual">
+            <h1>Accounts</h1>
+            <ul>
+              <li>
+                <a class="by_client_type client_logged_out client_virtual pjaxload" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&amp;l=EN">Trading Account</a>
+              </li>
+              <li>
+                <a class="by_client_type client_logged_out pjaxload invisible" href="https://www.binary.com/c/linkto_acopening.cgi?actype=virtual&amp;l=EN">Virtual Account</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h1>Partners</h1>
+            <ul>
+              <li class="affiliate">
+                <a class="pjaxload" href="https://www.binary.com/c/affiliate_signup.cgi?l=EN">Affiliate Program</a>
+              </li>
+              <li>
+                <a href="https://www.binary.com/white-labels?l=EN" class="pjaxload">White Labels</a>
+              </li>
+              <li>
+                <a class="pjaxload" href="https://www.binary.com/partnerapi?l=EN">Partner API</a>
+              </li>
+              <li>
+                <a href="https://www.binary.com/open-source-projects?l=EN" class="pjaxload">Open Source</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="grd-grid-4">
+          <h1>Education</h1>
+          <ul>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/why-us?l=EN">Why Us?</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/get-started?l=EN">Getting Started</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/tour?l=EN">Platform Tour</a>
+            </li>
+            <li>
+              <a href="http://www.gamcare.org.uk/" target="_blank">GamCare</a>
+            </li>
+            <li>
+              <a href="http://blog.binary.com/webinar.html" target="_blank">Webinars</a>
+            </li>
+          </ul>
+        </div>
+        <div class="grd-grid-4">
+          <h1>Trading</h1>
+          <ul>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/c/pricing_table.cgi?l=EN">Pricing Table</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/c/rise_fall_table.cgi?l=EN">Rise/Fall Table</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/c/asset_index.cgi?l=EN">Asset Index</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="grd-grid-6 grd-grid-mobile-12 grd-parent">
+        <div class="grd-grid-4">
+          <h1>Banking</h1>
+          <ul>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/c/available_payment_methods.cgi?l=EN">Payment Methods</a>
+            </li>
+          </ul>
+          <div class="grd-row-padding">
+            <h1>Terms</h1>
+            <ul>
+              <li>
+                <a class="pjaxload" href="https://www.binary.com/c/c_template.cgi?filecode=legal&amp;l=EN">Terms and Conditions</a>
+              </li>
+              <li>
+                <a class="pjaxload" href="https://www.binary.com/c/c_template.cgi?filecode=legal&amp;l=EN#privacy-tab">Security and Privacy</a>
+              </li>
+              <li>
+                <a class="pjaxload" href="https://www.binary.com/responsible-trading?l=EN">Responsible Trading</a>
+              </li>
+              <li>
+                <a class="pjaxload" href="https://www.binary.com/c/c_template.cgi?selected_tab=complaints-disputes-tac-tab&amp;filecode=legal&amp;l=EN">Complaints and Disputes</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="grd-grid-4">
+          <h1>Market Data</h1>
+          <ul>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/c/chart_application.cgi?l=EN">Chart Application</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/d/smartchart.cgi?l=EN">Light Charts</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/c/livechart.cgi?l=EN">Live Charts</a>
+            </li>
+          </ul>
+        </div>
+        <div class="grd-grid-4">
+          <h1>About Us</h1>
+          <ul>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/about-us?l=EN">Group Information</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/group-history?l=EN">Group History</a>
+            </li>
+            <li>
+              <a href="https://www.binary.com/c/us_patents.cgi?l=EN" class="us_patent_link pjaxload">Patents</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/careers?l=EN">Careers</a>
+            </li>
+            <li class="blog">
+              <a href="http://blog.binary.com" target="_blank">Blog</a>
+            </li>
+            <li>
+              <a href="http://binarycom.statuspage.io" target="_blank">Network Status</a>
+            </li>
+            <li>
+              <a class="pjaxload" href="https://www.binary.com/c/contact.cgi?l=EN">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="footer-regulatory">
+    <div class="grd-container grd-default-container">
+      <div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-3 grd-parent">
+        <div class="grd-grid-12 grd-hide-mobile"></div>
+        <div class="grd-grid-12 grd-hide-mobile"></div>
+        <div class="grd-grid-12 grd-hide-mobile"></div>
+        <div class="grd-grid-4 grd-grid-phablet-12">
+          <a href="http://www.gov.im/gambling/" target="_blank">
+            <img id="iom_icon_footer" class="responsive" src="https://static.binary.com/images/pages/footer/isle-of-man.png">
+          </a>
+        </div>
+        <div class="grd-grid-6 grd-grid-phablet-12 grd-no-gutter-left">
+          <a href="http://www.lga.org.mt/lga/home.aspx" target="_blank">
+            <img id="lga_icon_footer" class="responsive" src="https://static.binary.com/images/pages/footer/authority-malta-licensed.png">
+          </a>
+        </div>
+        <div class="grd-grid-2 grd-grid-phablet-12 grd-no-gutter">
+          <img id="eighteen_plus" class="responsive" src="https://static.binary.com/images/pages/footer/eighteen-plus.svg">
+        </div>
+      </div>
+      <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-7">
+        <div id="regulatory-text">
+          This website is marketed in the UK by Regent Markets (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles, regulated by the Gambling Supervision Commission in the Isle of Man, online gambling licence issued
+          on 31 August 2012, and in the rest of the EU by Regent Markets (Malta) Ltd., Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta, regulated by the Lotteries and Gaming Authority in Malta, licence no LGA/CL2/118/2000, 26th May 2010.
+          This website's services are not made available in the USA, Japan or Hong Kong.
+        </div>
+      </div>
+      <div class="grd-grid-2 grd-grid-mobile-12 grd-centered-mobile">
+        <div id="social-networks">
+          <div class="center-aligned">
+            <a href="http://www.youtube.com/user/BinaryTradingVideos" target="_blank">
+              <img class="responsive social-network-icon" src="https://static.binary.com/images/pages/footer/youtube.svg">
+            </a>
+            <a href="https://plus.google.com/106251151552682209951" rel="publisher" target="_blank">
+              <img class="responsive social-network-icon" src="https://static.binary.com/images/pages/footer/google-plus.svg">
+            </a>
+            <a href="https://www.facebook.com/binarydotcom" target="_blank">
+              <img class="responsive social-network-icon" src="https://static.binary.com/images/pages/footer/facebook.svg">
+            </a>
+            <a href="https://twitter.com/Binarydotcom" target="_blank">
+              <img class="responsive social-network-icon" src="https://static.binary.com/images/pages/footer/twitter.svg">
+            </a>
+            <a href="http://www.linkedin.com/groups/Binarycom-5137612" target="_blank">
+              <img class="responsive social-network-icon" src="https://static.binary.com/images/pages/footer/linkedin.svg">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="appcache-reload-message">
+    <div class="message">
+      A new version of the interface is available. Please refresh this page to try again.
+    </div>
+  </div>
+</div>
+
+    </div>
+</body>

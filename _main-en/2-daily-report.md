@@ -1,0 +1,85 @@
+---
+layout: en/page-daily-report
+title: Daily Report
+permalink: en/daily-report/
+---
+
+<div class="home">
+
+  <div class="post-list daily-report">
+    <div id="report"></div>
+
+<script type="text/javascript">
+    $(document).ready( function () {
+        $('.wcustomhtml').css('overflow', 'visible');
+
+        var url = 'http://js.betonmarkets.com/javascript.php';
+        $.get(
+          url,
+          {
+            prefix:   'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
+            media:    '26',
+            campaign: '1',
+            mode:     'txt'
+          },
+          function (xml) {
+            var content = '';
+            var recent  = '';
+
+            var count = 1;
+            $(xml).find('item').each( function () {
+                var post = $(this).find('content\\:encoded').text();
+                if (! post) {
+                    post = $(this).find('encoded').text();
+                }
+                post = post.replace(']]&gt;','');
+                post = post.replace(']]>','');
+                post = post.replace(/>(.*?)</, '');
+                var title    = $(this).find('title').text();
+                title = title.replace(/regentmarkets\d.*$/, '');
+                var pub_date = $(this).find('pubDate').text();
+                pub_date = pub_date.replace(/\+0000$/, 'GMT');
+                var description = $(this).find('description').text();
+                description = description.replace(/^(?:Morning|Afternoon) Report: \d\d.\d\d (?:London)*/, '');
+                console.log(post);
+                content +=
+                    "<a id=\"post-" + count + "\"></a>" 
+                    + "<div class=\"post\">\n"
+                    + "<h1>" + pub_date + ' - ' + title + "</h1>\n"
+                    + "<div class=\"summary\"><p>" + description + "</p></div>\n"
+                    + "<div class=\"content\" style=\"display: none\"><p>" + post + "</p></div>\n"
+                    + "\n<a class=\"read-more\" href=\"#post-" + count + "\">Read more...</a>\n</div>\n"
+                    + "<div style=\"clear:both;\"></div>";
+                recent +=
+                    "<li><a href=\"#post-" + count + "\">" + title + "</a></li>";
+                count = count + 1;
+            });
+            
+            $('#report').html(content);
+            $('#recent-posts').html(recent);
+
+            $('a.read-more').click( function () {
+              if ($(this).text().match('more')) {
+                $(this).siblings('div.summary').hide();
+                $(this).siblings('div.content').show();
+                $(this).text('Read less');
+              }
+              else {
+                $(this).siblings('div.summary').show();
+                $(this).siblings('div.content').hide();
+                $(this).text('Read more');
+              }
+            });
+
+            $('a[rel="nofollow"]').hide();
+
+            return;
+          },
+          'xml'
+        );
+    });
+</script>
+    
+  </div>
+
+</div>
