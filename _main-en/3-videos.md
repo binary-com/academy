@@ -9,7 +9,7 @@ to our exclusive webinar videos
 and video tutorials.</p>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-left">
    <div class="content-box">
-   		<a href="blog/en/webinar-videos/">
+   		<a href="/blog/en/webinar-videos/">
 	       	<img src="/blog/images/webinar-video-img.png" alt="">
 	       	<div class="content-box-header"><h3>Webinar Video</h3></div>
 	     </a>
@@ -18,7 +18,7 @@ and video tutorials.</p>
 </div>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-right ">
 	<div class="content-box">
-   		<a href="blog/en/commodities-videos/">
+   		<a href="/blog/en/commodities-videos/">
 	       	<img src="/blog/images/commodities-corner-videos-img.png" alt="">
 	       	<div class="content-box-header"><h3>Commodities Corner Videos</h3></div>
 	     </a>
@@ -27,7 +27,7 @@ and video tutorials.</p>
 </div>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-left">
    <div class="content-box">
-   		<a href="blog/en/weekly-trading-room-videos/">
+   		<a href="/blog/en/weekly-trading-room-videos/">
 	       	<img src="/blog/images/weekly-trading-room-videos-img.png" alt="">
 	       	<div class="content-box-header"><h3>Weekly Trading Room Video</h3></div>
 	     </a>
@@ -36,7 +36,7 @@ and video tutorials.</p>
 </div>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-right">
    <div class="content-box">
-   		<a href="blog/en/training-videos/">
+   		<a href="/blog/en/training-videos/">
 	       	<img src="/blog/images/training-video-img.png" alt="">
 	       	<div class="content-box-header"><h3>Training Videos</h3></div>
 	     </a>
