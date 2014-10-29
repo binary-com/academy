@@ -97,3 +97,25 @@ defaults:
       path: _posts/fr
     values:
       lang: fr
+
+t:
+  en:
+    contactus: "Contact Us"
+  de:
+    contactus: "Kontaktieren Sie uns"
+  id:
+    contactus: "Hubungi Kami"
+  zh:
+    contactus: "联系我们"
+  ar:
+    contactus: "اتصل بنا"
+  pl:
+    contactus: "Napisz do nas"
+  ru:
+    contactus: "Контакты"
+  pt:
+    contactus: "Contate-Nos"
+  es:
+    contactus: "Contáctenos"
+  fr:
+    contactus: "Contactez-nous"
