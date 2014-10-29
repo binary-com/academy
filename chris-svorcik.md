@@ -12,7 +12,7 @@ permalink: en/contributors/chris-svorcik/
 
 In his most recent work Chris has been examining the relationship between moving averages, price action, and especially time. Chris now trades full-time after he took the leap of leaving his day job in the spring of 2011. 
 
-Besides his contributions to the WinnersEdge blog, Chris also teaches technical analysis in webinars and seminars.
+Besides his contributions to the WinnersEdge blog, Chris also teaches technical analysis in webinars and seminars.abcde
   </p>
 </div>
 
