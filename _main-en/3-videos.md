@@ -10,7 +10,7 @@ and video tutorials.</p>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-left">
    <div class="content-box">
    		<a href="/en/webinar-videos/">
-	       	<img src="/images/webinar-video-img.png" alt="">
+	       	<img src="/blog/images/webinar-video-img.png" alt="">
 	       	<div class="content-box-header"><h3>Webinar Video</h3></div>
 	     </a>
 	     <p>Binary.com teams up with Professional Speakers to offer free webinars for everyone. In case you missed our LIVE Webinar sessions, you can find the full archive here.</p>
@@ -19,7 +19,7 @@ and video tutorials.</p>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-right ">
 	<div class="content-box">
    		<a href="/en/commodities-videos/">
-	       	<img src="/images/commodities-corner-videos-img.png" alt="">
+	       	<img src="/blog/images/commodities-corner-videos-img.png" alt="">
 	       	<div class="content-box-header"><h3>Commodities Corner Videos</h3></div>
 	     </a>
 	     <p>If you missed our LIVE Commodities Corner, find the full archive here to get the latest news on the commodities markets and learn how to trade headline news driven events through Live Technical Analysis & Commentary.</p>
@@ -28,7 +28,7 @@ and video tutorials.</p>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-left">
    <div class="content-box">
    		<a href="/en/weekly-trading-room-videos/">
-	       	<img src="/images/weekly-trading-room-videos-img.png" alt="">
+	       	<img src="/blog/images/weekly-trading-room-videos-img.png" alt="">
 	       	<div class="content-box-header"><h3>Weekly Trading Room Video</h3></div>
 	     </a>
 	     <p>Get a detailed overview of the Forex and commodities markets, including full-scale technical analysis, the most recent price movements, the price variations and scenarios expected in the week and month ahead. You also can register for the LIVE Weekly trading Room by Clicking here.</p>
@@ -37,7 +37,7 @@ and video tutorials.</p>
 <div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-6 grd-no-gutter-right">
    <div class="content-box">
    		<a href="/en/training-videos/">
-	       	<img src="/images/training-video-img.png" alt="">
+	       	<img src="/blog/images/training-video-img.png" alt="">
 	       	<div class="content-box-header"><h3>Training Videos</h3></div>
 	     </a>
 	     <p>Here are some training and webinar videos to help get you started.</p>
