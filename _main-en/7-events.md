@@ -67,7 +67,7 @@ permalink: en/events/
       <div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
         <a class="hover-no-underline" href="#">
         <div class="content-box-5 ">
-          <img class="youtubeimg" src="/images/youtube-icon.png" alt="">
+          <img class="youtubeimg" src="/blog/images/youtube-icon.png" alt="">
           <div class="youtube1">
             <p class="center">Commodities Corner<span>ON</span></p>
           </div>
@@ -114,7 +114,7 @@ permalink: en/events/
           <div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
             <a class="hover-no-underline" href="#">
               <div class="content-box-5 ">
-                <img class="youtubeimg" src="/images/youtube-icon.png" alt="">
+                <img class="youtubeimg" src="/blog/images/youtube-icon.png" alt="">
                 <div class="youtube1">
                   <p class="center">Weekly Trading Room<span>ON</span></p>
                 </div>
