@@ -15,7 +15,7 @@ permalink: en/downloads/
 	<div class="grd-grid-1 grd-grid-mobile-12 grd-grid-phablet-12"></div>
 	<div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
 
-				<img src="/images/download-1-high-res-img.png" alt="">
+				<img src="/blog/images/download-1-high-res-img.png" alt="">
 		<p class="center">
 			<a class="button button-focus" href="#">
 				<span>Download Now!</span>
@@ -34,7 +34,7 @@ permalink: en/downloads/
 	</div>
 	<div class="grd-grid-1 grd-grid-mobile-12 grd-grid-phablet-12"></div>
 	<div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
-		   		<img src="/images/download-2-high-res-img.png" alt="">
+		   		<img src="/blog/images/download-2-high-res-img.png" alt="">
 		   		<p class="center">
 		   		<a class="button button-focus" href="#">
 				<span>Download Now!</span>
@@ -49,7 +49,7 @@ permalink: en/downloads/
 	</div>
 	<div class="grd-grid-1 grd-grid-mobile-12 grd-grid-phablet-12"></div>
 	<div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
-		   	<img src="/images/download-3-high-res-img.png" alt="">
+		   	<img src="/blog/images/download-3-high-res-img.png" alt="">
 		   	 <p class="center">
 		   	 <a class="button button-focus" href="#">
 				<span>Download Now!</span>
