@@ -6,7 +6,7 @@ permalink: en/strategy-guide/
 
 ## Trends
 
-![]({{ site.baseurl }}/images/292897835.jpg)
+![]({{ site.baseurl }}/blog/images/292897835.jpg)
 
 A popular strategy is to trade with or against short-term market trends (market going up or down). For instance, if a market is rising, you may want to "ride" it by trading up, or trade against it by trading down.
 
@@ -14,7 +14,7 @@ A popular strategy is to trade with or against short-term market trends (market 
 
 ## News
 
-![]({{ site.baseurl }}/images/676252964.jpg)
+![]({{ site.baseurl }}/blog/images/676252964.jpg)
 
 Another popular strategy is to trade based on market news. For example, if the U.S. Federal Reserve is set to announce interest rates, which would likely have an impact on the U.S. dollar, you could make a trade that the dollar will go up or down versus another currency when the news is announced.
 
@@ -22,7 +22,7 @@ Another popular strategy is to trade based on market news. For example, if the U
 
 ## Steady Returns
 
-![]({{ site.baseurl }}/images/725025357.jpg)
+![]({{ site.baseurl }}/blog/images/725025357.jpg)
 
 With a Steady Returns strategy, you make high probability/low return trades (10-30% return) repeatedly in order to "grind out" a profit.
 
@@ -30,7 +30,7 @@ With a Steady Returns strategy, you make high probability/low return trades (10-
 
 ## Big Wins
 
-![]({{ site.baseurl }}/images/746265726.jpg)
+![]({{ site.baseurl }}/blog/images/746265726.jpg)
 
 With a Big Wins strategy, you make low probability/high return trades(200%+ return) and hope to win big. Obviously this is a risky strategy and we recommend that you only do this with money that you can readily afford to lose, and only after practising with lower stakes trades.
 
@@ -38,7 +38,7 @@ With a Big Wins strategy, you make low probability/high return trades(200%+ retu
 
 ## Trading System
 
-![]({{ site.baseurl }}/images/895879455.jpg)
+![]({{ site.baseurl }}/blog/images/895879455.jpg)
 
 With a Trading System strategy, you trade on the markets like you would on a roulette wheel or a coin flip - start small, trade often and consider employing a trading size strategy such as the Martingale or Kelly.
 
