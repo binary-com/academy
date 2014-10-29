@@ -11,6 +11,26 @@ github_username:  binary-com
 markdown: kramdown
 paginate: 8
 
+languages:
+  - name: 'Deutsch'
+    key: 'de'
+  - name: 'Bahasa Indonesia'
+    key: 'id'
+  - name: '简体中文'
+    key: 'zh_cn'
+  - name: 'Polish'
+    key: 'pl'
+  - name: 'Русский'
+    key: 'ru'
+  - name: 'Português'
+    key: 'pt'
+  - name: 'Español'
+    key: 'es'
+  - name: 'Français'
+    key: 'fr'
+  - name: 'English'
+    key: 'en'
+
 collections:
   main-en:
     output: true
