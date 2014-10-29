@@ -10,7 +10,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="chris-svorcik/">
-		       	<img src="/images/speaker/chris.jpeg" alt="">
+		       	<img src="/blog/images/speaker/chris.jpeg" alt="">
 		       	<div class="content-box-3-header"><p>Chris Svorcik</p></div>
 		     </a>
 		</div>
@@ -20,7 +20,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="dave-evans/">
-		       	<img src="/images/speaker/dave.gif" alt="">
+		       	<img src="/blog/images/speaker/dave.gif" alt="">
 		       	<div class="content-box-3-header"><p>Dave Evans</p></div>
 		     </a>
 		</div>
@@ -30,7 +30,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="lee-sandford/">
-		       	<img src="/images/speaker/lee.png" alt="">
+		       	<img src="/blog/images/speaker/lee.png" alt="">
 		       	<div class="content-box-3-header"><p>Lee Sandford</p></div>
 		     </a>
 		</div>
@@ -40,7 +40,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="#">
-		       	<img src="/images/speaker/ehab.jpg" alt="">
+		       	<img src="/blog/images/speaker/ehab.jpg" alt="">
 		       	<div class="content-box-3-header"><p>Dr. Ehab Gubil</p></div>
 		     </a>
 		</div>
@@ -50,7 +50,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="#">
-		       	<img src="/images/speaker/jon.jpg" alt="">
+		       	<img src="/blog/images/speaker/jon.jpg" alt="">
 		       	<div class="content-box-3-header"><p>Jon McFarlane</p></div>
 		     </a>
 		</div>
@@ -60,7 +60,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="#">
-		       	<img src="/images/speaker/matt.png" alt="">
+		       	<img src="/blog/images/speaker/matt.png" alt="">
 		       	<div class="content-box-3-header"><p>Matt Shaw</p></div>
 		     </a>
 		</div>
@@ -70,7 +70,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="#">
-		       	<img src="/images/speaker/nik.jpg" alt="">
+		       	<img src="/blog/images/speaker/nik.jpg" alt="">
 		       	<div class="content-box-3-header"><p>Nik Kalsi</p></div>
 		     </a>
 		</div>
@@ -80,7 +80,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="#">
-		       	<img src="/images/speaker/phil.jpg" alt="">
+		       	<img src="/blog/images/speaker/phil.jpg" alt="">
 		       	<div class="content-box-3-header"><p>Phil Carr</p></div>
 		     </a>
 		</div>
@@ -90,7 +90,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="#">
-		       	<img src="/images/speaker/thomas.jpg" alt="">
+		       	<img src="/blog/images/speaker/thomas.jpg" alt="">
 		       	<div class="content-box-3-header"><p>Thomas Nowakowski</p></div>
 		     </a>
 		</div>
@@ -100,7 +100,7 @@ permalink: en/contributors/
    <div class="content-box-3">
 	   	<div class="relative">
 	   		<a href="#">
-		       	<img src="/images/speaker/vince.jpg" alt="">
+		       	<img src="/blog/images/speaker/vince.jpg" alt="">
 		       	<div class="content-box-3-header"><p>Vince Stanzione</p></div>
 		     </a>
 		</div>
