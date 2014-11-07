@@ -4,10 +4,10 @@
     <title>Binary.com Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://blog2.binary.com/</link>
-    <atom:link href="http://blog2.binary.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 24 Oct 2014 16:17:41 +0800</pubDate>
-    <lastBuildDate>Fri, 24 Oct 2014 16:17:41 +0800</lastBuildDate>
+    <link>#/</link>
+    <atom:link href="#/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 07 Nov 2014 11:38:54 +0800</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2014 11:38:54 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -32,8 +32,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Thu, 09 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/daily-report-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/daily-report-8-10-2014</guid>
+        <link>#/daily-report-8-10-2014</link>
+        <guid isPermaLink="true">#/daily-report-8-10-2014</guid>
         
         
       </item>
@@ -44,8 +44,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Wed, 08 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/webinar-video-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/webinar-video-8-10-2014</guid>
+        <link>#/webinar-video-8-10-2014</link>
+        <guid isPermaLink="true">#/webinar-video-8-10-2014</guid>
         
         
         <category>commodities-videos</category>
@@ -58,8 +58,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Wed, 08 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/webinar-video-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/webinar-video-8-10-2014</guid>
+        <link>#/webinar-video-8-10-2014</link>
+        <guid isPermaLink="true">#/webinar-video-8-10-2014</guid>
         
         
         <category>webinar-videos</category>
@@ -72,8 +72,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Wed, 08 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/webinar-video-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/webinar-video-8-10-2014</guid>
+        <link>#/webinar-video-8-10-2014</link>
+        <guid isPermaLink="true">#/webinar-video-8-10-2014</guid>
         
         
         <category>training-videos</category>
@@ -102,8 +102,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Wed, 08 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/daily-report-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/daily-report-8-10-2014</guid>
+        <link>#/daily-report-8-10-2014</link>
+        <guid isPermaLink="true">#/daily-report-8-10-2014</guid>
         
         
         <category>daily-report</category>
@@ -116,8 +116,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Tue, 07 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/webinar-videos-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/webinar-videos-8-10-2014</guid>
+        <link>#/webinar-videos-8-10-2014</link>
+        <guid isPermaLink="true">#/webinar-videos-8-10-2014</guid>
         
         
         <category>commodities-videos</category>
@@ -130,8 +130,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Tue, 07 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/webinar-videos-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/webinar-videos-8-10-2014</guid>
+        <link>#/webinar-videos-8-10-2014</link>
+        <guid isPermaLink="true">#/webinar-videos-8-10-2014</guid>
         
         
         <category>webinar-videos</category>
@@ -160,8 +160,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Tue, 07 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/daily-report-7-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/daily-report-7-10-2014</guid>
+        <link>#/daily-report-7-10-2014</link>
+        <guid isPermaLink="true">#/daily-report-7-10-2014</guid>
         
         
         <category>daily-report</category>
@@ -174,8 +174,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Mon, 06 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/webinar-videos-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/webinar-videos-8-10-2014</guid>
+        <link>#/webinar-videos-8-10-2014</link>
+        <guid isPermaLink="true">#/webinar-videos-8-10-2014</guid>
         
         
         <category>weekly-trading-room-videos</category>
@@ -188,8 +188,8 @@ This is presented as an idea to stimulate fixed odds financial betting ideas and
 
 </description>
         <pubDate>Mon, 06 Oct 2014 00:00:00 +0800</pubDate>
-        <link>http://blog2.binary.com/webinar-videos-8-10-2014</link>
-        <guid isPermaLink="true">http://blog2.binary.com/webinar-videos-8-10-2014</guid>
+        <link>#/webinar-videos-8-10-2014</link>
+        <guid isPermaLink="true">#/webinar-videos-8-10-2014</guid>
         
         
         <category>webinar-videos</category>
