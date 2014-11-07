@@ -9,14 +9,14 @@ layout: default
     {% for post in paginator.posts %}
       <div class="post">
         <h1>
-          <a class="post-link" href="{{'/blog'}}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <article class="post-content">
           {{ post.excerpt }}
         </article>
         <div class="readMore">
-          <a class="post-link" href="{{'/blog'}}{{ post.url | prepend: site.baseurl }}">Read more...</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
           <div style="clear:both;"></div>
         </div>
         
