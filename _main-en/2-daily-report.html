@@ -43,7 +43,7 @@ permalink: en/daily-report/
                 description = description.replace(/^(?:Morning|Afternoon) Report: \d\d.\d\d (?:London)*/, '');
                 console.log(post);
                 content +=
-                    "<a id=\"post-" + count + "\"></a>" 
+                    "<a id=\"post-" + count + "\"></a>"
                     + "<div class=\"post\">\n"
                     + "<h1>" + pub_date + ' - ' + title + "</h1>\n"
                     + "<div class=\"summary\"><p>" + description + "</p></div>\n"
@@ -54,7 +54,7 @@ permalink: en/daily-report/
                     "<li><a href=\"#post-" + count + "\">" + title + "</a></li>";
                 count = count + 1;
             });
-            
+
             $('#report').html(content);
             $('#recent-posts').html(recent);
 
@@ -79,7 +79,7 @@ permalink: en/daily-report/
         );
     });
 </script>
-    
+
   </div>
 
 </div>

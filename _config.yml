@@ -20,4 +20,9 @@ collections:
   main-ru:
     output: true
     permalink: /ru/:path/
-    
+  videos:
+    output: true
+    permalink: /en/videos/:path/
+  contributors:
+    output: true
+    permalink: /en/contributors/:path/
