@@ -2,6 +2,7 @@
 layout: post
 title:  "09 Oct 2014: Dollar Back On Top"
 permalink: "daily-report-8-10-2014"
+excerpt: this is a test excerpt
 ---
 
 This morning, the dollar index is back on top and dominating currency flows. This follows yesterday’s strong performance from the S&P 500, helped by better than expected new home sales.

@@ -6,11 +6,11 @@
             <ul class="items primary-nav">
                 
                 <li>
-                    <a href="{{ '/blog/' | prepend: site.baseurl }}">What's New<!-- <img src="http://blog.binary.com/files/theme/home-icon.png" width="20" height="16" alt=""> --></a>
+                    <a href="{{ node.url | prepend: site.baseurl }}">What's New<!-- <img src="http://blog.binary.com/files/theme/home-icon.png" width="20" height="16" alt=""> --></a>
                 </li>
                 {% for node in site.main-en %}
                 {% if page.url == node.url %}<li class="active">{% else %}<li>{% endif %}
-                    <a href="{{ '/blog'}}{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+                    <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
                 </li>
                 {% endfor %}
             </ul>
