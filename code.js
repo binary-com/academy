@@ -98,7 +98,7 @@ $(function() {
             pub_date = pub_date.replace(/\+0000$/, 'GMT');
             var description = $(this).find('description').text();
             description = description.replace(/^(?:Morning|Afternoon) Report: \d\d.\d\d (?:London)*/, '');
-            console.log(post);
+            //console.log(post);
             content +=
                 "<a id=\"post-" + count + "\"></a>"
                 + "<div class=\"post\">\n"
@@ -134,4 +134,36 @@ $(function() {
       },
       'xml'
     );
+
+    $('div[data-role=youtube-playlist]').each(function(el) {
+
+        var $playlist = this,
+            listId = $(this).attr('data-list-id'),
+            playlistUrl = 'https://gdata.youtube.com/feeds/api/playlists/' + listId + '?v=2&max-re‌​sults=50&alt=json&orderby=published';
+
+        /*
+            $.getJSON(playlistUrl, function(data) {
+                console.log(data);
+                for(var i=0; i<data.data.items.length; i++) {
+                   console.log(data.data.items[i].title); // title
+                   console.log(data.data.items[i].description); // description
+                }
+            });
+        */
+
+        $.getJSON(playlistUrl, function (data) {
+            var list_data = "";
+            $.each(data.feed.entry, function (i, item) {
+                console.log(item)
+                var title = item.title.$t;
+                var feedURL = item.link[1].href;
+                var fragments = feedURL.split("/");
+                var videoID = fragments[fragments.length - 2];
+                var thumb = "http://img.youtube.com/vi/" + videoID + "/maxresdefault.jpg";
+                //debugger;
+                list_data += '<a class="video_thumb" data-video-id="' + videoID + '" title="' + title + '"><img class="img img-polaroid" alt="' + title + '" src="' + thumb + '"</a>';
+            });
+            $(list_data).appendTo($playlist);
+        });
+    });
 });
