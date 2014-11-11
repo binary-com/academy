@@ -2,6 +2,8 @@
 layout: page
 title: Strategy Guide
 permalink: en/strategy-guide/
+excerpt:
+keywords:
 ---
 
 ## Trends

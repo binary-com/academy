@@ -11,7 +11,7 @@ twitter_username: Binarydotcom
 github_username:  binary-com
 
 markdown: kramdown
-paginate: 6
+paginate: 8
 
 collections:
   main-en:

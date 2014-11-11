@@ -1,10 +1,9 @@
 ---
-layout: select layout(use "post" for blog posts)
-title:  Write the post title here
-category: write category name
-permalink: write the permalink here, if empty then default permalink will be used
-excerpt: This is post excerpt & meta description
-keywords: write post kewords here(for SEO)
+layout: post
+title:  <!--- Write the post title here -->
+permalink: <!--- write the permalink here, if empty then default permalink will be used -->
+excerpt: <!--- This is post excerpt & meta description -->
+keywords: <!--- write post kewords here(for SEO) -->
 
 ---
 
