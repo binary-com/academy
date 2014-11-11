@@ -5,30 +5,12 @@ excerpt:
 keywords:
 ---
 
-<div class="home">
-
-  <div class="post-list">
-    {% for post in site.categories.webinar-videos %}
-      <div class="post">
-        <h1>
-          <a class="post-link dark" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h1>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
-        <article class="post-content">
-          <p>
-            {{ post.excerpt }}
-          </p>
-        </article>
-        <div class="readMore">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-          <div style="clear:both;"></div>
-        </div>
-
-      </div>
-    {% endfor %}
-  </div>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="video-container">
+    <iframe
+         src="//www.youtube.com/embed/-x6x7kg-tG4"
+         frameborder="0"
+         allowfullscreen>
+     </iframe>
 </div>
+
+<div data-role="youtube-playlist" data-list-id="PLVJJAiu3lRjabb8rLAdLwK7ylTj6KdWgn"></div>

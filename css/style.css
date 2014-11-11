@@ -1,4 +1,4 @@
-/*================ 
+/*================
 By Ashkan ========
 ==================*/
 /*menu*/
@@ -243,7 +243,7 @@ table td {
 	display: block;
 }
 .commodities-corner .content-box-4 p{
-	
+
 }
 .commodities-corner .content-box-4 p:hover{
 	text-decoration: none;
@@ -342,11 +342,11 @@ table td {
 }
 .back-image1{
     background: url('../images/event-weekly-trading-room.png') no-repeat 95% 50%;
-    background-size: 55%; 
+    background-size: 55%;
 }
 .back-image2{
     background: url('../images/commodities-2-high-res-img.png') no-repeat 85% 50%;
-    background-size: 55%; 
+    background-size: 55%;
 }
 .nav-button {
     display: none;
@@ -360,7 +360,7 @@ table td {
 /* End of Downloads page */
 /* =====================================================
 =========================================================
-=================== Media Query  phones ================ 
+=================== Media Query  phones ================
 ==========================================================
 ==========================================================*/
 
@@ -384,7 +384,7 @@ table td {
         width: 100%;
     }
     /* Table Responsive*/
-    
+
     thead {
         display: none;
     }
@@ -417,7 +417,7 @@ table td {
 @media only screen and (min-width: 0px) and (max-width: 767px) {
     /* Navigation Button
 	-------------------------------------------------------- */
-    
+
     .nav-button {
         display: block;
         position: absolute;
@@ -433,7 +433,7 @@ table td {
         border: 0 none;
         /*border-bottom: 1px solid rgba(255,255,255,.1);*/
         /*box-shadow: 0 0 4px rgba(0,0,0,.7) inset;*/
-        
+
         border-radius: 5px;
         z-index: 999;
         text-indent: -9999px;
@@ -454,7 +454,7 @@ table td {
     }
     /* Navigation Bar
 	-------------------------------------------------------- */
-    
+
     body {
         /*padding-top: 50px;*/
     }
@@ -467,14 +467,14 @@ table td {
 		background-image:    -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.2));
 		background-image:     -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.2));
 		background-image:      -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,.2));*/
-        
+
         display: block;
         height: 40px;
         margin: 0;
         padding: 0;
         overflow: hidden;
         /*box-shadow: 0 1px 2px rgba(0,0,0,.6);*/
-        
+
         position: absolute;
         top: 0px;
         left: 0px;
@@ -493,7 +493,7 @@ table td {
         font-size: 14px;
         /*font-weight: bold;*/
         /*text-shadow: -1px -1px 0 rgba(0,0,0,.15);*/
-        
+
         color: white;
         text-decoration: none;
         border-bottom: 1px solid rgba(0, 0, 0, .2);
@@ -507,7 +507,7 @@ table td {
         border-top: 1px solid rgba(0, 0, 0, .2);
     }
     /* Toggle the navigation bar open  */
-    
+
     .primary-nav.open {
         height: auto;
         display: block;
@@ -517,7 +517,7 @@ table td {
         display: block;
     }
     /* Submenus – optional .parent class indicates dropdowns */
-    
+
     .primary-nav > li:hover > a {
         background: rgba(0, 0, 0, .5);
         border-bottom-color: transparent;
@@ -547,7 +547,7 @@ table td {
         border-top: 0 none;
     }
     /*ashkan*/
-    
+
     .tab-menu-wrap ul li {} .tab-menu-wrap ul {
         background-color: #2a3052;
         display: none;
@@ -561,3 +561,20 @@ table td {
 }
 /* End Mobile Styles */
 
+/* To move to main .css later if needed: */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
