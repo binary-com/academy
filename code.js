@@ -141,29 +141,22 @@ $(function() {
             listId = $(this).attr('data-list-id'),
             playlistUrl = 'https://gdata.youtube.com/feeds/api/playlists/' + listId + '?v=2&max-re‌​sults=50&alt=json&orderby=published';
 
-        /*
-            $.getJSON(playlistUrl, function(data) {
-                console.log(data);
-                for(var i=0; i<data.data.items.length; i++) {
-                   console.log(data.data.items[i].title); // title
-                   console.log(data.data.items[i].description); // description
-                }
-            });
-        */
-
         $.getJSON(playlistUrl, function (data) {
-            var list_data = "";
+            var listHtml = "";
             $.each(data.feed.entry, function (i, item) {
                 console.log(item)
-                var title = item.title.$t;
-                var feedURL = item.link[1].href;
-                var fragments = feedURL.split("/");
-                var videoID = fragments[fragments.length - 2];
-                var thumb = "http://img.youtube.com/vi/" + videoID + "/maxresdefault.jpg";
-                //debugger;
-                list_data += '<a class="video_thumb" data-video-id="' + videoID + '" title="' + title + '"><img class="img img-polaroid" alt="' + title + '" src="' + thumb + '"</a>';
+                var title = item.title.$t,
+                    feedURL = item.link[1].href,
+                    fragments = feedURL.split("/"),
+                    videoID = fragments[fragments.length - 2],
+                    thumbUrl = "http://img.youtube.com/vi/" + videoID + "/maxresdefault.jpg";
+                    thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
+                        '<img src="' + thumbUrl + '">' +
+                        '<h3>' + title + '</h3>' +
+                        '</a>'
+                listHtml += thumbHtml;
             });
-            $(list_data).appendTo($playlist);
+            $(listHtml).appendTo($playlist);
         });
     });
 });

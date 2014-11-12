@@ -578,3 +578,14 @@ table td {
     width: 100%;
     height: 100%;
 }
+
+.video-thumb {
+    cursor: pointer;
+    display: inline-block;
+    width: 30%;
+    margin: 5% 5% 0 0;
+}
+
+.video-thumb:nth-child(3n) {
+    margin-right: 0;
+}
