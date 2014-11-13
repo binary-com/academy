@@ -5,15 +5,7 @@ $(function() {
     }
 
     function isLangCode(langCode) {
-        return (langCode == 'en'
-            || langCode == 'de'
-            || langCode == 'id'
-            || langCode == 'zh'
-            || langCode == 'pl'
-            || langCode == 'ru'
-            || langCode == 'pt'
-            || langCode == 'es'
-            || langCode == 'fr');
+        return (langCode == 'en' || langCode == 'de' || langCode == 'id' || langCode == 'zh' || langCode == 'pl' || langCode == 'ru' || langCode == 'pt' || langCode == 'es' || langCode == 'fr');
     }
 
     function langFromUrl(url) {
@@ -40,9 +32,7 @@ $(function() {
             lastIdx = langCodeIdx(url),
             codeInUrl = url.substring(lastIdx + 1, lastIdx + 3),
             langOffset = isLangCode(codeInUrl) ? 3 : 0,
-            newUrl2 = url.substring(0, lastIdx + 1)
-                + (lang == 'en' ? '' : (lang + '-'))
-                + url.substring(lastIdx + 1 + langOffset);
+            newUrl2 = url.substring(0, lastIdx + 1) + (lang == 'en' ? '' : (lang + '-')) + url.substring(lastIdx + 1 + langOffset);
 
         parser.href = window.location.href;
         parser.pathname = '/' + lang + parser.pathname.substring(3);
@@ -50,7 +40,7 @@ $(function() {
         window.location.href = parser.href;
     });
 
-    $(".nav-button").click(function () {
+    $(".nav-button").click(function() {
         $(".nav-button,.primary-nav").toggleClass("open");
     });
 
@@ -69,70 +59,50 @@ $(function() {
 
     $('.wcustomhtml').css('overflow', 'visible');
 
-    var url = 'http://js.betonmarkets.com/javascript.php';
-    $.get(
-      url,
-      {
-        prefix:   'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
-        media:    '26',
-        campaign: '1',
-        mode:     'txt'
-      },
-      function (xml) {
-        var content = '';
-        var recent  = '';
+    if ($('#daily-report')) {
 
-        var count = 1;
-        $(xml).find('item').each( function () {
-            var post = $(this).find('content\\:encoded').text();
-            if (! post) {
-                post = $(this).find('encoded').text();
-            }
-            post = post.replace(']]&gt;','');
-            post = post.replace(']]>','');
-            post = post.replace(/>(.*?)</, '');
-            var title    = $(this).find('title').text();
-            title = title.replace(/regentmarkets\d.*$/, '');
-            var pub_date = $(this).find('pubDate').text();
-            pub_date = pub_date.replace(/\+0000$/, 'GMT');
-            var description = $(this).find('description').text();
-            description = description.replace(/^(?:Morning|Afternoon) Report: \d\d.\d\d (?:London)*/, '');
-            //console.log(post);
-            content +=
-                "<a id=\"post-" + count + "\"></a>"
-                + "<div class=\"post\">\n"
-                + "<h1>" + pub_date + ' - ' + title + "</h1>\n"
-                + "<div class=\"summary\"><p>" + description + "</p></div>\n"
-                + "<div class=\"content\" style=\"display: none\"><p>" + post + "</p></div>\n"
-                + "\n<a class=\"read-more\" href=\"#post-" + count + "\">Read more...</a>\n</div>\n"
-                + "<div style=\"clear:both;\"></div>";
-            recent +=
-                "<li><a href=\"#post-" + count + "\">" + title + "</a></li>";
-            count = count + 1;
-        });
+        $.get('http://js.betonmarkets.com/javascript.php', {
+                prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
+                media: '26',
+                campaign: '1',
+                mode: 'txt'
+            },
+            function(xml) {
+                var content = '';
+                var recent = '';
 
-        $('#report').html(content);
-        $('#recent-posts').html(recent);
+                $(xml).find('item').each(function(idx) {
 
-        $('a.read-more').click( function () {
-          if ($(this).text().match('more')) {
-            $(this).siblings('div.summary').hide();
-            $(this).siblings('div.content').show();
-            $(this).text('Read less');
-          }
-          else {
-            $(this).siblings('div.summary').show();
-            $(this).siblings('div.content').hide();
-            $(this).text('Read more');
-          }
-        });
+                    var title = $(this).find('title').text().replace(/regentmarkets\d.*$/, ''),
+                        pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT'),
+                        description = $(this).find('description').text().replace(/^(?:Morning|Afternoon) Report: \d\d.\d\d (?:London)*/, '');
 
-        $('a[rel="nofollow"]').hide();
+                    var post = $(this).find('content\\:encoded').text();
+                    if (!post) {
+                        post = $(this).find('encoded').text();
+                    }
+                    post = post.replace(']]&gt;', '')
+                        .replace(']]>', '')
+                        .replace(/>(.*?)</, '');
 
-        return;
-      },
-      'xml'
-    );
+                    $('.report-list').append($('<option>', {
+                        value: idx,
+                        text: title
+                    }));
+
+                    $('h1').text(title);
+                    $('h2').text(pubDate);
+                    $('h4').html(post)
+
+                    content +=
+                        "<a id=\"post-" + 1 + "\"></a>" + "<div class=\"post\">\n" + "<h1>" + pubDate + ' - ' + title + "</h1>\n" + "<div class=\"summary\"><p>" + description + "</p></div>\n" + "<div class=\"content\" style=\"display: none\"><p>" + post + "</p></div>\n" + "\n<a class=\"read-more\" href=\"#post-" + 1 + "\">Read more...</a>\n</div>\n" + "<div style=\"clear:both;\"></div>";
+                    recent +=
+                        "<li><a href=\"#post-" + 1 + "\">" + title + "</a></li>";
+                });
+            },
+            'xml'
+        );
+    }
 
     $('div[data-role=youtube-playlist]').each(function(el) {
 
@@ -140,18 +110,18 @@ $(function() {
             listId = $(this).attr('data-list-id'),
             playlistUrl = 'https://gdata.youtube.com/feeds/api/playlists/' + listId + '?v=2&max-re‌​sults=50&alt=json&orderby=published';
 
-        $.getJSON(playlistUrl, function (data) {
+        $.getJSON(playlistUrl, function(data) {
             var listHtml = "";
-            $.each(data.feed.entry, function (i, item) {
+            $.each(data.feed.entry, function(i, item) {
                 var title = item.title.$t,
                     feedURL = item.link[1].href,
                     fragments = feedURL.split("/"),
                     videoID = fragments[fragments.length - 2],
                     thumbUrl = "http://img.youtube.com/vi/" + videoID + "/maxresdefault.jpg";
-                    thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
-                        '<img src="' + thumbUrl + '">' +
-                        '<h3>' + title + '</h3>' +
-                        '</a>'
+                thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
+                    '<img src="' + thumbUrl + '">' +
+                    '<h3>' + title + '</h3>' +
+                    '</a>'
                 listHtml += thumbHtml;
             });
             $(listHtml).appendTo($playlist);

@@ -359,9 +359,6 @@ table td {
 
 /* End of Downloads page */
 /* add bullet class to post content */
-.post-content ol,ul{
-    margin:1.25em 0 1.25em 1.25em
-}
 .post-content ul li{
     list-style-image:url(../images/list-circle_1.png)
 }
