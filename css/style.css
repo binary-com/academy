@@ -359,7 +359,7 @@ table td {
 
 /* End of Downloads page */
 /* add bullet class to post content */
-.post-content ol,ul{
+.post-content ul{
     margin:1.25em 0 1.25em 1.25em
 }
 .post-content ul li{
