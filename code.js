@@ -5,7 +5,6 @@ $(function() {
     }
 
     function isLangCode(langCode) {
-      console.log('is it ', langCode)
         return (langCode == 'en'
             || langCode == 'de'
             || langCode == 'id'
@@ -29,9 +28,9 @@ $(function() {
 
     var currLang = langFromUrl(window.location.href);
 
-    console.log(currLang);
+    // console.log(currLang);
 
-    $('#language_select select').val(currLang)
+    $('#language_select select').val(currLang);
 
     $('#language_select select').on('change', function() {
 
@@ -144,7 +143,6 @@ $(function() {
         $.getJSON(playlistUrl, function (data) {
             var listHtml = "";
             $.each(data.feed.entry, function (i, item) {
-                console.log(item)
                 var title = item.title.$t,
                     feedURL = item.link[1].href,
                     fragments = feedURL.split("/"),
@@ -158,5 +156,10 @@ $(function() {
             });
             $(listHtml).appendTo($playlist);
         });
+    });
+
+    $('div[data-role=youtube-playlist]').on('click', '.video-thumb', function() {
+        var videoId = $(this).attr('data-video-id');
+        $('.video-container iframe').attr('src', '//www.youtube.com/embed/' + videoId + '?autoplay=1');
     });
 });
