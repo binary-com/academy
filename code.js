@@ -59,7 +59,7 @@ $(function() {
 
     $('.wcustomhtml').css('overflow', 'visible');
 
-    if ($('#daily-report')) {
+    if ($('.daily-report').length) {
 
         $.get('http://js.betonmarkets.com/javascript.php', {
                 prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
