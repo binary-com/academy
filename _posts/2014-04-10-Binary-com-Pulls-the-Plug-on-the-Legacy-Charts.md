@@ -2,7 +2,7 @@
 layout: post
 title:  Binary.com Pulls the Plug on the Legacy Charts
 permalink: Binary-com-Pulls-the-Plug-on-the-Legacy-Charts
-excerpt: This move comes as a result of the recent upgrade to our charting package, which we are pleased to say was very well-received by our customers. Effective from the 14 April 2014, the "Legacy Charts" will be brought down, to make room for our new and improved "Live Charts" and the "Java application" which you can [download right here](https://www.binary.com/c/chart_application.cgi?l=EN&utm_medium=social&utm_source=blog&utm_content=whatsnew). 
+excerpt: This move comes as a result of the recent upgrade to our charting package, which we are pleased to say was very well-received by our customers. Effective from the 14 April 2014, the "Legacy Charts" will be brought down, to make room for our new and improved "Live Charts" and the "Java application" which you can download right here. 
 keywords: <!--- write post kewords here(for SEO) -->
 
 ---
