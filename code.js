@@ -56,10 +56,9 @@ $(function() {
         }
     }(document, "script", "twitter-wjs");
 
-
     $('.wcustomhtml').css('overflow', 'visible');
 
-    if ($('.daily-report').length) {
+    function getDailyReport() {
 
         $.get('http://js.betonmarkets.com/javascript.php', {
                 prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
@@ -90,9 +89,9 @@ $(function() {
                         text: title
                     }));
 
-                    $('h1').text(title);
-                    $('h2').text(pubDate);
-                    $('h4').html(post)
+                    $('.daily-report h1').text(title);
+                    $('.daily-report h2').text(pubDate);
+                    $('.daily-report h4').html(post)
 
                     content +=
                         "<a id=\"post-" + 1 + "\"></a>" + "<div class=\"post\">\n" + "<h1>" + pubDate + ' - ' + title + "</h1>\n" + "<div class=\"summary\"><p>" + description + "</p></div>\n" + "<div class=\"content\" style=\"display: none\"><p>" + post + "</p></div>\n" + "\n<a class=\"read-more\" href=\"#post-" + 1 + "\">Read more...</a>\n</div>\n" + "<div style=\"clear:both;\"></div>";
@@ -102,6 +101,10 @@ $(function() {
             },
             'xml'
         );
+    }
+
+    if ($('.daily-report').length) {
+        getDailyReport();
     }
 
     $('div[data-role=youtube-playlist]').each(function(el) {
