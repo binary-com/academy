@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  All New! Random Sun and Random Moon
+title:  All New Random Sun and Random Moon
 permalink: all-new-random-sun-and-random-moon
-excerpt: 'With the latest upgrade to our trading platform, you now get to trade on two new Random Quotidians: the Random Sun and the Random Moon.'
+excerpt: "With the latest upgrade to our trading platform, you now get to trade on two new Random Quotidians: the Random Sun and the Random Moon"
 keywords: <!--- write post kewords here(for SEO) -->
 ---
 
-![](/post_images/2156460_orig.png)
+![d](/post_images/2156460_orig.png)
 
 With the latest upgrade to our trading platform, you now get to trade on two new Random Quotidians: the Random Sun and the Random Moon.
 
