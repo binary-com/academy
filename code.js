@@ -60,7 +60,7 @@ $(function() {
 
     function getDailyReport() {
 
-        $.get('http://js.betonmarkets.com/javascript.php', {
+        $.get('//js.betonmarkets.com/javascript.php', {
                 prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
                 media: '26',
                 campaign: '1',
@@ -73,8 +73,7 @@ $(function() {
                 $(xml).find('item').each(function(idx) {
 
                     var title = $(this).find('title').text().replace(/regentmarkets\d.*$/, ''),
-                        pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT'),
-                        description = $(this).find('description').text().replace(/^(?:Morning|Afternoon) Report: \d\d.\d\d (?:London)*/, '');
+                        pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT');
 
                     var post = $(this).find('content\\:encoded').text();
                     if (!post) {
@@ -84,19 +83,19 @@ $(function() {
                         .replace(']]>', '')
                         .replace(/>(.*?)</, '');
 
+                    post = post.substr(post.indexOf('<div>') + 5, post.lastIndexOf('</div>') - 6);
+
                     $('.report-list').append($('<option>', {
                         value: idx,
                         text: title
                     }));
 
-                    $('.daily-report h1').text(title);
-                    $('.daily-report h2').text(pubDate);
-                    $('.daily-report h4').html(post)
-
-                    content +=
-                        "<a id=\"post-" + 1 + "\"></a>" + "<div class=\"post\">\n" + "<h1>" + pubDate + ' - ' + title + "</h1>\n" + "<div class=\"summary\"><p>" + description + "</p></div>\n" + "<div class=\"content\" style=\"display: none\"><p>" + post + "</p></div>\n" + "\n<a class=\"read-more\" href=\"#post-" + 1 + "\">Read more...</a>\n</div>\n" + "<div style=\"clear:both;\"></div>";
-                    recent +=
-                        "<li><a href=\"#post-" + 1 + "\">" + title + "</a></li>";
+                    $('<div id="report-' + idx + '" class="single-report">')
+                        .append('<h1>' + title + '</h1>')
+                        .append('<h2>' + pubDate + '</h2>')
+                        .append('<h3>' + post + '</h3>')
+                        .toggle(idx == 0)
+                        .appendTo('.daily-report');
                 });
             },
             'xml'
@@ -106,6 +105,12 @@ $(function() {
     if ($('.daily-report').length) {
         getDailyReport();
     }
+
+    $('.report-list').on('change', function(ev) {
+        $('.single-report').hide();
+        $('#report-' + $('.report-list').val()).show();
+
+    });
 
     $('div[data-role=youtube-playlist]').each(function(el) {
 
