@@ -125,7 +125,7 @@ $(function() {
                     feedURL = item.link[1].href,
                     fragments = feedURL.split("/"),
                     videoID = fragments[fragments.length - 2],
-                    thumbUrl = "http://img.youtube.com/vi/" + videoID + "/maxresdefault.jpg";
+                    thumbUrl = "http://img.youtube.com/vi/" + videoID + "/default.jpg";
                 thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
                     '<img src="' + thumbUrl + '">' +
                     '<h3>' + title + '</h3>' +
@@ -139,5 +139,8 @@ $(function() {
     $('div[data-role=youtube-playlist]').on('click', '.video-thumb', function() {
         var videoId = $(this).attr('data-video-id');
         $('.video-container iframe').attr('src', '//www.youtube.com/embed/' + videoId + '?autoplay=1');
+        $('html, body').animate({
+            scrollTop: $(".video-container").offset().top
+        }, 300);
     });
 });
