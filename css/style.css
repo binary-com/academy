@@ -363,6 +363,13 @@ table td {
     list-style-image:url(../images/list-circle_1.png)
 }
 /* end of add bullet class to post content */
+.daily-report img{
+    width:inherit;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
 /* =====================================================
 =========================================================
 =================== Media Query  phones ================
