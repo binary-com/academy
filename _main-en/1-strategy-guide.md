@@ -2,7 +2,7 @@
 layout: page
 title: Strategy Guide
 permalink: en/strategy-guide/
-excerpt:
+excerpt: Here are the most popular strategies that Binary.com traders use and a list of which contracts are best for employing each strategy.
 keywords:
 ---
 
