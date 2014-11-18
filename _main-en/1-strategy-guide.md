@@ -42,7 +42,7 @@ With a Big Wins strategy, you make low probability/high return trades(200%+ retu
 
 **Best contracts for the Big Wins strategy:** [Touch/No](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary
 ) touch or [In/Out](https://www.binary.com/d/trade.cgi?form_name=staysinout&utm_medium=social&utm_campaign=blog&utm_source=binary
-) with barriers adjusted to give high returns... .
+) with barriers adjusted to give high returns.
 
 ## Trading System
 
