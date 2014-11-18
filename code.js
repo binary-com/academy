@@ -128,7 +128,7 @@ $(function() {
                     thumbUrl = "http://img.youtube.com/vi/" + videoID + "/default.jpg";
                 thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
                     '<img src="' + thumbUrl + '">' +
-                    '<h3>' + title + '</h3>' +
+                    '<p>' + title + '</p>' +
                     '</a>'
                 listHtml += thumbHtml;
             });

@@ -368,8 +368,13 @@ table td {
     display:block;
     margin-left: auto;
     margin-right: auto;
-
 }
+.social-icon{
+    float: left;
+    margin-right: 20px;
+}
+
+
 /* =====================================================
 =========================================================
 =================== Media Query  phones ================
@@ -421,6 +426,9 @@ table td {
     }
     .grd-no-gutter-right, .grd-no-margin-right{
         padding-right: 10px!important;
+    }
+    .video-thumb{
+        width:46%!important;
     }
 }
 
@@ -604,4 +612,8 @@ table td {
 
 .video-thumb img {
     padding-bottom: 1em;
+}
+.video-thumb p{
+    font-size: 14px;
+    margin: 0;
 }
