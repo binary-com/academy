@@ -620,3 +620,23 @@ table td {
     font-size: 14px;
     margin: 0;
 }
+
+.page-content {
+    float: left;
+    width: 65%;
+}
+
+aside {
+    float: right;
+    width: 32%;
+}
+
+.clearfix:after, .content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.report-list {
+    width: 100%;
+}

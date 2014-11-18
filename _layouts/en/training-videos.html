@@ -4,31 +4,18 @@
 {% include head.html %}
 
 <body>
-<div id="page-wrapper">
-    {% include tagmanager.html %}
-    {% include topbar.html %}
-    {% include header.html %}
-    {% include mainmenu-blog.html %}
+    {% include top.html %}
     <div class="content">
-		<div class="grd-grid-8 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-left">
-			<header>
-			    <!-- <h1>{{ page.title }}</h1>		 -->
-			</header>
+		<div class="page-content">
 			<article>
-
 			    {{ content }}
 			</article>
 		</div>
-		<div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
-			<aside>
-			{% include en/sidebars-video-training-videos.html %}
-			</aside>
-		</div>
-
-	<div class="push"></div>
-</div>
+		<aside>
+		{% include en/sidebars-video-training-videos.html %}
+		</aside>
+    </div>
 	{% include footer.html %}
-</div>
 </body>
 
 </html>
