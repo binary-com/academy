@@ -25,7 +25,6 @@ img {
 }
 .content {
     max-width: 960px;
-    position: relative;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
@@ -173,11 +172,6 @@ table td {
 }
 .ui-tabs-anchor:focus {
     outline: 0;
-}
-.daily-report .read-more {
-    position: relative;
-    float: right;
-    bottom: 15px;
 }
 .commodities p {
     margin-top: 10px;
