@@ -1,29 +1,24 @@
 <!DOCTYPE html>
 <html>
-
 {% include head.html %}
-
 <body>
     <div id="page-wrapper">
-    {% include tagmanager.html %}
-    {% include topbar.html %}
-    {% include header.html %}
-
-    {% include mainmenu-blog.html %}
-    {% include slide.html %}
-   <div class="content">
-        <div class="grd-grid-8 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-left">
-            {{ content }}
+        {% include tagmanager.html %}
+        {% include topbar.html %}
+        {% include header.html %}
+        {% include mainmenu-blog.html %}
+        {% include slide.html %}
+        <div class="content">
+            <div class="grd-grid-8 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-left">
+                {{ content }}
+            </div>
+            <div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
+                <aside>
+                    {% include en/sidebars-main.html %}
+                </aside>
+            </div>
+            <div class="push"></div>
         </div>
-        <div class="grd-grid-4 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-right">
-            <aside>
-            {% include en/sidebars-main.html %}
-            </aside>
-        </div>
-
-
-<div class="push"></div>
-    </div>
-    {% include footer.html %}
+        {% include footer.html %}
     </div>
 </body>
