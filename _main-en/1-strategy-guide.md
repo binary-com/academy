@@ -5,8 +5,7 @@ permalink: en/strategy-guide/
 excerpt: Here are the most popular strategies that Binary.com traders use and a list of which contracts are best for employing each strategy.
 keywords:
 ---
-
-## Trends
+<h2>Trends</h2>
 
 ![]({{ site.baseurl }}/images/292897835.jpg)
 
@@ -42,7 +41,7 @@ With a Big Wins strategy, you make low probability/high return trades(200%+ retu
 
 **Best contracts for the Big Wins strategy:** [Touch/No](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary
 ) touch or [In/Out](https://www.binary.com/d/trade.cgi?form_name=staysinout&utm_medium=social&utm_campaign=blog&utm_source=binary
-) with barriers adjusted to give high returns... .
+) with barriers adjusted to give high returns.
 
 ## Trading System
 

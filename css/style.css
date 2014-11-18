@@ -46,6 +46,8 @@ margin-bottom: 20px;
 }
 .post-content img {
     max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 h1 {
     margin-bottom: 10px;
@@ -348,6 +350,10 @@ table td {
 .no-padding {
         padding: 0!important;
     }
+    .webinars{
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
 /* end of weekly report page */
 /* Downloads page */
 
@@ -362,6 +368,7 @@ table td {
     display:block;
     margin-left: auto;
     margin-right: auto;
+    margin-top:30px;
 }
 .social-icon{
     float: left;
@@ -598,6 +605,8 @@ table td {
     display: inline-block;
     width: 22%;
     margin: 4% 4% 0 0;
+    float: left;
+    height: 220px;
 }
 
 .video-thumb:nth-child(4n) {
