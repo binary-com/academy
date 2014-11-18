@@ -7,7 +7,7 @@ keywords: <!--- write post kewords here(for SEO) -->
 
 ---
 
-![](/post_images7137498_orig.jpg)
+![](/post_images/7137498_orig.jpg)
 
 We are very excited to introduce our brand new contract visualization. The new contract visualization window provides you with full pricing information giving you a clear indication as to the potential payout or profit and the total cost of your trade, all in real-time. Access the contract visualization after executing your trade by clicking on the "View" button at the bottom of the trade confirmation window. You can also access the contract visualization for any position in your Portfolio and Profit table by clicking on the "View" button.
 
