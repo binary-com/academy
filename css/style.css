@@ -375,7 +375,63 @@ table td {
     float: left;
     margin-right: 20px;
 }
+/* To move to main .css later if needed: */
 
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.video-thumb {
+    cursor: pointer;
+    display: inline-block;
+    width: 22%;
+    margin: 4% 4% 0 0;
+    float: left;
+    height: 220px;
+}
+
+.video-thumb:nth-child(4n) {
+    margin-right: 0;
+}
+
+.video-thumb img {
+    padding-bottom: 1em;
+}
+.video-thumb p{
+    font-size: 14px;
+    margin: 0;
+}
+.page-content {
+    float: left;
+    width: 65%;
+}
+
+aside {
+    float: right;
+    width: 32%;
+}
+
+.clearfix:after, .content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.report-list {
+    width: 100%;
+}
 
 /* =====================================================
 =========================================================
@@ -432,6 +488,18 @@ table td {
     .video-thumb{
         width:46%!important;
     }
+    .page-content {
+    float: left;
+    width: 100%;
+    }
+    aside {
+    float: right;
+    width: 100%;
+    }
+    .post {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 }
 
 /* hide the navigation button by default */
@@ -583,61 +651,5 @@ table td {
 }
 /* End Mobile Styles */
 
-/* To move to main .css later if needed: */
 
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px; height: 0; overflow: hidden;
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-.video-thumb {
-    cursor: pointer;
-    display: inline-block;
-    width: 22%;
-    margin: 4% 4% 0 0;
-    float: left;
-    height: 220px;
-}
-
-.video-thumb:nth-child(4n) {
-    margin-right: 0;
-}
-
-.video-thumb img {
-    padding-bottom: 1em;
-}
-.video-thumb p{
-    font-size: 14px;
-    margin: 0;
-}
-.page-content {
-    float: left;
-    width: 65%;
-}
-
-aside {
-    float: right;
-    width: 32%;
-}
-
-.clearfix:after, .content:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.report-list {
-    width: 100%;
-}
 
