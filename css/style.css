@@ -9,6 +9,7 @@ img {
 .menu-raw {
     width: 100%;
     background-color: #f2f2f2;
+    border-bottom: 1px solid #dedede;
 }
 .no-border-bottom{
     border-bottom: 0px!important;
@@ -620,7 +621,6 @@ table td {
     font-size: 14px;
     margin: 0;
 }
-
 .page-content {
     float: left;
     width: 65%;
@@ -640,3 +640,4 @@ aside {
 .report-list {
     width: 100%;
 }
+
