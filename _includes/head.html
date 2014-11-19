@@ -6,21 +6,22 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
     <meta name="keywords" content=" {{page.keywords}} ">
+
+    <script src="//use.typekit.net/bfu3ywb.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>    
+
     <link rel='icon' type='image/png' href='https://static.binary.com/images/common/favicon_1.ico' />
-    <!--[if IE]>
-      <link rel='shortcut icon' href='https://static.binary.com/images/common/favicon_1.ico' />
-    <![endif]-->
     <link rel='apple-touch-icon' href='https://static.binary.com/images/common/apple-touch-icon-57x57_1.png' />
     <link rel='apple-touch-icon' sizes='72x72' href='https://static.binary.com/images/common/apple-touch-icon-72x72_1.png' />
     <link rel='apple-touch-icon' sizes='114x114' href='https://static.binary.com/images/common/apple-touch-icon-114x114_1.png' />
 
     <link rel="stylesheet" href="https://static.binary.com/css/binary.min.css">
     <link rel="stylesheet" href="/css/style.css">
-    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="/code.js"></script>
+
     <script src="https://apis.google.com/js/platform.js" defer='true'></script>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <script src='https://static.binary.com/js/lib.min.js' defer='true'></script>
     <script src='https://static.binary.com/js/data.min.js' defer='true'></script>
     <script src='https://static.binary.com/js/binary.min.js' defer='true'></script>
+    <script src="/code.js"></script>
 </head>
