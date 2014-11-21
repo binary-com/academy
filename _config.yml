@@ -24,3 +24,65 @@ collections:
   contributors:
     output: true
     permalink: /en/contributors/:path/
+
+defaults:
+  -
+    scope:
+      path: _posts/en
+    values:
+      layout: default
+      lang: en
+  -
+    scope:
+      path: _posts/de
+    values:
+      layout: default
+      lang: de
+  -
+    scope:
+      path: _posts/id
+    values:
+      layout: default
+      lang: id
+  -
+    scope:
+      path: _posts/zh
+    values:
+      layout: default
+      lang: zh
+  -
+    scope:
+      path: _posts/ar
+    values:
+      layout: default
+      lang: ar
+  -
+    scope:
+      path: _posts/pl
+    values:
+      layout: default
+      lang: pl
+  -
+    scope:
+      path: _posts/ru
+    values:
+      layout: default
+      lang: ru
+  -
+    scope:
+      path: _posts/pt
+    values:
+      layout: default
+      lang: pt
+  -
+    scope:
+      path: _posts/es
+    values:
+      layout: default
+      lang: es
+  -
+    scope:
+      path: _posts/fr
+    values:
+      layout: default
+      lang: fr
