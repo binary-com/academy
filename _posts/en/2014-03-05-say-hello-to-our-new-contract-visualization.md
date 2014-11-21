@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Say Hello To Our New Contract Visualization
-permalink: say-hello-to-our-new-contract-visualization
+title: Say Hello To Our New Contract Visualization
+permalink: /:title/
 excerpt: We are very excited to introduce our brand new contract visualization. The new contract visualization window provides you with full pricing information giving you a clear indication as to the potential payout or profit and the total cost of your trade, all in real-time.
 keywords: <!--- write post kewords here(for SEO) -->
-
 ---
 
 ![](/post_images/7137498_orig.jpg)

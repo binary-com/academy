@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Brand New! Random Mars and Random Venus
-permalink: brand-new-random-mars-and-random-venus
+title: Brand New! Random Mars and Random Venus
+permalink: /:title/
 excerpt: To complete our series of Random Indices, we have now launched the Random Mars and the Random Venus. The Random Mars simulates a market that is active during the day (but becomes less volatile at night) and the Random Venus simulates a market that is quiet during the day (but becomes more volatile at night). Both these indices reset back to a price of 1000 at 12:00PM GMT every day.
 keywords: <!--- write post kewords here(for SEO) -->
-
 ---
 
 ![](/post_images/3490486_orig.jpg)

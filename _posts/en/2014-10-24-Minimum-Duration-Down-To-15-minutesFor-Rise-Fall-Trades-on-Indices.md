@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Minimum Duration Down To 15 minutes For Rise/Fall Trades on Indices"
+title: Minimum Duration Down To 15 minutes For Rise/Fall Trades on Indices
 category: main
-permalink: Minimum_Duration_Down_To_15_minutes_For_Rise_Fall_Trades_on_Indices
+permalink: /:title/
 excerpt: Great news! Rise/Fall trades are now available with a minimum duration of 15 minutes on the following selected Indices
 keywords: indices, binary, binary.com
-
 ---
 
 Great news! Rise/Fall trades are now available with a minimum duration of 15 minutes on the following selected Indices:
@@ -24,4 +23,3 @@ Great news! Rise/Fall trades are now available with a minimum duration of 15 min
 * Dutch Index
 
 This addition to our trading platform gives you more flexibility and a broader range of options when purchasing your trade. [Purchase a short-term trade now!](https://www.binary.com/c/trade.cgi?market=indices&time=15m&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=SX5E&amount=100&date_&&l=EN&utm_medium=social&utm_source=blog&utm_content=whatsnew)
-

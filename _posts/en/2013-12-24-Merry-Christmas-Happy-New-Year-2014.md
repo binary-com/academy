@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Merry Christmas & Happy New Year 2014!
-permalink: Merry-Christmas-Happy-New-Year-2014
+title: Merry Christmas & Happy New Year 2014!
+permalink: /:title/
 excerpt: Merry Christmas & Happy New Year 2014! Wishing you all the very best this holiday season. May you have a prosperous New Year 2014!
 keywords: <!--- write post kewords here(for SEO) -->
-
 ---
 
 Merry Christmas & Happy New Year 2014! Wishing you all the very best this holiday season. May you have a prosperous New Year 2014!
