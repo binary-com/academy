@@ -199,8 +199,8 @@ table td {
     right: 20px;
     position: relative;
 }
-.commodities .notif {
-    font-size: 10px;
+.notif {
+    font-size: 11px;
     display: block;
     color: #ccc;
 }
@@ -295,7 +295,7 @@ table td {
 	margin-bottom: 15px;
 }
 .content-box-4 .notif {
-    font-size: 10px;
+    font-size: 11px;
     display: block;
     color: #ccc;
 }
@@ -334,7 +334,7 @@ table td {
     padding-bottom: 30px;
 }
 .content-box-4 .para6{
- margin-top: 21px;
+ margin-top: 20px;
     margin-bottom: 31px;
 }
 .back-image1{
@@ -375,6 +375,26 @@ table td {
     float: left;
     margin-right: 20px;
 }
+/*Dave Evans widget for daily report page*/
+.dave{
+
+}
+.dave .para{
+   margin: 20px 0; 
+}
+.dave .para img{
+    width:30%;
+    display:inline-block;
+    vertical-align: top;
+}
+.dave .para p{
+    width:55%;
+    padding-left: 5%;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1.2;
+    font-size: 14px;
+}
 /* To move to main .css later if needed: */
 
 .video-container {
@@ -398,14 +418,12 @@ table td {
     display: inline-block;
     width: 22%;
     margin: 4% 4% 0 0;
-    float: left;
-    height: 220px;
+    vertical-align: top;
 }
 
 .video-thumb:nth-child(4n) {
     margin-right: 0;
 }
-
 .video-thumb img {
     padding-bottom: 1em;
 }
