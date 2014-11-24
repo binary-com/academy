@@ -9,3 +9,10 @@
 	<option value="es">Español</option>
 	<option value="fr">Français</option>
 </select>
+
+start
+{% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
+{% for post in posts %}
+<a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+{% endfor %}
+end
