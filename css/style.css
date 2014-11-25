@@ -9,6 +9,7 @@ img {
 .menu-raw {
     width: 100%;
     background-color: #f2f2f2;
+    border-bottom: 1px solid #dedede;
 }
 .no-border-bottom{
     border-bottom: 0px!important;
@@ -198,8 +199,8 @@ table td {
     right: 20px;
     position: relative;
 }
-.commodities .notif {
-    font-size: 10px;
+.notif {
+    font-size: 11px;
     display: block;
     color: #ccc;
 }
@@ -294,7 +295,7 @@ table td {
 	margin-bottom: 15px;
 }
 .content-box-4 .notif {
-    font-size: 10px;
+    font-size: 11px;
     display: block;
     color: #ccc;
 }
@@ -333,7 +334,7 @@ table td {
     padding-bottom: 30px;
 }
 .content-box-4 .para6{
- margin-top: 21px;
+ margin-top: 20px;
     margin-bottom: 31px;
 }
 .back-image1{
@@ -374,7 +375,81 @@ table td {
     float: left;
     margin-right: 20px;
 }
+/*Dave Evans widget for daily report page*/
+.dave{
 
+}
+.dave .para{
+   margin-bottom: 1.7em;
+}
+.dave .para img{
+    width:30%;
+    display:inline-block;
+    vertical-align: top;
+}
+.dave .para p{
+    width:55%;
+    padding-left: 5%;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1.2;
+    font-size: 14px;
+}
+/* To move to main .css later if needed: */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.video-thumb {
+    cursor: pointer;
+    display: inline-block;
+    width: 22%;
+    margin: 4% 4% 0 0;
+    vertical-align: top;
+}
+
+.video-thumb:nth-child(4n) {
+    margin-right: 0;
+}
+.video-thumb img {
+    padding-bottom: 1em;
+}
+.video-thumb p{
+    font-size: 14px;
+    margin: 0;
+}
+.page-content {
+    float: left;
+    width: 65%;
+}
+
+aside {
+    float: right;
+    width: 32%;
+}
+
+.clearfix:after, .content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.report-list {
+    width: 100%;
+}
 
 /* =====================================================
 =========================================================
@@ -431,6 +506,18 @@ table td {
     .video-thumb{
         width:46%!important;
     }
+    .page-content {
+    float: left;
+    width: 100%;
+    }
+    aside {
+    float: right;
+    width: 100%;
+    }
+    .post {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 }
 
 /* hide the navigation button by default */
@@ -581,65 +668,6 @@ table td {
     }
 }
 /* End Mobile Styles */
-
-/* To move to main .css later if needed: */
-
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px; height: 0; overflow: hidden;
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-.video-thumb {
-    cursor: pointer;
-    display: inline-block;
-    width: 22%;
-    margin: 4% 4% 0 0;
-    float: left;
-    height: 220px;
-}
-
-.video-thumb:nth-child(4n) {
-    margin-right: 0;
-}
-
-.video-thumb img {
-    padding-bottom: 1em;
-}
-.video-thumb p{
-    font-size: 14px;
-    margin: 0;
-}
-
-.page-content {
-    float: left;
-    width: 65%;
-}
-
-aside {
-    float: right;
-    width: 32%;
-}
-
-.clearfix:after, .content:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.report-list {
-    width: 100%;
-}
 
 .en:lang(en), .fr:lang(fr), .zh:lang(zh){
     font-weight: bold;
