@@ -1,10 +1,10 @@
-{% assign posts=paginator.posts | where:"lang", page.lang %}
+{% assign posts=paginator.posts | where: "lang", page.lang %}
 
 <div class="home">
 
     <div class="post-list">
 
-        Language is {{ page.lang }}
+        Count is {{ paginator.posts | size }}
 
         {% for post in posts %}
         <div class="post">
@@ -19,12 +19,9 @@
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
                 <div style="clear:both;"></div>
             </div>
-
         </div>
         {% endfor %}
-
     </div>
-
 </div>
 
 {% include pagination.html %}

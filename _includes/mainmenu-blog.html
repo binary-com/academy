@@ -8,7 +8,8 @@
                     <a href="/">What's New</a>
                 </li>
                 {% for node in site.main-en %}
-                {% if page.url == node.url %}<li class="active">{% else %}<li>{% endif %}
+                {% if page.url == node.url %}
+                <li class="active">{% else %}<li>{% endif %}
                     <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
                 </li>
                 {% endfor %}
