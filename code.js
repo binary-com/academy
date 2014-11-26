@@ -18,7 +18,7 @@ $(function() {
         return isLangCode(langCode) ? langCode : 'en';
     }
 
-    var currLang = langFromUrl(window.location.href);
+    var currLang = document.documentElement.lang; //langFromUrl(window.location.href);
 
     // console.log(currLang);
 
