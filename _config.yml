@@ -18,6 +18,8 @@ languages:
     key: 'id'
   - name: '简体中文'
     key: 'zh_cn'
+  - name: 'Arabic'
+    key: 'ar'
   - name: 'Polish'
     key: 'pl'
   - name: 'Русский'
