@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Strategy Guide
-permalink: en/strategy-guide/
-excerpt: Here are the most popular strategies that Binary.com traders use and a list of which contracts are best for employing each strategy.
-keywords:
+permalink: /:title/
 ---
+
 <h2>Trends</h2>
 
 ![]({{ site.baseurl }}/images/292897835.jpg)
@@ -21,8 +20,7 @@ A popular strategy is to trade with or against short-term market trends (market 
 Another popular strategy is to trade based on market news. For example, if the U.S. Federal Reserve is set to announce interest rates, which would likely have an impact on the U.S. dollar, you could make a trade that the dollar will go up or down versus another currency when the news is announced.
 
 **Best contracts to use for the News strategy:** [Higher/Lower](https://www.binary.com/d/trade.cgi?form_name=higherlower&utm_medium=social&utm_campaign=blog&utm_source=binary
-), [Touch/No Touch](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary
-)
+), [Touch/No Touch](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary)
 
 ## Steady Returns
 

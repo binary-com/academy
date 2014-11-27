@@ -6,6 +6,8 @@
 
         Count is {{ paginator.posts | size }}
 
+        {{ site.main | size }}
+
         {% for post in posts %}
         <div class="post">
             <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>

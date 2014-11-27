@@ -5,9 +5,9 @@
             <button class="nav-button">Toggle Navigation</button>
             <ul class="items primary-nav">
                 <li>
-                    <a href="/">What's New</a>
+                    <a href="/">What's New?</a>
                 </li>
-                {% for node in site.main-en %}
+                {% for node in site.main %}
                 {% if page.url == node.url %}
                 <li class="active">{% else %}<li>{% endif %}
                     <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
