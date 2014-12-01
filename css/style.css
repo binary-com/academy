@@ -50,7 +50,7 @@ margin-bottom: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
-h1 {
+.margin-b {
     margin-bottom: 10px;
 }
 .bold {
@@ -670,7 +670,7 @@ aside {
 /* End Mobile Styles */
 
 /* REMOVE THIS AFTER LANGUAGES ARE ADDED TO TOPBAR */
-/*#topbar{
+#topbar{
     height: 21px;
-}*/
+}
 
