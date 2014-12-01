@@ -669,5 +669,8 @@ aside {
 }
 /* End Mobile Styles */
 
-
+/* REMOVE THIS AFTER LANGUAGES ARE ADDED TO TOPBAR */
+#topbar{
+    height: 21px;
+}
 
