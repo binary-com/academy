@@ -17,7 +17,7 @@ languages:
   - name: 'Bahasa Indonesia'
     key: 'id'
   - name: '简体中文'
-    key: 'zh_cn'
+    key: 'zh'
   - name: 'Arabic'
     key: 'ar'
   - name: 'Polish'
