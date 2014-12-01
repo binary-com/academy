@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Strategy Guide
-permalink: /:title/
 ---
 
 <h2>Trends</h2>

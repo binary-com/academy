@@ -54,6 +54,7 @@ defaults:
     values:
       lang: en
       layout: default
+      permalink: /:title
   -
     scope:
       path: _posts/de

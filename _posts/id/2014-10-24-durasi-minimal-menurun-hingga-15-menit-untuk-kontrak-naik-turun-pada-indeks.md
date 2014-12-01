@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Durasi Minimal Menurun Hingga 15 Menit Untuk Kontrak Naik/Turun Pada Indeks
-permalink: /:title/
 excerpt: Berita gembira! Kontrak Naik/Turun kini tersedia dengan minimal durasi 15 menit pada beberapa pilihan indeks berikut ini
-keywords: indices
 ---
 
 Berita gembira! Kontrak Naik/Turun kini tersedia dengan minimal durasi 15 menit pada beberapa pilihan indeks berikut ini:

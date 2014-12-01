@@ -2,9 +2,7 @@
 layout: post
 title: The quick 10% and lucky 10 digits get a complete upgrade
 category: main
-permalink: /:title/
 excerpt: Due to popular demand, the minimum duration for trades purchased on major Forex pairs has changed across our full range of contracts. With this latest upgrade, Intraday contracts such as the Higher/Lower and the Touch/
-keywords:
 ---
 
 The "Lucky 10 Digits" and the "Quick 10%" trades have now moved to the new "Digits" section. Simply purchase these as you would any other trade via the main trading interface. Trades may be purchased on the "Randoms" for a minimum duration of 5 ticks or a maximum duration of 10 ticks, giving you a broader range of options.

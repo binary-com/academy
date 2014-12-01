@@ -1,10 +1,7 @@
 ---
 layout: post
 title: New! Palladium & Platinum
-category: main
-permalink: /:title/
 excerpt: In response to feedback received, we have just added these two precious metals to our available list of commodities.
-keywords: commodities, Palladium, Platinum
 ---
 
 In response to feedback received, we have just added these two precious metals to our available list of commodities.

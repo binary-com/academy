@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Short-term Touch/No Touch Trades Are Now Available 
-permalink: /:title/
+title: Short-term Touch/No Touch Trades Are Now Available
 excerpt: Great news! Touch/No Touch trades on selected Indices are now available with a minimum duration of 1 day. The flexibility of choosing a duration as little as 1 day puts you further in control, giving you a broader range of options when purchasing your trade.
-keywords: <!--- write post kewords here(for SEO) -->
 ---
 
 Great news! Touch/No Touch trades on selected Indices are now available with a minimum duration of 1 day. The flexibility of choosing a duration as little as 1 day puts you further in control, giving you a broader range of options when purchasing your trade.

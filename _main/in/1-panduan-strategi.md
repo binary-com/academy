@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Panduan Strategi
-permalink: /:title/
 ---
 
 <h2>Trend</h2>

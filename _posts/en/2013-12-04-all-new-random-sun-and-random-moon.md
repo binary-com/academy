@@ -1,9 +1,7 @@
 ---
 layout: post
 title: All New Random Sun and Random Moon
-permalink: /:title/
 excerpt: "With the latest upgrade to our trading platform, you now get to trade on two new Random Quotidians: the Random Sun and the Random Moon"
-keywords: <!--- write post kewords here(for SEO) -->
 ---
 
 ![d](/post_images/2156460_orig.png)

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Terbaru! Indeks Kinerja Super
-permalink: /:title/
 excerpt: Binary.com kini memperluas jangkauan Smart Indeks dengan peluncuran Indeks Kinerja Super.
 ---
 

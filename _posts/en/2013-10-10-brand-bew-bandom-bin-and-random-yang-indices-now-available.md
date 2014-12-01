@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Brand New! Random Yin and Random Yang Indices Now Available
-permalink: /:title/
 excerpt: Due to high demand, we have now launched two new indices the Random Yin and Random Yang.  
-keywords: <!--- write post kewords here(for SEO) -->
 ---
 
 Due to high demand, we have now launched two new indices: the Random Yin and Random Yang.  These new indices are equivalent to the Random Bear & Random Bull indices, except that the Random Yin and Random Yang reset at 12:00PM GMT each day, whereas the Random Bull and Bear reset at 00:00AM GMT.

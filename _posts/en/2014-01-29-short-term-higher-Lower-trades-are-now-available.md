@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Short-term Higher/Lower Trades Are Now Available
-permalink: /:title/
 excerpt: Great news! Higher/Lower trades on selected Indices are now available with a minimum duration of 1 day. The flexibility of choosing a duration as little as 1 day puts you further in control, giving you a broader range of options when purchasing your trade.
-keywords: <!--- write post kewords here(for SEO) -->
 ---
 
 ![](/post_images/3124761_orig.jpg)

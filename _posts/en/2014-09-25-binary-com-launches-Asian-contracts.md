@@ -2,9 +2,7 @@
 layout: post
 title: Binary.com launches Asian contracts
 category: main
-permalink: /:title/
 excerpt: Asian contracts pay out if the spot price at expiry time is higher or lower, than the average of the prices traded through (by the same market), over the duration of the contract.
-keywords:
 ---
 
 With the latest upgrade to our trading platform, you now get the opportunity to purchase Asian contracts on Random Indices.
