@@ -40,6 +40,9 @@ collections:
   main-ru:
     output: true
     permalink: /ru/:path/
+  main-id:
+    output: true
+    permalink: /id/:path/
   videos:
     output: true
     permalink: /en/videos/:path/
