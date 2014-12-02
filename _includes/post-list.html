@@ -11,7 +11,7 @@
         {% for post in posts %}
         <div class="post">
             <h1 class="margin-b"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> Lang is {{ post.lang }}
             <article class="post-content">
                 <p>
                     {{ post.excerpt }}

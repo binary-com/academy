@@ -22,7 +22,7 @@ $(function() {
 
     // console.log(currLang);
 
-    $('#language_select select').val(currLang);
+    //$('#language_select select').val(currLang);
 
     $('#language_select select').on('change', function() {
 

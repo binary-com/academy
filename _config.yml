@@ -9,7 +9,7 @@ twitter_username: Binarydotcom
 github_username:  binary-com
 
 markdown: kramdown
-paginate: 8
+paginate: 10
 
 languages:
   - name: 'Deutsch'
@@ -57,52 +57,87 @@ defaults:
     values:
       lang: en
       layout: default
-      permalink: /:title
+  -
+    scope:
+      path: indexes/en
+      path: _main/en
+      path: _posts/en
+    values:
+      lang: en
+      layout: default
+      permalink: /:title/
   -
     scope:
       path: _posts/de
+      path: indexes/de
+      path: _main/de
     values:
       lang: de
+      permalink: /:title/
   -
     scope:
-      path: _posts/id
+      path: indexes/id
+      path: _main/id
+      path: _posts/id      
     values:
       lang: id
+      permalink: /:title/
   -
     scope:
       path: _posts/zh
+      path: indexes/zh
+      path: _main/zh
     values:
       lang: zh
+      permalink: /:title/
   -
     scope:
       path: _posts/ar
+      path: indexes/ar
+      path: _main/ar
     values:
       lang: ar
+      permalink: /:title/
   -
     scope:
       path: _posts/pl
+      path: indexes/pl
+      path: _main/pl
     values:
       lang: pl
+      permalink: /:title/
   -
     scope:
       path: _posts/ru
+      path: indexes/ru
+      path: _main/ru
     values:
       lang: ru
+      permalink: /:title/
   -
     scope:
       path: _posts/pt
+      path: indexes/pt
+      path: _main/pt
     values:
       lang: pt
+      permalink: /:title/
   -
     scope:
       path: _posts/es
+      path: indexes/es
+      path: _main/es
     values:
       lang: es
+      permalink: /:title/
   -
     scope:
       path: _posts/fr
+      path: indexes/fr
+      path: _main/fr
     values:
       lang: fr
+      permalink: /:title/
 
 t:
   en:
