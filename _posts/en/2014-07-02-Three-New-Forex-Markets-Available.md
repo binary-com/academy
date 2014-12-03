@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three New Forex Markets Available
-category: main
+permalink: /:title/
 excerpt: Rise/Fall trades on the USD/MXN, NZD/JPY and USD/PLN are now available with a minimum duration of 1 day.
 ---
 

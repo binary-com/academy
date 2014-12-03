@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minimum Duration Down To 15 minutes For Rise/Fall Trades on Indices"
+title: Minimum Duration Down To 15 minutes For Rise/Fall Trades on Indices
 excerpt: Great news! Rise/Fall trades are now available with a minimum duration of 15 minutes on the following selected Indices
 permalink: /:title/
 ---

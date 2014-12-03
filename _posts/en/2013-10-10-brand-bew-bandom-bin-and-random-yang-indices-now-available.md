@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brand New! Random Yin and Random Yang Indices Now Available
+permalink: /:title/
 excerpt: Due to high demand, we have now launched two new indices the Random Yin and Random Yang.  
 ---
 

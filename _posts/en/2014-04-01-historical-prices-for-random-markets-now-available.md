@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Historical Prices for Random Markets Now Available
+permalink: /:title/
 excerpt: Get complete access to tick-by-tick data for all Random Markets by using our new download tool. Simply select your preferred Index from the drop down menu as well as the date and click on the "Download" button for a full data report.
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Java Chart Application from Binary.com
+permalink: /:title/
 excerpt: The release of this highly anticipated charting application provides you with an array of charting tools and indicators that are simple and uncomplicated for beginners and powerful enough for advanced traders.
 ---
 

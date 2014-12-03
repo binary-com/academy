@@ -44,16 +44,10 @@ defaults:
       lang: en
   -
     scope:
-      path: _main/en
-    values:
-      lang: en
-      permalink: /:title/
-  -
-    scope:
       path: _posts/en
     values:
       lang: en
-      permalink: /:title
+      permalink: /:title/
   -
     scope:
       path: indexes/id
@@ -68,24 +62,12 @@ defaults:
       permalink: /:title/
   -
     scope:
-      path: _main/id
-    values:
-      lang: id
-      permalink: /:title/
-  -
-    scope:
       path: indexes/ru
     values:
       lang: ru
   -
     scope:
       path: _posts/ru
-    values:
-      lang: ru
-      permalink: /:title/
-  -
-    scope:
-      path: _main/ru
     values:
       lang: ru
       permalink: /:title/

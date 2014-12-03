@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Tour
 ---
 # First, define your position...
 

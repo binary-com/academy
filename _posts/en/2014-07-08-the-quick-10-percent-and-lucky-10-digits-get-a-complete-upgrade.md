@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The quick 10% and lucky 10 digits get a complete upgrade
-category: main
+permalink: /:title/
 excerpt: Due to popular demand, the minimum duration for trades purchased on major Forex pairs has changed across our full range of contracts. With this latest upgrade, Intraday contracts such as the Higher/Lower and the Touch/
 ---
 

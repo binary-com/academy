@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Us?
 ---
 # Why pay more?
 
