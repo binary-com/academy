@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Binary.com meluncurkan kontrak Asia
+permalink: binary-com-meluncurkan-kontrak-asia
+excerpt: Dengan upgrade terbaru pada platform trading kami, sekarang Anda memiliki kesempatan untuk membeli kontrak Asia pada berbagai pilihan market Random Index.
+
+---
+Dengan upgrade terbaru pada platform trading kami, sekarang Anda memiliki kesempatan untuk membeli kontrak Asia pada berbagai pilihan market Random Index.
+
+Kontrak Asia memberi hasil jika harga spot pada akhir kontrak adalah lebih tinggi atau lebih rendah dari harga rata-rata yang ditradingkan selama durasi kontrak berlangsung (pada market yang sama).
+
+Kelebihan dari kontrak ini adalah tidak diperlukan patasan pada saat pembelian kontrak. Tidak seperti kontrak dengan batasan tetap lainnya, batasan pada kontrak Asia akan berubah pada setiap spot baru! Hal ini berarti, jika anda membeli kontrak Asia "Naik" dan market tiba tiba turun, maka batasan juga akan berkurang, memberi anda selisih keuntungan yang lebih baik dibandingkan dengan kontrak "Naik" biasa.
+
+![dd](/post_images/id-25-09-2014.gif)
+
+[Manfaatkan kelebihan kontrak Asia terbaru dari kami dan beli kontrak anda sekarang!](https://www.binary.com/c/trade.cgi?market=random&time=7t&form_name=asian&expiry_&amount_&H=%2B0&currency=USD&underlying_symbol=R_50&amount=100&date_&&l=ID/?utm_medium=social&utm_source=blog&utm_content=whatsnew)
+
+
