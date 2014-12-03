@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary.com launches Smart Indices
-permalink: /:title/
+permalink: /write-the-permalink-here-if-empty-then-default-permalink-will-be-used/
 excerpt: These well-diversified indices are based on an alternative weighting scheme and therefore are different to the traditional market capitalisation-weighted indices that you are accustomed to. Smart Indices are designed to give you more flexibility, than traditional indices, at the same competitive rates. If you're looking for better trading opportunities amid volatile markets and an unpredictable economic outlook, then these are the indices you should consider.
 ---
 

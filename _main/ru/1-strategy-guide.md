@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Гид стратегий
+permalink: gid-strategii
 lang: ru
 ---
 

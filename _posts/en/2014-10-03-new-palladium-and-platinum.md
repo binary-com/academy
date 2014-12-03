@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New! Palladium & Platinum
-permalink: /:title/
+permalink: /new-palladium-and-platinum/
 excerpt: In response to feedback received, we have just added these two precious metals to our available list of commodities.
 ---
 

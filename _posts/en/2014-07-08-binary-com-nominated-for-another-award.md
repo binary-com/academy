@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary.com nominated for another award!
-permalink: /:title/
+permalink: /binary-com-nominated-for-another-award/
 excerpt: We are pleased to announce that Binary.com is one of this year's nominees for the UK Forex Awards 2014.
 ---
 

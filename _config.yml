@@ -47,19 +47,16 @@ defaults:
       path: _posts/en
     values:
       lang: en
-      permalink: /:title/
   -
     scope:
       path: indexes/id
     values:
       lang: id
-      permalink: /:title/
   -
     scope:
       path: _posts/id
     values:
       lang: id
-      permalink: /:title/
   -
     scope:
       path: indexes/ru
@@ -70,7 +67,6 @@ defaults:
       path: _posts/ru
     values:
       lang: ru
-      permalink: /:title/
 t:
   en:
     contactus: "Contact Us"

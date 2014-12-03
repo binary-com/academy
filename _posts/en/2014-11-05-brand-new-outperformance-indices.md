@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Brand New! Outperformance Indices
-permalink: /:title/
+permalink: /brand-new-outperformance-indices/
 excerpt: Binary.com is now expanding its range of Smart Indices with the launch of the Outperformance Indices.  
 ---
 

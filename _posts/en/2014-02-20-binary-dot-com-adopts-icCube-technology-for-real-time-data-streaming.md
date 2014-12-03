@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary.com adopts icCube Technology for Real-Time Data Streaming
-permalink: /:title/
+permalink: /binary-dot-com-adopts-icCube-technology-for-real-time-data-streaming/
 excerpt: Binary.com is pleased to announce the implementation of icCube’s server Online Analytical Processing (OLAP) across its business, providing it with real time data streaming that is second to none.
 ---
 
