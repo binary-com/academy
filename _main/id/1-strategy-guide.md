@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Panduan Strategi
-permalink: panduan-strategi
+permalink: /panduan-strategi/
 lang: id
 ---
 
