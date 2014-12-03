@@ -1,17 +1,13 @@
-{% assign posts=paginator.posts | where: "lang", page.lang %}
+{% assign posts = site.posts | where: "lang", page.lang %}
 
 <div class="home">
 
     <div class="post-list">
 
-        Count is {{ paginator.posts | size }}
-
-        {{ site.main | size }}
-
         {% for post in posts %}
         <div class="post">
             <h1 class="margin-b"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> Lang is {{ post.lang }}
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <article class="post-content">
                 <p>
                     {{ post.excerpt }}

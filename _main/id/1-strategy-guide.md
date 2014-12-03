@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Panduan Strategi
+lang: id
 ---
 
 <h2>Trend</h2>

@@ -1,3 +1,6 @@
+{% assign nav = site.main | where: "lang", page.lang %}
+
+
 <div id="main-menu" class="tab-menu">
     <div class="menu-raw">
     <div class="tab-menu-wrap grd-container">
@@ -7,7 +10,7 @@
                 <li>
                     <a href="/">What's New?</a>
                 </li>
-                {% for node in site.main-id %}
+                {% for node in nav %}
                 {% if page.url == node.url %}
                 <li class="active">{% else %}<li>{% endif %}
                     <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>

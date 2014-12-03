@@ -12,37 +12,17 @@ markdown: kramdown
 paginate: 10
 
 languages:
-  - name: 'Deutsch'
-    key: 'de'
   - name: 'Bahasa Indonesia'
     key: 'id'
-  - name: '简体中文'
-    key: 'zh'
-  - name: 'Arabic'
-    key: 'ar'
-  - name: 'Polish'
-    key: 'pl'
   - name: 'Русский'
     key: 'ru'
-  - name: 'Português'
-    key: 'pt'
-  - name: 'Español'
-    key: 'es'
-  - name: 'Français'
-    key: 'fr'
   - name: 'English'
     key: 'en'
 
 collections:
-  main-en:
+  main:
     output: true
-    permalink: /en/:path/
-  main-ru:
-    output: true
-    permalink: /ru/:path/
-  main-id:
-    output: true
-    permalink: /id/:path/
+    permalink: /:path/
   videos:
     output: true
     permalink: /en/videos/:path/
@@ -60,85 +40,55 @@ defaults:
   -
     scope:
       path: indexes/en
+    values:
+      lang: en
+  -
+    scope:
       path: _main/en
+    values:
+      lang: en
+      permalink: /:title/
+  -
+    scope:
       path: _posts/en
     values:
       lang: en
-      layout: default
-      permalink: /:title/
-  -
-    scope:
-      path: _posts/de
-      path: indexes/de
-      path: _main/de
-    values:
-      lang: de
-      permalink: /:title/
+      permalink: /:title
   -
     scope:
       path: indexes/id
-      path: _main/id
-      path: _posts/id      
     values:
       lang: id
       permalink: /:title/
   -
     scope:
-      path: _posts/zh
-      path: indexes/zh
-      path: _main/zh
+      path: _posts/id
     values:
-      lang: zh
+      lang: id
       permalink: /:title/
   -
     scope:
-      path: _posts/ar
-      path: indexes/ar
-      path: _main/ar
+      path: _main/id
     values:
-      lang: ar
+      lang: id
       permalink: /:title/
   -
     scope:
-      path: _posts/pl
-      path: indexes/pl
-      path: _main/pl
+      path: indexes/ru
     values:
-      lang: pl
-      permalink: /:title/
+      lang: ru
   -
     scope:
       path: _posts/ru
-      path: indexes/ru
-      path: _main/ru
     values:
       lang: ru
       permalink: /:title/
   -
     scope:
-      path: _posts/pt
-      path: indexes/pt
-      path: _main/pt
+      path: _main/ru
     values:
-      lang: pt
+      lang: ru
       permalink: /:title/
-  -
-    scope:
-      path: _posts/es
-      path: indexes/es
-      path: _main/es
-    values:
-      lang: es
-      permalink: /:title/
-  -
-    scope:
-      path: _posts/fr
-      path: indexes/fr
-      path: _main/fr
-    values:
-      lang: fr
-      permalink: /:title/
-
 t:
   en:
     contactus: "Contact Us"

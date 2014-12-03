@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Гид стратегий
+lang: ru
 ---
+
 <h2>Тенденции</h2>
 
 ![]({{ site.baseurl }}/images/292897835.jpg)
