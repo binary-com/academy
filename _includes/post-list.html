@@ -4,7 +4,7 @@
 
     <div class="post-list">
 
-        {% for post in posts %}
+        {% for post in posts limit:10 %}
         <div class="post">
             <h1 class="margin-b"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -22,4 +22,4 @@
     </div>
 </div>
 
-{% include pagination.html %}
+<a class="button" href="/archive/"><span>Read more in the archive</span></a>
