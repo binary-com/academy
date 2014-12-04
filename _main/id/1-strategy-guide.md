@@ -5,7 +5,7 @@ permalink: /panduan-strategi/
 lang: id
 ---
 
-<h2>Trend</h2>
+<h2>Panduan Strategi</h2>
 
 ![]({{ site.baseurl }}/images/292897835.jpg)
 
