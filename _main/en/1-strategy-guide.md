@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Strategy Guide
-permalink: /strategy-guide/
+permalink: en/strategy-guide/
 ---
 
 <h2>Trends</h2>
