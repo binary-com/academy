@@ -70,10 +70,12 @@ defaults:
 t:
   en:
     contactus: "Contact Us"
+    Accounts: "Accounts"
   de:
     contactus: "Kontaktieren Sie uns"
   id:
     contactus: "Hubungi Kami"
+    Accounts: "accountsid"
   zh:
     contactus: "联系我们"
   ar:
@@ -82,6 +84,7 @@ t:
     contactus: "Napisz do nas"
   ru:
     contactus: "Контакты"
+    Accounts: "accountsru"
   pt:
     contactus: "Contate-Nos"
   es:
