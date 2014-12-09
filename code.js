@@ -20,24 +20,19 @@ $(function() {
 
     var currLang = document.documentElement.lang; //langFromUrl(window.location.href);
 
-    // console.log(currLang);
-
-    //$('#language_select select').val(currLang);
-
     $('#language_select select').on('change', function() {
 
-        var url = window.location.href,
+        /*var url = window.location.href,
             parser = document.createElement('a'),
             lang = $('#language_select select option:selected').val(),
             lastIdx = langCodeIdx(url),
             codeInUrl = url.substring(lastIdx + 1, lastIdx + 3),
             langOffset = isLangCode(codeInUrl) ? 3 : 0,
-            newUrl2 = url.substring(0, lastIdx + 1) + (lang == 'en' ? '' : (lang + '-')) + url.substring(lastIdx + 1 + langOffset);
+            newUrl2 = url.substring(0, lastIdx + 1) + (lang == 'en' ? '' : (lang + '-')) + url.substring(lastIdx + 1 + langOffset);*/
 
-        parser.href = window.location.href;
-        parser.pathname = '/' + lang + parser.pathname.substring(3);
+        var lang = $(this).val();
 
-        window.location.href = parser.href;
+        window.location.href = '/' + (lang == 'en' ? '' : lang);
     });
 
     $(".nav-button").click(function() {
