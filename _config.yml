@@ -39,7 +39,7 @@ defaults:
       layout: default
   -
     scope:
-      path: indexes/en
+      path: localized/en
     values:
       lang: en
   -
@@ -49,7 +49,7 @@ defaults:
       lang: en
   -
     scope:
-      path: indexes/id
+      path: localized/id
     values:
       lang: id
   -
@@ -59,7 +59,7 @@ defaults:
       lang: id
   -
     scope:
-      path: indexes/ru
+      path: localized/ru
     values:
       lang: ru
   -
@@ -72,14 +72,16 @@ t:
     contactus: "Contact Us"
     readmore: "Read More..."
     whatsnew: "What's New?"
-    archive: "Read more in the archive"
+    archive: "Archive"
+    readatarchive: "Read more in the archive"
   de:
     contactus: "Kontaktieren Sie uns"
   id:
     contactus: "Hubungi Kami"
     readmore: "Baca lebih lanjut..."
     whatsnew: "Berita terbaru?"
-    archive: "Baca lebih lanjut di dalam arsip"
+    archive: "Arsip"
+    readatarchive: "Baca lebih lanjut di dalam arsip"
   zh:
     contactus: "联系我们"
   ar:

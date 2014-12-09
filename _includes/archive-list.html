@@ -1,23 +1,14 @@
----
-permalink: /archive/
-layout: page
----
-
 {% assign posts = site.posts | where: "lang", page.lang %}
 
-<h1>Archive</h1>
+<h1>{{ site.t[page.lang].archive }}</h1>
 
 <div class="home">
-
     <div class="post-list">
-
         {% for post in posts %}
         <div class="post">
-            <h1 class="margin-b"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+            <h2 class="margin-b"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         {% endfor %}
     </div>
 </div>
-
-{% include pagination.html %}
