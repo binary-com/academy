@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Terbaru! Indeks Kinerja Super
 permalink: Terbaru-Indeks-Kinerja-Super
 excerpt: Binary.com kini memperluas jangkauan Smart Indeks dengan peluncuran Indeks Kinerja Super. 

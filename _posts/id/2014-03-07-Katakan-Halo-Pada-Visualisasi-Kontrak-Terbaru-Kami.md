@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Katakan Halo Pada Visualisasi Kontrak Terbaru Kami
 permalink: Katakan-Halo-Pada-Visualisasi-Kontrak-Terbaru-Kami 
 excerpt:

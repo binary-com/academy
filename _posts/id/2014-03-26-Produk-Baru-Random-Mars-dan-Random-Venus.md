@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Produk Baru! Random Mars dan Random Venus
 permalink: Produk-Baru-Random-Mars-dan-Random-Venus
 excerpt: This move comes as a result of the recent upgrade to our charting package, which we are pleased to say was very well-received by our customers. Effective from the 14 April 2014, the "Legacy Charts" will be brought down, to make room for our new and improved "Live Charts" and the "Java application" which you can download right here. 

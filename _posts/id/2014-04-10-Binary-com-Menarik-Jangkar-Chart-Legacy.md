@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Binary.com Menarik Jangkar Chart Legacy
 permalink: Binary-com-Menarik-Jangkar-Chart-Legacy
 excerpt: Keputusan ini diambil berhubung hasil peningkatan paket charting kami dan kami puas dengan penerimaan para pelanggan. Mulai 14 April 2014, "Chart Legacy" akan diturunkan, untuk memberi kesempatan pada "Chart Live" yang telah disempurnakan dan "aplikasi Java" yang dapat anda download disini.

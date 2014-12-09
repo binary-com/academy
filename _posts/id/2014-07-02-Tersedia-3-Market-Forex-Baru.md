@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Tersedia 3 Market Forex Baru
 permalink: Tersedia-3-Market-Forex-Baru
 excerpt: Telah tersedia pilihan market baru pada kontrak naik/turun yaitu USD/MXN, NZD/JPY dan USD/PLN dengan durasi minimal 1 hari.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Perubahan Kontrak Tik Dari Binary.com
 permalink: Perubahan-Kontrak-Tik-Dari-Binary-com
 excerpt: Dengan peningkatan terbaru tampilan trading kami, kami telah mendesain ulang penyediaan kontrak tik. Tik trade mulai saat ini dapat dibeli pada jenis market "Random" terletak pada halaman utama pada jenis kontrak "Naik/Turun". Beli kontrak tik sesuai keinginan anda dan dapatkan fleksibelitas trading, yang lebih penting lagi adalah tanpa penundaan!

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Kontrak 10 Kali Lipat & Untung 10% Mengalami Peningkatan Penuh
 permalink: Kontrak-10-Kali-Lipat-and-Untung-10-percent-Mengalami-Peningkatan-Penuh
 excerpt: Jenis kontrak "10 Kali Lipat " dan "Untung 10%" telah berpindah ke bagian jenis kontrak "Digit". Anda dapat membeli jenis kontrak tersebut hanya dengan mengunjungi halaman utama trading. Kontrak dapat dibeli pada jenis market "Random" dengan durasi minimal 5 tik atau maksimal 10 tik memberi anda pilihan lebih luas.

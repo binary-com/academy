@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Binary.com meluncurkan kontrak Asia
 permalink: binary-com-meluncurkan-kontrak-asia
 excerpt: Dengan upgrade terbaru pada platform trading kami, sekarang Anda memiliki kesempatan untuk membeli kontrak Asia pada berbagai pilihan market Random Index.

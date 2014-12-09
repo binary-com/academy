@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+<body>
+    {% include top.html %}
+    <div class="content">
+        <div class="page-content">
+            {{ content }}
+        </div>
+        <aside>
+            {% include id/sidebars-2.html %}
+        </aside>
+    </div>
+    {% include id/footer.html %}
+</body>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Aplikasi Chart Java Terbaru dari Binary.com
 permalink: Aplikasi-Chart-Java-Terbaru-dari-Binary-com
 excerpt:

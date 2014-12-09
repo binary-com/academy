@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Telah Tersedia Kontrak Jangka Pendek Menyentuh/Tidak
 permalink: Telah-Tersedia-Kontrak-Jangka-Pendek-Menyentuh-Tidak
 excerpt: Kabar gembira! Kontrak Menyentuh/Tidak pada beberapa pilihan Index telah tersedia dengan durasi minimal 1 hari. Fleksibilitas dalam memilih durasi paling pendek dalam tempo 1 hari memberi anda kontrol lebih maksimal dan pilihan lebih luas saat bertrading.

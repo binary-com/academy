@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Telah Tersedia Data Historikal untuk Market Random 
 permalink: Telah-Tersedia-Data-Historikal-untuk-Market-Random 
 excerpt:

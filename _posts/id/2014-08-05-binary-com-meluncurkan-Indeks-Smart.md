@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: id/post
 title:  Binary.com meluncurkan Indeks Smart
 permalink: binary-com-meluncurkan-Indeks-Smart
 excerpt: Kami dengan gembira menginformasikan bahwa Binary.com memperluas fasilitas yang ditawarkan dengan meluncurkan pilihan Indeks Smart.
