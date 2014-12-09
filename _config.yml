@@ -70,12 +70,16 @@ defaults:
 t:
   en:
     contactus: "Contact Us"
-    Accounts: "Accounts"
+    readmore: "Read More..."
+    whatsnew: "What's New?"
+    archive: "Read more in the archive"
   de:
     contactus: "Kontaktieren Sie uns"
   id:
     contactus: "Hubungi Kami"
-    Accounts: "accountsid"
+    readmore: "Baca lebih lanjut..."
+    whatsnew: "Berita terbaru?"
+    archive: "Baca lebih lanjut di dalam arsip"
   zh:
     contactus: "联系我们"
   ar:

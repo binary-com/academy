@@ -8,7 +8,7 @@
             <button class="nav-button">Toggle Navigation</button>
             <ul class="items primary-nav">
                 <li>
-                    <a href="/">What's New?</a>
+                    <a href="/">{{site.t[page.lang].whatsnew}}</a>
                 </li>
                 {% for node in nav %}
                 {% if page.url == node.url %}

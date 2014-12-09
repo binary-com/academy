@@ -14,7 +14,7 @@
                 </p>
             </article>
             <div class="readMore">
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{site.t[page.lang].readmore}}</a>
                 <div style="clear:both;"></div>
             </div>
         </div>
@@ -22,4 +22,4 @@
     </div>
 </div>
 
-<a class="button" href="/archive/"><span>Read more in the archive</span></a>
+<a class="button" href="/archive/"><span>{{site.t[page.lang].archive}}</span></a>
