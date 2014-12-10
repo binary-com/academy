@@ -90,7 +90,10 @@ t:
     contactus: "Napisz do nas"
   ru:
     contactus: "Контакты"
-    Accounts: "accountsru"
+    readmore: "Узнать больше..."
+    whatsnew: "Что нового?"
+    archive: "Архив"
+    readatarchive: "Смотреть архив"
   pt:
     contactus: "Contate-Nos"
   es:
