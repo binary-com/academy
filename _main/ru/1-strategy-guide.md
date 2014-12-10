@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: ru/page
 title: Гид стратегий
-permalink: /gid-strategii/
+permalink: ru/gid-strategii/
 lang: ru
 ---
 
