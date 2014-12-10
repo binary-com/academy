@@ -46,9 +46,11 @@ margin-top: 20px;
 margin-bottom: 20px;
 }
 .post-content img {
-    max-width: 100%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+display: block;  
+max-width: 600px;
+width: initial;
+margin: 20px auto;
+
 }
 .margin-b {
     margin-bottom: 10px;
