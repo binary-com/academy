@@ -1,7 +1,7 @@
 ---
 layout: ru/page
 title: Гид стратегий
-permalink: ru/gid-strategii/
+permalink: ru/strategy-guide/
 lang: ru
 ---
 
@@ -18,35 +18,35 @@ lang: ru
 
 ![]({{ site.baseurl }}/images/676252964.jpg)
 
-Another popular strategy is to trade based on market news. For example, if the U.S. Federal Reserve is set to announce interest rates, which would likely have an impact on the U.S. dollar, you could make a trade that the dollar will go up or down versus another currency when the news is announced.
+Другая популярная стратегия основывается на новостях с рынков.Например, если Федеральный Резерв США должен объявить процентную ставку, что должно сказаться на долларе США, Вы можете сделать ставка, что доллар вырастет или упадет в цене против другой определенной валюты после того, как новость будет объявлена.
 
-**Best contracts to use for the News strategy:** [Higher/Lower](https://www.binary.com/d/trade.cgi?form_name=higherlower&utm_medium=social&utm_campaign=blog&utm_source=binary
-), [Touch/No Touch](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary)
+**Лучшие ставки для применения новостной стратегии:** [Выше/Ниже](https://www.binary.com/d/trade.cgi?l=RU&form_name=higherlower&utm_medium=social&utm_source=blog&utm_content=strategyguide
+), [Касание/Нет касания](https://www.binary.com/d/trade.cgi?l=RU&form_name=touchnotouch&utm_medium=social&utm_source=blog&utm_content=strategyguide)
 
-## Steady Returns
+## Умеренная прибыль
 
 ![]({{ site.baseurl }}/images/725025357.jpg)
 
-With a Steady Returns strategy, you make high probability/low return trades (10-30% return) repeatedly in order to "grind out" a profit.
+Используя стратегию умеренных выигрышей, Вы делаете частые ставки с высокой вероятностью исполнения/низким потенциальным выигрышем (прибыль 10-30%).
 
-**Best contracts for the Steady Returns strategy:** [In/Out](https://www.binary.com/d/trade.cgi?form_name=staysinout&utm_medium=social&utm_campaign=blog&utm_source=binary
-) with price barriers adjusted to give low returns.
+**Лучшие ставки для стратегии умеренных выигрышей:** [Внутри/Вне](https://www.binary.com/d/trade.cgi?l=RU&form_name=staysinout&utm_medium=social&utm_source=blog&utm_content=strategyguide
+) с ценовыми барьерами. выбранными для низкой прибыли..
 
-## Big Wins
+## Большие выигрыши
 
 ![]({{ site.baseurl }}/images/746265726.jpg)
 
-With a Big Wins strategy, you make low probability/high return trades(200%+ return) and hope to win big. Obviously this is a risky strategy and we recommend that you only do this with money that you can readily afford to lose, and only after practising with lower stakes trades.
+Используя стратегию больших выигрышей, Вы делаете ставки с низкой вероятностью исполнения/высоким потенциальным выигрышем (прибыль от 200%+) и надеетесь выиграть. Очевидно, это рискованная стратегия, и мы рекоммендуем использовать ее только с деньгами, которые Вы можете позволить себе потерять в случае проигрыша, и только после практики на ставках с низкой стоимостью.
 
-**Best contracts for the Big Wins strategy:** [Touch/No](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary
-) touch or [In/Out](https://www.binary.com/d/trade.cgi?form_name=staysinout&utm_medium=social&utm_campaign=blog&utm_source=binary
-) with barriers adjusted to give high returns.
+**Лучшие ставки для стратегии больших выигрышей:** ставки [Касание/Нет](https://www.binary.com/d/trade.cgi?l=RU&form_name=touchnotouch&utm_medium=social&utm_source=blog&utm_content=strategyguide
+) касания или [Внутри/Вне](https://www.binary.com/d/trade.cgi?l=RU&form_name=staysinout&utm_medium=social&utm_source=blog&utm_content=strategyguide
+) с барьерами, выбранными для получения крупной прибыли.
 
-## Trading System
+## Система ставок
 
 ![]({{ site.baseurl }}/images/895879455.jpg)
 
-With a Trading System strategy, you trade on the markets like you would on a roulette wheel or a coin flip - start small, trade often and consider employing a trading size strategy such as the Martingale or Kelly.
+Используя стратегию беттинговых систем, Вы делаете ставки по принципу рулетки или монетки - начинает с мелких сумм, делаете частые ставки и применяете беттинговые стратегии типа Martingale или Kelly.
 
-**Best contracts to use for the Trading System strategy:** [Rise/Fall](https://www.binary.com/d/trade.cgi?form_name=variablereturn&utm_medium=social&utm_campaign=blog&utm_source=binary
-)
+**Лучшие ставки для системной стратегии:** [Повышение/Падение](https://www.binary.com/d/trade.cgi?l=RU&form_name=variablereturn&utm_medium=social&utm_source=blog&utm_content=strategyguide
+).
