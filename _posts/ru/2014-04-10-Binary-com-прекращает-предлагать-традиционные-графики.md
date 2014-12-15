@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ru/post
 title: Binary.com прекращает предлагать традиционные графики 
 permalink: Binary-com-прекращает-предлагать-традиционные-графики
 excerpt:

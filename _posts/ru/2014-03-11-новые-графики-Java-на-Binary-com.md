@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ru/post
 title: новые графики Java на Binary.com 
 permalink: новые-графики-Java-на-Binary-com
 

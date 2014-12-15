@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ru/post
 title: Binary.com начинает предлагать новые индексы Smart 
 permalink: Binary-com-начинает-предлагать-новые-индексы-Smart
 excerpt: "Мы рады сообщить, что Binary.com расширяет спектр своих услуг и теперь предлагает новые индексы Smart."
