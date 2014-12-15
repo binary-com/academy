@@ -27,7 +27,7 @@ Strategi populer lainnya adalah bermain berdasarkan berita pada market. Contohny
 
 Dengan menggunakan Strategi Laba Stabil, anda akan memperoleh kontrak dengan probabilitas tinggi/laba rendah (10-30% laba) secara berkesinambungan untuk "memperoleh" keuntungan.
 
-**Pilihan kontrak untuk strategi Laba Stabil:** Di [Dalam/Luar](https://www.binary.com/d/trade.cgi?l=ID&form_name=staysinout)dengan dengan batasan yang disesuaikan untuk memperoleh laba stabil.
+**Pilihan kontrak untuk strategi Laba Stabil:** Di [Dalam/Luar](https://www.binary.com/d/trade.cgi?l=ID&form_name=staysinout) dengan dengan batasan yang disesuaikan untuk memperoleh laba stabil.
 
 ## Untung Besar
 
