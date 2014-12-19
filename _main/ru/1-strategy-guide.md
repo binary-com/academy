@@ -11,7 +11,7 @@ lang: ru
 
 Популярной стратегией является ставка против или на коротких рыночных тенденциях (повышение или понижение рынка). Например, если рынок поднимается, Вы можете воспользоваться этим повышение и купить ставку на повышение или, наоборот, если считаете, что скоро тенденция сменится, на понижение.
 
-**Лучшие ставки для применения трендовой стратегии:** [Повышение/Падение](https://www.binary.com/d/trade.cgi?l=RU&form_name=variablereturn&utm_medium=social&utm_source=blog&utm_content=whatsnew
+**Лучшие ставки для применения трендовой стратегии:** [Повышение/Падение](https://www.binary.com/d/trade.cgi?l=RU&form_name=variablereturn&utm_medium=social&utm_source=blog&utm_content=blog-ru
 )
 
 ## Новости
@@ -20,7 +20,7 @@ lang: ru
 
 Другая популярная стратегия основывается на новостях с рынков.Например, если Федеральный Резерв США должен объявить процентную ставку, что должно сказаться на долларе США, Вы можете сделать ставка, что доллар вырастет или упадет в цене против другой определенной валюты после того, как новость будет объявлена.
 
-**Лучшие ставки для применения новостной стратегии:** [Выше/Ниже](https://www.binary.com/d/trade.cgi?l=RU&form_name=higherlower&utm_medium=social&utm_source=blog&utm_content=strategyguide
+**Лучшие ставки для применения новостной стратегии:** [Выше/Ниже](https://www.binary.com/d/trade.cgi?l=RU&form_name=higherlower&utm_medium=social&utm_source=blog&utm_content=blog-ru
 ), [Касание/Нет касания](https://www.binary.com/d/trade.cgi?l=RU&form_name=touchnotouch&utm_medium=social&utm_source=blog&utm_content=strategyguide)
 
 ## Умеренная прибыль
@@ -29,7 +29,7 @@ lang: ru
 
 Используя стратегию умеренных выигрышей, Вы делаете частые ставки с высокой вероятностью исполнения/низким потенциальным выигрышем (прибыль 10-30%).
 
-**Лучшие ставки для стратегии умеренных выигрышей:** [Внутри/Вне](https://www.binary.com/d/trade.cgi?l=RU&form_name=staysinout&utm_medium=social&utm_source=blog&utm_content=strategyguide
+**Лучшие ставки для стратегии умеренных выигрышей:** [Внутри/Вне](https://www.binary.com/d/trade.cgi?l=RU&form_name=staysinout&utm_medium=social&utm_source=blog&utm_content=blog-ru
 ) с ценовыми барьерами. выбранными для низкой прибыли..
 
 ## Большие выигрыши
@@ -39,7 +39,7 @@ lang: ru
 Используя стратегию больших выигрышей, Вы делаете ставки с низкой вероятностью исполнения/высоким потенциальным выигрышем (прибыль от 200%+) и надеетесь выиграть. Очевидно, это рискованная стратегия, и мы рекоммендуем использовать ее только с деньгами, которые Вы можете позволить себе потерять в случае проигрыша, и только после практики на ставках с низкой стоимостью.
 
 **Лучшие ставки для стратегии больших выигрышей:** ставки [Касание/Нет](https://www.binary.com/d/trade.cgi?l=RU&form_name=touchnotouch&utm_medium=social&utm_source=blog&utm_content=strategyguide
-) касания или [Внутри/Вне](https://www.binary.com/d/trade.cgi?l=RU&form_name=staysinout&utm_medium=social&utm_source=blog&utm_content=strategyguide
+) касания или [Внутри/Вне](https://www.binary.com/d/trade.cgi?l=RU&form_name=staysinout&utm_medium=social&utm_source=blog&utm_content=blog-ru
 ) с барьерами, выбранными для получения крупной прибыли.
 
 ## Система ставок
@@ -48,5 +48,5 @@ lang: ru
 
 Используя стратегию беттинговых систем, Вы делаете ставки по принципу рулетки или монетки - начинает с мелких сумм, делаете частые ставки и применяете беттинговые стратегии типа Martingale или Kelly.
 
-**Лучшие ставки для системной стратегии:** [Повышение/Падение](https://www.binary.com/d/trade.cgi?l=RU&form_name=variablereturn&utm_medium=social&utm_source=blog&utm_content=strategyguide
+**Лучшие ставки для системной стратегии:** [Повышение/Падение](https://www.binary.com/d/trade.cgi?l=RU&form_name=variablereturn&utm_medium=social&utm_source=blog&utm_content=blog-ru
 ).
