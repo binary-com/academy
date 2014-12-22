@@ -343,9 +343,17 @@ table td {
     background: url('../images/event-weekly-trading-room.png') no-repeat 95% 50%;
     background-size: 55%;
 }
+.back-image1-ru{
+    background: url('../images/event-weekly-trading-room.png') no-repeat 95% 50%;
+    background-size: 50%;
+}
 .back-image2{
     background: url('../images/commodities-2-high-res-img.png') no-repeat 85% 50%;
     background-size: 55%;
+}
+.back-image2-ru{
+    background: url('../images/commodities-2-high-res-img.png') no-repeat 90% 50%;
+    background-size: 50%;
 }
 .nav-button {
     display: none;
@@ -671,8 +679,8 @@ aside {
 }
 /* End Mobile Styles */
 
-
-/* REMOVE THIS AFTER LANGUAGES ARE ADDED TO TOPBAR */
-#topbar {
-    height: 21px;
+/* REMOVE THIS AFTER RU Daily Report is shifted to new design */
+.border{
+    border-top: 1px solid #dedede;
+    margin: 50px auto;
 }
