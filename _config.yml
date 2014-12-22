@@ -14,10 +14,12 @@ paginate: 10
 languages:
   - name: 'Bahasa Indonesia'
     key: 'id'
-  - name: 'Русский'
-    key: 'ru'
+  #- name: 'Русский'
+   # key: 'ru'
   - name: 'English'
     key: 'en'
+  #- name: 'Français'
+   # key: 'fr'
 
 collections:
   main:
@@ -67,6 +69,16 @@ defaults:
       path: _posts/ru
     values:
       lang: ru
+  -
+    scope:
+      path: localized/fr
+    values:
+      lang: fr
+  -
+    scope:
+      path: _posts/fr
+    values:
+      lang: fr
 t:
   en:
     contactus: "Contact Us"
