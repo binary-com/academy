@@ -14,8 +14,8 @@ paginate: 10
 languages:
   - name: 'Bahasa Indonesia'
     key: 'id'
-  #- name: 'Русский'
-   # key: 'ru'
+  - name: 'Русский'
+    key: 'ru'
   - name: 'English'
     key: 'en'
   #- name: 'Français'
