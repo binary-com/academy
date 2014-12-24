@@ -54,33 +54,73 @@ $(function() {
     $('.wcustomhtml').css('overflow', 'visible');
 
     function getDailyReport() {
+        $.get('//js.betonmarkets.com/javascript.php', {
+                prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
+                media: '26',
+                campaign: '1',
+               mode: 'txt'
+            },
+           function(xml) {
+                var content = '';
+                var recent = '';
 
-        var feedUrl = currLang == 'fr' ? 'https://betonmarketsdailyreportru.wordpress.com/feed/' : 'https://betonmarketsdailyreport.wordpress.com/feed/';
+               $(xml).find('item').each(function(idx) {
 
-        $.superfeedr.options.login = 'binary';
-        $.superfeedr.options.key = '4022a847fd2079d56dd39541ea04649c';
-        var feed = new $.superfeedr.Feed(feedUrl);
+                    var title = $(this).find('title').text().replace(/regentmarkets\d.*$/, ''),
+                        pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT');
 
-        feed.load({count: 100}, function(data) {
+                    var post = $(this).find('content\\:encoded').text();
+                    if (!post) {
+                        post = $(this).find('encoded').text();
+                    }
+                    post = post.replace(']]&gt;', '')
+                        .replace(']]>', '')
+                       .replace(/>(.*?)</, '');
 
-            if (data.error) {
-                console.log(data.error);
-                return;
-            }
-            $(data.feed.items).each(function (idx, item) {
-                $('.report-list').append($('<option>', {
-                    value: idx,
-                    text: item.title
-                }));
-                $('<div id="report-' + idx + '" class="single-report">')
-                   .append('<h1>' + item.title + '</h1>')
-                   .append('<span class="post-meta">' + moment(item.published, 'X').format('MMMM Do YYYY') + '</span>')
-                   .append(item.content.substr(item.content.indexOf('<div>') + 5, item.content.lastIndexOf('</div>') - 6))
-                   .toggle(idx == 0)
-                   .appendTo('.daily-report');
-            });
-        });
-    }
+                    post = post.substr(post.indexOf('<div>') + 5, post.lastIndexOf('</div>') - 6);
+
+                    $('.report-list').append($('<option>', {
+                        value: idx,
+                        text: title
+                    }));
+
+                    $('<div id="report-' + idx + '" class="single-report">')
+                        .append('<h1>' + title + '</h1>')
+                        .append('<span class="post-meta">' + pubDate + '</span>')
+                        .append('<p>' + post + '</p>')
+                       .toggle(idx == 0)
+                        .appendTo('.daily-report');
+                });
+            },
+            'xml'
+        );
+
+    //     var feedUrl = currLang == 'fr' ? 'https://binarydailyreportru.wordpress.com/feed/' : 'https://betonmarketsdailyreport.wordpress.com/feed/';
+
+    //     $.superfeedr.options.login = 'binary';
+    //     $.superfeedr.options.key = '4022a847fd2079d56dd39541ea04649c';
+    //     var feed = new $.superfeedr.Feed(feedUrl);
+
+    //     feed.load({count: 100}, function(data) {
+
+    //         if (data.error) {
+    //             console.log(data.error);
+    //             return;
+    //         }
+    //         $(data.feed.items).each(function (idx, item) {
+    //             $('.report-list').append($('<option>', {
+    //                 value: idx,
+    //                 text: item.title
+    //             }));
+    //             $('<div id="report-' + idx + '" class="single-report">')
+    //                .append('<h1>' + item.title + '</h1>')
+    //                .append('<span class="post-meta">' + moment(item.published, 'X').format('MMMM Do YYYY') + '</span>')
+    //                .append(item.content.substr(item.content.indexOf('<div>') + 5, item.content.lastIndexOf('</div>') - 6))
+    //                .toggle(idx == 0)
+    //                .appendTo('.daily-report');
+    //         });
+    //     });
+     }
 
     if ($('.daily-report').length) {
         getDailyReport();
