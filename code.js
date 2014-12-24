@@ -94,32 +94,6 @@ $(function() {
             },
             'xml'
         );
-
-    //     var feedUrl = currLang == 'fr' ? 'https://binarydailyreportru.wordpress.com/feed/' : 'https://betonmarketsdailyreport.wordpress.com/feed/';
-
-    //     $.superfeedr.options.login = 'binary';
-    //     $.superfeedr.options.key = '4022a847fd2079d56dd39541ea04649c';
-    //     var feed = new $.superfeedr.Feed(feedUrl);
-
-    //     feed.load({count: 100}, function(data) {
-
-    //         if (data.error) {
-    //             console.log(data.error);
-    //             return;
-    //         }
-    //         $(data.feed.items).each(function (idx, item) {
-    //             $('.report-list').append($('<option>', {
-    //                 value: idx,
-    //                 text: item.title
-    //             }));
-    //             $('<div id="report-' + idx + '" class="single-report">')
-    //                .append('<h1>' + item.title + '</h1>')
-    //                .append('<span class="post-meta">' + moment(item.published, 'X').format('MMMM Do YYYY') + '</span>')
-    //                .append(item.content.substr(item.content.indexOf('<div>') + 5, item.content.lastIndexOf('</div>') - 6))
-    //                .toggle(idx == 0)
-    //                .appendTo('.daily-report');
-    //         });
-    //     });
      }
 
     if ($('.daily-report').length) {
