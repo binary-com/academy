@@ -1,52 +1,51 @@
 ---
-layout: page
-title: Strategy Guide
+layout: fr/page
+title: Guide de Stratégie 
 permalink: fr/strategy-guide/
 lang: fr
 ---
 
-<h2>Trends</h2>
+<h2>TENDANCES</h2>
 
 ![]({{ site.baseurl }}/images/292897835.jpg)
 
-A popular strategy is to trade with or against short-term market trends (market going up or down). For instance, if a market is rising, you may want to "ride" it by trading up, or trade against it by trading down.
+Une stratégie populaire est d'effectuer des trades contre ou en suivant la tendance du marché à court terme (marché qui est en hausse ou qui est en baisse). Par exemple, si un marché est en hausse, vous seriez tenter de le "suivre" en misant sur une hausse, ou de contrer cette tendance en misant sur une baisse.
 
-**Best contracts to use for the Trend strategy:** [Rise/Fall](https://www.binary.com/d/trade.cgi?form_name=variablereturn&utm_medium=social&utm_campaign=blog&utm_source=binary
-)
+**Meilleurs contrats pour utiliser la stratégie Tendance:** [Hausse/Baisse](https://www.binary.com/d/trade.cgi?l=FR&market=commodities&H=S0P&type=FLASHU&payout=100&currency=GBP&underlying_symbol=frxXAUUSD&time=5m&date_start=now&form_name=risefall&utm_medium=social&utm_source=blog&utm_content=whatsnew).
 
-## News
+## NOUVELLES
 
 ![]({{ site.baseurl }}/images/676252964.jpg)
 
-Another popular strategy is to trade based on market news. For example, if the U.S. Federal Reserve is set to announce interest rates, which would likely have an impact on the U.S. dollar, you could make a trade that the dollar will go up or down versus another currency when the news is announced.
+Une autre stratégie populaire est d'effectuer des trades en se basant sur les nouvelles du marché. Par exemple, si la Réserve Fédérale américaine est sur le point d'annoncer des taux d'intérêt, qui auront sans doutes un impact sur le dollar américain, vous pourriez miser sur le fait que le dollar augmentera ou faiblira par rapport à une autre devise lorsque cette nouvelle sera annoncée.
 
-**Best contracts to use for the News strategy:** [Higher/Lower](https://www.binary.com/d/trade.cgi?form_name=higherlower&utm_medium=social&utm_campaign=blog&utm_source=binary
-), [Touch/No Touch](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary)
+**Meilleurs contrats pour utiliser la stratégie Nouvelles:** [Supérieur/Inférieur](https://www.binary.com/d/trade.cgi?l=FR&form_name=higherlower&utm_medium=social&utm_source=blog&utm_content=whatsnew
+), [ Touche/Ne Touche](https://www.binary.com/d/trade.cgi?l=FR&form_name=touchnotouch&utm_medium=social&utm_source=blog&utm_content=whatsnew)Pas.
 
-## Steady Returns
+## RENDEMENTS STABLES
 
 ![]({{ site.baseurl }}/images/725025357.jpg)
 
-With a Steady Returns strategy, you make high probability/low return trades (10-30% return) repeatedly in order to "grind out" a profit.
+Avec la stratégie Rendements Stables, vous effectuez à plusieurs reprises des trades qui ont une haute probabilité/rendement bas (rendements de 10-30%) afin d'"extraire" un profit.
 
-**Best contracts for the Steady Returns strategy:** [In/Out](https://www.binary.com/d/trade.cgi?form_name=staysinout&utm_medium=social&utm_campaign=blog&utm_source=binary
-) with price barriers adjusted to give low returns.
+**Meilleurs contrats pour la stratégie Rendements Stables:** [Dans/Hors](https://www.binary.com/d/trade.cgi?l=FR&form_name=staysinout&utm_medium=social&utm_source=blog&utm_content=whatsnew
+) De avec des barrières de prix ajustées afin de produire des rendements bas.
 
-## Big Wins
+## GAINS ÉNORMES
 
 ![]({{ site.baseurl }}/images/746265726.jpg)
 
-With a Big Wins strategy, you make low probability/high return trades(200%+ return) and hope to win big. Obviously this is a risky strategy and we recommend that you only do this with money that you can readily afford to lose, and only after practising with lower stakes trades.
+Avec la stratégie Gains Énormes, vous effectuez des trades qui ont une basse probabilité/rendement élevé (rendement de 200%+) et espérez gagner gros. Cette stratégie est évidemment risquée et nous recommandons de l'utiliser uniquement avec de l'argent que vous pouvez perdre, et seulement après vous être entraînés avec des trades de mises inférieures.
 
-**Best contracts for the Big Wins strategy:** [Touch/No](https://www.binary.com/d/trade.cgi?form_name=touchnotouch&utm_medium=social&utm_campaign=blog&utm_source=binary
-) touch or [In/Out](https://www.binary.com/d/trade.cgi?form_name=staysinout&utm_medium=social&utm_campaign=blog&utm_source=binary
-) with barriers adjusted to give high returns.
+**Meilleurs contrats pour la stratégie Gains Énormes:** [Touche/Ne Touche](https://www.binary.com/d/trade.cgi?l=FR&form_name=touchnotouch&utm_medium=social&utm_source=blog&utm_content=whatsnew
+) Pas ou [Dans/Hors](https://www.binary.com/d/trade.cgi?l=FR&form_name=staysinout
+) De avec des barrières ajustées afin de produire des rendements élevés.
 
-## Trading System
+## SYSTÈME DE TRADE
 
 ![]({{ site.baseurl }}/images/895879455.jpg)
 
-With a Trading System strategy, you trade on the markets like you would on a roulette wheel or a coin flip - start small, trade often and consider employing a trading size strategy such as the Martingale or Kelly.
+Avec une stratégie de Système de Trade, vous effectuez des trades sur les marchés de la même manière que lors de la roulette au casino ou lors de pile ou face - commencez petit, effectuez souvent des trades et considérez utiliser une stratégie de taille de trading comme le Martingale ou Kelly.
 
-**Best contracts to use for the Trading System strategy:** [Rise/Fall](https://www.binary.com/d/trade.cgi?form_name=variablereturn&utm_medium=social&utm_campaign=blog&utm_source=binary
+**Meileurs contrats pour utiliser la stratégie Système de Trade:** [Hausse/Baisse](https://www.binary.com/d/trade.cgi?l=FR&form_name=variablereturn&utm_medium=social&utm_source=blog&utm_content=whatsnew
 )
