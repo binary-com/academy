@@ -20,6 +20,8 @@ languages:
     key: 'en'
   #- name: 'Français'
    # key: 'fr'
+   #- name: 'Português'
+    #key: 'pt'
 
 collections:
   main:
@@ -79,6 +81,16 @@ defaults:
       path: _posts/fr
     values:
       lang: fr
+  -
+    scope:
+      path: localized/pt
+    values:
+      lang: pt
+  -
+    scope:
+      path: _posts/pt
+    values:
+      lang: pt
 t:
   en:
     contactus: "Contact Us"
