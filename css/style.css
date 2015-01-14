@@ -46,7 +46,7 @@ margin-top: 20px;
 margin-bottom: 20px;
 }
 .post-content img {
-display: block;  
+display: block;
 max-width: 600px;
 width: initial;
 margin: 20px auto;
@@ -127,7 +127,7 @@ margin: 20px auto;
     background-color: #fff;
     float: left;
     border-bottom: 1px solid #dedede;
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
     padding-top: 50px;
 }
 .content-box-2 h2 {
@@ -459,6 +459,13 @@ aside {
 
 .report-list {
     width: 100%;
+}
+.gray-box{
+  background-color: #f2f2f2;
+  padding:20px;
+  margin-top:20px;
+  display:inline-block;
+  text-align:center;
 }
 
 /* =====================================================
