@@ -45,10 +45,19 @@ $(function() {
 
     $('.wcustomhtml').css('overflow', 'visible');
 
-    function getDailyReport(options) {
+    function getDailyReport(media) {
+
+        var options = {
+            prefix: 'bPzDzniJKAJM5vlemjwB2mNd7ZgqdRLk',
+            media: media,
+            campaign: '1',
+            mode: 'txt'
+        };
+
         $.get('//js.binary.com/javascript.php', options, function(xml) {
-                var content = '';
-                var recent = '';
+
+            var content = '',
+                recent = '';
 
                $(xml).find('item').each(function(idx) {
 
@@ -63,7 +72,7 @@ $(function() {
                         .replace(']]>', '')
                        .replace(/>(.*?)</, '');
 
-                    //post = post.substr(post.indexOf('<div>') + 5, post.lastIndexOf('</div>') - 6);
+                    // post = post.substr(post.indexOf('<div>') + 5, post.lastIndexOf('</div>') - 6);
 
                     $('.report-list').append($('<option>', {
                         value: idx,
@@ -83,22 +92,11 @@ $(function() {
     }
 
     if ($('.daily-report').length) {
-        getDailyReport({
-            prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
-            media: '26',
-            campaign: '1',
-            mode: 'txt'
-        });
-    }
-
-    // daily Report Russuian feed==================http://js.binary.com/javascript.php?prefix=bPzDzniJKAJM5vlemjwB2mNd7ZgqdRLk&media=875&campaign=1&mode=txt
-    if ($('.daily-report-ru').length) {
-        getDailyReport({
-            prefix: 'bPzDzniJKAJM5vlemjwB2mNd7ZgqdRLk',
-            media: '875',
-            campaign: '1',
-            mode: 'txt'
-        });
+        if (currLang == 'fr') {
+            getDailyReport('875');
+        } else {
+            getDailyReport('26');
+        }
     }
 
     $('.report-list').on('change', function(ev) {
