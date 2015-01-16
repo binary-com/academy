@@ -54,7 +54,7 @@ $(function() {
     $('.wcustomhtml').css('overflow', 'visible');
 
     function getDailyReport() {
-        $.get('//js.betonmarkets.com/javascript.php', {
+        $.get('//js.binary.com/javascript.php', {
                 prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
                 media: '26',
                 campaign: '1',
@@ -136,5 +136,58 @@ $(function() {
         $('html, body').animate({
             scrollTop: $(".video-container").offset().top
         }, 300);
+    });
+    // daily Report Russuian feed==================http://js.binary.com/javascript.php?prefix=bPzDzniJKAJM5vlemjwB2mNd7ZgqdRLk&media=875&campaign=1&mode=txt
+    function getDailyReportRu() {
+        $.get('//js.binary.com/javascript.php', {
+                prefix: 'bPzDzniJKAJM5vlemjwB2mNd7ZgqdRLk',
+                media: '875',
+                campaign: '1',
+               mode: 'txt'
+            },
+           function(xml) {
+                var content = '';
+                var recent = '';
+
+               $(xml).find('item').each(function(idx) {
+
+                    var title = $(this).find('title').text().replace(/regentmarkets\d.*$/, ''),
+                        pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT');
+
+                    var post = $(this).find('content\\:encoded').text();
+                    if (!post) {
+                        post = $(this).find('encoded').text();
+                    }
+                    post = post.replace(']]&gt;', '')
+                        .replace(']]>', '')
+                       .replace(/>(.*?)</, '');
+
+                    post = post.substr(post.indexOf('<div>') + 5, post.lastIndexOf('</div>') - 6);
+
+                    $('.report-list').append($('<option>', {
+                        value: idx,
+                        text: title
+                    }));
+
+                    $('<div id="report-' + idx + '" class="single-report">')
+                        .append('<h1>' + title + '</h1>')
+                        .append('<span class="post-meta">' + pubDate + '</span>')
+                        .append('<p>' + post + '</p>')
+                       .toggle(idx == 0)
+                        .appendTo('.daily-report-ru');
+                });
+            },
+            'xml'
+        );
+     }
+
+    if ($('.daily-report-ru').length) {
+        getDailyReportRu();
+    }
+
+    $('.report-list').on('change', function(ev) {
+        $('.single-report').hide();
+        $('#report-' + $('.report-list').val()).show();
+
     });
 });
