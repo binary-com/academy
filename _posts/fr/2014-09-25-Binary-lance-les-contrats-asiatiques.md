@@ -2,8 +2,7 @@
 layout: fr/post
 title: Binary.com lance les contrats asiatiques
 permalink: fr/Binary-lance-les-contrats-asiatiques
-excerpt: Avec la derniËre mise ‡ jour de notre plate-forme de trading, vous avez maintenant líopportunitÈ díacheter des contrats asiatiques sur les Indices 
-AlÈatoires.
+excerpt: "Avec la derniËre mise ‡ jour de notre plate-forme de trading, vous avez maintenant líopportunitÈ díacheter des contrats asiatiques sur les Indices AlÈatoires."
 ---
 
 Avec la derniËre mise ‡ jour de notre plate-forme de trading, vous avez maintenant líopportunitÈ díacheter des contrats asiatiques sur les Indices 
