@@ -54,7 +54,7 @@ $(function() {
             mode: 'txt'
         };
 
-        $.get('http://js.binary.com/javascript.php', options, function(xml) {
+        $.get('//js.binary.com/javascript.php', options, function(xml) {
 
             var content = '',
                 recent = '';
