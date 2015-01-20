@@ -5,6 +5,23 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 20 января 2015**
+
+#Восстановление доллара
+
+Сегодня утром американский доллар продолжает набирать уверенность, что заставляет подниматься пары с йеной и ограничивает прибыль инвесторов на долларовых парах. S&P 500 также на подъеме после неважной пятницы. Пара USD/JPY стремится ввысь третий день подряд, как и GBP/JPY, которая сегодня поднялась на 0.55%. NZD/USD и AUD/USD тащатся в хвосте, так как рост китайской промышленности замедлился, что сказалось и на островных соседях.
+
+Сегодня из новостей в 1300 по Москве индекс текущих экономических условий ZEW в Германии. Канадские промышленные отгрузки в 1630. С 1800 мы переключимся на США, где в это время речь члена FOMC Пауэлла, а также индекс рынка жилья NAHB.
+
+Пара USD/JPY постепенно взбирается все выше, и, хотя тенденции еще предстоит набрать былую силу, в долгосрочной перспективе можно ожидать именно этого.
+
+
+[![](/post_images/dr-ru-20jan.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market= forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=118.50&currency=GBP&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market= forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=118.50&currency=GBP&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
 
 **Анализ рынка от Дэйва Эванса за 16 января 2015**
 
