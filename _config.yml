@@ -20,8 +20,10 @@ languages:
     key: 'en'
   #- name: 'Français'
    # key: 'fr'
-   #- name: 'Português'
+  #- name: 'Português'
     #key: 'pt'
+  #- name: 'Español'
+    #key: 'es'
 
 collections:
   main:
@@ -33,6 +35,9 @@ collections:
   contributors:
     output: true
     permalink: /en/contributors/:path/
+  pages:
+    output: true
+    permalink: /en/:path/
 
 defaults:
   -
@@ -91,6 +96,16 @@ defaults:
       path: _posts/pt
     values:
       lang: pt
+  -
+    scope:
+      path: localized/es
+    values:
+      lang: es
+  -
+    scope:
+      path: _posts/es
+    values:
+      lang: es
 t:
   en:
     contactus: "Contact Us"
@@ -122,6 +137,7 @@ t:
     contactus: "Contate-Nos"
   es:
     contactus: "Contáctenos"
+    whatsnew: "NOTICIAS"
   fr:
     contactus: "Contactez-nous"
     readmore: "Lisez plus..."
