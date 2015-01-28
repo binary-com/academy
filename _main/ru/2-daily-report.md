@@ -5,6 +5,24 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 28 января 2015**
+
+#Марфонский забег евро приостановлен
+
+Сегодня утром, похоже, евро снял ногу с газа, так,  EUR/USD упала на 0.31%, а EUR/GBP примерно на тот же процент. Причина скорее в отсутствии хороших новостей, чем в наличии плохих. Продолжаются размышления на тему невозможности Греции соблюсти финансовые обязательства, а также по поводу ее выхода из еврозоны, но многое из этого уже обсуждалось и до выборов. Австралийский доллар создает наибольшее движение, так, пара AUD/JPY поднялась на 0.79%, а AUD/USD на 0.69%. Австралиец на подъеме благодаря лучшим, чем ожидалось, данным ИПЦ. Долларовый индекс стабилизировался после двух дней продаж, а S&P 500 покинул высоты после новостей, что доходы Apple побили рекорд.
+
+Сегодня основная новость дня – заявление Федерального комитета открытого рынка FOMC в 2200, где не ожидается изменений. В 2300 заявление о ставке резервного банка Новой Зеландии RBNZ и торговый баланс там же в 0045 по Москве.
+
+Евро сегодня приостановил свой бег, и, хотя британский ВВП вчера оказался немного хуже ожидаемого, в Еврозоне еще больше препятствий на ближайшее время.
+
+[![](/post_images/dr-ru-28jan.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=62d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7400&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+Контракт НИЖЕ, что EUR/GBP закроется ниже 0.7400 через 62 дня, может принести прибыль 157% в случае успеха.
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=62d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7400&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+<div class="border"></div>
+
 **Анализ рынка от Дэйва Эванса за 27 января 2015**
 
 #Морозы в Нью-Йорке, а евро стабилизируется
@@ -17,7 +35,7 @@ lang: ru
 
 [![](/post_images/dr-ru-27jan.jpg)](https://www.binary.com/c/trade.cgi?market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.2500&currency=USD&underlying_symbol=frxUSDCAD&amount=100&date_start=now&type=CALL&l=RU)
 
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.2500&currency=USD&underlying_symbol=frxUSDCAD&amount=100&date_start=now&type=CALL&l=RU
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.2500&currency=USD&underlying_symbol=frxUSDCAD&amount=100&date_start=now&type=CALL&l=RU)
 
 
 <div class="border"></div>
@@ -272,22 +290,7 @@ lang: ru
 
 [Посмотреть и приобрести контракт.](http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?market=forex&time=43d&form_name=higherlower&expiry_&amount_&H=1.2300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_&&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
-<div class="border"></div>
-**Анализ рынка от Дэйва Эванса за 17 декабря 2014**
 
-#Все внимание на FOMC и Россия на краю пропасти
-
-Сегодня утром российский рубль хотя бы стабилизировался после неудачной попытки остановить его стремительное падение. Можно ожидать дальнейшего понижения курса рубля, но пока инвесторы переводят дыхание. Это настроение отражается и на фондовых рынках, которые делают попытку восстановиться от недавних потерь. Парыв с йеной также возвращаются после двухдневного падения. Пара USD/JPY подянлась на 0.67%, GBP/JPY на 0.52%, а EUR/JPY на 0.46%. Долларовые пары не в лучшей ситуации, так как потребонсть в безопасной гавани, роль которой исполняет йена, проходит, и средства текут обратно к доллару. В особенности это негативно отражается AUD/USD и NZD/USD, которые обе опустились на 0.75%. Также австралийскому доллару не помогает и факт низкий цен на сырьевые товары.
-
-Сегодня из новостей в Великобритании в 1200 данные о проголосовавших в MPC за снижение ставок и средний уровень заработной платы с учетом премий. С 1630 в Канаде оптовые продажи и в США ИПЦ. В 2200 заявление Федерального комитета открытого рынка FOMC и объявление о процентной ставке, а в 2230 ре чь члена FOMC Йеллен.
-
-Австралийский доллар продолжает падать по мере понижения цен на сырье, и пара AUD/USD – одна из пар с большими понижением за последний месяц. Так как доллар, кажется, возвращается к штурвалу, можно ожидать дальнейшего понижения курса австралийской валюты.
-
-Контракт НИЖЕ, что AUD/USD закроется ниже 0.8125 через 14 дней, может принести прибыль 132%. 
-
-![](/post_images/8870241_orig.jpg)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.8125&currency=GBP&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
