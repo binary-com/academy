@@ -1,0 +1,100 @@
+---
+layout: ads
+title: Adwords
+---
+<style>
+	.zcta{text-align: center;}
+</style>
+<div id="section1">
+	<div class="grd-container">
+		<div class="grd-grid-12">
+		<!-- <a href="#" id="signbox">Try it!</a> -->
+			<div class="grd-grid-12 center">
+				<h1>The Premier Platform for Binary Options Trading</h1>
+				<p>Discover the easiest way to get started in the financial markets.</p>
+			</div>
+			<div class="grd-grid-12">
+				<div class="grd-grid-4"><a href="#section4"><img src="http://placehold.it/500x500" alt=""></a></div>
+				<div class="grd-grid-4"><img src="http://placehold.it/500x500" alt=""></div>
+				<div class="grd-grid-4"><img src="http://placehold.it/500x500" alt=""></div>
+			</div>
+			<div class="grd-grid-12 center">
+				<div class="zcta">
+					<a id="signbox" class="button pjaxload zreal pjaxload-focus" href="#">
+		        		<span>OPEN ACCOUNT NOW</span>
+	      			</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="section2">
+	<div class="grd-container">
+		<div class="grd-grid-12 center">
+			<h1>Section 2</h1>
+		</div>
+		<div class="grd-grid-12">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus repellat hic quibusdam quaerat cum. Reprehenderit excepturi cumque maiores sunt sit doloribus esse debitis incidunt aperiam, facere. Magnam sequi totam harum!</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus repellat hic quibusdam quaerat cum. Reprehenderit excepturi cumque maiores sunt sit doloribus esse debitis incidunt aperiam, facere. Magnam sequi totam harum!</p>
+		</div>
+	</div>
+</div>
+<div id="section3">
+	<div class="grd-container">
+		<div class="grd-grid-12 center">
+			<h1>Section 3</h1>
+		</div>
+		<div class="grd-grid-12">
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus repellat hic quibusdam quaerat cum. Reprehenderit excepturi cumque maiores sunt sit doloribus esse debitis incidunt aperiam, facere. Magnam sequi totam harum!</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus repellat hic quibusdam quaerat cum. Reprehenderit excepturi cumque maiores sunt sit doloribus esse debitis incidunt aperiam, facere. Magnam sequi totam harum!</p>
+			
+		</div>
+	</div>
+</div>
+<div id="section4">
+	<div class="grd-container">
+		<div class="grd-grid-12 center">
+			<h1>Section 4</h1>
+		</div>
+		<div class="grd-grid-12">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus repellat hic quibusdam quaerat cum. Reprehenderit excepturi cumque maiores sunt sit doloribus esse debitis incidunt aperiam, facere. Magnam sequi totam harum!</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus repellat hic quibusdam quaerat cum. Reprehenderit excepturi cumque maiores sunt sit doloribus esse debitis incidunt aperiam, facere. Magnam sequi totam harum!</p>
+		</div>
+	</div>
+</div>
+<div id="sign_up" style="display:none;">
+    <h3 id="see_id" class="sprited" >Can I see some ID?</h3>
+    <span>Please sign in using the form below</span>
+    <div id="sign_up_form">
+        <label><strong>Username:</strong> <input class="sprited"/></label>
+        <label><strong>Password:</strong> <input class="sprited"/></label>
+        <div id="actions">
+            <a class="close form_button sprited" id="cancel" href="#">Cancel</a>
+            <a class="form_button sprited" id="log_in" href="#">Sign in</a>
+        </div>
+    </div>
+    <h3 id="left_out" class="sprited">Feeling left out?</h3>
+    <span>Don't be sad, just <a href="#">click here</a> to sign up!</span>
+    <a id="close_x" class="close sprited" href="#">close</a>
+</div>
+	<script type="text/javascript" charset="utf-8">
+        $(function() {
+            function launch() {
+                 $('#sign_up').lightbox_me({centered: true, onLoad: function() { $('#sign_up').find('input:first').focus()}});
+            }
+            
+            $('#signbox').click(function(e) {
+                $("#sign_up").lightbox_me({centered: true, preventScroll: true, onLoad: function() {
+					$("#sign_up").find("input:first").focus();
+				}});
+				
+                e.preventDefault();
+            });
+            
+            
+            $('table tr:nth-child(even)').addClass('stripe');
+        });
+    </script>
+
+
+

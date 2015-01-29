@@ -3,9 +3,9 @@ layout: ads
 title: Adwords
 ---
 <style>
-#topbar{background:#141B22;}
-#header{background:#141B22;border-top: 2px solid #141B22;border-bottom: 4px solid #141B22;}
-.banner1{background: url(/images/ads/banner.png) no-repeat bottom;}
+/*#topbar{background:#141B22;}
+#header{background:#141B22;border-top: 2px solid #141B22;border-bottom: 4px solid #141B22;}*/
+.banner1{background: url(/images/ads/banner1.jpg) no-repeat bottom;}
 .zhead{padding-top: 80px; text-align: center;}
 .zhead h1{font-size:40px;color:#fff;padding-bottom: 30px;}
 .zhead p{font-size: 24px;color:#fff;padding-top:30px;padding-bottom: 70px;text-align: center;}
@@ -15,7 +15,7 @@ title: Adwords
 #zsection1 ul li{padding-left: 10px;margin: 1em 0 0}
 #zsection1 ul li i{color:#e98024;}
 .zheader{font-size: 34px;text-align: center;}
-.zbackground{background: #141B22;}
+.zbackground{background: #273051;}
 .zwhite{color:#fff;}
 #zsection2{padding:60px 0;display:inline-block;} 
 #zsection2 ul li i,#zsection2 ul li p{color:#fff;}
@@ -29,6 +29,7 @@ title: Adwords
 .zquoter-left p span, .zquoter-right p span{font-size: 12px;font-style: italic;}
 #zsection3 .fa-lock:before{margin-right: 10px;}
 .zquotation{font-size: 30px;font-weight: 700;}
+.signu_form{background-color:#e98024 ;}
 
 </style>
 <div class="banner1" >
@@ -41,7 +42,7 @@ title: Adwords
 					<div class="grd-grid-4 grd-parent"><p>Up to <span style="color:#2e8836;font-weight:700;">1000%</span> return<br> on trades you make</p></div>
 			</div>
 			<div class="zcta">
-				<a class="button pjaxload zreal pjaxload-focus" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&amp;l=EN">
+				<a id="signbox" class="button pjaxload zreal pjaxload-focus" href="#">
 		        		<span>OPEN ACCOUNT NOW</span>
 	      		</a>
       		</div>
@@ -62,7 +63,7 @@ title: Adwords
 					<li><i class="fa fa-check-square"></i> <span style="color:#2e8836;font-weight:700;">All payouts</span> - from $1 to $100,000.</li>
 				</ul>
 				<div class="center" style="margin-top:40px;">
-					<a class="button pjaxload pjaxload-focus" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&amp;l=EN">
+					<a id="signbox" class="button pjaxload pjaxload-focus" href="#">
 		        		<span>Start Trading Now</span>
 		        	</a>
 		        </div>
@@ -108,7 +109,7 @@ title: Adwords
 			</div>
 			<div class="grd-grid-12 grd-grid-mobile-12 grd-grid-phablet-12">
 				<div class="center" style="margin-top:20px;">
-					<a class="button pjaxload pjaxload-focus" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&amp;l=EN">
+					<a id="signbox" class="button pjaxload pjaxload-focus" href="#">
 		        		<span>Start Trading Now</span>
 		        	</a>
 		        </div>
@@ -140,13 +141,46 @@ title: Adwords
 	     <div class="grd-grid-12 grd-grid-mobile-12 grd-grid-phablet-12">
         	<div class="center" style="margin-top:20px;margin-bottom:40px;">
         	<i class="fa fa-lock" style="color:#e98024"><span style="color:#000;font-size:12px;margin-right:20px;">We value your privacy and never share your email address with anyone.</span></i>
-				<a class="button pjaxload pjaxload-focus" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&amp;l=EN">
+				<a id="signbox" class="button pjaxload pjaxload-focus" href="#">
 	        		<span>Create an Account Now</span>
 	        	</a>
 	        </div>
 	      </div>
 	</div>
 </div>
+<div id="sign_up" class="signu_form" style="display:none;">
+    <h3 id="see_id" class="sprited" >Get your free $10k virtual money account</h3>
+    <!-- <span>Please sign in using the form below</span> -->
+    <div id="sign_up_form">
+        <label><strong>Username:</strong> <input class="sprited"/></label>
+        <label><strong>Password:</strong> <input class="sprited"/></label>
+        <div id="actions">
+            <a class="close form_button sprited" id="cancel" href="#">Cancel</a>
+            <a class="form_button sprited" id="log_in" href="#">Sign in</a>
+        </div>
+    </div>
+    <h3 id="left_out" class="sprited">or create a real money account & start trading instantly</h3>
+    <span><a href="#">click here</a> to sign up for real money account</span>
+    <a id="close_x" class="close sprited" href="#">close</a>
+</div>
+	<script type="text/javascript" charset="utf-8">
+        $(function() {
+            function launch() {
+                 $('#sign_up').lightbox_me({centered: true, onLoad: function() { $('#sign_up').find('input:first').focus()}});
+            }
+            
+            $('#signbox').click(function(e) {
+                $("#sign_up").lightbox_me({centered: true, preventScroll: true, onLoad: function() {
+					$("#sign_up").find("input:first").focus();
+				}});
+				
+                e.preventDefault();
+            });
+            
+            
+            $('table tr:nth-child(even)').addClass('stripe');
+        });
+    </script>
 
 
 
