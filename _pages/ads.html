@@ -12,14 +12,14 @@ title: Adwords
 .zreal span{padding:30px 80px; font-size:28px;/*background:#e98024*/}
 .zcta {text-align:center;padding-bottom: 100px;}
 #zsection1{padding:60px 0;display:inline-block;}
-#zsection1 ul li{padding-left: 10px;margin: 1em 0 0}
+#zsection1 ul li{padding-left: 10px;margin: 1em 0 0;}
 #zsection1 ul li i{color:#e98024;}
-.zheader{font-size: 34px;text-align: center;}
+.zheader{font-size:34px;text-align: center;}
 .zbackground{background: #273051;}
 .zwhite{color:#fff;}
 #zsection2{padding:60px 0;display:inline-block;} 
 #zsection2 ul li i,#zsection2 ul li p{color:#fff;}
-#zsection2 ul li i span{color:#2e8836;font-weight: 700;}
+#zsection2 ul li i span{color:#E98024;font-weight: 700;}
 #zsection3{padding:60px 0;display:inline-block;}
 .zquote{background-color: #f2f2f2;padding: 10px 40px;}
 .zbubble-left{content: '';width: 0;height: 0;border-style: solid;border-width: 25px 10px 0 5px;border-color: #f2f2f2 transparent transparent;position: relative;left: 10%;}
@@ -27,7 +27,7 @@ title: Adwords
 .zbubble-right{content: '';width: 0;height: 0;border-style: solid;border-width: 25px 5px 0 10px;border-color: #f2f2f2 transparent transparent;position: relative;left: 80%;}
 .zquoter-right{text-align: right;color:#2e8836;}
 .zquoter-left p span, .zquoter-right p span{font-size: 12px;font-style: italic;}
-#zsection3 .fa-lock:before{margin-right: 10px;}
+#zsection3 .fa-lock:before, #zsection2 .fa-lock:before{margin-right: 10px;}
 .zquotation{font-size: 30px;font-weight: 700;}
 .signu_form{background-color:#e98024 ;}
 
@@ -42,8 +42,8 @@ title: Adwords
 					<div class="grd-grid-4 grd-parent"><p>Up to <span style="color:#2e8836;font-weight:700;">1000%</span> return<br> on trades you make</p></div>
 			</div>
 			<div class="zcta">
-				<a id="signbox" class="button pjaxload zreal pjaxload-focus" href="#">
-		        		<span>OPEN ACCOUNT NOW</span>
+				<a class="button pjaxload zreal pjaxload-focus" href="#">
+		        		<span>OPEN FREE ACCOUNT NOW</span>
 	      		</a>
       		</div>
 		</div>
@@ -64,7 +64,7 @@ title: Adwords
 				</ul>
 				<div class="center" style="margin-top:40px;">
 					<a id="signbox" class="button pjaxload pjaxload-focus" href="#">
-		        		<span>Start Trading Now</span>
+		        		<span>OPEN A REAL MONEY ACCOUNT</span>
 		        	</a>
 		        </div>
 			</div>
@@ -74,7 +74,7 @@ title: Adwords
 <div class="zbackground">
 	<div class="grd-container">
 		<div id="zsection2">
-			<p class="zheader center zwhite">Why 800,000 Poeple Around the World Trust us</p>
+			<p class="zheader center zwhite">Why 800,000 People Around the World Trust us</p>
 			<div class="grd-grid-6 grd-grid-mobile-12 grd-grid-phablet-12">
 				<ul>
 					<li>
@@ -107,12 +107,15 @@ title: Adwords
 					</li>
 				</ul>
 			</div>
-			<div class="grd-grid-12 grd-grid-mobile-12 grd-grid-phablet-12">
-				<div class="center" style="margin-top:20px;">
-					<a id="signbox" class="button pjaxload pjaxload-focus" href="#">
+			<div class="grd-grid-12 grd-parent">
+				<div class="center" style="margin-top:40px;">
+					<a class="button pjaxload pjaxload-focus" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&amp;l=EN">
 		        		<span>Start Trading Now</span>
 		        	</a>
-		        </div>
+		    	</div>
+		    	<div class="center" style="margin-top:20px;">
+		    		<i class="fa fa-lock" style="color:#e98024"><span style="color:#fff;font-size:12px;margin-right:20px;">We value your privacy and never share your information with anyone.</span></i>
+		    	</div>
 		    </div>
 		</div>
 	</div>
@@ -140,47 +143,35 @@ title: Adwords
 	     </div>
 	     <div class="grd-grid-12 grd-grid-mobile-12 grd-grid-phablet-12">
         	<div class="center" style="margin-top:20px;margin-bottom:40px;">
-        	<i class="fa fa-lock" style="color:#e98024"><span style="color:#000;font-size:12px;margin-right:20px;">We value your privacy and never share your email address with anyone.</span></i>
-				<a id="signbox" class="button pjaxload pjaxload-focus" href="#">
+        	<i class="fa fa-lock" style="color:#e98024"><span style="color:#000;font-size:12px;margin-right:20px;">We value your privacy and never share your information with anyone.</span></i>
+				<a class="button pjaxload pjaxload-focus login-button" href="#">
 	        		<span>Create an Account Now</span>
 	        	</a>
+	        	<button class="login-button">Log&nbsp;In</button>
 	        </div>
 	      </div>
 	</div>
 </div>
-<div id="sign_up" class="signu_form" style="display:none;">
-    <h3 id="see_id" class="sprited" >Get your free $10k virtual money account</h3>
-    <!-- <span>Please sign in using the form below</span> -->
-    <div id="sign_up_form">
-        <label><strong>Username:</strong> <input class="sprited"/></label>
-        <label><strong>Password:</strong> <input class="sprited"/></label>
-        <div id="actions">
-            <a class="close form_button sprited" id="cancel" href="#">Cancel</a>
-            <a class="form_button sprited" id="log_in" href="#">Sign in</a>
+<div class="overlay shown hidden">
+        <div class="dialog" style="background: white">
+			<form class="thin-form login-form" method="post" novalidate>
+			    <img class="form-logo" src="/images/logo.svg" alt="Binary"></img>
+			    <h3 style="text-align: center">Sign in to your account</h3>
+			    <p>
+			        <input name="loginid" type="text" placeholder="Login ID">
+			    </p>
+			    <p>
+			        <input name="password" type="password" placeholder="Password">
+			    </p>
+			    <p>
+			        <button class="important">Sign in</button>
+			    </p>
+			    <p>
+			        <a href="#">Forgot Password?</a>
+			    </p>
+			</form>
         </div>
-    </div>
-    <h3 id="left_out" class="sprited">or create a real money account & start trading instantly</h3>
-    <span><a href="#">click here</a> to sign up for real money account</span>
-    <a id="close_x" class="close sprited" href="#">close</a>
-</div>
-	<script type="text/javascript" charset="utf-8">
-        $(function() {
-            function launch() {
-                 $('#sign_up').lightbox_me({centered: true, onLoad: function() { $('#sign_up').find('input:first').focus()}});
-            }
-            
-            $('#signbox').click(function(e) {
-                $("#sign_up").lightbox_me({centered: true, preventScroll: true, onLoad: function() {
-					$("#sign_up").find("input:first").focus();
-				}});
-				
-                e.preventDefault();
-            });
-            
-            
-            $('table tr:nth-child(even)').addClass('stripe');
-        });
-    </script>
+  </div>
 
 
 
