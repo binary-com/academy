@@ -14,7 +14,7 @@ title: Adwords
 .ycontent2 ul li i{color: #E98024;margin-right:10px;}
 .ycontent2 h1, .ycontent3 h1, .ycontent4 h1, .ycontent5 h1{color:#2A3052;padding-bottom: 40px;text-align: center;}
 .ycontent3{padding: 40px 0 20px 0;}
-.ytrade{margin:10px 0;}
+.ytrade{margin:20px 0;}
 .ytrade h3{color:#E98024;}
 .ycontent4{padding: 40px 0 20px 0;}
 .ycontent4 ul li{background: url(/images/ads/testimony-icon.png) 0 0/30px no-repeat;padding-left:70px;}
@@ -24,6 +24,18 @@ title: Adwords
 .ystart{margin:20px 0;text-align:center;}
 .ystart a span{}
 .ycontent2 p, .ycontent5 p{margin-top: 0;}
+.signu_form{background-color:#e98024 ;}
+.yemail{padding:10px;margin-top:20px;margin-bottom:10px;min-width: 250px;}
+.ypass{padding:10px;margin-top:10px;margin-bottom:20px;min-width: 250px;}
+.overlay {display: -webkit-flex;display: -ms-flexbox;display: flex;position: fixed;top: 0;left: 0;height: 100%;width: 100%;z-index: 10;background-color: rgba(255, 255, 255, .85);}
+.overlay {opacity: 1;transition: opacity .3s, height 0;}
+.overlay.hidden {opacity: 0;transition: opacity .3s, height 0 .2s;height: 0;}
+.dialog {margin: auto;background: #E98024;padding: 2e m;border - radius: 4 px;border: 1 px solid #dadada;max-width: 400px;}
+.login-button {display: inline-block;}
+.submit-button {color: #fff;text-decoration: none;text-align: center;line-height: 100%;border-radius: 4px;font-weight: 700;text-transform: uppercase;display: inline-block;background: #2a3052;padding: 9px 10.83333%;border: 0;white-space: normal;}
+.yvirtual-money {font-size:100%;line-height: 2em;margin: 0;padding: 5px 0;background: #2A3052;text-align: center;color:#fff;}
+.yreal-money{text-align: center;font-size: 14px;float: left;width: 100%;margin-top: 1.2em;color:#fff;}
+.yreal-money a{color:#fff;text-decoration: underline;}
 @media screen and (max-width: 480px){
 #section1{background: #2A3052;}
 .ypayment{padding-left: 10px;padding-right: 10px;}
@@ -46,13 +58,12 @@ title: Adwords
 				</div>
 				<div class="grd-grid-12 center">
 					<div class="ycta">
-						<a class="button pjaxload yreal pjaxload-focus login-button" href="">
+						<div class="button pjaxload yreal pjaxload-focus login-button">
 			        		<span>OPEN FREE ACCOUNT NOW</span>
-		      			</a>
+		      			</div>
 		      			<a id="scroll" class="button pjaxload ylearn pjaxload-focus" href="#">
 			        		<span>LEARN MORE</span>
 		      			</a>
-		      			<button class="login-button">Log&nbsp;In</button>
 					</div>
 				</div>
 			</div>
@@ -79,9 +90,9 @@ title: Adwords
 			</div>
 			<div class="grd-grid-12">
 				<div class="ystart">
-					<a class="button pjaxload pjaxload-focus login-button" href="">
+					<div class="button pjaxload pjaxload-focus login-button">
 			        	<span>Start Trading</span>
-		      		</a>
+		      		</div>
 				</div>
 			</div>
 		</div>
@@ -163,9 +174,9 @@ title: Adwords
 			</div>
 			<div class="grd-grid-12">
 				<div class="ystart">
-					<a class="button pjaxload pjaxload-focus login-button" href="">
+					<div class="button pjaxload pjaxload-focus login-button">
 			        	<span>Create Free Account</span>
-		      		</a>
+		      		</div>
 				</div>
 				<div class="center">
 		    		<i class="fa fa-lock" style="color:#e98024"><span style="color:#000;font-size:12px;">&nbsp;&nbsp;&nbsp;We value your privacy and never share your information with anyone.</span></i>
@@ -230,32 +241,35 @@ title: Adwords
 			</div>
 			<div class="grd-grid-12">
 				<div class="ystart">
-					<a class="button pjaxload pjaxload-focus login-button" href="">
+					<div class="button pjaxload pjaxload-focus login-button">
 			        	<span>Get Started Now</span>
-		      		</a>
+		      		</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 <div class="overlay shown hidden">
-        <div class="dialog" style="background: white">
-			<form class="thin-form login-form" method="post" novalidate>
-			    <img class="form-logo" src="/images/logo.svg" alt="Binary"></img>
-			    <h3 style="text-align: center">Sign in to your account</h3>
-			    <p>
-			        <input name="loginid" type="text" placeholder="Login ID">
-			    </p>
-			    <p>
-			        <input name="password" type="password" placeholder="Password">
-			    </p>
-			    <p>
-			        <button class="important">Sign in</button>
-			    </p>
-			    <p>
-			        <a href="#">Forgot Password?</a>
-			    </p>
-			</form>
+        <div class="dialog">
+        <p class="yvirtual-money">Get your free $10k virtual money account</p>
+        <form id="virtual-acc-form" name="oppAccForm" action="https://www.binary.com/d/create_account.cgi?l=EN" method="post">
+			<span id="virtual-fields">
+			<span class="grd-grid-12 grd-no-gutter center">
+				<input class="yemail" id="Email" name="Email" type="email" required="required" placeholder="Enter Your Email">
+			</span>
+			<span class="grd-grid-12 grd-no-gutter center">
+				<input class="ypass" id="chooseapassword" name="chooseapassword" type="password" maxlength="25" required="required" placeholder="Choose a Password">
+				<input id="actype" type="hidden" name="actype" value="virtual">
+				<input type="hidden" name="l" value="EN">
+			</span>
+			<span class="grd-grid-12 grd-no-gutter center">
+				<input class="button submit-button" id="btn_registration" type="submit" value="Create free account">
+			</span>
+			</span>
+		</form>
+		<p class="yreal-money">
+			Or <a href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&l=EN">Create a Real Money Account</a>
+		</p>
         </div>
   </div>
 <script>
@@ -266,7 +280,7 @@ title: Adwords
   autoplaySpeed: 2000,
 });
 </script>
-	<script type="text/javascript" charset="utf-8">
+	<!-- <script type="text/javascript" charset="utf-8">
         $(function() {
             function launch() {
                  $('#sign_up').lightbox_me({centered: true, onLoad: function() { $('#sign_up').find('input:first').focus()}});
@@ -283,7 +297,7 @@ title: Adwords
             
             $('table tr:nth-child(even)').addClass('stripe');
         });
-    </script>
+    </script> -->
     <script>
     $("#scroll").click(function() {
     $('html, body').animate({

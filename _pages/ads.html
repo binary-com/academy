@@ -5,7 +5,7 @@ title: Adwords
 <style>
 /*#topbar{background:#141B22;}
 #header{background:#141B22;border-top: 2px solid #141B22;border-bottom: 4px solid #141B22;}*/
-.banner1{background: url(/images/ads/banner1.jpg) no-repeat bottom;}
+.zbanner1{background: url(/images/ads/banner1.jpg) no-repeat bottom;}
 .zhead{padding-top: 80px; text-align: center;}
 .zhead h1{font-size:40px;color:#fff;padding-bottom: 30px;}
 .zhead p{font-size: 24px;color:#fff;padding-top:30px;padding-bottom: 70px;text-align: center;}
@@ -30,6 +30,17 @@ title: Adwords
 #zsection3 .fa-lock:before, #zsection2 .fa-lock:before{margin-right: 10px;}
 .zquotation{font-size: 30px;font-weight: 700;}
 .signu_form{background-color:#e98024 ;}
+.zemail{padding:10px;margin-top:20px;margin-bottom:10px;min-width: 250px;}
+.zpass{padding:10px;margin-top:10px;margin-bottom:20px;min-width: 250px;}
+.overlay {display: -webkit-flex;display: -ms-flexbox;display: flex;position: fixed;top: 0;left: 0;height: 100%;width: 100%;z-index: 10;background-color: rgba(255, 255, 255, .85);}
+.overlay {opacity: 1;transition: opacity .3s, height 0;}
+.overlay.hidden {opacity: 0;transition: opacity .3s, height 0 .2s;height: 0;}
+.dialog {margin: auto;background: #E98024;padding: 2e m;border - radius: 4 px;border: 1 px solid #dadada;max-width: 400px;}
+.login-button {display: inline-block;}
+.submit-button {color: #fff;text-decoration: none;text-align: center;line-height: 100%;border-radius: 4px;font-weight: 700;text-transform: uppercase;display: inline-block;background: #2a3052;padding: 9px 10.83333%;border: 0;white-space: normal;}
+.zvirtual-money {font-size:100%;line-height: 2em;margin: 0;padding: 5px 0;background: #2A3052;text-align: center;color:#fff;}
+.zreal-money{text-align: center;font-size: 14px;float: left;width: 100%;margin-top: 1.2em;color:#fff;}
+.zreal-money a{color:#fff;text-decoration: underline;}
 @media screen and (max-width: 480px){
 .banner1{background: #2A3052;}
 .zhead p{padding-bottom: 0;padding-top: 0;}
@@ -37,7 +48,7 @@ title: Adwords
 }
 
 </style>
-<div class="banner1" >
+<div class="zbanner1" >
 	<div class="grd-container">
 		<div class="grd-grid-12 grd-parent">
 			<div class="zhead">
@@ -47,9 +58,9 @@ title: Adwords
 					<div class="grd-grid-4 grd-grid-mobile-12 grd-parent"><p>Up to <span style="color:#2e8836;font-weight:700;">1000%</span> return<br> on trades you make</p></div>
 			</div>
 			<div class="zcta">
-				<a class="button pjaxload zreal pjaxload-focus" href="#">
+				<div class="button pjaxload zreal pjaxload-focus login-button">
 		        		<span>OPEN FREE ACCOUNT NOW</span>
-	      		</a>
+	      		</div>
       		</div>
 		</div>
 	</div>
@@ -68,7 +79,7 @@ title: Adwords
 					<li><i class="fa fa-check-square"></i> <span style="color:#2e8836;font-weight:700;">All payouts</span> - from $1 to $100,000.</li>
 				</ul>
 				<div class="center" style="margin-top:40px;">
-					<a id="signbox" class="button pjaxload pjaxload-focus" href="#">
+					<a id="signbox" class="button pjaxload pjaxload-focus" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&l=EN">
 		        		<span>OPEN A REAL MONEY ACCOUNT</span>
 		        	</a>
 		        </div>
@@ -114,9 +125,9 @@ title: Adwords
 			</div>
 			<div class="grd-grid-12 grd-parent">
 				<div class="center" style="margin-top:40px;">
-					<a class="button pjaxload pjaxload-focus" href="https://www.binary.com/c/linkto_acopening.cgi?actype=real&amp;l=EN">
+					<div class="button pjaxload pjaxload-focus login-button">
 		        		<span>Start Trading Now</span>
-		        	</a>
+		        	</div>
 		    	</div>
 		    	<div class="center" style="margin-top:20px;">
 		    		<i class="fa fa-lock" style="color:#e98024"><span style="color:#fff;font-size:12px;margin-right:20px;">We value your privacy and never share your information with anyone.</span></i>
@@ -148,33 +159,35 @@ title: Adwords
 	     </div>
 	     <div class="grd-grid-12 grd-grid-mobile-12 grd-grid-phablet-12">
         	<div class="center" style="margin-top:20px;margin-bottom:40px;">
-        	<i class="fa fa-lock" style="color:#e98024"><span style="color:#000;font-size:12px;margin-right:20px;">We value your privacy and never share your information with anyone.</span></i>
-				<a class="button pjaxload pjaxload-focus login-button" href="#">
-	        		<span>Create an Account Now</span>
-	        	</a>
-	        	<button class="login-button">Log&nbsp;In</button>
+        		<i class="fa fa-lock" style="color:#e98024"><span style="color:#000;font-size:12px;margin-right:20px;">We value your privacy and never share your information with anyone.</span></i>
+				<div class="button pjaxload pjaxload-focus login-button">
+	        		<span>Create Free Account Now</span>
+	        	</div>
 	        </div>
 	      </div>
 	</div>
 </div>
 <div class="overlay shown hidden">
-        <div class="dialog" style="background: white">
-			<form class="thin-form login-form" method="post" novalidate>
-			    <img class="form-logo" src="/images/logo.svg" alt="Binary"></img>
-			    <h3 style="text-align: center">Sign in to your account</h3>
-			    <p>
-			        <input name="loginid" type="text" placeholder="Login ID">
-			    </p>
-			    <p>
-			        <input name="password" type="password" placeholder="Password">
-			    </p>
-			    <p>
-			        <button class="important">Sign in</button>
-			    </p>
-			    <p>
-			        <a href="#">Forgot Password?</a>
-			    </p>
-			</form>
+        <div class="dialog">
+        <p class="zvirtual-money">Get your free $10k virtual money account</p>
+        <form id="virtual-acc-form" name="oppAccForm" action="https://www.binary.com/d/create_account.cgi?l=EN" method="post">
+			<span id="virtual-fields">
+			<span class="grd-grid-12 grd-no-gutter center">
+				<input class="zemail" id="Email" name="Email" type="email" required="required" placeholder="Enter Your Email">
+			</span>
+			<span class="grd-grid-12 grd-no-gutter center">
+				<input class="zpass" id="chooseapassword" name="chooseapassword" type="password" maxlength="25" required="required" placeholder="Choose a Password">
+				<input id="actype" type="hidden" name="actype" value="virtual">
+				<input type="hidden" name="l" value="EN">
+			</span>
+			<span class="grd-grid-12 grd-no-gutter center">
+				<input class="button submit-button" id="btn_registration" type="submit" value="Create free account">
+			</span>
+			</span>
+		</form>
+		<p class="zreal-money">
+			Or <a href="">Create a Real Money Account</a>
+		</p>
         </div>
   </div>
 
