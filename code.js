@@ -48,7 +48,7 @@ $(function() {
     function getDailyReport(media) {
 
         var options = {
-            prefix: 'bPzDzniJKAJM5vlemjwB2mNd7ZgqdRLk',
+            prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
             media: media,
             campaign: '1',
             mode: 'txt'
