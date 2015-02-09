@@ -92,7 +92,7 @@ $(function() {
     }
 
     if ($('.daily-report').length) {
-        if (currLang == 'fr') {
+        if (currLang == 'es') {
             getDailyReport('875');
         } else {
             getDailyReport('26');
