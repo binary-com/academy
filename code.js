@@ -1,30 +1,12 @@
 $(function() {
 
-    function langCodeIdx(url) {
-        return url.substring(0, url.length - 1).lastIndexOf('/');
-    }
-
-    function isLangCode(langCode) {
-        return (langCode == 'en' || langCode == 'de' || langCode == 'id' || langCode == 'zh' || langCode == 'pl' || langCode == 'ru' || langCode == 'pt' || langCode == 'es' || langCode == 'fr');
-    }
-
-    function langFromUrl(url) {
-        var langs = ['en', 'de', 'id', 'zh', 'pl', 'ru', 'pt', 'es', 'fr'],
-            parser = document.createElement('a');
-
-        parser.href = url;
-        langCode = parser.pathname.substring(1, 3);
-
-        return isLangCode(langCode) ? langCode : 'en';
-    }
-
-    var currLang = document.documentElement.lang; //langFromUrl(window.location.href);
+    var currLang = document.documentElement.lang;
 
     $('#language_select select').on('change', function() {
 
         var lang = $(this).val();
 
-        window.location.href = '/' + (lang == 'en' ? '' : lang);
+        window.location.href = '/' + (lang === 'en' ? '' : lang);
     });
 
     $(".nav-button").click(function() {
@@ -56,9 +38,6 @@ $(function() {
 
         $.get('//js.binary.com/javascript.php', options, function(xml) {
 
-            var content = '',
-                recent = '';
-
                $(xml).find('item').each(function(idx) {
 
                     var title = $(this).find('title').text().replace(/regentmarkets\d.*$/, ''),
@@ -83,7 +62,7 @@ $(function() {
                         .append('<h1>' + title + '</h1>')
                         .append('<span class="post-meta">' + pubDate + '</span>')
                         .append('<p>' + post + '</p>')
-                        .toggle(idx == 0)
+                        .toggle(idx === 0)
                         .appendTo('.daily-report');
                 });
             },
@@ -92,20 +71,20 @@ $(function() {
     }
 
     if ($('.daily-report').length) {
-        if (currLang == 'es') {
+        if (currLang === 'es') {
             getDailyReport('875');
         } else {
             getDailyReport('26');
         }
     }
 
-    $('.report-list').on('change', function(ev) {
+    $('.report-list').on('change', function() {
         $('.single-report').hide();
         $('#report-' + $('.report-list').val()).show();
 
     });
 
-    $('div[data-role=youtube-playlist]').each(function(el) {
+    $('div[data-role=youtube-playlist]').each(function() {
 
         var $playlist = this,
             listId = $(this).attr('data-list-id'),
@@ -118,11 +97,11 @@ $(function() {
                     feedURL = item.link[1].href,
                     fragments = feedURL.split("/"),
                     videoID = fragments[fragments.length - 2],
-                    thumbUrl = "http://img.youtube.com/vi/" + videoID + "/default.jpg";
-                thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
-                    '<img src="' + thumbUrl + '">' +
-                    '<p>' + title + '</p>' +
-                    '</a>'
+                    thumbUrl = "http://img.youtube.com/vi/" + videoID + "/default.jpg",
+                    thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
+                        '<img src="' + thumbUrl + '">' +
+                        '<p>' + title + '</p>' +
+                        '</a>';
                 listHtml += thumbHtml;
             });
             $(listHtml).appendTo($playlist);
@@ -137,7 +116,7 @@ $(function() {
         }, 300);
     });
 
-    $('.report-list').on('change', function(ev) {
+    $('.report-list').on('change', function() {
         $('.single-report').hide();
         $('#report-' + $('.report-list').val()).show();
 
