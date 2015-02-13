@@ -27,10 +27,11 @@ $(function() {
 
     $('.wcustomhtml').css('overflow', 'visible');
 
-    function getDailyReport(media) {
+
+    function getDailyReport(media, prefix) {
 
         var options = {
-            prefix: 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk',
+            prefix: prefix,
             media: media,
             campaign: '1',
             mode: 'txt'
@@ -72,9 +73,9 @@ $(function() {
 
     if ($('.daily-report').length) {
         if (currLang === 'es') {
-            getDailyReport('875');
+            getDailyReport('875', 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk');
         } else {
-            getDailyReport('26');
+            getDailyReport('26', 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk');
         }
     }
 
