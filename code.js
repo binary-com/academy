@@ -72,8 +72,8 @@ $(function() {
     }
 
     if ($('.daily-report').length) {
-        if (currLang === 'es') {
-            getDailyReport('875', 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk');
+        if (currLang === 'id') {
+            getDailyReport('876', '8grqRDVc105iX6ztb0GwqWNd7ZgqdRLk');
         } else {
             getDailyReport('26', 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk');
         }
