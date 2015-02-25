@@ -41,7 +41,7 @@ $(function() {
 
                $(xml).find('item').each(function(idx) {
 
-                    var title = $(this).find('title').text().replace(/regentmarkets\d.*$/, ''),
+                    var title = $(this).find('title:first').text().replace(/regentmarkets\d.*$/, ''),
                         pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT');
 
                     var post = $(this).find('content\\:encoded').text();
