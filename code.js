@@ -1,5 +1,26 @@
 $(function() {
 
+    var slider = function() {
+        var slider = $('#slider');
+        if (slider.size()) {
+            $('.invisibleslides').show();
+            slider.slides({
+                container: 'slides-container',
+                paginationClass: 'slides-pagination',
+                generatePagination: false,
+                generateNextPrev: false,
+                start: 1,
+                preload: true,
+                play: 10000,
+                slideSpeed: 800,
+            });
+            if ($('.slides_control').height() < 300) {
+                $('.slides_control').css('min-height', '300px');
+            }
+        }
+    };
+    slider();
+
     var currLang = document.documentElement.lang;
 
     $('#language_select select').on('change', function() {
@@ -39,7 +60,7 @@ $(function() {
 
         $.get('//js.binary.com/javascript.php', options, function(xml) {
 
-               $(xml).find('item').each(function(idx) {
+                $(xml).find('item').each(function(idx) {
 
                     var title = $(this).find('title:first').text().replace(/regentmarkets\d.*$/, ''),
                         pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT');
@@ -50,7 +71,7 @@ $(function() {
                     }
                     post = post.replace(']]&gt;', '')
                         .replace(']]>', '')
-                       .replace(/>(.*?)</, '');
+                        .replace(/>(.*?)</, '');
 
                     // post = post.substr(post.indexOf('<div>') + 5, post.lastIndexOf('</div>') - 6);
 
@@ -100,9 +121,9 @@ $(function() {
                     videoID = fragments[fragments.length - 2],
                     thumbUrl = "http://img.youtube.com/vi/" + videoID + "/default.jpg",
                     thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
-                        '<img src="' + thumbUrl + '">' +
-                        '<p>' + title + '</p>' +
-                        '</a>';
+                    '<img src="' + thumbUrl + '">' +
+                    '<p>' + title + '</p>' +
+                    '</a>';
                 listHtml += thumbHtml;
             });
             $(listHtml).appendTo($playlist);

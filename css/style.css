@@ -479,7 +479,90 @@ aside {
 .jim-mellon img{
     margin:15px 0;
 }
+#slider {
+   .invisibleslides {
+        display: none;
+    }
+    .slides-container {
+        .slides_control {
+            max-width: 2010px;
+       }
+    }
+  }
+  div.slides {
+    width: 100%;
+   height: 280px;
+    padding-top:20px;
+}
+    div.slides a { display:block; }
+    div.slides p { font-size: 90%; }
+  }
+  #slide-1 {
+    background: url("../images/pages/home/slide-1_1.png") no-repeat 18.5% 0.9375em;
+}
+   #slide-1 h1 {
+      width: 14%;
+    }
+    #slide-1 p {
+      width: 15%;
+    }
+    #slide-1 a.learn-more { padding-top:10px; }
+  #slide-2 {
+    background: url("../images/pages/home/slide-2_1.png") no-repeat 18.5% 0.9375em;}
+    #slide-2 h1 {
+      width: 18%;
+    }
+    #slide-2 p {
+      width: 15%;
+    }
 
+  #slide-3 {
+    background: url("../images/pages/home/slide-3_1.png") no-repeat 16.5% 0.75em;}
+    #slide-3 h1 {
+      width: 15%;
+    }
+   #slide-3 p {
+      width: 15%;
+    }
+  #slide-4 {
+    background: url("../images/pages/home/slide-4_1.png") no-repeat 15% 0.9375em;}
+    #slide-4  h1 {
+      width: 15%;
+    }
+    #slide-4  p {
+      width: 10%;
+    }
+  #slide-5 {
+     background: url("../images/pages/home/slide-5_1.png") no-repeat 16% 0.9375em;}
+     #slide-5 background: url("../images/pages/home/slide-5_1.png") no-repeat 16% 0.9375em;}
+     h2 {
+      margin-bottom: 0.5em;
+    }
+     #slide-5 background: url("../images/pages/home/slide-5_1.png") no-repeat 16% 0.9375em;}
+     p {
+      width: 15%;
+    }
+
+  .slides-pagination {
+    margin-top: 0;}
+    .slides-pagination li {
+      display: block;
+      list-style: none;
+      margin: 0 5px;
+     float: left;
+      background: $COLOR_GRAY;}
+      .slides-pagination a {
+   border-radius: 2px;
+        display: block;
+        padding: 5px;
+   line-height:5px;}
+        .slides-pagination a:hover {
+            text-decoration: none;
+        }
+
+    .slides-pagination li.current a {
+      background: $COLOR_ORANGE;
+    }
 
 /* =====================================================
 =========================================================
