@@ -5,6 +5,28 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+**Анализ рынка от Дэйва Эванса за 13 марта 2015**
+
+#Рынки снова на подъеме
+
+Сегодня утром финансовые рынки снова поднялись, в частности S&P 500 сегодня снова выше среднего значения за 100-дневный период. Долларовый индекс снова на подъеме, но ему еще предстоит снова покорить высоты. Золото на подъеме после периода понижения цены, которое практически дошло до статуса перепроданности. Евро реагирует на подъхем доллара (илит является его причиной), что видно по всем парам. Австралийский долларо на понижении после короткого спринта вчера.
+
+Сегодня из новостей можно выделить в 1530 в США базовый индекс цен производителей (ИЦП). В это же время данные об изменения занятости в Канаде. В 1700  индекс настроения потребителей Мичиганского Университета за март.
+
+После небольшого повышения вчера, евро снова под давлением. Пара EUR/JPY может быть подходящим инструментом для отображения этой тенденции.
+
+Контракт НИЖЕ, что EUR/JPY закроется ниже 128.25 через 10 дней, может принести прибыль 124%.
+
+[![](/post_images/dr-ru-13mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=128.250&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=128.250&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 12 марта 2015**
 
 #Азиатские данные помогают рынкам восстановиться
@@ -310,25 +332,7 @@ AUD/USD продолжает находиться в худшей ситуаци
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.7300&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 19 февраля 2015**
-
-#Евро на подъеме благодаря поддержку ЕЦБ
-
-Сегодня утром евро на подъеме, благодаря выражению поддержки ЕЦБ греческим банкам, которое заключается в  поддержке оттока капитала с начала года. Теперь предлагается осуществление контроля капиталов, но это движение не имеет всеобщей поддержки. Австралийский доллар создает наибольшее движение на рынках, так как перспектива поддержки все еще висит в воздухе. Золото на подъеме после вчерашнего понижения, отчасти благодаря продолжающемуся отстутсвию интереса к американскому доллару.  S&P 500 вчера оторвался от рекордно низкого значения после смягченного отчета Федерального резерва, но сегодня утром снова на понижении. 
-
-Сегодня из новостей можно выделить в 1400 в Великобритании индекс промышленных заказов CBI. Далее в 1800 доверие потребителей в Европе. В 1630 заявки на пособие по безработице в США.
-
-NZD/USD продолжает быть в лучшей ситуации, чем австралийский сосед. Продолжающаяся тенденция к повышению впечатляет, и можно ожидать дальнейшего повышения, особенно если доллар продолжаит странное поведение.
-
-Контракт ВЫШЕ, что NZD/USD закроется выше 0.7550 через 7 дней, может принести прибыль 110%. 
-
-[![](/post_images/dr-ru-19feb.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.7550&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.7550&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
