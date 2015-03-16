@@ -6,6 +6,25 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 16 марта 2015**
+
+#  Линия поддержки удерживается
+
+Сегодня утром рынки стабилизируются после сильных продаж в прошлую пятницу. Индекс S&P 500 продолжает оставаться выше линии поддержки за 100-дневный период.  Американский доллар слегка сдал позиции. Пара NZD/USD создает наибольшее движения отчасти благодаря этому. AUD/USD немного отстает, поднявшись на 0.23%. Евро и фунт восстанавливаются после пятничной негативной сессии, но им еще далеко до полного восстановления.  USD/JPY также падает в соответствии с более слабым долларом.
+
+Сегодня из новостей сначала в 1530 Индекс производственной активности NY Empire State (мар), далее также в США коэффициент использования производственных мощностей (фев) и промышленное производство. Речь президента ЕЦБ Драги – главное событие дня в 2145 по Москве.
+
+Золото на повышении, но в долгосрочной перспективе джрагоценный металл пока остается перепроданным.
+
+Контракт ВЫШЕ, что золото закроется по цене выше $1175 через 14 дней, может принести прибыль 141% или выше в случае успеха.
+
+[![](/post_images/dr-ru-16mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 **Анализ рынка от Дэйва Эванса за 13 марта 2015**
 
 #Рынки снова на подъеме
@@ -312,24 +331,7 @@ AUD/USD продолжает находиться в худшей ситуаци
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.26000&currency=USD&underlying_symbol=frxUSDCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 20 февраля 2015**
-
-#  Рынки в ограниченном движении
-
-Сегодня утром рынки продолжают торговать в пределах узких рамок, несмотря на продолжающуюся неясность греческого вопросы и ситуацию на Украине. Индекс S&P 500 все еще в пределах рамок вторника, а американский доллар остается ниже 14-дневного среднего значения. Австралийский доллар на подъеме, чему помогает и ситуация с американским собратом, и стабилизациия цен на сырье. NZD/USD также на подъеме благодаря тем же факторам. Евро не в лучшей ситуации, ожидая новостей по греческим переговорам. Цена на золото продолжает падать, даже несмотря на понижениие доллара.
-
-Сегодня из новостей в 1230 индекс розничных продаж Великобритании, а также чистый объем займов государственного сектора. Собрания Еврогруппы в течение всего дня.
-
-Судьба евро решится сегодня, но, похоже, что в лучшем случае это будет решением на краткосрочный период. В долгосрочной же перспективе судьа евро непонятна, что может означать понижение валюты.
-
-Контракт НИЖЕ, что EUR/GBP закроется ниже 0.7300 через 7 дней, может принести прибыль 208%.
-
-[![](/post_images/dr-ru-20feb.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.7300&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.7300&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
