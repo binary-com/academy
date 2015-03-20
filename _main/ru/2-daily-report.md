@@ -6,6 +6,27 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 20 марта 2015**
+
+# Рынки так и не поняли, чего хочет добиться Федеральный Комитет
+Псоел вчерашнего восстановления доллара, рынки снова вернулись к настроению, как в прошлую среду, и фондовые рынки на повышении, а доллар падает. После нескольких месяцев неивзестности относительно политики FOMC, рынки и сейчас ее не приобрели. Австралийским валютам это на руку, в особенности паре NZD/USD. Канадский доллар также немного исправил свое положение, и пара USD/CAD отступает. Тем временем, евро восстанавливается немного по мере того, как трейдеры ассимилируют отдаление перспективы снижения процентной ставки в США.
+
+Сегодян в Европе два экономических саммита. В 1530 канадский ИПЦ и розничные продажи. В 1720 речь члена FOMC Локхарта.
+
+Независимо от американского доллара, австралийский продолжает быть очень волатильным, и пара AUD/JPY удерживается на уровне поддержки. Если (и это очень большое ЕСЛИ), долларовая тенденция изменится, мы сможем стать свидетелями повышения для пар с йеной и в частности для AUD/JPY.
+
+Контракт ВЫШЕ, что AUD/JPY закроется выше 93.00 через 5 дней, может принести прибыль 105%.
+
+[![](/post_images/dr-ru-20mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=93.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=93.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+
+<div class="border"></div>
+
+
+
 **Анализ рынка от Дэйва Эванса за 19 марта 2015**
 
 # Рынки взвинчиваются от исключение «терпения» Федеральным Комитетом
@@ -317,24 +338,7 @@ AUD/USD продолжает находиться в худшей ситуаци
 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=15d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7310&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 25 февраля 2015**
-
-# Китайские надежды поднимают австралийский доллар
-
-Вчера ночью рынки поднялись благодаря заявлению Йеллен и одобрению планов герческих реформ Еврогруппой. Индекс S&P 500 покорил новые высоты, но американский доллар опустился из-за немного отложенной перспективы повышения процентной ставки. Наибольшее движение создают австралийский и новозеландский доллары, которые оба на подъеме после впечатляющих данных завершенных работ в строительстве в Австралии (за 4 квартал) и производственных данных. Для сырья также снова началась белая полоса, золото поднялось в цене на 0.87%, что поспособствовало падению пары USD/CAD.
-
-Сегодня из новостей можно выделить речь главы Банка Англии Карни в 1300. Выступление председателя ФРС Йеллен в 1800 по Москве, и в это же время продажи новых домов в США. Речь президента ЕЦБ Драги в 1930.
-
-Пара NZD/USD продолжает общее повышение, перемежающееся контролируемыми скачками вниз и впечталяющими роста. Китайские промышленные данные могут дать ей новый импульс в ближайшие дни.
-
-Контракт ВЫШЕ, что NZD/USD закроется выше 0.7575 через 15 дней, может принести прибыль 130%.
-
-[![](/post_images/dr-ru-25feb.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=15d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7575&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=15d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7575&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
