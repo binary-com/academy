@@ -6,6 +6,26 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 23 марта 2015**
+
+# Европа под давлением
+
+Сегодня как евро, так и фунт под давлением, так как на этой неделе предстоит очередной круг переговоров по греческому долгу.  В Великобритании же трейдеры придерживают лошадей в преддверии одних из самых непредсказуемых выборов. Американский доллар  сегодня утром сильнее, а индекс S&P 500 покинул высоты. Сильный доллар также помоггает паре USD/JPY восстановиться после пятничного падения. Однако, паре NZD/USD удается оставаться наплаву.
+
+Сегодня из новостей в 1400 по Москве индекс промышленных заказов CBI. В 1700 выступление президента ЕЦБ Драги. В 1920 речь члена FOMC Фишера.
+
+NZD/USD продолжает находиться впереди других пар и, возможно, ускорится, если амриканский доллар продолжит настоящую траекторию.
+
+Контракт ВЫШЕ, что пара NZD/USD закроется выше 0.7600 через 7 дней, может принести прибыль до 120%.
+
+[![](/post_images/dr-ru-23mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 20 марта 2015**
 
 # Рынки так и не поняли, чего хочет добиться Федеральный Комитет
@@ -319,24 +339,6 @@ AUD/USD продолжает находиться в худшей ситуаци
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=90d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=186.00&currency=USD&underlying_symbol=frxGBPJPY&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
-
-
-**Анализ рынка от Дэйва Эванса за 26 февраля 2015**
-
-# Разворот тенденции доллара?
-
-Сегодня доллар продоалжил падать ниже 14-дневного среднего значения, намекая на изменение тенденции. В то же время, индекс S&P 500 удерживает высоты.  Наибольшее движение продолжает создавать пара NZD/US, которая снова на повышении сегодня утром. USD/CA, впрочем, тоже спокойно повышается, благодаря слабому американскому доллару. Золото также выигрывает от этой тенденции, но пока рано говорить о полновесном ее установлении.
-
-Сегодня из новостей британский ВВП в 1230. В это же время там же -производственные капвложения. В 1630 канадский и американский ИПЦ, а также заявки на пособие по безработице в США. В 2100 речь члена FOMC Локхарта.
-
-Пара EUR/GBP сегодня утром застопорилась, но нельзя отрицать наличие тенденции.
-
-Контракт НИЖЕ, что EUR/GBP закроется ниже 0.7310 через 15 дней, может принести прибыль 109%.
-
-[![](/post_images/dr-ru-26feb.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=15d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7310&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=15d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7310&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
