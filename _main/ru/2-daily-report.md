@@ -6,6 +6,29 @@ lang: ru
 ---
 
 
+
+**Анализ рынка от Дэйва Эванса за 25 марта 2015**
+
+# Евро продолжает восстановление
+
+Сегодня утром индекс S&P 500 слегка в выигрыше, тогда как долларовый индекс продолжает понижаться, тоже немного. Основное движение создает евро, поднимаясь все выше, особенно против британского фунта. Сам же фунт восстанавливается немного по отношению к американскому доллару. Пара USD/JPY сейчас под прицелом трейдеров, так как предыдущий уровень сопротивления теперь действует как поддержка.
+ 
+Сегодня из новостей в 1200 по Москве деловые ожидания Германи, где результат уже известен и оказался лучше прогнозов. В 1330 речь члена  FOMC Эванса, и далее в 1530 заказы на товары длительного пользования в США. 
+
+Проблемы евро, конечно, еще не закончились, но можно ожидать дальнейшего повышения для EUR/GBP ввиду неуверенности по поводу британских выборов.
+
+Контракт ВЫШЕ, что EUR/GBP закроется выше 0.7400 через 30 дней, может принести прибыль 119%.
+
+
+[![](/post_images/dr-ru-25mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.74000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.74000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
+
 **Анализ рынка от Дэйва Эванса за 24 марта 2015**
 
 # Рынки замерли после китайских данных
@@ -318,25 +341,7 @@ Cегодня утром рынки постепенно поднимаются 
 [Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7800&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 2 марта 2015**
-
-# Доллар на повышении благодаря снижению ставки в Китае
-
-Сегодня американский доллар возвращаетя на высоты после того, как  Китай понизил ставкит второй раз за три месяца. Фондовые рынки на повышении по всему миру. Это событие также стимулировало рынки в Азиатско-Тихоокеанском регионе, но плохо отразилось на зависимых от китайских новостей валютных парах  AUD/USD и NZD/USD, которые и так уже неважно реагировали на подобные перспективы в собственных странах. Золото продолжает подниматься в цене, несмоторя на сильный доллар. Евро слегка развернул тенденцию к понижению, а EUR/GBP даже на повышении после неважных данных индекса цен на жильё Nationwide.
-
-Сегодня из новостей в 1230 по Москве индекс производственной активности PMI, потребительский кредит банка Англии и одобренные иоптечные кредиты там же. В 1300 базовый индекс потребительских цен в Европе. Платедный баланс Канады за 4 увартал в 1630. В это же время в США личные расходы. Индекс производственных цен (ISM) США в 1800.
-
-AUD/USD продолжает находиться в худшей ситуации, чем другие валютные пары, чему способствует и снижение ставки в Китае.
-
-Контракт НИЖЕ, что AUD/USD закроется ниже 0.7725 через 7 дней, может принести прибыль до 150%.
-
-
-[![](/post_images/dr-ru-2mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7725&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7725&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
