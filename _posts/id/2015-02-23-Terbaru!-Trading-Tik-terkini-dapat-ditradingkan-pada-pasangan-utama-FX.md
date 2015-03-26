@@ -6,5 +6,10 @@ excerpt: Berhubung banyaknya permintaan, trading tik pada market FX kembali ters
 
 ---
 
-Berhubung banyaknya permintaan, trading tik pada market FX kembali tersedia!. Trading Tik telah tersedia kembali pada berbagai pilihan FX utama dengan durasi 5 hingga 10 tik. Dengan harga yang semakin mantap. Laba yang ditawarkan lebih dari 100% pada kontrak nail/turun.
+Berhubung banyaknya permintaan, trading tik pada market FX kembali tersedia!. Trading Tik telah tersedia kembali pada berbagai pilihan FX utama dengan durasi 5 hingga 10 tik. Dengan harga yang semakin mantap. 
+
+![](/post_images/FX-ticktrade-id.jpg)
+
+
+Laba yang ditawarkan lebih dari 100% pada kontrak nail/turun.
 
