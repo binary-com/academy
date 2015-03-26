@@ -6,6 +6,26 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 26 марта 2015**
+
+# Золото на повышении в связи с воздушными атаками в Йемене
+
+Сегодня утром мировые рынки продолжили зрелищное падение после того, как партнеры коалиции начали воздушные атаки в Йемене, а США присоединились к совместными атакам в Ираке. Долларовый индекс не в лучшей ситуации, так как цены на нефть и золото поднялись. Золото вышло из зоны перепроданности и создает наибольшее движение, тогда как трейдеры стремятся в безопасные гавани. Японская йена, соответственно, на подъеме, а пары с ней на понижении. USD/CAD также на понижении в связи с повышением цен на нефть.
+
+Сегодня из новостей            в 1230 индекс розничных продаж в Великобритании, а также в 1400 там же обзор розничной торговли CBI. В США в 1530 заявки на пособие по безработице. Выступление члена FOMC Локхарта 1600. Глава Банка Канады Полоз выступает с речью в 1630. Глава Банка Англии Карни выступит в 2030.
+
+Пара EUR/USD снова на подъеме благодаря слабости доллара.
+
+Контракт ВЫШЕ, что EUR/USD закроется выше 1.1075 через 5 дней, может принести прибыль 122%.
+
+
+[![](/post_images/dr-ru-26mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10750&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10750&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 
 **Анализ рынка от Дэйва Эванса за 25 марта 2015**
 
@@ -320,25 +340,7 @@ Cегодня утром рынки постепенно поднимаются 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=133.2500&currency=USD&underlying_symbol=frxEURJPY&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 3 марта 2015**
-
-# Австралийская ставка удивила многих
-
-Сегодня утром австралийский доллар создлает наибольшее движение после того, как RBA неожиданно не стал повышать ставки. Кроме того, другие экономические данные также дали необходимую стимуляцию этой валюте. Пара AUD/ USD поднялась на 0.68%, NZD/USD из симпатии на 0.45% , а AUD/JPY на 0.40%. Это возымело эффект и на американский индекс, который покидает высоты. С индексом S&P 500 ситуация та же. USD/JPY также отступает в связи с более слабым американским долларом. Примерно то же с другими японскими парами, но в меньшей степени.
-
-Сегодня из новостей речь главы Банка Англии Карни в 1300, далее в 1630 индекс цен на производственные товары Канады.
-
-Австралийский доллар сегодня всех впечатлил, но вряд ли это долгосрочное явление, особенно учитывая понижение ставок Китая в последнее время
-
-Контракт НИЖЕ, что пара AUD/USD закроется НИЖЕ 0.7800 через 21 день, может принести прибыль 117%.
-
-
-[![](/post_images/dr-ru-3mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7800&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7800&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
