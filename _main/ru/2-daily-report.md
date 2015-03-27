@@ -5,6 +5,32 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**ВАЖНО! Обратите внимание, что на следующей неделе прогноз от Дэйва Эванса на русском не будет публиковаться. Смотрите наш английский блог для версии на английском** [http://blog.binary.com/en/daily-report]( http://blog.binary.com/en/daily-report).
+
+
+<div class="border"></div>
+
+**Анализ рынка от Дэйва Эванса за 27 марта 2015**
+
+# Рынки удерживаются на уровне поддержки
+
+Сегодня утром S&P 500 удерживается от понижения на уровне среднего значения за 100-дневный период. Американский доллар все еще ниже скользящей средней за 14 дней, но поднялся в последние 2 дня. Австралийский доллар продолжает понижение, и пары AUD/USD и AUD/JPY падают третий день подряд. NZD/USD лучше удерживает позиции. EUR/USD вчера значительно сменила курс и сейчас только слегка понижается.
+
+Сегодня из новостей в 1330 речь члена FOMC Фишера. Основная новость дня – окончательный ВВП США в 1530 по Москве. Далее выступление председателя Федерального Комитета Йеллен в 2245.
+
+Пара NZD/USD имела проблемы на этой неделе, добравшись до высот, но проявила себя лучше в сравнении с австралийским долларом. Эта секретная сила может помочь NZD/USD вернуться на высоты, если тенденция изменится.
+
+Контракт ВЫШЕ, что NZD/USD закроется выше 0.7650 через 5 дней, може тпринести прибыль 174%.
+
+
+[![](/post_images/dr-ru-27mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7650&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7650&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 
 **Анализ рынка от Дэйва Эванса за 26 марта 2015**
 
@@ -320,24 +346,6 @@ Cегодня утром рынки постепенно поднимаются 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10250&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
-
-
-**Анализ рынка от Дэйва Эванса за 4 марта 2015**
-
-# Рынки без изменений после снижения ставки в Индии
-
-Сегодня рынки совершенно спокойные в ожидании данных о числе занятых в несельскохозяйственном секторе от ADP в США. S&P 500 слегка на понижении, тогда как доллар без изменений. Цена на золото растет. Пара NZD/USD также на повышении. AUD/USD, однако, без изменений, после неважных данных ВВП сегодня утром. Пары с йеной также не изменились, но тенденция EUR/JPY остается к понижению.
-
-Сегодня из новостей в Великобритании индекс деловой активности в секторе услуг (фев) в 1230. В 1300 розничные продажи Европы. Главнаизменение числа занятых в несельскохозяйственном секторе по данным ADP в США – в 1615. Ожидается прирост +219k. Индекс деловой активности в сфере услуг ISM там же в 1800, и тогда же в Канаде объявление о процентной ставке.
-
-Пара EUR/JPY выглядит очень чувствительной в преддверии очередного круга переговоров по Греции.
-
-Контракт НИЖЕ, что EUR/JPY закроется ниже 133.25 через 21 день, может принести прибыль 140%.
-
-[![](/post_images/dr-ru-4feb.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=133.2500&currency=USD&underlying_symbol=frxEURJPY&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=133.2500&currency=USD&underlying_symbol=frxEURJPY&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
