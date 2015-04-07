@@ -5,7 +5,25 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
-**ВАЖНО! Обратите внимание, что на следующей неделе прогноз от Дэйва Эванса на русском не будет публиковаться. Смотрите наш английский блог для версии на английском** [http://blog.binary.com/en/daily-report]( http://blog.binary.com/en/daily-report).
+
+**Анализ рынка от Дэйва Эванса за 7 апреля 2015**
+
+#Поднятие австралийского доллара из-за удержания ставки
+
+Сегодня утром объемы торговли пока не достигли допраздничных по мере того, как трейдеры возвращаются на рынки после католического и протестанского рождества. Индекс S&P все еще в прибыли после повышения благодаря вчерашним новостям о промышленном производстве. Долларовый индекс удерживает среднее значение за 14 дней. Наибольшее движение на рынке форекс создает австралийский доллар после того, как Банк Австралии решил удержать ставки на настоящем уровне, а также благодаря лучшим, чем ожидалось, данным розничных продаж. Пары с йеной на подъеме, в особенности GBP/JPY.
+
+Сегодня из новостей и ндекс деловой активности в секторе услуг в Великобритании в 1230 по Москве и число открытых вакансий на рынке труда JOLTS (фев) в США в 1700.
+
+Пара NZD/USD сегодня утром не в лучшей ситуации, но это против сильных течений 2015 года (по крайней мере, относительно к австралийскому доллару).
+
+Сегодняшняя ситуация может быть знаком скорее к покупке, чем продаже.
+
+Контракт ВЫШЕ, что NZD/USD закроется выше 0.7600 через 7 дней, может принести прибыль 230%.
+
+
+[![](/post_images/dr-ru-7apr.jpg.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 <div class="border"></div>
@@ -325,25 +343,7 @@ Cегодня утром рынки постепенно поднимаются 
 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 5 марта 2015**
-
-#Евро на понижении по мере приближения собрания ЕЦБ
-
-Сегодня евро – предмет пристального внимания инвесторов, которые нервничают в преддверии собрания ЕЦБ. Хотя и не ожидается объявления новой программы количественного смягчения, все рассчитывают на подробности о дате такого события в будущем. Евро сильно продается сегодня утром, как и большую часть дня вчера. Это на руку долларовому индексу, который достиг новых высот, как и фондовые рынки. Пара USD/JPY также на подъеме, хотя тенденция не такая сильная, как в прошлом. Наибольшее движение создает пара NZD/USD, которая понизилась на 0.73%.
-
-Собрание ЕЦБ в 1545 является основным событием дня, так как ожидается объявление о процентной ставке, пусть и без прогнозов об изменениях, за ним следует пресс-конференция в 1630. До этого в 1500 в Англии количественное ослабление банка Англии (мар) и объявление о процентной ставке (мар). Индекс менеджеров по снабжению Ivey PMI Канады в 1800, и в это же время речь FOMC Уильямса.
-
-Марио Драги – опытный «оператор», который не раз подыгрывал рынкам, и сегодня ожидается объявление о дате начала программы количественного смягчения – по прогнозам, в понедельник. Это может иметь несколько негативный эффект на евро, что приведет к понижению этой валюты в других парах.
-
-Контракт НИЖЕ, что пара EUR/USD закроется ниже 1.1025 через 5 дней, может принести прибыль от 118%.
-
-
-[![](/post_images/dr-ru-5mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10250&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10250&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
