@@ -6,6 +6,27 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 8 апреля 2015**
+
+#Йена на подъеме благодаря плану стимуляции
+
+Сегодня утром индекс S&P 500 без изменений после вчерашнего скачка до уровня поддержки 2080. Долларовый индекс на понижении, но все еще выше средней скользящей за 14 дней. Это пониджение не столько связано со слабостью доллара, сколько с силой других валют, как японской йены. USD/JPY на понижении после объявления Банка Японии о сохранении рекордных уровней стимуляции. Пары NZD/USD и AUD/USD в лидерх на волне строительного бума в обеих странах.  GBP/USD и EUR/USD на повышении после падения вчера. GBP/USD остается в узких торговых рамках в преддверии самых непредсказуемых выборов за последние десятилетия.
+
+Сегодня из новостей в 1230 в Великобритании нецелевое использование ипотечных кредитов. В 1300 в Европе объем розничных продаж. Публикация протоколов FOMC в 2100 по Москве.
+
+Тогда как пара EUR/USD стабилизировалась с конца января, следующий кризис поджидает за улом. Греция все еще не решила относительно программы своего долга, и витают слухи договора с Россией. Балансирование на грани войны и теории игр остается темой правительства Ципраса.
+
+Контракт НИЖЕ, что EUR/USD закроется ниже 1.0830 через 5 дней, может принести прибыль 112%.
+
+
+[![](/post_images/dr-ru-8apr.jpg.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 7 апреля 2015**
 
 #Поднятие австралийского доллара из-за удержания ставки
@@ -323,25 +344,7 @@ Cегодня утром рынки постепенно поднимаются 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.2600&currency=USD&underlying_symbol=frxUSDCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 6 марта 2015**
-
-#Рынки в ожидании низких данных занятости в несельскохозяйственном секторе США
-
-Если вчера все ожидания были сосредоточены на ЕЦБ, то сегодня на изменении числа занятых в несельскохозяйственном секторе в США. Ожидается цифра  +240k, что ниже по сравнению с прошлыми месяцами, но, как всегда с этим показателем, важное заключается в отклонениях реальной цифры от прогноза, а не самом значении. Пока же фондовые рынки без изменений, а доллар удерживает высоты. Вчера была негативная реакция на объявление ЕЦБ, которая перенеслась и на сегодняшний день. Так, EUR/ USD упала еще на 0.11%. Долларовые пары в целом смешанные, так, AUD/USD на повышении на 0.21%, но NZD/USD упала на 0.14%.
-
-Как было сказано, главная новость дня – изменение числа занятых в несельскохозяйственном секторе – в 1630 по Москве.  В это же время канадские разрешения на строительство и торговый баланс и коэффициент безработицы США.
-
-Золото снова на понижении, но эта тенденция сезонна и достаточно типична для данного времени года. Кроме того, золото под давлением по мере поднятия доллара, но еще далеко от статуса перепроданности.
-
-Контракт НИЖЕ, что золото закроется по цене ниже $1175 через 14 дней, может принести прибыль 236%.
-
-
-[![](/post_images/dr-ru-6mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
