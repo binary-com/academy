@@ -6,6 +6,28 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 9 апреля 2015**
+
+# Цены на нефть стремятся к $50
+
+
+Сегодня утром фондовые рынки имеют немного отрицательное смещение после «забега» вчера вечером после подтверждения мягкости политик FOMC. Однако, похож, что на доллар это не возымело должного влияния. Сегодня утром он скорее в позитивной тененции, заставляя долларовые пары понижаться, а цены на нефть снова вернулись к уровню $50. Сырьевые товары в целом немного понизились в цене, особенно золото третий день подряд. Это приносит вред связанным с сырьем валютам, так, USD/CAD снова на повышении, а AUD/JPY на понижении. Евро снова под давлением, и пара EUR/GBP понижается четвертый день подряд.
+
+Сегодня из новостей уже опубликован индекс цен на жильё от Halifax, который оказался лучше ожидаемого. В 1230 торговый баланс Великобритании. Центробанки снова в центре внимания, так, в 1400 там же общий объём программы QE Банка Англии (апр) и решение по процентной ставке. Канадские разрешения на строительство в 1530, и в это же время заявки на пособие по безработице в США.
+
+Тенденция EUR/GBP снова к понижению, и в этот раз в такое время, когда проблемы евро далеко не решены.
+
+Контракт НИЖЕ, что EUR/GBP закроется ниже 0.7200 через 5 дней, может принести прибыль 174%.
+
+
+[![](/post_images/dr-ru-9apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 8 апреля 2015**
 
 #Йена на подъеме благодаря плану стимуляции
@@ -320,28 +342,7 @@ Cегодня утром рынки постепенно поднимаются 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 9 марта 2015**
-
-# Долларовые пары на подъеме после пятничного понижения
-
-
-Сегодня утром долларовые пары немного восстановили позиции, потерянные в пятницу после сильных данных отчета по занятости в несельскохозяйственном секторе США. Также перспектива более раннего повышения процентной ставки привело к падению большинства долларовых пар в пятницу, и то же случилось и с золотом, тогда как долларовый индекс устремился вверх. Интересно, что трейдеры видят сильные данные по занятости как нечто негативное.  Индекс S&P 500 также сильно понизился после пятничных новостей, что продолжается и сегодня утром, хотя долгосрочные средние показатели пока удерживаются. Евро был в большотм проигрыше в пятницу, но сегодня ситуация в корне изменилась для этой валюты. Золото также растет в цене. Пары с йеной на повышении, но в основном благодаря более слабому доллару сегодня утром.
-
-Сегодня весь день будут проходить собрания Еврогруппы по мере начала переговров по Греции снова.
-
-В прошлую пятницу канадские данные занятости не впечатлили, тогда как аналогичные цифры США превзошли ожидания. В то же время цены на нефть значительно выросли.  at the same time as US numbers coming in well above expectations.
-
-Канадский доллар все еще под давлением, что может превратить сегодняшнее повышение в выгодную возможность для игры на USD/CAD.
-
-Контракт ВЫШЕ, что USD/CAD закроется выше 1.2600 через 21 день, принесет прибыль 113%.
-
-
-[![](/post_images/dr-ru-9mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.2600&currency=USD&underlying_symbol=frxUSDCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.2600&currency=USD&underlying_symbol=frxUSDCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
