@@ -19,7 +19,7 @@ lang: ru
 Контракт НИЖЕ, что EUR/USD закроется ниже 1.0830 через 5 дней, может принести прибыль 112%.
 
 
-[![](/post_images/dr-ru-8apr.jpg.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+[![](/post_images/dr-ru-8apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
@@ -42,7 +42,7 @@ lang: ru
 Контракт ВЫШЕ, что NZD/USD закроется выше 0.7600 через 7 дней, может принести прибыль 230%.
 
 
-[![](/post_images/dr-ru-7apr.jpg.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+[![](/post_images/dr-ru-7apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
