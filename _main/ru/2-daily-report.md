@@ -6,6 +6,26 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 10 апреля 2015**
+
+# Спокойный день, несмоторя на китайские данные
+
+Сегодня утром рынки пока в спокойном пятничном настроении, как будто готовятся к выходным. Долларовый ндекс слегка сдал позиции, тогда как S&P 500 стремится к очередному дню побед. Китайские ИПЦ и ИЦП оказались лучше ожидаемых, но пока не возымели эффекта на австралийский доллар, на который обычно оказывает внимание экономика Китая. Такая обстановка благоприятна для евро, и EUR/ BP отрывается от линии поддержки. Тем временем, GBP/USD без изменений, и Дэвид Кэмерон приближается к выборам как первый премьер-министр без изменений ставки со временем Клемента Эттли.
+
+Сегодня в 1230 объём промышленного производства в Великобритании (за февраль), а в 1800 данные канадской занятости.
+
+Цена на нефть чуть выше $50 снова, и канадскому доллару сложно противостоять американскому в такой ситуации.
+
+Контракт ВЫШе, что USD/CAD закроется выше 1.2600 через 5 дней, может принести прибыль 107%.
+
+
+[![](/post_images/dr-ru-10apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.26000&currency=USD&underlying_symbol=frxUSDCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.26000&currency=USD&underlying_symbol=frxUSDCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 **Анализ рынка от Дэйва Эванса за 9 апреля 2015**
 
 # Цены на нефть стремятся к $50
@@ -321,25 +341,7 @@ Cегодня утром рынки постепенно поднимаются 
 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=50d&form_name=touchnotouch&expiry_type=duration&amount_type=stake&H=1.10500&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=ONETOUCH&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 10 марта 2015**
-
-# Доллар снова стремится ввысь
-
-Псоел небольшого спринта вчера, рынки снова танцуют под дудку американского доллара, который сегодня вновь на повышении. S&P 500 продолжает понижаться. Золото создает наибольшее движение, упав уже на 0.76, и цена продолжает падать. Австралийский и азиатские пары также подвергнуты сильным продажам, несмотря  на хорошие данные китайского ИПЦ. Во всем вина индекса цен производителей этой же страны, который не оправдал ожиданий. Евро снова на понижении, растеряв все выигранное в пятницу, так как греческие политики снова пускают в ход угрозы покидания Еврозоны. Пары с йеной смешанные, так как несмотря на слабость йены, в некоторых случая ее уравновешивают еще более слабые валюты.
-
-Сегодня из новостей в течение дня собрания ECOFIN. В 1735 речь  главы банка Англии Карни.
-
-Евро снова на понижении, и эта тенденция может продолжиться до разрешения греческого вопроса (если это вообще произойдет).
-
-Контракт НИЖЕ, что EUR/USD закроется ниже 1.0700через 21 день, может принести прибыль до 159%.
-
-
-[![](/post_images/dr-ru-10mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
