@@ -18,7 +18,7 @@ lang: ru
 
 Контракт НИЖЕ, что AUD/USD закроется ниже 0.7500 через 14 дней, может принести прибыль 238%.
 
-[![](/post_images/dr-ru-13apr.jpg.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+[![](/post_images/dr-ru-13apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
