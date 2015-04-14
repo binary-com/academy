@@ -6,6 +6,26 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 14 апреля 2015**
+
+#Евро под давлением по мере приближения срока для Греции
+
+Сегодня утром Греция снова под прицелом внимания по мере приближения даты одобрения пакета реформ. Это положительно сказывается на долларе, который вчера достиг новых высот. В то же время  S&P 500 несколько оправился от вчерашних потерь. Евро особенно сильно страдает против японской йены, так, пара EUR/JPY упала на 0.48%. Другие пары с евро в похожей ситуации. Золото также понижается в цене, пока на 0.31%.
+
+Сегодня из новостей в 1230 В Великобритании ИПЦ и базовый индекс розничных цен. В 1530 в США базовый индекс цен производителей и объем розничных продаж. В 1700 там же объём товарно-материальных запасов за ферваль.
+
+Пара EUR/JPY достигла низшего уровня 2015, но можно ожидатиь и дальнейшего понижения по мере приближения сроков для Греции. Даже если что-то будет достигнуто, вероятен новый «крайний срок», так как правительство до сих пор не затронуло решение самых важных проблем.
+
+Контракт НИЖЕ, что EUR/JPY закроется ниже 126.00 через 1 день, может принести прибыль 130%.
+
+[![](/post_images/dr-ru-14apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=1d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=1d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 13 апреля 2015**
 
 # Рост Китая замедляется
@@ -323,25 +343,7 @@ NZD/USD продолжает находиться впереди других п
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=128.250&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 12 марта 2015**
-
-#Азиатские данные помогают рынкам восстановиться
-
-Сегодня рынки изменили тенденцию, а индекс S&P 500 удерживаетс яна 100-дневном среднем значении. Американский доллар начал день неважно после позитивных экономических данных из Китая и Австралии. Это, а также относительно «бычье» заявление RBNZ повлияло на повышение пары NZD/USD, которая уже поднялась на 1.15%. В то же время AUD/USD поднялась на 0.74%, а  AUD/JPY на 0.53%. Евро стабилизируется после падения ниже уровня 1.0500 ранее сегодня. Пары с йеной смешанные, USD/JPY упала на 0.22%.
-
-Сегодня из новостей речь президента Бундесбанка Вайдманна в 1300. В 1530 в США данные розничных продаж и заявки на пособие по безработице. В 1545 глава Банка Англии Карни выступает с речью.
-
-Золото сегодня слегка оправилось от своих проблем, и в дневногй перспективе тенденцию можно назвать граничащей с перепроданностью. Глядя на недельный график, правда, тенденция к перепроданности для драгоценного металла кажется в долгосрочной перспективе , что может создать условия для выгодной покупки.
-
-Контракт ВЫШЕ, что золото закроется выше $1175 через 14 дней, может принести прибыль 156%
-
-
-[![](/post_images/dr-ru-12mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
