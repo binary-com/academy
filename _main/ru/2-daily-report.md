@@ -6,6 +6,27 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 15 апреля 2015**
+
+#Проблемы промышленного производства Китая
+
+Сегодня утром китайские данные не обрадовали рынки. ВВП был 7, как и ожидалось, но объемы промышленного производства и инвестиции в основной капитал оказались хуже прогнозов. S&P 500 слегка восстанавливается, в то время как доллар тоже на подъеме после сильных продаж вчера. Австралийский доллар в незавидной ситуации из-за китайских данных, но новозеландский, несмоторя на это,удерживается на плаву. Евро отступает после вчерашних небольших побед. Долла в целом продвигается вперед, разворачивая свои потери в паре USD/JPY вчера.
+
+Сегодня главное событие дня – заседание ЕЦБ и пресс-конференция в 1530. В это же время данные канадских промышленных отгрузок и коэффициент использования производственных мощностей в 1615. В 1700 публикация отчета Банка Канады по денежно-кредитной политике и решение по процентной ставке.
+
+Проблемы австралийского доллара, связанные с китайской экономикой, пока не видят конца.
+
+Контракт НИЖЕ, что AUD/USD закроется ниже 0.7525 через 7 дней, может принести прибыль 176%.
+
+[![](/post_images/dr-ru-15apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.75250&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.75250&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 14 апреля 2015**
 
 #Евро под давлением по мере приближения срока для Греции
@@ -323,24 +344,7 @@ NZD/USD продолжает находиться впереди других п
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1175.00&currency=USD&underlying_symbol=frxXAUUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-**Анализ рынка от Дэйва Эванса за 13 марта 2015**
-
-#Рынки снова на подъеме
-
-Сегодня утром финансовые рынки снова поднялись, в частности S&P 500 сегодня снова выше среднего значения за 100-дневный период. Долларовый индекс снова на подъеме, но ему еще предстоит снова покорить высоты. Золото на подъеме после периода понижения цены, которое практически дошло до статуса перепроданности. Евро реагирует на подъхем доллара (илит является его причиной), что видно по всем парам. Австралийский долларо на понижении после короткого спринта вчера.
-
-Сегодня из новостей можно выделить в 1530 в США базовый индекс цен производителей (ИЦП). В это же время данные об изменения занятости в Канаде. В 1700  индекс настроения потребителей Мичиганского Университета за март.
-
-После небольшого повышения вчера, евро снова под давлением. Пара EUR/JPY может быть подходящим инструментом для отображения этой тенденции.
-
-Контракт НИЖЕ, что EUR/JPY закроется ниже 128.25 через 10 дней, может принести прибыль 124%.
-
-[![](/post_images/dr-ru-13mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=128.250&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=128.250&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
