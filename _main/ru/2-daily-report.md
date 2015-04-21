@@ -5,6 +5,24 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 21 апреля 2015**
+
+# Долар восстанавливается
+
+Сегодня американский доллар продолжает свое восстановление, начатое вчера после того, как он уже начинал всерьез выглядеть под угрозой. Сейчас он восстановил половину потерянных позиций, и долларовые пары на понижении. Индекс S&P 500 также подскочил, пока вблизи рекордных высот. Пара AUD/USD в худшнй ситуации сегодня утром после публикации протокола совещания Банка Австралии. Канадский доллар также испытывает проблемы, та, пара USD/CAD поднялась на 0.28%. Пары с йеной на подъеме после того, как USD/JPY чуть не побила свой низкий рекорд. Евро все еще под давлением из-за греческих переговоров.
+
+Сегодня из новостей можно выделить в 1200 индекс экономических настроений ZEW в Германии (апр). В 1530 объём оптовых продаж (м/м) (фев) в Канаде.
+
+Ситуация с долларом заставляет задуматься, спровоцирована ли она или действительно в мире нет более сильной альтернативы американской валюте. Сложно сказать точно, но в долгосрочной перспективе доллар до сих пор доказывал свою силу.
+
+Пара EUR/USD рискует достичь нового низшего рекорда, в связи с чем может быть интересен контракт НИЖЕ, что EUR/USD закроется ниже 1.0700 через 7 дней, что может принести прибыль 114%.
+
+[![](/post_images/dr-ru-21apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
 
 
 **Анализ рынка от Дэйва Эванса за 20 апреля 2015**
@@ -321,23 +339,6 @@ NZD/USD продолжает находиться впереди других п
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
-
-
-**Анализ рынка от Дэйва Эванса за 20 марта 2015**
-
-# Рынки так и не поняли, чего хочет добиться Федеральный Комитет
-Псоел вчерашнего восстановления доллара, рынки снова вернулись к настроению, как в прошлую среду, и фондовые рынки на повышении, а доллар падает. После нескольких месяцев неивзестности относительно политики FOMC, рынки и сейчас ее не приобрели. Австралийским валютам это на руку, в особенности паре NZD/USD. Канадский доллар также немного исправил свое положение, и пара USD/CAD отступает. Тем временем, евро восстанавливается немного по мере того, как трейдеры ассимилируют отдаление перспективы снижения процентной ставки в США.
-
-Сегодян в Европе два экономических саммита. В 1530 канадский ИПЦ и розничные продажи. В 1720 речь члена FOMC Локхарта.
-
-Независимо от американского доллара, австралийский продолжает быть очень волатильным, и пара AUD/JPY удерживается на уровне поддержки. Если (и это очень большое ЕСЛИ), долларовая тенденция изменится, мы сможем стать свидетелями повышения для пар с йеной и в частности для AUD/JPY.
-
-Контракт ВЫШЕ, что AUD/JPY закроется выше 93.00 через 5 дней, может принести прибыль 105%.
-
-[![](/post_images/dr-ru-20mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=93.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=93.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
