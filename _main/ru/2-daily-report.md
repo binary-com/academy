@@ -5,6 +5,27 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+**Анализ рынка от Дэйва Эванса за 22 апреля 2015**
+
+# Уменьшается вероятность снижения австралийской ставки
+
+Сегодня утром S&P 500 пока без изменений после нескольких волатильных дней, когда уровень поднялся до 2113. Американский доллар падает от уровня средней скользящей, тогда как австралийский доллар в выигрыше, что связано со снижением вероятности понижения австралийской ставки. Пара AUD/USD поднялась на 0.72%, а AUD/JPY на 0.63%. Как часто бывает, соседняя пара NZD/USD отреагировала аналогично. EUR/GBP все ещен испытывает сложности, понижаясь второй день подряд, а пара EUR/USD без существенных изменений.
+
+Сегодня из новостей публикация протокола заседания Комитета по кредитно-денежной политике Великобритании в 1130. В 1600 в США индекс цен на жилье и в 1700 там же продажи на вторичном рынке жилья (мар). В 1730 запасы сырой нефти.
+
+Доллар США теряет свои непроницаемость, что на руку австралийскому собрату. Сегодняшнее повышение может быть началом чего-то более серьезного.
+
+Контракт ВЫШЕ, что AUD/USD поднимется выше 0.7800 через 7 дней, может принести прибыль 130%.
+
+[![](/post_images/dr-ru-22apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.78000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.78000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 21 апреля 2015**
 
 # Долар восстанавливается
@@ -319,24 +340,7 @@ lang: ru
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=178.000&currency=USD&underlying_symbol=frxGBPJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 23 марта 2015**
-
-# Европа под давлением
-
-Сегодня как евро, так и фунт под давлением, так как на этой неделе предстоит очередной круг переговоров по греческому долгу.  В Великобритании же трейдеры придерживают лошадей в преддверии одних из самых непредсказуемых выборов. Американский доллар  сегодня утром сильнее, а индекс S&P 500 покинул высоты. Сильный доллар также помоггает паре USD/JPY восстановиться после пятничного падения. Однако, паре NZD/USD удается оставаться наплаву.
-
-Сегодня из новостей в 1400 по Москве индекс промышленных заказов CBI. В 1700 выступление президента ЕЦБ Драги. В 1920 речь члена FOMC Фишера.
-
-NZD/USD продолжает находиться впереди других пар и, возможно, ускорится, если амриканский доллар продолжит настоящую траекторию.
-
-Контракт ВЫШЕ, что пара NZD/USD закроется выше 0.7600 через 7 дней, может принести прибыль до 120%.
-
-[![](/post_images/dr-ru-23mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
