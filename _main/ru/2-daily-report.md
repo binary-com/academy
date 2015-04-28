@@ -6,6 +6,26 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 28 апреля 2015**
+
+# Доллар продолжает отступать
+
+Сегодня утром долларовый индекс продолжает отступать, тогда как S&P 500 движется в обратном направлении. Долларовые пары на подъеме во главе с AUD/USD, поднявшись на 0.23%, а AUD/JPY поднялась на 0.15%, и NZD/USD пока на 0.13%. Евро продолжать отставать от фунта, так, пара GBP/USD поднялась на 0.19%, а EUR/USD всего на 0.12%. Золото продолжает начатое вчера восхождение.
+
+Сегодня из новостей ВВП Великобритании, где ожидается легкое понидение до +0.5% по сравнению с прошлыми данными. В 1545 выступление главы Банка Канады Полоза. В 1700 в США индекс доверия потребителей CB (апр).
+
+Пара AUD/USD с середины апреля переживает мини-подъем, и это может продолжиться, если доллар остается ранимым.
+
+Контракт ВЫШЕ, что AUD/USD закроется выше 0.7900 через 7 дней, может принести прибыль 108%.
+
+[![](/post_images/dr-ru-28april.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.79000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.79000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 22 апреля 2015**
 
 # Уменьшается вероятность снижения австралийской ставки
@@ -319,25 +339,7 @@ lang: ru
 [Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.74000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-
-**Анализ рынка от Дэйва Эванса за 24 марта 2015**
-
-# Рынки замерли после китайских данных
-
-Рынки спокойные сегодня утром по мере оценки трейдерами силы влияния плохих данных индекса деловой активности в производственном секторе Китая от HSBC. Фондовые рынки пока без движения, а доллар робко пытается отвоевать сданные на этой неделе позиции. Наибольшее движение создает пара NZD/USD, которая продолжает повышаться. Напротив, австралийский доллар на понижении, на что повлияли и новости из Китая. Золото приостановило свой четерехдневный спринт.
-
-Сегодня день богат на экономические события. Сначала в 1100 индекс производственной активности PMI Франции, который уже опубликован и оказался чуть ниже прогнозов. В 1130 немецкий аналог, который превзошел ожидания.  Европейский индекс производственной активности PMI также оказался чуть выше. В 1230 британские базовый индекс потребительских цен и индекс отпускных цен производителей. Ожидается понижение на 0.1% и 0.9% соответственно. В это же время еще несколько данных в Великобритании же. В 1530 базовый индекс потребительских цен  в США, где ожидается повышение на 0.2%.
-
-Британский фунт переживает период неуверенности, и он вполне может продолжиться до выборов, которые могут иметь очень непредсказуемый результат.
-
-Контракт НИЖЕ, что пара GBP/JPY закроется ниже 178.00 через 30 дней, может принести прибыль  132%.
-
-[![](/post_images/dr-ru-24mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=178.000&currency=USD&underlying_symbol=frxGBPJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=178.000&currency=USD&underlying_symbol=frxGBPJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
