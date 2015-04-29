@@ -5,6 +5,26 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 29 апреля 2015**
+
+# Фунт игнорирует предвыборную неуверенность
+
+Сегодня утром доллар продолжает потери, от предыдущей линии поддержки 14-дневной средней скользящнй. Это произошло в связи с отодвижением перспективы повышения процентной ставки еще дальше в будущем. Основные долларовые пары на подъеме. GBP/USD поднялась на 0.37%, а  EUR/USD на 0.24%. USD/CAD продолжает падать. Парй с йеной на повышении, так, GBP/JPY поднялась на 0.45%, а EUR/JPY на 0.33%. Золото на понижении после двух дней прибыли. Индекс S&P 500 продолжает подбираться к рекордным высотам.
+
+Сегодня день начался с денежного агрегата М3. В 1530 ВВП в США, в 1700 индекс незавершенных продаж на рынке недвижимости. В 2100 заявление FOMC и целевая ставка по федеральным фондам. В 0000 следующего дня решение по процентной ставке.
+
+Сегодня доллар пройдет серьезное испытание после завяления FOMC. Долларовые пары на подъеме, и в зависимости от результатов заявления, эта тенденция может продолжиться.
+
+Контракт ВЫШЕ, что GBP/USD закроется выше 1.5450 через 7 дней, может принести прибыль 125%.
+
+
+[![](/post_images/dr-ru-29apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5450&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5450&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 
 **Анализ рынка от Дэйва Эванса за 28 апреля 2015**
 
@@ -318,25 +338,7 @@ lang: ru
 [Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10750&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 25 марта 2015**
-
-# Евро продолжает восстановление
-
-Сегодня утром индекс S&P 500 слегка в выигрыше, тогда как долларовый индекс продолжает понижаться, тоже немного. Основное движение создает евро, поднимаясь все выше, особенно против британского фунта. Сам же фунт восстанавливается немного по отношению к американскому доллару. Пара USD/JPY сейчас под прицелом трейдеров, так как предыдущий уровень сопротивления теперь действует как поддержка.
- 
-Сегодня из новостей в 1200 по Москве деловые ожидания Германи, где результат уже известен и оказался лучше прогнозов. В 1330 речь члена  FOMC Эванса, и далее в 1530 заказы на товары длительного пользования в США. 
-
-Проблемы евро, конечно, еще не закончились, но можно ожидать дальнейшего повышения для EUR/GBP ввиду неуверенности по поводу британских выборов.
-
-Контракт ВЫШЕ, что EUR/GBP закроется выше 0.7400 через 30 дней, может принести прибыль 119%.
-
-
-[![](/post_images/dr-ru-25mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.74000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.74000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
