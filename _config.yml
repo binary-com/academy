@@ -18,8 +18,8 @@ languages:
     key: 'ru'
   - name: 'English'
     key: 'en'
-  #- name: 'Français'
-   # key: 'fr'
+  - name: 'Français'
+    key: 'fr'
   #- name: 'Português'
     #key: 'pt'
   #- name: 'Español'
@@ -138,6 +138,8 @@ t:
   es:
     contactus: "Contáctenos"
     whatsnew: "NOTICIAS"
+    readmore: "leer más..."
+    readatarchive: "leer en archivo"
   fr:
     contactus: "Contactez-nous"
     readmore: "Lisez plus..."
