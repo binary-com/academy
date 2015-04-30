@@ -5,6 +5,31 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+**Анализ рынка от Дэйва Эванса за 30 апреля 2015**
+
+# RBNZ переключается на политику смягчения
+
+RBNZ переключается на политику смягчения
+
+Сегодня утром S&P 500 все еще приходит в себя после плохих данных ВВП. Доллар стабилизировался вчера, так как представляет из себя безопасную гавань на данный момент. Наибольшее движение создал вчера ночью новозеландский доллар после того, как RBNZ решил переключиться на более ‘смягчающую’ политику. Австралийский доллар создает движение сегодня, значительно падая, несмотря на слабость американского собрата. Напротив, евро вырывается вперед на волне надежды, что новая греческая команда по переговорам наконец-то принесет результаты.
+
+Из новостей в 1100 ежемесячный отчет ЕЦБ, в 1200 МСК ИПЦ Европы и уровень безработицы в марте там же. Канадский  ВВП и заявки на пособие по безработице в США в 1530. Базовый индекс расходов на личное потребление США в это же время и индекс деловой активности Чикаго в 1645. Выступление главы Банка Канады Полоза в 1730.
+
+Пара EUR/USD быстро поднимается по мере того, как доллар сдает позиции, а в Еврозоне растет надежда на решение греческого вопроса.
+
+Контракт ВЫШЕ, что EUR/USD закроется выше 1.1200 через 7 дней, может принести прибыль 110%.
+
+
+[![](/post_images/dr-ru-30apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.12000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.12000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 29 апреля 2015**
 
 # Фунт игнорирует предвыборную неуверенность
@@ -316,26 +341,7 @@ lang: ru
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7650&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-
-**Анализ рынка от Дэйва Эванса за 26 марта 2015**
-
-# Золото на повышении в связи с воздушными атаками в Йемене
-
-Сегодня утром мировые рынки продолжили зрелищное падение после того, как партнеры коалиции начали воздушные атаки в Йемене, а США присоединились к совместными атакам в Ираке. Долларовый индекс не в лучшей ситуации, так как цены на нефть и золото поднялись. Золото вышло из зоны перепроданности и создает наибольшее движение, тогда как трейдеры стремятся в безопасные гавани. Японская йена, соответственно, на подъеме, а пары с ней на понижении. USD/CAD также на понижении в связи с повышением цен на нефть.
-
-Сегодня из новостей            в 1230 индекс розничных продаж в Великобритании, а также в 1400 там же обзор розничной торговли CBI. В США в 1530 заявки на пособие по безработице. Выступление члена FOMC Локхарта 1600. Глава Банка Канады Полоз выступает с речью в 1630. Глава Банка Англии Карни выступит в 2030.
-
-Пара EUR/USD снова на подъеме благодаря слабости доллара.
-
-Контракт ВЫШЕ, что EUR/USD закроется выше 1.1075 через 5 дней, может принести прибыль 122%.
-
-
-[![](/post_images/dr-ru-26mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10750&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.10750&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
