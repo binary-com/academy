@@ -6,6 +6,27 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 5 мая 2015**
+
+# Австралиец на подъеме, несмотря на снижение процентной ставки
+
+Сегодня утром австралийский доллар стремится ввысь, несмотря на то, что RBA собъявил о снижении процентной ставки до 2.00%. Были планы относительно более сильного снижения, поэтому в настоящих условиях снижение до 2.00% в принципе является хорошей новостью для валюты этой страны. Пара AUD/JPY поднялась на 0.47%, а AUD/USD на 0.45%. Остальные пары с американским долларом на понижении, так как эта валюта восстанавливается после апрельской черной полосы. Новозеландский доллар на понижении после достижения линии поддержки. EUR/USD опустилась на 0.36%, EUR/JPY на 0.33%, а EUR/GBP на 0.26%. S&P 500 продолжает подбираться к высотам.
+
+Сегодня из новостей в Веклиобритании  в 11 индекс деловой активности в строительном секторе. В 1530 сальдо торгового баланса США и Канады и в 1700 в США индекс деловой активности в непроизводственном секторе от ISM (апр). Ночью в 0145 индекс безработицы и уровень заработной платы в Новой Зеландии.
+
+Пара NZD/USD все еще испытывает проблемы после снижения с уровня 0.7750 в апреле. Пока американский доллар продолжает новый взлет, можно ожидать понижения для пары.
+
+Контракт НИЖЕ, что NZD/USD закроется ниже 0.7500 через 7 дней, может принести прибыль 107%.
+
+
+[![](/post_images/dr-ru-5may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7500&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7500&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 30 апреля 2015**
 
 # RBNZ переключается на политику смягчения
@@ -321,24 +342,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-**Анализ рынка от Дэйва Эванса за 27 марта 2015**
-
-# Рынки удерживаются на уровне поддержки
-
-Сегодня утром S&P 500 удерживается от понижения на уровне среднего значения за 100-дневный период. Американский доллар все еще ниже скользящей средней за 14 дней, но поднялся в последние 2 дня. Австралийский доллар продолжает понижение, и пары AUD/USD и AUD/JPY падают третий день подряд. NZD/USD лучше удерживает позиции. EUR/USD вчера значительно сменила курс и сейчас только слегка понижается.
-
-Сегодня из новостей в 1330 речь члена FOMC Фишера. Основная новость дня – окончательный ВВП США в 1530 по Москве. Далее выступление председателя Федерального Комитета Йеллен в 2245.
-
-Пара NZD/USD имела проблемы на этой неделе, добравшись до высот, но проявила себя лучше в сравнении с австралийским долларом. Эта секретная сила может помочь NZD/USD вернуться на высоты, если тенденция изменится.
-
-Контракт ВЫШЕ, что NZD/USD закроется выше 0.7650 через 5 дней, може тпринести прибыль 174%.
-
-
-[![](/post_images/dr-ru-27mar.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7650&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7650&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
