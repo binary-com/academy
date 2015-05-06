@@ -5,6 +5,25 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 6 мая 2015**
+
+#Доллар понижается из-за торгового дефицита
+
+Сегодня утром доллар снова на понижении из-за вчерашних данных, показавших торговый дефицит. Цены на нефть достигли верхушки за 2015 год с ценой 60 долларов за баррель. Индекс S&P 500 резко упал после подбирания к высотам только в понедельник. Евро на подъеме, подогреваемый слабым долларом и отсутствием интереса к ситуации в Греции. Австралийский доллар продолжает подниматься, несмотря на понижение процентной ставки, тогда как новозеландский сосед движется в противоположном направлении. Канадский доллар в выигрыше против американского, несмотря на собственные неважные данные торгового баланса вчера.
+
+Сегодня из новостей в 1130 по Москве уже опубликовался индекс деловой активности в секторе услуг (апр) в Великобритании, оказавшийся лучше прогнозов.  Розничные продажи Европы в 1200. В 1515 изменение числа занятых в несельскохозяйственном секторе от ADP (апр) в США, а в 1530 уровень производительности в несельскохозяйственном секторе (кв/кв) (1 кв.) и затраты на рабочую силу (кв/кв) (1 кв.) . Выступление председателя ФРС Йеллен в 1615 МСК. И наконец, индекс деловой активности (PMI) Ivey (апр) в 1700.
+
+Американский доллар, кажется, потерял свою непроницаемость, на чем выигрывают большинство долларовых пар. Евро показывает впечатляющий импульс, особенно в контексте застраявших греческих переговоров.
+
+Можно ожидать дальнейшего повышения для евро. Контракт ВЫШЕ, что EUR/USD закроется выше 1.1300 через 7 дней, может принести прибыль 146%.
+
+[![](/post_images/dr-ru-6may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.13000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.13000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 
 **Анализ рынка от Дэйва Эванса за 5 мая 2015**
 
@@ -319,27 +338,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 7 апреля 2015**
-
-#Поднятие австралийского доллара из-за удержания ставки
-
-Сегодня утром объемы торговли пока не достигли допраздничных по мере того, как трейдеры возвращаются на рынки после католического и протестанского рождества. Индекс S&P все еще в прибыли после повышения благодаря вчерашним новостям о промышленном производстве. Долларовый индекс удерживает среднее значение за 14 дней. Наибольшее движение на рынке форекс создает австралийский доллар после того, как Банк Австралии решил удержать ставки на настоящем уровне, а также благодаря лучшим, чем ожидалось, данным розничных продаж. Пары с йеной на подъеме, в особенности GBP/JPY.
-
-Сегодня из новостей и ндекс деловой активности в секторе услуг в Великобритании в 1230 по Москве и число открытых вакансий на рынке труда JOLTS (фев) в США в 1700.
-
-Пара NZD/USD сегодня утром не в лучшей ситуации, но это против сильных течений 2015 года (по крайней мере, относительно к австралийскому доллару).
-
-Сегодняшняя ситуация может быть знаком скорее к покупке, чем продаже.
-
-Контракт ВЫШЕ, что NZD/USD закроется выше 0.7600 через 7 дней, может принести прибыль 230%.
-
-
-[![](/post_images/dr-ru-7apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
