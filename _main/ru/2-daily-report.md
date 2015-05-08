@@ -5,6 +5,50 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+<div class="border"></div>
+
+**Анализ рынка от Дэйва Эванса за 8 мая 2015**
+
+# Британский фунт на подъеме после неожиданной победы консерваторов
+
+
+Сегодня утром британский фунт устроил впечатляющий спринт в ответ на неождианную побдеу консерваторов на выборах в Великобритании. В принципе, все опросы показывали возможность такого развития события, но на деле консерваторам, похоже, удалось, еще и обеспечить себе большинство в парламенте.  Пара EUR/GBP понизилась на 0.83%, а GBP/JPY поднялась на 0.58%, тогда как GBP/USD на 0.38%. Восхождение фунта началось с первыми результатами вчера ночью. Индекс S&P 500 на подъеме и перешагнул скользящую среднюю за 100 дней. FTSE 100 открылся с большим скачком. Американский доллар все еще испытывает проблемы. Пары с йеной на подъеме, так, USD/JPY поднялась на 0.20% а AUD/JPY на 0.38%. Евро начал день не в лучшей форм, так как все инвестиции переключились на фунт, что сказалось на паре EUR/USD.
+
+Сегодня из новостей британский торговый баланс в 1130. Основная новость дня в 1530 – и зменение числа занятых физических лиц в несельскохозяйственном секторе (апр), а также уровень безработицы (апр) в США. Канадские данные о занятости в это же время.
+
+Британский фунт выступил с силой сегодня, особенно против слабого американского доллара, но это движение может быть скоро оттенено неуверенностью относительно продолжения пребывания Великобритании в ЕС.
+
+Контракт НИЖЕ, что GBP/USD закроется ниже 1.5400 через 5 дней, может принести прибыль 141%.
+
+
+[![](/post_images/dr-ru-81apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5400&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5400&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+**Анализ рынка от Дэйва Эванса за 7 мая 2015**
+
+#Евро продолжает повышение
+
+Сегодня утром S&P 500 подбирается к средней скользящей за 100-дневный период, что является значительным развитием, учитывая уровень поддержки за последние 6 месяцев. Тем временем, американский доллар продолжает падать по мере повышения цен на нефть. Евро продолжает проявлять завидное отсутствие интереса к греческим проблемам.  EUR/GBP продолжает извлекать выгоду из ситуации неизвестность с фунтов. Тем временем, австралийский доллар продолжает подниматься, следуя объявлению о понижении процентной ставки, игнорируя даже неважные данные о занятости. Цена на золото падает второй день подряд, возвращаясь к мартовским ценам. 
+
+Сегодня из событий выборы в Великобритании. С 1530 среднее число заявок на пособие по безработице за 4 недели и разрешения на строительство (м/м).
+ 
+Австралийский доллар продолжает отвергать негативные новости, также получая выгоду от слабости американского собрата.
+
+Контракт выше, что AUD/USD закроется выше 0.8000 через 7 дней, может принести прибыль 1616%.
+
+Посмотреть и приобрести контракт:
+
+
+[![](/post_images/dr-ru-8may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.80000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.80000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 6 мая 2015**
 
 #Доллар понижается из-за торгового дефицита
@@ -296,46 +340,8 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.26000&currency=USD&underlying_symbol=frxUSDCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
-
-**Анализ рынка от Дэйва Эванса за 9 апреля 2015**
-
-# Цены на нефть стремятся к $50
 
 
-Сегодня утром фондовые рынки имеют немного отрицательное смещение после «забега» вчера вечером после подтверждения мягкости политик FOMC. Однако, похож, что на доллар это не возымело должного влияния. Сегодня утром он скорее в позитивной тененции, заставляя долларовые пары понижаться, а цены на нефть снова вернулись к уровню $50. Сырьевые товары в целом немного понизились в цене, особенно золото третий день подряд. Это приносит вред связанным с сырьем валютам, так, USD/CAD снова на повышении, а AUD/JPY на понижении. Евро снова под давлением, и пара EUR/GBP понижается четвертый день подряд.
-
-Сегодня из новостей уже опубликован индекс цен на жильё от Halifax, который оказался лучше ожидаемого. В 1230 торговый баланс Великобритании. Центробанки снова в центре внимания, так, в 1400 там же общий объём программы QE Банка Англии (апр) и решение по процентной ставке. Канадские разрешения на строительство в 1530, и в это же время заявки на пособие по безработице в США.
-
-Тенденция EUR/GBP снова к понижению, и в этот раз в такое время, когда проблемы евро далеко не решены.
-
-Контракт НИЖЕ, что EUR/GBP закроется ниже 0.7200 через 5 дней, может принести прибыль 174%.
-
-
-[![](/post_images/dr-ru-9apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-
-<div class="border"></div>
-
-
-**Анализ рынка от Дэйва Эванса за 8 апреля 2015**
-
-#Йена на подъеме благодаря плану стимуляции
-
-Сегодня утром индекс S&P 500 без изменений после вчерашнего скачка до уровня поддержки 2080. Долларовый индекс на понижении, но все еще выше средней скользящей за 14 дней. Это пониджение не столько связано со слабостью доллара, сколько с силой других валют, как японской йены. USD/JPY на понижении после объявления Банка Японии о сохранении рекордных уровней стимуляции. Пары NZD/USD и AUD/USD в лидерх на волне строительного бума в обеих странах.  GBP/USD и EUR/USD на повышении после падения вчера. GBP/USD остается в узких торговых рамках в преддверии самых непредсказуемых выборов за последние десятилетия.
-
-Сегодня из новостей в 1230 в Великобритании нецелевое использование ипотечных кредитов. В 1300 в Европе объем розничных продаж. Публикация протоколов FOMC в 2100 по Москве.
-
-Тогда как пара EUR/USD стабилизировалась с конца января, следующий кризис поджидает за улом. Греция все еще не решила относительно программы своего долга, и витают слухи договора с Россией. Балансирование на грани войны и теории игр остается темой правительства Ципраса.
-
-Контракт НИЖЕ, что EUR/USD закроется ниже 1.0830 через 5 дней, может принести прибыль 112%.
-
-
-[![](/post_images/dr-ru-8apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08300&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
