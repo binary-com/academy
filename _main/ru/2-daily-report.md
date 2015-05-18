@@ -7,6 +7,27 @@ lang: ru
 
 <div class="border"></div>
 
+
+**Анализ рынка от Дэйва Эванса за 18 мая 2015**
+
+# Рынки удерживают высоты
+
+Сегодня утром рынки ужерживаются на высотах, так, S&P 500 может в течение дня достичь рекордных высот. Долларовый индекс продолжает оставаться стабильным, но не подает признаков особенной силы. Австралийский и новозеландский собратья не в лучшей форме сегодня, отчасти в связи с размышлениями относительно понижения процентной ставки в обеих странах.  Цена на золото растет и, возможно, скоро достигнет апрельских высот. Пара USD/JPY на повышении, но все еще застряла в двухмесячных торговых рамках. Остальные основные пары в целом на повышении, в особенности EUR/JPY. Однако, GBP и  понижаеются в курсе против американского доллара.
+
+Сегодня из новостей индекс рынка жилья NAHB в США в 1700 МСК.
+
+Стоит отменить забег EUR/JPY, который игнорирует даже продолжение расхождений в переговорах по греческому долгу.
+
+Контракт ВЫШЕ, что EUR/JPY закроется выше 137.00 через 7 дней, может принести прибыль 124%.
+
+
+[![](/post_images/dr-ru-18may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=137.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&mmarket=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=137.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 **Анализ рынка от Дэйва Эванса за 8 мая 2015**
 
 # Британский фунт на подъеме после неожиданной победы консерваторов
@@ -319,25 +340,7 @@ RBNZ переключается на политику смягчения
 
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 10 апреля 2015**
-
-# Спокойный день, несмоторя на китайские данные
-
-Сегодня утром рынки пока в спокойном пятничном настроении, как будто готовятся к выходным. Долларовый ндекс слегка сдал позиции, тогда как S&P 500 стремится к очередному дню побед. Китайские ИПЦ и ИЦП оказались лучше ожидаемых, но пока не возымели эффекта на австралийский доллар, на который обычно оказывает внимание экономика Китая. Такая обстановка благоприятна для евро, и EUR/ BP отрывается от линии поддержки. Тем временем, GBP/USD без изменений, и Дэвид Кэмерон приближается к выборам как первый премьер-министр без изменений ставки со временем Клемента Эттли.
-
-Сегодня в 1230 объём промышленного производства в Великобритании (за февраль), а в 1800 данные канадской занятости.
-
-Цена на нефть чуть выше $50 снова, и канадскому доллару сложно противостоять американскому в такой ситуации.
-
-Контракт ВЫШе, что USD/CAD закроется выше 1.2600 через 5 дней, может принести прибыль 107%.
-
-
-[![](/post_images/dr-ru-10apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.26000&currency=USD&underlying_symbol=frxUSDCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=5d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.26000&currency=USD&underlying_symbol=frxUSDCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
