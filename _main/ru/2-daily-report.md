@@ -5,6 +5,25 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 19 мая 2015**
+
+# Понижение евро из-за негативных ожиданий индекса экономических настроений Германии
+
+Сегодня утром индекс S&P 500 достигает рекордных высот, тогда как американские политики принимают решение об оживлении ситуации на фондовых рынках в ситуации  отложенного повышения процентной ставки и стабильного (пусть и замедлившегося) роста.  Американский доллар также на подъеме после периода давления. Больше всего теряет сегодня утром евро, по крайней мере против всех основных валюты мира. Неясно, связано ли это с затянувшимися греческими переговорами или ожиданиями сильного падения в индексе экономических настроений ZEW в Германии. NZD/USD на повышении после ожиданий увеличения инфляции.
+
+Из экономических новостей сегодня можно выделить ряд данных в Великобритании в 1130 по Москве, как ИПЦ и индекс отпускных цен производителей (PPI) , где ожидается повышение обоих показателей примерно на 0.8-0.9%. В 1200 индекс экономических настроений ZEW в Германии, а после – базовый индекс потребительских цен (ИПЦ) (м/м) (апр) Европы и общеевропейский индекс экономических настроений ZEW. В 1530 в США число выданных разрешений на строительство (м/м) (апр). Выступление главы Банка Канады Полоза в 1845 по Москве.
+
+Золото сбавило обороты после нескольких удачных дней. Можно ожидать дальнейшего понижения. Контракт НИЖЕ, что золото закроется по цене ниже $1200 через 7 дней, может принести прибыль до 297%.
+
+[![](/post_images/dr-ru-apr19.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=1200.00&currency=USD&underlying_symbol=frxXAUUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=1200.00&currency=USD&underlying_symbol=frxXAUUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
 <div class="border"></div>
 
 
@@ -319,24 +338,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=1d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 13 апреля 2015**
-
-# Рост Китая замедляется
-
-Сегодня неделя начинается с негативного уклона, так, фьючерсы S&P 500 задают тон понижения для фондовых рынков. Основная причина в сильном замедлении китайской экономики по результатам торгового баланса. Это добавило скорости, однако, американскому доллару, который в течение дней может достичь нового рекорда за 2015 год. Наибольшее движение создают новозеландский и австралийский доллары благодаря своей связи с китайской экономикой. Пара USD/CAD на подъеме, тогда как сырьевые товары в целом на понижении. Британский фунт все еще под давлением, упав до самого низкого уровня за 5 лет из-за неопределенности относительно выборов. EUR/GBP на понижении.
-
-Сегодня день небогат на экономические события, но можно выделить в индекс доверия в деловых кругах от NZIER в Новой Зеландии в час ночи завтра.
-
-Пара AUD/USD была слабой уже долгое время, и сегодняшние новости только еще больше подорвали австралийский доллар, что может продолжиться, если сегодняшние данные Китая действительно говорят о тенденции к замедлению экономики этой страны. 
-
-Контракт НИЖЕ, что AUD/USD закроется ниже 0.7500 через 14 дней, может принести прибыль 238%.
-
-[![](/post_images/dr-ru-13apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
