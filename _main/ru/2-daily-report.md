@@ -5,7 +5,43 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
-http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
+**Анализ рынка от Дэйва Эванса за 21 мая 2015**
+
+#Сомнения федерального резерва приводят к понижению рынков
+
+Сегодня рынки стабилизируются после того,как вчера объявление федерального резерва привело к сильным продажам. Протокол его последнего заседания намекает на то, что планировавшееся в июне повышение ставки откладывается на более поздний срок в 2015 году, если не 2016, так как экономика США испытывает проблемы. Однако, американский доллар не ударил в грязь лицом даже после таких новостей. Наибольшее движение сегодня создает пара NZD/USD после публикации новозеландского бюджета сегодня рано утром. AUD/USD также на повышении «из симпатии» к соседу. Евро восстанавливает позиции после нескольких плохих дней, особенно относительно британского фунта. USD/JPY на понижении после трех удачных дней.
+
+Сегодня из новостей в 1000 по Москве композитный индекс деловой активности (PMI) Франции от Markit (май), далее в 1030 аналогичные данные по Германии и общеевропейские в 1100. В это же время индекс деловой активности в секторе услуг (май) Европы. Индекс розничных продаж Великобритании в 1130. В 1430 публикация протокола заседания ЕЦБ по монетарной политике. В 1530 переключимся на Америку, где в это время данные по безработице и в 1645 индекс деловой активности в производственном секторе (PMI) (май). В 1700 индекс производственной активности от ФРБ Филадельфии (май) и продажи на вторичном рынке жилья (м/м) (апр).
+
+Евро все еще тянут вниз затянувшиеся переговоры по греческому долгу, но ситуация для фунта также не безоблачна в связи с референдумом по продолжению членства в ЕС.  Линия поддержки для EUR/GBP маячит на горизонте, и вполне можно ожидать смены тенденции в ближайшие дни.
+
+Контракт ВЫШЕ, что пара EUR/GBP закроется выше 0.7200 через 7 дней, может принести прибыль 182%.
+
+[![](/post_images/dr-ru-21may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7200&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7200&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 20 мая 2015**
+
+#Доллар на повышении
+
+Сегодня утром доллар продолжает удачную сессию после отличных данных о строительстве жилья вчера. Сейчас долларовый индекс выше 14-дневной средней скользящей впервые с начала апреля. В то же время курс евро, наоборот, падает по мере роста обеспокоенности по греческому долгу. EUR/USD падает, но важно отметить, что и EUR/GBP тоже, несмоторя на показатели, отмечающие дефляцию в Великобритании. USD/JPY на повышении, как и все японские пары, за исключением EUR/JPY. Золото сильно упало в цене вчера, и давление на драгоценный металл ощущается и сегодня утром.
+
+Сегодня из новостей в 1130 по Москве – число голосов за повышение ставки Банка Англии (май), где не ожидается сюрпризов. Канадские данные оптовых продаж в 1530. Публикация протоколов FOMC в 2100.
+
+Вернулась ли удача к доллару? Возможно, временно, но пока нет стабильных показателей непроницаемости, которая была налицо до начала апреля.
+
+Пара USD/JPY вырвалась вперед, но в долгосрочной перспективе можно ожидать изменения тенденции.
+
+[![](/post_images/dr-ru-22may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=120.7500&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=120.7500&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
 <div class="border"></div>
 
 
@@ -318,24 +354,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.75250&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 14 апреля 2015**
-
-#Евро под давлением по мере приближения срока для Греции
-
-Сегодня утром Греция снова под прицелом внимания по мере приближения даты одобрения пакета реформ. Это положительно сказывается на долларе, который вчера достиг новых высот. В то же время  S&P 500 несколько оправился от вчерашних потерь. Евро особенно сильно страдает против японской йены, так, пара EUR/JPY упала на 0.48%. Другие пары с евро в похожей ситуации. Золото также понижается в цене, пока на 0.31%.
-
-Сегодня из новостей в 1230 В Великобритании ИПЦ и базовый индекс розничных цен. В 1530 в США базовый индекс цен производителей и объем розничных продаж. В 1700 там же объём товарно-материальных запасов за ферваль.
-
-Пара EUR/JPY достигла низшего уровня 2015, но можно ожидатиь и дальнейшего понижения по мере приближения сроков для Греции. Даже если что-то будет достигнуто, вероятен новый «крайний срок», так как правительство до сих пор не затронуло решение самых важных проблем.
-
-Контракт НИЖЕ, что EUR/JPY закроется ниже 126.00 через 1 день, может принести прибыль 130%.
-
-[![](/post_images/dr-ru-14apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=1d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=1d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
