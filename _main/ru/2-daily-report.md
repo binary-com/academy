@@ -6,6 +6,26 @@ lang: ru
 ---
 
 
+**Анализ рынка от Дэйва Эванса за 3 июня 2015**
+
+# Евро на подъеме
+
+Сегодня утром доллар продолжает падать после вчерашнего драматического поворота событий. Похоже, что это была запоздалая реакция на последние новости, чтокредиторы Греции пришли к соглашению. То, что Греция все еще должна согласиться с этим планом, кажется всем незначительным фактором, и энтузиазм распространяется на все пары, особенно на евро-доллар. Также евро сильно обогнал вчера фунт в паре EUR/GBP. Австралийский доллар также в выигрыше после того, как RBA заострил внимание на том, что будет более долгий период без снижения ставки. Хорошие данные ВВП также способствуют этому. Новозеландский доллар также на подъеме по инерции.
+
+Сегодня утром ряд новостей в Европе, включая испанские и немецкие данные в 1015 и 1055. В 1130 бриатнский индекс деловой активности в секторе услуг (май), который оказался хуже прогнозов. Далее европейские данные розничных продаж и уровеня безработицыВ 1445 решение о процентной ставке от ЕЦБ и пресс-конференция. В 1515 в США изменение числа занятых в несельскохозяйственном секторе от ADP (май). Канадский и американский торговый баланс в 1530. Выступление президента ФРБ Чикаго Эванса d 2115.
+
+Греческие надежды в последние два дня вдохновили евро, но в настоящей европейской политике все очень сложно, так что можно оиждать поворота событий.
+
+Контракт НИЖЕ, что EUR/USD закроется ниже 1.1100 через 7 дней, может принести прибыль 153%.
+
+
+[![](/post_images/dr-ru-3june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1100&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1100&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 2 июня 2015**
 
 # Воскрешение австралийца и пауза евро
@@ -332,25 +352,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 20 апреля 2015**
-
-# Евро под давлением из-за страхов выхода Греции из зоны евро
-
-Сегодня утром индекс S&P 500 на повышении, отчасти в связи с понизившимися ожиданиями повышения ставки США. В своб очередь, это ослабило доллар. Долларовые пары на подъеме, так, NZD/USD продолжает стремиться вверх, а  USD/CAD резко упала (что означает более высокий курс для канадского доллара).  Пары с йеной не в лучшей ситуации, так как йена на подъеме. Однако, евро не может воспользоваться слабостью доллара, так как у этой валюты много своих проблем, в частности, пара EUR/JPY – одна из худших сегодня, и даже о EUR/USD можно сказать подобное на фоне других долларовых пар.
-
-Сегодня спокойный на события день, но можно отметить выступление главы Банка Канады Полоза в 1705. В 1930 речь управляющего РБА Стивенса.
-
-Йена в данный момент на повышении, и вкупе со слабым долларом это приводит к понижению пары USD/JPY.
-
-Контракт НИЖЕ, что USD/JPY закроется ниже 118.25 через 7 дней, может принести прибыль 156%
-
-
-[![](/post_images/dr-ru-20apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=118.250&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=118.250&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
