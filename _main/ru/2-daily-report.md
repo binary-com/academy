@@ -5,6 +5,25 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 4 июня 2015**
+
+# Австралийский доллар на понижении из-за данных розничных продаж
+
+Псоел скачка на новостях от RBA вчера, сегодня австралийский доллар снова на понижении после неважных данных розничных продаж и баланса, что привело к смене тенденции для пар AUD/USD и AUD/JPY. Пара NZD/USD также на понижении из-за этого. Вчерашняя сессия была позитивной для евро, но сегодня ситуация другая, так как принятие решения по греческому Грецию все еще не подтверждено самой страной. Ожидания инфляции подскочили. Долларовый индекс довольно стабилен сегодня утром после двух дней потерь.
+
+Сегодня из новостей решение по процентной ставки Веклиобритании в 1400 МСК, но не ожидается ничего нового. Среднее число заявок на пособие по безработице за 4 недели уровень производительности в несельскохозяйственном секторе (кв/кв) (1 кв.) В США в 1530. Индекс деловой активности (PMI) Ivey в Канаде без учета сезонных колебаний (май) в 1700.
+
+Повышение EUR/GBP практически дошло до верхнего барьера многонедельных торговых рамок. Это произошло даже несмоторя на отсутствие существенных новостей по греческому долгу, поэтому вполне можно ожидать понижения для паары в дальнейшем.
+
+Контракт НИЖЕ, что пара EUR/GBP закроется ниже 0.7325 через 7 дней, может принести прибыль 141%.
+
+
+
+[![](/post_images/dr-ru-4june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7325&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7325&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+<div class="border"></div>
 
 **Анализ рынка от Дэйва Эванса за 3 июня 2015**
 
@@ -332,24 +351,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.78000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 21 апреля 2015**
-
-# Долар восстанавливается
-
-Сегодня американский доллар продолжает свое восстановление, начатое вчера после того, как он уже начинал всерьез выглядеть под угрозой. Сейчас он восстановил половину потерянных позиций, и долларовые пары на понижении. Индекс S&P 500 также подскочил, пока вблизи рекордных высот. Пара AUD/USD в худшнй ситуации сегодня утром после публикации протокола совещания Банка Австралии. Канадский доллар также испытывает проблемы, та, пара USD/CAD поднялась на 0.28%. Пары с йеной на подъеме после того, как USD/JPY чуть не побила свой низкий рекорд. Евро все еще под давлением из-за греческих переговоров.
-
-Сегодня из новостей можно выделить в 1200 индекс экономических настроений ZEW в Германии (апр). В 1530 объём оптовых продаж (м/м) (фев) в Канаде.
-
-Ситуация с долларом заставляет задуматься, спровоцирована ли она или действительно в мире нет более сильной альтернативы американской валюте. Сложно сказать точно, но в долгосрочной перспективе доллар до сих пор доказывал свою силу.
-
-Пара EUR/USD рискует достичь нового низшего рекорда, в связи с чем может быть интересен контракт НИЖЕ, что EUR/USD закроется ниже 1.0700 через 7 дней, что может принести прибыль 114%.
-
-[![](/post_images/dr-ru-21apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.07000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
