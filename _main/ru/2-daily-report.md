@@ -5,6 +5,28 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+
+**Анализ рынка от Дэйва Эванса за 5 июня 2015**
+
+# Евро игнорирует заголовки газет
+
+Хотя большинство заголовков газет повествуют ор задержку выплаты долга Грецией, рынки реагируют на это по-своему. Евро не только удерживается наплаву но еще и в прибыли, что являетс язнаком, что трейдеры читают между строк и ожидают положительного исхода последних событий. Пара EUR/USD поднялась на 0.33%, а  EUR/JPY на целых 0.55%. Евро впереди даже фунта, который сдался после вчерашних неважных данных в области недвижимости. Пара EUR/GBP поднялась на 0.61%, а GBP/USD упала на 0.27%. Пары с йеной на подъеме, чему помогает более сильный доллар. Пара USD/JPY поднялась на 0.26%.
+
+Основная новость дня – изменение числа занятых в несельскохозяйственном секторе (май) в США в 1530. В это же время данные о безработиице США и канадское изменение занятости.  Также собрания ОПЕК в течение всего дня. Речь члена FOMC Дадли в 1930 по Москве.
+
+Тенденция все сильна для пары USD/JPY, и хотя многое будет зависеть от сегодняшних данных занятости в несельскохозяйственном секторе, стоит придерживаться основного тренда.
+
+Контракт ВЫШЕ, что USD/JPY закроется выше 125.00 через 14 дней, может принести прибыль до 114%.
+
+[![](/post_images/dr-ru-5june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=125.000&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=125.000&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+<div class="border"></div>
+
+
+
 **Анализ рынка от Дэйва Эванса за 4 июня 2015**
 
 # Австралийский доллар на понижении из-за данных розничных продаж
@@ -331,24 +353,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.79000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 22 апреля 2015**
-
-# Уменьшается вероятность снижения австралийской ставки
-
-Сегодня утром S&P 500 пока без изменений после нескольких волатильных дней, когда уровень поднялся до 2113. Американский доллар падает от уровня средней скользящей, тогда как австралийский доллар в выигрыше, что связано со снижением вероятности понижения австралийской ставки. Пара AUD/USD поднялась на 0.72%, а AUD/JPY на 0.63%. Как часто бывает, соседняя пара NZD/USD отреагировала аналогично. EUR/GBP все ещен испытывает сложности, понижаясь второй день подряд, а пара EUR/USD без существенных изменений.
-
-Сегодня из новостей публикация протокола заседания Комитета по кредитно-денежной политике Великобритании в 1130. В 1600 в США индекс цен на жилье и в 1700 там же продажи на вторичном рынке жилья (мар). В 1730 запасы сырой нефти.
-
-Доллар США теряет свои непроницаемость, что на руку австралийскому собрату. Сегодняшнее повышение может быть началом чего-то более серьезного.
-
-Контракт ВЫШЕ, что AUD/USD поднимется выше 0.7800 через 7 дней, может принести прибыль 130%.
-
-[![](/post_images/dr-ru-22apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.78000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.78000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
