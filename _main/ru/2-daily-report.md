@@ -5,6 +5,26 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 8 июня 2015**
+
+# Рынки стабилизируются после смешанной реакции я пятницу
+
+
+Сегодня рынки берут паузу после лучших, чем ожидалось, данных занятости вне сельскохозяйственного сектора в США в прошлую пятницу. Новости привели к резкому изменению курса долларовых пар, с поднятиям американского доллара, естественно. Фондовые рынки не показывают никакой реакции на хорошие новости, так как с другой стороны это может привести к более скорому поднятию процентной ставки. Доллар сейчас находится выше 14-дневной средней скользящей, а индекс S&P 500 ниже 100-дневного среднего значения. Евро пострадал больше остальных пар в пятницу, так, пара EUR/GBP сменила тенденцию. Австралийский доллар также неважно «чувствовал» себя в пятницу, и пара AUD/USD сейчас скорее испытывает нисходящую тенденцию.
+
+Сегодня будут проходить собрания G7 в течение всего дня. Основная новость среди прочих – канадские разрешения на строительство в 1530 по Москве.
+
+Пары с йеной продолжают повышение, в особенности это произошло с USD/JPY в пятницу. Когда йена впадает в какую-то тенденцию, то ее сложно остановить, поэтому можно ожидать дальнейшего повышения для USD/JPY.
+
+Контракт ВЫШЕ, что USD/JPY закроется выше 126.00 через 4 дня, может принести прибыль от 161%.
+
+
+[![](/post_images/dr-ru-8june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=4d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=4d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
 
 
 **Анализ рынка от Дэйва Эванса за 5 июня 2015**
@@ -333,24 +353,7 @@ RBNZ переключается на политику смягчения
 [Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5450&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 28 апреля 2015**
-
-# Доллар продолжает отступать
-
-Сегодня утром долларовый индекс продолжает отступать, тогда как S&P 500 движется в обратном направлении. Долларовые пары на подъеме во главе с AUD/USD, поднявшись на 0.23%, а AUD/JPY поднялась на 0.15%, и NZD/USD пока на 0.13%. Евро продолжать отставать от фунта, так, пара GBP/USD поднялась на 0.19%, а EUR/USD всего на 0.12%. Золото продолжает начатое вчера восхождение.
-
-Сегодня из новостей ВВП Великобритании, где ожидается легкое понидение до +0.5% по сравнению с прошлыми данными. В 1545 выступление главы Банка Канады Полоза. В 1700 в США индекс доверия потребителей CB (апр).
-
-Пара AUD/USD с середины апреля переживает мини-подъем, и это может продолжиться, если доллар остается ранимым.
-
-Контракт ВЫШЕ, что AUD/USD закроется выше 0.7900 через 7 дней, может принести прибыль 108%.
-
-[![](/post_images/dr-ru-28april.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.79000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.79000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
