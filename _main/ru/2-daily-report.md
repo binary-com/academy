@@ -5,6 +5,28 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+**Анализ рынка от Дэйва Эванса за 9 июня 2015**
+
+# Евро на подъеме, несмотря на греческие проблемы
+
+Сегодня утром американский доллар пока продолжает испытывать проблемы, чтот сказывается и на фьючерсах. Евро лидирует на валютном рынке, несмотря на отсутствие прогресса в греческих переговорах.  Пара EUR/GBP продолжает начатую вчера тенденцию крупной прибыли. Золото на подъеме второй день подряд, но это нельзя назвать тенденцией. Пары NZD/USD и AUD/USD не потворяют путь других долларовых пар, неся потери в связи с тем, что китайский индекс потребительских цен оказался ниже ожиданий. Пары с йеной смешанные, так, USD/JPY падает, а EUR/JPY продолжает подниматься.
+
+Сегодня день небогат на экономические события, но можно выделить британский торговый баланс в 1130 и число открытых вакансий на рынке труда JOLTS в 1700.
+
+Пара EUR/JPY, кажется, набирает импульс, несмотря на отсутствие прогресса в греческих переговорах. Стоит попробовать плыть по течению и надеятьс яна продолжение тенденции.
+
+Контракт ВЫШЕ, что EUR/JPY закроется выше 141.00 через 7 дней, может принести прибыль от 122%.
+
+
+[![](/post_images/dr-ru-9june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=141.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=141.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 8 июня 2015**
 
 # Рынки стабилизируются после смешанной реакции я пятницу
@@ -332,25 +354,7 @@ RBNZ переключается на политику смягчения
 
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 29 апреля 2015**
-
-# Фунт игнорирует предвыборную неуверенность
-
-Сегодня утром доллар продолжает потери, от предыдущей линии поддержки 14-дневной средней скользящнй. Это произошло в связи с отодвижением перспективы повышения процентной ставки еще дальше в будущем. Основные долларовые пары на подъеме. GBP/USD поднялась на 0.37%, а  EUR/USD на 0.24%. USD/CAD продолжает падать. Парй с йеной на повышении, так, GBP/JPY поднялась на 0.45%, а EUR/JPY на 0.33%. Золото на понижении после двух дней прибыли. Индекс S&P 500 продолжает подбираться к рекордным высотам.
-
-Сегодня день начался с денежного агрегата М3. В 1530 ВВП в США, в 1700 индекс незавершенных продаж на рынке недвижимости. В 2100 заявление FOMC и целевая ставка по федеральным фондам. В 0000 следующего дня решение по процентной ставке.
-
-Сегодня доллар пройдет серьезное испытание после завяления FOMC. Долларовые пары на подъеме, и в зависимости от результатов заявления, эта тенденция может продолжиться.
-
-Контракт ВЫШЕ, что GBP/USD закроется выше 1.5450 через 7 дней, может принести прибыль 125%.
-
-
-[![](/post_images/dr-ru-29apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5450&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5450&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
