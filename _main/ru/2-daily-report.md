@@ -6,6 +6,29 @@ lang: ru
 ---
 
 
+
+**Анализ рынка от Дэйва Эванса за 10 июня 2015**
+
+# Ослабленный доллар уступает путь йене
+
+
+RСегодня утром ослабленный доллар уступает путь сильной йене Доллар испытывает проблемы ужде третий день подряд по мере восстановления фондовых рынков. Пара USD/JPY создает наибольшее движение на рынке, но и другие пары с японской валютой недалеко. Австралийский доллар также на подъеме, как и пара с соседней валютой NZD/USD. Курс евро растет третий день подрядy, игнорируя озабоченность греческой ситуацией.
+
+Сегодня из новостей в 1130 объем промышленного производства в Великобритании. В 1700 там же оценка роста ВВП от NIESR. Выступление главы Банка Англии Карни  в 2300 по Москве. Решение по процентной ставке Новой Зеландии в полночь.
+
+Как долго может пара EUR/USD продолжать подъем? Похоже, что евро все больше отстраняется от ситуации в Греции, поскольку его поведение противоречит тону и результатам переговоров по ситуации этой страны. Тенденция на данный момент четко за евро, и может иметь смысл следовать ей, а не политическим наблюдениям.
+
+Контракт ВЫШЕ, что EUR/USD закроется выше 1.1400 через 2 дня, может принести прибыль 130%.
+
+
+[![](/post_images/dr-ru-10june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=2d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1400&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=2d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1400&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 9 июня 2015**
 
 # Евро на подъеме, несмотря на греческие проблемы
@@ -330,27 +353,7 @@ lang: ru
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7500&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 30 апреля 2015**
-
-# RBNZ переключается на политику смягчения
-
-RBNZ переключается на политику смягчения
-
-Сегодня утром S&P 500 все еще приходит в себя после плохих данных ВВП. Доллар стабилизировался вчера, так как представляет из себя безопасную гавань на данный момент. Наибольшее движение создал вчера ночью новозеландский доллар после того, как RBNZ решил переключиться на более ‘смягчающую’ политику. Австралийский доллар создает движение сегодня, значительно падая, несмотря на слабость американского собрата. Напротив, евро вырывается вперед на волне надежды, что новая греческая команда по переговорам наконец-то принесет результаты.
-
-Из новостей в 1100 ежемесячный отчет ЕЦБ, в 1200 МСК ИПЦ Европы и уровень безработицы в марте там же. Канадский  ВВП и заявки на пособие по безработице в США в 1530. Базовый индекс расходов на личное потребление США в это же время и индекс деловой активности Чикаго в 1645. Выступление главы Банка Канады Полоза в 1730.
-
-Пара EUR/USD быстро поднимается по мере того, как доллар сдает позиции, а в Еврозоне растет надежда на решение греческого вопроса.
-
-Контракт ВЫШЕ, что EUR/USD закроется выше 1.1200 через 7 дней, может принести прибыль 110%.
-
-
-[![](/post_images/dr-ru-30apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.12000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.12000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
