@@ -5,6 +5,25 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+**Анализ рынка от Дэйва Эванса за 11 июня 2015**
+
+# Рынки восстанавливаются после состояния перепроданности
+
+Сегодня утром индекс S&P 500 снова на подъеме после зрелищного состояния перепроданности вчера. Это движение возвращает S&P 500 выше 100-дневной средней скользящей – значение, которое действовало как уровень поддержки долгое время.  Курс доллара продолжает падать в преддверии данных о безработице сегодня. Австралийский доллар на подъеме и удерживаетс яна уровне поддержки 94.50. Этому помогает и факт, что данные о занятости в Австралии более, чем оправдали прогнозы. Новозеландский доллар испытывает проблема, и пара NZD/USD на понижении. Пары с йеной в целом на подъеме после вчерашних сильных продаж USD/JPY.
+
+Сегодня из новостей индекс розничных продаж и индекс безработицы в США в 1530.  Объём товарно-материальных запасов (м/м) (апр) там же в 1700. Выступление главы Банка Канады Полоза в 1815.
+
+Пара NZD/USD продолжает понижаться, несмотря на слабость американского доллара и несмотря  на силу австралийского соседа сегодня. Это может быть знаком тенденции к понижению для этой пары.
+
+Контракт НИЖЕ, что NZD/USD закроется ниже 0.6950 через 8 дней, может принести прибыль 149%.
+
+
+[![](/post_images/dr-ru-11june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=8d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=8d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
 
 
 **Анализ рынка от Дэйва Эванса за 10 июня 2015**
@@ -332,25 +351,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.13000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 5 мая 2015**
-
-# Австралиец на подъеме, несмотря на снижение процентной ставки
-
-Сегодня утром австралийский доллар стремится ввысь, несмотря на то, что RBA собъявил о снижении процентной ставки до 2.00%. Были планы относительно более сильного снижения, поэтому в настоящих условиях снижение до 2.00% в принципе является хорошей новостью для валюты этой страны. Пара AUD/JPY поднялась на 0.47%, а AUD/USD на 0.45%. Остальные пары с американским долларом на понижении, так как эта валюта восстанавливается после апрельской черной полосы. Новозеландский доллар на понижении после достижения линии поддержки. EUR/USD опустилась на 0.36%, EUR/JPY на 0.33%, а EUR/GBP на 0.26%. S&P 500 продолжает подбираться к высотам.
-
-Сегодня из новостей в Веклиобритании  в 11 индекс деловой активности в строительном секторе. В 1530 сальдо торгового баланса США и Канады и в 1700 в США индекс деловой активности в непроизводственном секторе от ISM (апр). Ночью в 0145 индекс безработицы и уровень заработной платы в Новой Зеландии.
-
-Пара NZD/USD все еще испытывает проблемы после снижения с уровня 0.7750 в апреле. Пока американский доллар продолжает новый взлет, можно ожидать понижения для пары.
-
-Контракт НИЖЕ, что NZD/USD закроется ниже 0.7500 через 7 дней, может принести прибыль 107%.
-
-
-[![](/post_images/dr-ru-5may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7500&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7500&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
