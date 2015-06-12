@@ -5,6 +5,27 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+**Анализ рынка от Дэйва Эванса за 12 июня 2015**
+
+#Переломный момент (снова) для евро
+
+Сейчас для евро (снова) переломный момент, так как кредиторы стараются проявить твердость по отношению к греческим запросам. Евро пока никак на это не отреагировал, но вероятно, это скорее связано с тем, что трейдеры ждут развязки событий. Доллар начала день скорее на позитивной ноте, а S&P 500 слегка отсупил. В целом сегодня рынки характеризуются отсутствием движения, а пары с йеной слегка сдают позиции. Долларовые пары без движения, хотя NZD/USD продолжает понижаться.
+
+Сегодня из новостей в 1530  bндекс цен производителей (PPI) (г/г) (май), а в 1700 индекс настроения потребителей от Мичиганского университета (июнь).
+
+Евро не испытывал сильного движения в последние дни, но это скоро должно измениться, так как греческие переговоры подходят к концу.
+
+Контракт ВНУТРИ/ВНЕ, что EUR/GBP закроется ВНЕ рамок 0.75000 или 0.70000 через 80 дней, может принести прибыль 116%.
+
+[![](/post_images/dr-ru-12june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=80d&form_name=endsinout&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=EXPIRYRANGE&L=0.70000&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=80d&form_name=endsinout&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=EXPIRYRANGE&L=0.70000&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 11 июня 2015**
 
 # Рынки восстанавливаются после состояния перепроданности
@@ -331,24 +352,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.80000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 6 мая 2015**
-
-#Доллар понижается из-за торгового дефицита
-
-Сегодня утром доллар снова на понижении из-за вчерашних данных, показавших торговый дефицит. Цены на нефть достигли верхушки за 2015 год с ценой 60 долларов за баррель. Индекс S&P 500 резко упал после подбирания к высотам только в понедельник. Евро на подъеме, подогреваемый слабым долларом и отсутствием интереса к ситуации в Греции. Австралийский доллар продолжает подниматься, несмотря на понижение процентной ставки, тогда как новозеландский сосед движется в противоположном направлении. Канадский доллар в выигрыше против американского, несмотря на собственные неважные данные торгового баланса вчера.
-
-Сегодня из новостей в 1130 по Москве уже опубликовался индекс деловой активности в секторе услуг (апр) в Великобритании, оказавшийся лучше прогнозов.  Розничные продажи Европы в 1200. В 1515 изменение числа занятых в несельскохозяйственном секторе от ADP (апр) в США, а в 1530 уровень производительности в несельскохозяйственном секторе (кв/кв) (1 кв.) и затраты на рабочую силу (кв/кв) (1 кв.) . Выступление председателя ФРС Йеллен в 1615 МСК. И наконец, индекс деловой активности (PMI) Ivey (апр) в 1700.
-
-Американский доллар, кажется, потерял свою непроницаемость, на чем выигрывают большинство долларовых пар. Евро показывает впечатляющий импульс, особенно в контексте застраявших греческих переговоров.
-
-Можно ожидать дальнейшего повышения для евро. Контракт ВЫШЕ, что EUR/USD закроется выше 1.1300 через 7 дней, может принести прибыль 146%.
-
-[![](/post_images/dr-ru-6may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.13000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.13000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
