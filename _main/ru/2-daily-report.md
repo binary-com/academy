@@ -6,6 +6,31 @@ lang: ru
 ---
 
 
+<p style="color:red;">ВНИМАНИЕ! С 19 по 29 июня включительно прогноз на русском не будетпредлагаться. Читайте прогноз на английском по ссылке:</p> 
+[http://blog.binary.com/en/daily-report/](http://blog.binary.com/en/daily-report/)
+
+
+
+**Анализ рынка от Дэйва Эванса за 16 июня 2015**
+
+#Евро игнорирует приближение к краху по греческим переговорам
+
+Сегодня утром заголовки газет намекают на то, что Греция стоит на краю, но на краю чего? Дефолта? Выхода из еврозоны? Или выбьет новую отсрочку? Что бы это ни было, евро явно не реагирует на греческую ситуацию. Более того, сегодня утром евро впереди многих других валют. Пары с йеной тем временем на подъеме, так,  GBP/JPY продолжает забег. Австралийский и новозеландский доллары под давлением. Американский доллар держится хорошо, а фондовые рынки испытывают разоворот тенденции.
+
+Сегодня из новостей в 1130 в Великобритании индекс потребительских цен (ИПЦ). В 1600  S&P 500 HPI. Основная новость дня, индекс потребительского доверия в США в 1700.
+
+Пара NZD/USD продолжает понижение, несмоторя на то, что американец не в самой лучшей ситуации. Это намекает на слабость новозеландской валюты и продолжение тенденции.
+
+Контракт НИЖЕ, что NZD/USD закроется ниже 0.6950 через 7 дней, может принести прибыль 125%.
+
+
+[![](/post_images/dr-ru-16june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 **Анализ рынка от Дэйва Эванса за 12 июня 2015**
 
 #Переломный момент (снова) для евро
@@ -332,24 +357,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5400&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-**Анализ рынка от Дэйва Эванса за 7 мая 2015**
 
-#Евро продолжает повышение
-
-Сегодня утром S&P 500 подбирается к средней скользящей за 100-дневный период, что является значительным развитием, учитывая уровень поддержки за последние 6 месяцев. Тем временем, американский доллар продолжает падать по мере повышения цен на нефть. Евро продолжает проявлять завидное отсутствие интереса к греческим проблемам.  EUR/GBP продолжает извлекать выгоду из ситуации неизвестность с фунтов. Тем временем, австралийский доллар продолжает подниматься, следуя объявлению о понижении процентной ставки, игнорируя даже неважные данные о занятости. Цена на золото падает второй день подряд, возвращаясь к мартовским ценам. 
-
-Сегодня из событий выборы в Великобритании. С 1530 среднее число заявок на пособие по безработице за 4 недели и разрешения на строительство (м/м).
- 
-Австралийский доллар продолжает отвергать негативные новости, также получая выгоду от слабости американского собрата.
-
-Контракт выше, что AUD/USD закроется выше 0.8000 через 7 дней, может принести прибыль 1616%.
-
-Посмотреть и приобрести контракт:
-
-
-[![](/post_images/dr-ru-8may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.80000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.80000&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
