@@ -9,6 +9,28 @@ lang: ru
 <p style="color:red;">ВНИМАНИЕ! С 19 по 29 июня включительно прогноз на русском не будетпредлагаться. Читайте прогноз на английском по ссылке:</p> 
 [http://blog.binary.com/en/daily-report/](http://blog.binary.com/en/daily-report/)
 
+<div class="border"></div>
+
+**Анализ рынка от Дэйва Эванса за 17 июня 2015**
+
+# Все внимание новостям от ФРС и возможному выходу Греции из Еврозоны
+
+
+Похоже, что у Греции заканчивается не только время, но и друзья, но евро все еще не испытывает проблем, благодаря количественному смягчению ЕЦБ, согласно аналитикам. Евро сегодня утром стабилен, даже не смоторя на отсутствие прогресса. Фондовые рынки, как ни странно, в приподнятом настроении, возвращая вчерашние потери, что не так типично в преддверии собрания ФРС. Долларовый индекс застрял где-то посередине торговых рамок, но сегодняшнее собрание может спровоцировать движение.
+
+Сегодня из новостей сначала в 1130 в Великобритании средний уровень заработной платы с учетом премий (апр) и число голосов за снижение ставки Банка Англии (июнь). Канадские данные объёма оптовых продаж в 1530. Выступление Карни в 2045. Основная новость дня – заявление FOMC  и решение по процентной ставке ФРС – в 2100. В 2130 выступление председателя ФРС Йеллен.
+
+Судьбу евро трудно предугадать, но австралийский доллар следует четкой тенденции. Он остается под давлением пока и цены на сырье под давлением.
+
+Контракт НИЖЕ, что AUD/USD закроется ниже 0.7700 через 7 дней, может принести прибыль 122%.
+
+
+[![](/post_images/dr-ru-17jun.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.770&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.770&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
 
 
 **Анализ рынка от Дэйва Эванса за 16 июня 2015**
@@ -336,25 +358,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&mmarket=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=137.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-**Анализ рынка от Дэйва Эванса за 8 мая 2015**
-
-# Британский фунт на подъеме после неожиданной победы консерваторов
-
-
-Сегодня утром британский фунт устроил впечатляющий спринт в ответ на неождианную побдеу консерваторов на выборах в Великобритании. В принципе, все опросы показывали возможность такого развития события, но на деле консерваторам, похоже, удалось, еще и обеспечить себе большинство в парламенте.  Пара EUR/GBP понизилась на 0.83%, а GBP/JPY поднялась на 0.58%, тогда как GBP/USD на 0.38%. Восхождение фунта началось с первыми результатами вчера ночью. Индекс S&P 500 на подъеме и перешагнул скользящую среднюю за 100 дней. FTSE 100 открылся с большим скачком. Американский доллар все еще испытывает проблемы. Пары с йеной на подъеме, так, USD/JPY поднялась на 0.20% а AUD/JPY на 0.38%. Евро начал день не в лучшей форм, так как все инвестиции переключились на фунт, что сказалось на паре EUR/USD.
-
-Сегодня из новостей британский торговый баланс в 1130. Основная новость дня в 1530 – и зменение числа занятых физических лиц в несельскохозяйственном секторе (апр), а также уровень безработицы (апр) в США. Канадские данные о занятости в это же время.
-
-Британский фунт выступил с силой сегодня, особенно против слабого американского доллара, но это движение может быть скоро оттенено неуверенностью относительно продолжения пребывания Великобритании в ЕС.
-
-Контракт НИЖЕ, что GBP/USD закроется ниже 1.5400 через 5 дней, может принести прибыль 141%.
-
-
-[![](/post_images/dr-ru-81apr.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5400&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.5400&currency=USD&underlying_symbol=frxGBPUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
