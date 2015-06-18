@@ -11,6 +11,28 @@ lang: ru
 
 <div class="border"></div>
 
+
+**Анализ рынка от Дэйва Эванса за 18 июня 2015**
+
+# Доллар теряет высоты после собрания ФРС
+
+Сегодня утром рынки сохраняют спокойствие после заявления ФРС и несмотря на продолжающуюся греческую мелодраму. Фондовые рынки продолжают испытывать сильную волатильность. Доллар опустился снова после вчерашнего собрания ФРС. Долларовые пары слегка отступают сегодня утром после вчерашнего успеха. Британский фунт был вчера одним из лидеров в валютных парах. Евро отстает, но не так сильно, как можно было бы ожидать, учитывая новости о Греции. Примерно та же ситуация с парами с иеной, так, GBP/JPY вчера сделала большой скачок.
+
+Сегодня из новостей в  1030 уже обнародовано швейцарское решение ЦБ Швейцарии по процентной ставке, которая оказалась в соответствии с ожиданиями. В 1130 данны розничных продаж в Великобритании. С 1200 аукционы по размещеню французских и испанских облигаций. Также в течение всего дня заседания Европгруппы. В 1530 общее число лиц, получающих пособия по безработице и базовый индекс потребительских цен (ИПЦ) (г/г) (май). В 1700 индекс производственной активности от ФРБ Филадельфии (июнь).
+
+Тогда как большинство долларовых пар вчера были в сильном выигрыше, NZD/USD упала из-за неважных данных ВВП Новой Зеландии. Эта слабость киви-валюты может продолжаться в ближайшее время.
+
+Контракт НИЖЕ, что NZD/USD закроется ниже 0.6850 через 7 дней, может принести прибыль от 157%.
+
+
+[![](/post_images/dr-ru-18june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6850&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6850&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+
+<div class="border"></div>
+
 **Анализ рынка от Дэйва Эванса за 17 июня 2015**
 
 # Все внимание новостям от ФРС и возможному выходу Греции из Еврозоны
@@ -337,25 +359,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=1200.00&currency=USD&underlying_symbol=frxXAUUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 18 мая 2015**
-
-# Рынки удерживают высоты
-
-Сегодня утром рынки ужерживаются на высотах, так, S&P 500 может в течение дня достичь рекордных высот. Долларовый индекс продолжает оставаться стабильным, но не подает признаков особенной силы. Австралийский и новозеландский собратья не в лучшей форме сегодня, отчасти в связи с размышлениями относительно понижения процентной ставки в обеих странах.  Цена на золото растет и, возможно, скоро достигнет апрельских высот. Пара USD/JPY на повышении, но все еще застряла в двухмесячных торговых рамках. Остальные основные пары в целом на повышении, в особенности EUR/JPY. Однако, GBP и  понижаеются в курсе против американского доллара.
-
-Сегодня из новостей индекс рынка жилья NAHB в США в 1700 МСК.
-
-Стоит отменить забег EUR/JPY, который игнорирует даже продолжение расхождений в переговорах по греческому долгу.
-
-Контракт ВЫШЕ, что EUR/JPY закроется выше 137.00 через 7 дней, может принести прибыль 124%.
-
-
-[![](/post_images/dr-ru-18may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=137.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&mmarket=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=137.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
