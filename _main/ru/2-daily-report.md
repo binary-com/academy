@@ -6,8 +6,24 @@ lang: ru
 ---
 
 
-<p style="color:red;">ВНИМАНИЕ! С 19 по 29 июня включительно прогноз на русском не будетпредлагаться. Читайте прогноз на английском по ссылке:</p> 
-[http://blog.binary.com/en/daily-report/](http://blog.binary.com/en/daily-report/)
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 30 июня 2015**
+
+#Евро повышается, но рынки осторожничают
+
+Евро удерживается на плаву, с легким негативным уклоном после зрелищного скачка вниз вчера. Рынки остаются осторожными, отвечая как на последствия террактов в выходные, так и на риск выхода Греции из Еврозоны. Доллар стабилен сегодня утром после давления вчера от повышения евро. Пары с йеной создают наибольшее движение, так, EUR/JPY и USD/JPY упали на 0.30%. NZD/USD продолжает понижение, сегодня утром на очередные 0.35% после того, как данные индекса доверия в деловых кругах от ANZ (июнь) показали понижение на 2.3 пункта.
+
+Сегодня из новостей в 1140 речь управляющего РБА Стивенса. В 1200 в Европе базовый индекс потребительских цен (ИПЦ) (г/г) (июнь) и уровень безработицы. В 1530 ВВП Канады. В 1645 индекс деловой активности (PMI) в Чикаго (июнь). В 1700 индекс доверия потребителей CB (июнь).
+
+Отвлекаясь от евро, можно отметить продолжение тенденции ослабления NZD/USD, несмотря на вчерашнее отступление американца.
+
+В связи с этим можно ожидать дальнейшего понижения для новозеландской валюты, поэтому контракт НИЖЕ, что NZD/USD закроется ниже 0.6750 через 7 дней, может принести прибыль до 166%.
+
+[![](/post_images/dr-ru-30june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6750&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6750&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 <div class="border"></div>
@@ -342,24 +358,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7200&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 20 мая 2015**
-
-#Доллар на повышении
-
-Сегодня утром доллар продолжает удачную сессию после отличных данных о строительстве жилья вчера. Сейчас долларовый индекс выше 14-дневной средней скользящей впервые с начала апреля. В то же время курс евро, наоборот, падает по мере роста обеспокоенности по греческому долгу. EUR/USD падает, но важно отметить, что и EUR/GBP тоже, несмоторя на показатели, отмечающие дефляцию в Великобритании. USD/JPY на повышении, как и все японские пары, за исключением EUR/JPY. Золото сильно упало в цене вчера, и давление на драгоценный металл ощущается и сегодня утром.
-
-Сегодня из новостей в 1130 по Москве – число голосов за повышение ставки Банка Англии (май), где не ожидается сюрпризов. Канадские данные оптовых продаж в 1530. Публикация протоколов FOMC в 2100.
-
-Вернулась ли удача к доллару? Возможно, временно, но пока нет стабильных показателей непроницаемости, которая была налицо до начала апреля.
-
-Пара USD/JPY вырвалась вперед, но в долгосрочной перспективе можно ожидать изменения тенденции.
-
-[![](/post_images/dr-ru-22may.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=120.7500&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=120.7500&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
