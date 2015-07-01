@@ -114,7 +114,8 @@ $(function() {
             reqParams = {
                 part: 'contentDetails,snippet,status',
                 playlistId: listId,
-                key: 'AIzaSyDM8-uF9EGwVl4litOnFGSbBzWodGVRnLU'
+                key: 'AIzaSyDM8-uF9EGwVl4litOnFGSbBzWodGVRnLU',
+                maxResults: 50
             };
 
         $.get(reqUrl, reqParams, renderVideoList);

@@ -20,7 +20,7 @@ $(function() {
 
     $('.login-button, .dialog, .overlay').on('click', function() {
         $('.overlay').toggleClass('hidden');
-    })
+    });
 
     $('form[novalidate]').on('submit', function(e) {
         var $form = $(this);
@@ -33,5 +33,5 @@ $(function() {
     $('.language-selector select').on('change', function() {
         var idx = this.selectedIndex;
         $('.flag').css('background-position', '0 -' + idx * 15 + 'px');
-    })
+    });
 });
