@@ -110,24 +110,24 @@ $(function() {
 
         var $playlist = this,
             listId = $(this).attr('data-list-id'),
-            playlistUrl = 'https://gdata.youtube.com/feeds/api/playlists/' + listId + '?v=2&max-re‌​sults=50&alt=json&orderby=published';
+            reqUrl = 'https://www.googleapis.com/youtube/v3/playlistItems',
+            reqParams = {
+                part: 'contentDetails,snippet,status',
+                playlistId: listId,
+                key: 'AIzaSyDM8-uF9EGwVl4litOnFGSbBzWodGVRnLU'
+            };
 
-        $.getJSON(playlistUrl, function(data) {
-            var listHtml = "";
-            $.each(data.feed.entry, function(i, item) {
-                var title = item.title.$t,
-                    feedURL = item.link[1].href,
-                    fragments = feedURL.split("/"),
-                    videoID = fragments[fragments.length - 2],
-                    thumbUrl = "http://img.youtube.com/vi/" + videoID + "/default.jpg",
-                    thumbHtml = '<a class="video-thumb" data-video-id="' + videoID + '" title="' + title + '">' +
-                    '<img src="' + thumbUrl + '">' +
-                    '<p>' + title + '</p>' +
-                    '</a>';
-                listHtml += thumbHtml;
+        $.get(reqUrl, reqParams, renderVideoList);
+
+        function renderVideoList(data) {
+            var thumbs = data.items.map(function(item) {
+                return '<a class="video-thumb" data-video-id="' + item.snippet.resourceId.videoId + '" title="' + item.snippet.title + '">' +
+                            '<img src="' + item.snippet.thumbnails.high.url + '">' +
+                            '<p>' + item.snippet.title + '</p>' +
+                        '</a>';
             });
-            $(listHtml).appendTo($playlist);
-        });
+            $(thumbs.join('')).appendTo($playlist);
+        }
     });
 
     $('div[data-role=youtube-playlist]').on('click', '.video-thumb', function() {
