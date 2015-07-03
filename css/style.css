@@ -365,6 +365,11 @@ table td {
         padding-top: 20px;
         padding-bottom: 30px;
     }
+.img-center{
+    max-width: 250px;
+    display:block;
+    margin: auto;
+}
 /* end of weekly report page */
 /* Downloads page */
 
