@@ -368,7 +368,7 @@ table td {
 .img-center{
     max-width: 250px;
     display:block;
-    margin: auto;
+    margin: 20px auto;
 }
 /* end of weekly report page */
 /* Downloads page */
