@@ -5,6 +5,25 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+<div class="border"></div>
+
+**Фунт спотыкается в день бюджета**
+
+# Евро на подъеме
+
+Сегодня фбючерсы фондовых рынков сильно продаются по мере того, как греческий кризис принимает то одни, то другие формы. Возможно, более серьезную озабоченность можно выразить по поводу китайских акций, так ка кэта тема беспокоит инвесторов в любом уголке мираАмериканский доллар продолжает доминировать, хотя и евро сегодня на подъеме. Доллару, несомненно, помогает падение цен на нефть. Пары с иеной отступают, так как японская валюта находит поддержку после лучших, чем ожидалось, данных счета текущих операций платежного баланса (с учетом сезонных колебаний). Основное движение создает австралийский доллар, который заразился простудой Китая, образно выражаясь. Фунт также под давлением в преддверии летнего бюджета. Евро удерживается на плаву, несмотря на жесткую линию, принятую Еврогруппой.
+
+Сегодня в течение всего дня собрания Еврогруппы по герческому вопросу. Британский бюджет в 1430. В 1530 канадские разрешения на строительство домов, а в п убликация протоколов FOMC.
+
+Пара AUD/JPY  испытывает сильную волатильность, и это не прекратится в ближайшее время, если китайская экономика продолжит терять стабильность.
+
+Контракт НИЖЕ, что AUD/JPY закроется ниже 88.00 через 7 дней, может принести прибыль до 322%.
+
+
+[![](/post_images/dr-ru-8july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=88.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=88.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
 
 <div class="border"></div>
 
@@ -345,24 +364,7 @@ RСегодня утром ослабленный доллар уступает 
 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7325&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
-<div class="border"></div>
 
-**Анализ рынка от Дэйва Эванса за 3 июня 2015**
-
-# Евро на подъеме
-
-Сегодня утром доллар продолжает падать после вчерашнего драматического поворота событий. Похоже, что это была запоздалая реакция на последние новости, чтокредиторы Греции пришли к соглашению. То, что Греция все еще должна согласиться с этим планом, кажется всем незначительным фактором, и энтузиазм распространяется на все пары, особенно на евро-доллар. Также евро сильно обогнал вчера фунт в паре EUR/GBP. Австралийский доллар также в выигрыше после того, как RBA заострил внимание на том, что будет более долгий период без снижения ставки. Хорошие данные ВВП также способствуют этому. Новозеландский доллар также на подъеме по инерции.
-
-Сегодня утром ряд новостей в Европе, включая испанские и немецкие данные в 1015 и 1055. В 1130 бриатнский индекс деловой активности в секторе услуг (май), который оказался хуже прогнозов. Далее европейские данные розничных продаж и уровеня безработицыВ 1445 решение о процентной ставке от ЕЦБ и пресс-конференция. В 1515 в США изменение числа занятых в несельскохозяйственном секторе от ADP (май). Канадский и американский торговый баланс в 1530. Выступление президента ФРБ Чикаго Эванса d 2115.
-
-Греческие надежды в последние два дня вдохновили евро, но в настоящей европейской политике все очень сложно, так что можно оиждать поворота событий.
-
-Контракт НИЖЕ, что EUR/USD закроется ниже 1.1100 через 7 дней, может принести прибыль 153%.
-
-
-[![](/post_images/dr-ru-3june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1100&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1100&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
