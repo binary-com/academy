@@ -7,6 +7,28 @@ lang: ru
 
 <div class="border"></div>
 
+
+**Анализ рынка от Дэйва Эванса за 9 июля 2015**
+
+# Фунт на понижении из-за летнего бюджета
+
+Сегодня утром фунт все еще нестабильный после вчерашней продажи на волне летнего бюджета. Очевидно, что трейдеры нашли что-то, что вызвало их недовольство,  заставив фунт резко упасть, как против иены, так и других валют. Австралийский доллар на подъеме, так как китайский рынок стабилизируется благодаря строгому контролю фондовых рынков. Пары с иеной на подъеме, так как баланс высокого/низкого риска имеет позитивный уклон. Это отчасти благодаря более сильному евро. Долларовый индекс не в лучшей ситуации снова, а S&P 500 на подъеме.
+
+Сегодня из новостей в 1400 общий объём программы QE Банка Англии (июль) и решение по процентной ставке (июль). Число первичных заявок на получение пособий по безработице в США в 1530 по Москве, и в 1715 выступление члена FOMC Брэйнарда.
+
+Евро на этой неделе проявил завиднуюстабильность, но приближаются выходные, когда должны быть приняты важные решения. Вчера в жертвах был фунт, но сегодня от него можно ожидать начала восстановления.
+
+В целом, можно ожидать понижения для пары EUR/GBP. Контракт НИЖЕ, что EUR/GBP закроется ниже 0.7200 через 7 дней, может принести прибыль  до110%.
+
+
+[![](/post_images/dr-ru-9july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market= forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market= forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Фунт спотыкается в день бюджета**
 
 # Евро на подъеме
@@ -342,27 +364,7 @@ RСегодня утром ослабленный доллар уступает 
 
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=125.000&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
-<div class="border"></div>
 
-
-
-**Анализ рынка от Дэйва Эванса за 4 июня 2015**
-
-# Австралийский доллар на понижении из-за данных розничных продаж
-
-Псоел скачка на новостях от RBA вчера, сегодня австралийский доллар снова на понижении после неважных данных розничных продаж и баланса, что привело к смене тенденции для пар AUD/USD и AUD/JPY. Пара NZD/USD также на понижении из-за этого. Вчерашняя сессия была позитивной для евро, но сегодня ситуация другая, так как принятие решения по греческому Грецию все еще не подтверждено самой страной. Ожидания инфляции подскочили. Долларовый индекс довольно стабилен сегодня утром после двух дней потерь.
-
-Сегодня из новостей решение по процентной ставки Веклиобритании в 1400 МСК, но не ожидается ничего нового. Среднее число заявок на пособие по безработице за 4 недели уровень производительности в несельскохозяйственном секторе (кв/кв) (1 кв.) В США в 1530. Индекс деловой активности (PMI) Ivey в Канаде без учета сезонных колебаний (май) в 1700.
-
-Повышение EUR/GBP практически дошло до верхнего барьера многонедельных торговых рамок. Это произошло даже несмоторя на отсутствие существенных новостей по греческому долгу, поэтому вполне можно ожидать понижения для паары в дальнейшем.
-
-Контракт НИЖЕ, что пара EUR/GBP закроется ниже 0.7325 через 7 дней, может принести прибыль 141%.
-
-
-
-[![](/post_images/dr-ru-4june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7325&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7325&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
