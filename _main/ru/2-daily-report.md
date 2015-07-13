@@ -8,6 +8,29 @@ lang: ru
 <div class="border"></div>
 
 
+**Анализ рынка от Дэйва Эванса за 7 июля 2015**
+
+# Греция на краю (снова).  Евро держится.
+
+
+Эта песня уже даже надоедает – рынки снова реагируют на новости о сложностях для Греции. Они открылись ниже в воскресенье, но потом оправились и сейчас зависли в ожидании очередного раунда греческих переговоров. Сегодня примерно то же самое: S&P 500 и евро сделали скачок вниз при открытии, но сейчас восстанавливают потерянные позиции. Евро даже на подъеме, несмотря на удаление от решения греческой проблемы. Уступки Греции, возможно, повлияли на это. Пара NZD/USD преломила общую тенденцию и поднимается, несмотря на неважные данные китайского торгового баланса.
+
+Сегодня из новостей в 1130 опрос по условиям кредита BOE  в Великобритании.
+
+Для пары NZD/USD ничего не изменилось глобально, несмотря на подъем сегодня утром, поэтому в долгосрочной перспективе можно ожидать понижения.
+
+Контракт НИЖЕ, что NZD/USD закроется ниже 0.6700 через 7 дней, может принести прибыль 129%.
+
+
+[![](/post_images/dr-ru-13july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6700&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6700&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 10 июля 2015**
 
 # Евро на подъеме, несмотря на неизбежность решения по Греции
@@ -346,26 +369,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=141.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 8 июня 2015**
-
-# Рынки стабилизируются после смешанной реакции я пятницу
-
-
-Сегодня рынки берут паузу после лучших, чем ожидалось, данных занятости вне сельскохозяйственного сектора в США в прошлую пятницу. Новости привели к резкому изменению курса долларовых пар, с поднятиям американского доллара, естественно. Фондовые рынки не показывают никакой реакции на хорошие новости, так как с другой стороны это может привести к более скорому поднятию процентной ставки. Доллар сейчас находится выше 14-дневной средней скользящей, а индекс S&P 500 ниже 100-дневного среднего значения. Евро пострадал больше остальных пар в пятницу, так, пара EUR/GBP сменила тенденцию. Австралийский доллар также неважно «чувствовал» себя в пятницу, и пара AUD/USD сейчас скорее испытывает нисходящую тенденцию.
-
-Сегодня будут проходить собрания G7 в течение всего дня. Основная новость среди прочих – канадские разрешения на строительство в 1530 по Москве.
-
-Пары с йеной продолжают повышение, в особенности это произошло с USD/JPY в пятницу. Когда йена впадает в какую-то тенденцию, то ее сложно остановить, поэтому можно ожидать дальнейшего повышения для USD/JPY.
-
-Контракт ВЫШЕ, что USD/JPY закроется выше 126.00 через 4 дня, может принести прибыль от 161%.
-
-
-[![](/post_images/dr-ru-8june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=4d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=4d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=126.000&currency=USD&underlying_symbol=frxUSDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
