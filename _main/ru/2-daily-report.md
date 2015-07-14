@@ -8,6 +8,27 @@ lang: ru
 <div class="border"></div>
 
 
+**Анализ рынка от Дэйва Эванса за 14 июля 2015**
+
+# Евро стабильный после соглашения
+
+Единственные люди, которые рады новому греческому кредиту – это официальные лица, но аналитики и само население Греции совсем не счастливы по этому поводу. Однако, пока не стоит полагаться на заголовки газет, а ждать окончательных решений в Европе. Выбранный Грецией путь – сложный для претворения в жизнь, и Ципрасу понадобится поддержка оппозиции, но и это может привести к новым выборам до конца года. Пока реакция рынков довольно интересная, евро упал, а S&P 500 на подъеме. Сейчас оба стабилизировались, но циничное прочтение такой реакции указывает на то, что евротрейдеры знают, что такая сделка ядовита в конечном итоге, а трейдеры США счастливы, что Еврозона не распадается, хотя и причиняет вред своим же участникам. Доллар занимает оборонительную позицию после скачка вчера. Пары с иеной отступают после подъема вчера.
+
+Сегодня из новостей в 1130 базовый индекс потребительских цен (ИПЦ)  и розничных цен Великобритании. В 1215 отчет об инфляции там же. Выступление главы Банка Англии Карни в 1445. Индекс экономических настроений ZEW в Германии (июль) в 1300. Базовый индекс розничных продаж (м/м) (июнь) в США в 1530.
+
+Австралийский доллар сегодня на подъеме, но цены на сырье все еще низкие, а китайские рынки нестабильны. Поэтому можно ожидать понижения для этой валюты.
+
+Контракт НИЖЕ, что пара AUD/USD закроется ниже 0.7400 через 7 дней, может принести прибыль 130% в случае успеха.
+
+
+[![](/post_images/dr-ru-14july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7400&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7400&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 7 июля 2015**
 
 # Греция на краю (снова).  Евро держится.
@@ -348,25 +369,7 @@ RСегодня утром ослабленный доллар уступает 
 [Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=2d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1400&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 9 июня 2015**
-
-# Евро на подъеме, несмотря на греческие проблемы
-
-Сегодня утром американский доллар пока продолжает испытывать проблемы, чтот сказывается и на фьючерсах. Евро лидирует на валютном рынке, несмотря на отсутствие прогресса в греческих переговорах.  Пара EUR/GBP продолжает начатую вчера тенденцию крупной прибыли. Золото на подъеме второй день подряд, но это нельзя назвать тенденцией. Пары NZD/USD и AUD/USD не потворяют путь других долларовых пар, неся потери в связи с тем, что китайский индекс потребительских цен оказался ниже ожиданий. Пары с йеной смешанные, так, USD/JPY падает, а EUR/JPY продолжает подниматься.
-
-Сегодня день небогат на экономические события, но можно выделить британский торговый баланс в 1130 и число открытых вакансий на рынке труда JOLTS в 1700.
-
-Пара EUR/JPY, кажется, набирает импульс, несмотря на отсутствие прогресса в греческих переговорах. Стоит попробовать плыть по течению и надеятьс яна продолжение тенденции.
-
-Контракт ВЫШЕ, что EUR/JPY закроется выше 141.00 через 7 дней, может принести прибыль от 122%.
-
-
-[![](/post_images/dr-ru-9june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=141.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=141.000&currency=USD&underlying_symbol=frxEURJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
