@@ -568,6 +568,11 @@ aside {
     .slides-pagination li.current a {
       background: $COLOR_ORANGE;
     }
+    .learn-cta{
+    display: block;
+    margin:0 auto 20px;
+    text-align: center;
+    }
 
 /* =====================================================
 =========================================================
