@@ -5,6 +5,29 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 20 июля 2015**
+
+# ФРС размышляет о поднятии ставки, золото падает в цене
+
+
+Сегодня утром цена на золото упала до 5-летнего низшего уровня, $1,070, но потом снова несколько поднялась. Движение было вызвано размышлениями о повышении ФРС процентной ставки, но вряд ли это единственный катализатор, так как доллар, например, практически не сдвинулся с места. Индекс S&P 500 сейчас чуть ниже июньского выского уровня. Пара NZD/USD впервые за много сессий на подъеме после комментариев от официальных лиц, включая премьер-министра, что падение новозеландского доллара было слишком поспешным.
+
+Сегодня мало значительных экономических новостей, разве что объем оптовых продаж Канады в 1530.
+
+Впервые за несколько недель евро открыл сессию в понедельник со скачком вниз. Вряд ли это сигнал к покупке, но можно воспользоваться ставками на понижение. Кризис в еврозоне продолжится, пока ответственные политики не примут серьезных и сложных решений для обеспечения их долгосрочного функционирования.
+
+Контракт НИЖЕ, что EUR/USD закроется ниже 1.0600 через 35 дней, может  принести прибыль от of 300%.
+
+
+[![](/post_images/dr-ru-20july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=35d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.06000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=35d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.06000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
 <div class="border"></div>
 
 
@@ -347,26 +370,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=8d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 10 июня 2015**
-
-# Ослабленный доллар уступает путь йене
-
-
-RСегодня утром ослабленный доллар уступает путь сильной йене Доллар испытывает проблемы ужде третий день подряд по мере восстановления фондовых рынков. Пара USD/JPY создает наибольшее движение на рынке, но и другие пары с японской валютой недалеко. Австралийский доллар также на подъеме, как и пара с соседней валютой NZD/USD. Курс евро растет третий день подрядy, игнорируя озабоченность греческой ситуацией.
-
-Сегодня из новостей в 1130 объем промышленного производства в Великобритании. В 1700 там же оценка роста ВВП от NIESR. Выступление главы Банка Англии Карни  в 2300 по Москве. Решение по процентной ставке Новой Зеландии в полночь.
-
-Как долго может пара EUR/USD продолжать подъем? Похоже, что евро все больше отстраняется от ситуации в Греции, поскольку его поведение противоречит тону и результатам переговоров по ситуации этой страны. Тенденция на данный момент четко за евро, и может иметь смысл следовать ей, а не политическим наблюдениям.
-
-Контракт ВЫШЕ, что EUR/USD закроется выше 1.1400 через 2 дня, может принести прибыль 130%.
-
-
-[![](/post_images/dr-ru-10june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=2d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1400&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=2d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.1400&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
