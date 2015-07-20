@@ -1,7 +1,7 @@
 ---
 layout: fr/post
 title: "Les indices intelligents sont maintenant disponibles!"
-permalink: /Les-indices-intelligents-sont-maintenant-disponibles/ 
+permalink: fr/Les-indices-intelligents-sont-maintenant-disponibles/ 
 excerpt: "Nous avons le plaisir de vous annoncer que Binary.com élargit sa gamme de produits avec le lancement de ses Indices Intelligents."
 ---
 
