@@ -5,6 +5,25 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+<div class="border"></div>
+
+**Анализ рынка от Дэйва Эванса за 22 июля 2015**
+
+#Рынки спотыкаются о результаты Apple
+
+Сегодня утром рынки не в лучшей ситуации после того, как результаты компании Apple, обнародованные прошлой ночью, не впечатлили никого.  Размеры этого технологического гиганта таковы, что он смог задать тон всем рынкам сегодня. В остальном на рынках сопокйствие. Пары с японской иеной на понижении, так как инвестоы снова прибегают к безопасной гавани.  Австралийский доллар снова теряет позиции после того, как результаты ИПЦ оказались немного ниже прогноза.
+
+Сегодня из новостей в 1130 число голосов за снижение ставки Банка Англии (июль). В 1700 в США продажи на вторичном рынке жилья (июнь), а в 1730 запасы сырной нефти там же. Основное внимание в Европе – голосованию греческого правительства по долгу.
+
+Евро отошел в тень после принятия последнего решения по долгу, но вряд ли эта ситуация продлится. Греческий долг неподъемен для страны без смягчения его условий со стороны кредиторов, но на последнее пока есть только неопределенные намеки, и ничего точного.
+
+Контракт НИЖЕ, что EUR/USD закроется ниже 1.0800 через 30 дней, может принести прибыль 187%.
+
+[![](/post_images/dr-ru-22july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=30d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
 
 <div class="border"></div>
 
@@ -352,23 +371,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-**Анализ рынка от Дэйва Эванса за 12 июня 2015**
-
-#Переломный момент (снова) для евро
-
-Сейчас для евро (снова) переломный момент, так как кредиторы стараются проявить твердость по отношению к греческим запросам. Евро пока никак на это не отреагировал, но вероятно, это скорее связано с тем, что трейдеры ждут развязки событий. Доллар начала день скорее на позитивной ноте, а S&P 500 слегка отсупил. В целом сегодня рынки характеризуются отсутствием движения, а пары с йеной слегка сдают позиции. Долларовые пары без движения, хотя NZD/USD продолжает понижаться.
-
-Сегодня из новостей в 1530  bндекс цен производителей (PPI) (г/г) (май), а в 1700 индекс настроения потребителей от Мичиганского университета (июнь).
-
-Евро не испытывал сильного движения в последние дни, но это скоро должно измениться, так как греческие переговоры подходят к концу.
-
-Контракт ВНУТРИ/ВНЕ, что EUR/GBP закроется ВНЕ рамок 0.75000 или 0.70000 через 80 дней, может принести прибыль 116%.
-
-[![](/post_images/dr-ru-12june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=80d&form_name=endsinout&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=EXPIRYRANGE&L=0.70000&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=80d&form_name=endsinout&expiry_type=duration&amount_type=payout&H=0.75000&currency=USD&underlying_symbol=frxEURGBP&amount=100&date_start=now&type=EXPIRYRANGE&L=0.70000&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
