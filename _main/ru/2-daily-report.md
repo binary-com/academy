@@ -5,6 +5,28 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 23 июля 2015**
+
+#Голосование по поводу долга в Греции оставляет рынки равнодушными
+
+Очередным подтверждением того, что рынки уже перестали реагировать на Грецию, служит факт, что одобренное греческим парламентом прошлой ночью решение по долгу, совсем не отразилось на рынках. Пара EUR/USD слегка поднялась, но евро никак не сменил тенденцию в целом. Индекс S&P 500 сохраняет позитивный уклон, покрыв половину потерь в прошлый вторник. Доллар также остается в позитивной тенденции, удерживаясь выше 14-дневной средней скользящей. Золото на подъеме впервые за много сессий, но цена на нефть упала ниже $50 впервые с марта. Это сказывается негативно на канадском долларе.
+
+Сегодня из новостей в 10 утра уже обнародован уровень безработицы в Испании, оказавшийся чуть лучше прогнозов. В 1130 базовый индекс розничных продаж  в Великобритании. Объем канадских розничных продаж в 1530, и в это же время  о реднее число заявок на пособие по безработице за 4 недели в США.
+
+Канадский доллар продолжает оставаться под давлением в связи с падением цен на нефть, в то время как для британского фунта ситуация выглядит стабильной.
+
+Контракт ВЫШЕ, что GBP/CAD закроется выше, чем 2.0500 через 35 дней, может принести прибыль 145%.
+
+
+[![](/post_images/ru-dr-23july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=35d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=2.05000&currency=USD&underlying_symbol=frxGBPCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=35d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=2.05000&currency=USD&underlying_symbol=frxGBPCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
 <div class="border"></div>
 
 **Анализ рынка от Дэйва Эванса за 22 июля 2015**
@@ -350,25 +372,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.770&currency=USD&underlying_symbol=frxAUDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 16 июня 2015**
-
-#Евро игнорирует приближение к краху по греческим переговорам
-
-Сегодня утром заголовки газет намекают на то, что Греция стоит на краю, но на краю чего? Дефолта? Выхода из еврозоны? Или выбьет новую отсрочку? Что бы это ни было, евро явно не реагирует на греческую ситуацию. Более того, сегодня утром евро впереди многих других валют. Пары с йеной тем временем на подъеме, так,  GBP/JPY продолжает забег. Австралийский и новозеландский доллары под давлением. Американский доллар держится хорошо, а фондовые рынки испытывают разоворот тенденции.
-
-Сегодня из новостей в 1130 в Великобритании индекс потребительских цен (ИПЦ). В 1600  S&P 500 HPI. Основная новость дня, индекс потребительского доверия в США в 1700.
-
-Пара NZD/USD продолжает понижение, несмоторя на то, что американец не в самой лучшей ситуации. Это намекает на слабость новозеландской валюты и продолжение тенденции.
-
-Контракт НИЖЕ, что NZD/USD закроется ниже 0.6950 через 7 дней, может принести прибыль 125%.
-
-
-[![](/post_images/dr-ru-16june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6950&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
