@@ -5,10 +5,30 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 28 июля 2015**
+
+# Фондовые рынки пошатнулись, но восстанавливаются
+
+Сегодня рынки в Китае немного оправились от потерь ранее, а S&P стрмеится вверх к средней скользящей за 200 дней. Долларовый индекс без изменений, и евро, который на понижении, компенсирует за это в остальных парах. Австралийский доллар на повышении, чему способствует восстановление китайского рынка. Так, пара AUD/JPY поднялась на 0.73%, а AUD/USD на 0.47%. Пара NZD/USD также поднялась на 0.55%. Это произошло даже несмотря на низкие цены на нефть, которые сейчас ниже $50.00.
+
+Сегодня из новостей в 1130 ВВП Великобритании. В 1530 индекс цен на промышленные товары (IPPI) (г/г) (июнь) Канады, а в 1700 индекс доверия потребителей CB (июль).
+
+Хотя AUD/USD сегодня на подъеме, общая тендецния остается к понижению. Пока не произойдет кардинального изменения в ценах на сырье, вряд ли можно ожидать прочной смены тенденции для австралийской валюты.
+
+Контракт НИЖЕ, что AUD/USD закроется ниже 0.7250 через 10 дней, может принести прибыль 149%.
+
+
+[![](/post_images/dr-ru-28july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72500&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72500&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 <div class="border"></div>
 
+http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 **Анализ рынка от Дэйва Эванса за 24 июля 2015**
 
 # Экономические данные Китая приводят к падению цен на сырье
@@ -352,25 +372,7 @@ lang: ru
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=1.1500&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 18 июня 2015**
-
-# Доллар теряет высоты после собрания ФРС
-
-Сегодня утром рынки сохраняют спокойствие после заявления ФРС и несмотря на продолжающуюся греческую мелодраму. Фондовые рынки продолжают испытывать сильную волатильность. Доллар опустился снова после вчерашнего собрания ФРС. Долларовые пары слегка отступают сегодня утром после вчерашнего успеха. Британский фунт был вчера одним из лидеров в валютных парах. Евро отстает, но не так сильно, как можно было бы ожидать, учитывая новости о Греции. Примерно та же ситуация с парами с иеной, так, GBP/JPY вчера сделала большой скачок.
-
-Сегодня из новостей в  1030 уже обнародовано швейцарское решение ЦБ Швейцарии по процентной ставке, которая оказалась в соответствии с ожиданиями. В 1130 данны розничных продаж в Великобритании. С 1200 аукционы по размещеню французских и испанских облигаций. Также в течение всего дня заседания Европгруппы. В 1530 общее число лиц, получающих пособия по безработице и базовый индекс потребительских цен (ИПЦ) (г/г) (май). В 1700 индекс производственной активности от ФРБ Филадельфии (июнь).
-
-Тогда как большинство долларовых пар вчера были в сильном выигрыше, NZD/USD упала из-за неважных данных ВВП Новой Зеландии. Эта слабость киви-валюты может продолжаться в ближайшее время.
-
-Контракт НИЖЕ, что NZD/USD закроется ниже 0.6850 через 7 дней, может принести прибыль от 157%.
-
-
-[![](/post_images/dr-ru-18june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6850&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=payout&H=0.6850&currency=USD&underlying_symbol=frxNZDUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
