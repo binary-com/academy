@@ -5,6 +5,27 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 30 июля 2015**
+
+#Федеральный комитет придерживается заданного курса, доллар на повышении
+
+Сегодня утром доллар продолжает доминировать рынки после того, FOMC принял решение пока не поднимать ставки, но намекнул на то, что цифры занятости были «солидными» и впечатлили комитет. Фондовые рынки положительно отреагировали на экономические улучшения и приостановку плана повышения ставки. Золото продолжает понижаться в цене, чему способствует и сильный доллар. Тем временем, на другом конце света дошла очередь для понижения NZD/USD, несмотря на относительно стабильный день для австралийского соседа. В Европе греческий кризис исчез из заголовков, но проблема далеко не решена. Евро продолжает находиться в не самой лучшей ситуации.
+
+Сегодня из новостей в 1055 по Москве изменение количества безработных в Германии (июль). В 1530 ВВП США (2 кв.)
+
+Перспектива поднятия процентной ставки в Еврозоне все еще очень далека по сравнению с США и Великобританией. В связи с этим можно ожидать понижения евро, независимо от греческого кризиса.
+
+Контракт НИЖЕ, что EUR/GBP закроется ниже 0.6950 через 14 дней, может принести прибыль 225%.
+
+[![](/post_images/dr-ru-30july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.69500&currency=GBP&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.69500&currency=GBP&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
 <div class="border"></div>
 
 
@@ -353,24 +374,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=19d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.98000&currency=GBP&underlying_symbol=frxGBPCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 30 июня 2015**
-
-#Евро повышается, но рынки осторожничают
-
-Евро удерживается на плаву, с легким негативным уклоном после зрелищного скачка вниз вчера. Рынки остаются осторожными, отвечая как на последствия террактов в выходные, так и на риск выхода Греции из Еврозоны. Доллар стабилен сегодня утром после давления вчера от повышения евро. Пары с йеной создают наибольшее движение, так, EUR/JPY и USD/JPY упали на 0.30%. NZD/USD продолжает понижение, сегодня утром на очередные 0.35% после того, как данные индекса доверия в деловых кругах от ANZ (июнь) показали понижение на 2.3 пункта.
-
-Сегодня из новостей в 1140 речь управляющего РБА Стивенса. В 1200 в Европе базовый индекс потребительских цен (ИПЦ) (г/г) (июнь) и уровень безработицы. В 1530 ВВП Канады. В 1645 индекс деловой активности (PMI) в Чикаго (июнь). В 1700 индекс доверия потребителей CB (июнь).
-
-Отвлекаясь от евро, можно отметить продолжение тенденции ослабления NZD/USD, несмотря на вчерашнее отступление американца.
-
-В связи с этим можно ожидать дальнейшего понижения для новозеландской валюты, поэтому контракт НИЖЕ, что NZD/USD закроется ниже 0.6750 через 7 дней, может принести прибыль до 166%.
-
-[![](/post_images/dr-ru-30june.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6750&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6750&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
