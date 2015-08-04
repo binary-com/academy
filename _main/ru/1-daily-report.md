@@ -4,6 +4,48 @@ title: Анализ Рынка
 permalink: ru/daily-report/
 lang: ru
 ---
+http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
+
+<div class="border"></div>
+
+**Анализ рынка от Дэйва Эванса за 3 августа 2015**
+
+#Худшие производственные данные Китая с 2013 года
+
+В китайских экономических данных сложно ориентироваться даже в лучшие времена, но сейчас есть несколько индикаторов того, что азиатский гигант испытывает ниспадающую тенденцию в экономике, и последний индекс деловой активности в производственном секторе (PMI) от Caixin (июль) только подверждает это. Низкая цифра этого показателя причинила понижение на фондовых рынках, , от чего выиграл американский доллар. Основное же движение на валютном рынке создает канадский доллар, на который сильно давят низкие цены на нефть. Также в Канаде сегодня выходной. Евро стабилизировался после волатильной сессии в пятницу.
+
+Сегодня из новостей в 1015 индекс деловой активности в производственном секторе (PMI) Испании (июль), который уже опубликован и оказался ниже прогнозов. В 1130 индекс деловой активности в производственном секторе (PMI) (июль) Великобритании. В 1530 базовый ценовой индекс расходов на личное потребление США (июнь), а также доходы и расходы физических лиц за июнь. В 1700 там же индекс занятости в производственном секторе от ISM (июль) , а в 1750 речь члена FOMC Пауэлла.
+
+Канадский доллар продолжает оставаться под давлением, особенно со стороны американского соседа и по причине низких цен на нефть. Пока в эттих двух направлениях что-то кардинально не изменится, можно ожидать продолжения повышения для пары USD/CAD.
+
+Контракт ВЫШЕ, что USD/CAD закроется выше 1.3200 через 10 дней, может принести прибыль 150%.
+
+
+[![](/post_images/dr-ru-3aug.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.3200&currency=USD&underlying_symbol=frxUSDCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.3200&currency=USD&underlying_symbol=frxUSDCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 31 июля 2015**
+
+#Евро спотыкается о позиции ММФ
+
+Сегодня утром американский доллар снова на высоте, так как американская экономика подает стабильные признаки восстановления. S&P 500 также на подъеме, уже поднявшись выше 100-дневной скользящей средней. Австралийский доллар снова на понижении из-за неуверенности в китайской экономике, с которой тесно связана его судьба, и создает наибольшее движение на рынках. NZD понижается из "солидарности" с соседом. Цена на золото также продолжает падать, особенно благодаря более сильному доллару. Евро продолжает оставаться нестабильным, так как участие ММФ в кредите Греции до сих пор не подтверждено.
+
+Сегодня из новостей базовый индекс потребительских цен Европы (ИПЦ) (июль) в 1130, а также уровень безработицы в Европе за июнь. В 1530 канадский ВВП и индекс стоимости рабочей силы (2 кв.) в США. В 1645 индекс деловой активности (PMI) в Чикаго (июль), а в 1700 индекс ожиданий потребителей от Мичиганского университета (июль).
+
+Евро продолжает оставаться нестабильным. Пока это не будет точно подтверждено участие ММФ в кредите Греции, курс евро может продолжать понижаться.
+
+Контракт НИЖЕ, что the EUR/USD закроется ниже 1.0800 через 14 дней, может принести прибыль 221%.
+
+[![](/post_images/dr-ru-31july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08000&currency=USD&underlying_symbol=frxEURUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
 
 
 <div class="border"></div>
@@ -332,46 +374,10 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
-
-
-**Анализ рынка от Дэйва Эванса за 2 июля 2015**
-
-#Евро на повышении, несмоторя на смятение по греческому вопросу
-
-В Греции продолжается смятение по поводу того, кпитулировал ли Ципрас перед кредиторами и будет ли референдум в воскресенье. Вчера были конфликтирующие послания, но рынки пока даже более стабильны сегодня утром, евро выше. Вчера был хороший день для доллара, так как ожидания по занятости в несельскохозяйственном секторе от ADP оказались более, чем оправданы. Сила доллара повлияла на фунт, который все еще немного борется с последствиями вчерашних продаж, а также не помогли его ситуции и худшие, чем ожидалось, производственные данные.
-
-Сегодня из новостей в 1430 публикация протокола заседания ЕЦБ по монетарной политике. Основная новость дня – изменение числа занятых в несельскохозяйственном секторе (июнь) в США в 1530.
-
-Для пары NZD/USD в последнее время наблюдается четкая тенденция к постепенному снижению, и к ней стоить присмотреться.
-
-Контракт НИЖЕ, что NZD/USD закроется ниже 0.6600 через 7 дней, может принести прибыль 235%.
-
-[![](/post_images/dr-ru-2july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 1 июля 2015**
-
-#Австралиец на подъеме, евро на медленном огне
-
-Сегодня утром евро продолжает вариться на медленном огне после последних движений и ответных движений в игре между Грецией и кредиторами. Наибольшее движение создает автралийский доллар после неплохих экономических данных Китая и лучших, чем ожидалось, данных разрешения на строительство. Пара NZD/USD поднимается и восстанавливается от недавних потерь, как следствие. Британский фунт продолжает оставаться в белой полосе, и пара GBP/JPY пытается преодолеть открытие в понедельник сильно ниже пятничного значения. Для фунта наибольшая прибыль наблюдается против канадского доллара, так как ВВП Канады остается негативным второй квартал подряд (и третий без прироста). USD/CAD также на подъеме. Долларовый индекс пока без изменений, а S&P оставаться ниже 200-дневной средней скользящей.
-
-Из новостей можно отметить в 1130 индекс деловой активности в производственном секторе (PMI) (июнь) в Великобритании, который уже опубликован и оказался ниже прогнозов. В 1515 изменение числа занятых в несельскохозяйственном секторе от ADP (июнь) США. В 1700 индекс занятости в производственном секторе от ISM (июнь) там же. Собрания Еврогруппы в течение всего дня.
-
-Пара GBP/CAD продолжает подъем после вчерашних плохих данных ВВП Канады, и можно ожидать, что эта ситуация для североамериканской страны затянется.
-
-Контракт ВЫШЕ, что GBP/CAD закроется выше 1.9800 через 19 дней, может принести прибыль 177%
-
-[![](/post_images/dr-ru-1july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=19d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.98000&currency=GBP&underlying_symbol=frxGBPCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт:](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=19d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.98000&currency=GBP&underlying_symbol=frxGBPCAD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
