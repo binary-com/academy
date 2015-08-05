@@ -4,9 +4,31 @@ title: Анализ Рынка
 permalink: ru/daily-report/
 lang: ru
 ---
-http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
+
 
 <div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 5 августа 2015**
+
+#Перспектива повышения ставки и повышение курса доллара
+
+Сегодня утром американский доллар почти достиг апрельских высот после того, как комментарий члена ФРС поддержал возможность повышения ставки в сентябре. Индекс S&P 500 также на повышении сегодня, несмотря на эти новости.  Австралийский доллар под давлением после вчерашнего скачка. Пара NZD/USD также на понижении. Долларовые пары в целом на понижении, особенно EUR/USD.
+
+Сегодня из новостей в 1130 индекс деловой активности в секторе услуг (июль). В 1515 изменение числа занятых в несельскохозяйственном секторе от ADP (июль), а в 1530 сальдо торгового баланса (июнь) Канады и США. В 1645 в США же индекс деловой активности (PMI) в секторе услуг (июль), а в 1700 индекс деловой активности в непроизводственном секторе от ISM (июль).
+ 
+Восстановление экономики США создает сильный контраст проблемам Еврозоны. Перспектива повышения ставки может привести к понижению курса EUR/USD, несмотря на греческий вопрос.
+
+Контракт НИЖЕ, что EUR/USD, что пара закроется ниже 1.0800 через 14 дней, может принести прибыль 148%.
+
+
+[![](/post_images/dr-ru-5aug.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08000&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1.08000&currency=USD&underlying_symbol=frxEURUSD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+<div class="border"></div>
+
 
 **Анализ рынка от Дэйва Эванса за 3 августа 2015**
 
@@ -352,26 +374,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 
 
 
-<div class="border"></div>
 
-
-
-**Анализ рынка от Дэйва Эванса за 3 июля 2015**
-
-#Лидерство китайского рынка под вопросом
-
-Сегодня утром китайские рынки под давлением после того, как индекс деловой активности в секторе услуг (PMI) от HSBC (июнь) оказался сильно ниже ожиданий.  Австралийский доллар также пострадал как следствие ввиду тесных связей с Китаем чему не помогли и неважные данные розничных продаж в самой Австралии. Евро на подъеме после того, как ММФ, похоже, готов на уступки с облегчением бремени греческого долга. Цены на нефть под давлением, так как спрос на черное золото в Китае отражается на ценах. Фьючерсы S&P 500 остаются проблематичными, и разрыв при открытии в понедельник так и не закрыт. Американский доллар слегка на подъеме.
-
-Сегодня из новостей в 1130 индекс деловой активности в секторе услуг (июнь) в Великобритании. В 1200 объём розничных продаж (м/м) (май) в Европе. В США сегодня банковский выходной, в связи с чем может наблюдаться более низкая ликвидность в течение всего дня.
-
-Пара NZD/USD вчера сделала скачок, но сложно назвать это тенденций, тем более что тесно связанный с Австралией новозеландский доллар не может не испытать на себе отражения экономической ситуации в этой стране.
-
-Контракт НИЖе, что NZD/USD закроется ниже 0.6600 через 10 дней, может принести прибыль до 259%.
-
-
-[![](/post_images/dr-ru-3july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&/?market=forex&time=10d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6600&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
