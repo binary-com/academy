@@ -117,6 +117,12 @@ margin: 20px auto;
     padding-left: 20px;
     padding-right: 20px;
 }
+.equal-height{
+    min-height: 666px;
+}
+.bg-trans{
+    background-color: rgba(255, 255, 255, 0)!important;
+}
 .content-box a:hover .content-box-header {
     background-color: #14602b;
 }
