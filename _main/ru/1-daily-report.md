@@ -5,6 +5,27 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 6 августа 2015**
+
+# Фунт на повышении в преддверии собрания Комитета по денежной политике
+
+
+Сегодня утром доллар все еще на высотах, но и фондовые рынки сохраняют умеренно позитивный настрой. Этому способствует продолжающееся понижение цен на нефть, которые снова ниже $45. Австралийский доллар под давлением после того, как уровень безработицы оказался хуже прогнозов. Британский фунт сегодня в поле зрения инвесторов в преддверии важного собрания Комитета по денежной политике Банка Англии, и он уже на подъеме против большинства валют.
+
+Сегодня из новостей в 1130 объём промышленного производства Великобритании (июнь). В 1400 отчет Банка Англии по инфляции. Выступление главы Банка Англии Карни в 1445. В 1530 в США общее число лиц, получающих пособия по безработице. В 1700 снова в Великобритании оценка роста ВВП от NIESR.
+
+Британский фунт и сильно зависящий от цен на нефть канадский доллар в настоящее время стремятся в противоположных направлениях, что может означать повышение для пары GBP/CAD.
+
+Контракт ВЫШЕ, что GBP/CAD закроется выше 2.0650 через 21 день, может принести прибыль от 111%.
+
+
+[![](/post_images/dr-ru-6aug.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=2.06500&currency=USD&underlying_symbol=frxGBPCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=21d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=2.06500&currency=USD&underlying_symbol=frxGBPCAD&amount=100&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
 
 <div class="border"></div>
 
@@ -349,28 +370,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=88.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 6 июля 2015**
-
-# Греция голосует «нет». Армагеддон не случился.
-
-
-Сегодня утром рынки реагируют на ответ «нет» в греческом референдуме на европейское предложение. Несмотря на предупреждения Европы о катастрофических последствиях такого ответа, пока мир не рухнул. Реакция даже более слабая, чем можно было бы ожидать, отчасти потому что ММФ заранее подтвердил, что Греции требуется поблажка в выплате долга, чтобы обеспечить экономическое существование страны. Также нужно учитывать, что расчет был вряд ли на выход Греции из Европы и еврозоны или на дефолт, а скорее на возможность получения Грецией преимущества в переговорах по условиям долга и реформ.  Фондовые рынки, однако, отреагировали более негативно, так, фьючерсы S&P 500 открылись сильно ниже. Доллар, наоборот, сделал скачок после выходных, но постепенно сползает с началом европейской сессии.
-
-Евро поздно ночью в воскресенье сделал скачок вниз, но сейчас восстанавливается. Иена снова стала «безопасной гаванью» в смутные времена, и во всех парах с этой валютой наблюдаются сильные продажи, с особенности австралийского доллара. Несомненно, результаты референдума и их последствия буду еще какое-то время сильно влиять на события в экономике.
-
-В Европе в плане новостей сегодня спокойно. В 1700 индекс деловой активности в непроизводственном секторе от ISM (июнь), а также индекс деловой активности (PMI) Ivey без учета сезонных колебаний (июнь).
-
-Пара EUR/GBP пытается преодолеть скачок вниз при открытии, как это случилось и в прошлый понедельник. Вряд ли можно рассчитывать на то, что волатильность при открытии рынков не повторится в течение недели, но для этой пары можно ожидать подъема.
-
-Контракт ВЫШЕ, что EUR/GBP закроется выше 0.7150 через 7 дней, может принести прибыль до 162%.
-
-
-[![](/post_images/dr-ru-6july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.71500&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.71500&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
