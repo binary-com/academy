@@ -118,7 +118,7 @@ margin: 20px auto;
     padding-right: 20px;
 }
 .equal-height{
-    min-height: 666px;
+    min-height: 250px;
 }
 .bg-trans{
     background-color: rgba(255, 255, 255, 0)!important;
