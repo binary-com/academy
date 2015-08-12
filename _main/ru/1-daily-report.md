@@ -5,6 +5,29 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+
+
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 12 августа 2015**
+
+# Объём промышленного производства Китая под ударом
+
+Китай сегодня попытался укрепить свои позиции на войне валют, еще более ослабив юань. Кроме того, данные объёма промышленного производства этой страны упали до 6% вместо ожидаемых 6.6%, как разочаровали и инвестиции в основной капитал. Долларовый индекс сегодня немного сбавил обороты, а S&P 500 тоже продолжает терять заработанное в понедельник. Австралийский доллар в самой плачевной ситуации, упав на 0.84% против американского собрата. Как обычно, пара NZD/USD также на понижении. Евро удерживается наплаву неплохо, несмотря на то, что некоторые официальные лица назвали план спасения Греции «фантазией».
+
+Сегодня из новостей можно упомянуть средний уровень заработной платы без учета премий в Великобритании, и там же в то же время изменение числа заявок на пособие по безработице за июль. Речь члена FOMC Дадли в 1530. В 1700 число открытых вакансий на рынке труда JOLTS (июнь).
+
+Австралийскому доллару хуже всего пришлось от девальвации юаня, но и NZD/USD не удалось избежать проблем.
+
+Контракт НИЖЕ, что NZD/USD закроется ниже 0.6400 через 10 дней, может принести прибыль от 231%
+
+
+[![](/post_images/dr-ru-12aug.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6400&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6400&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
 <div class="border"></div>
 
 
@@ -349,25 +372,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market= forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Фунт спотыкается в день бюджета**
-
-# Евро на подъеме
-
-Сегодня фбючерсы фондовых рынков сильно продаются по мере того, как греческий кризис принимает то одни, то другие формы. Возможно, более серьезную озабоченность можно выразить по поводу китайских акций, так ка кэта тема беспокоит инвесторов в любом уголке мираАмериканский доллар продолжает доминировать, хотя и евро сегодня на подъеме. Доллару, несомненно, помогает падение цен на нефть. Пары с иеной отступают, так как японская валюта находит поддержку после лучших, чем ожидалось, данных счета текущих операций платежного баланса (с учетом сезонных колебаний). Основное движение создает австралийский доллар, который заразился простудой Китая, образно выражаясь. Фунт также под давлением в преддверии летнего бюджета. Евро удерживается на плаву, несмотря на жесткую линию, принятую Еврогруппой.
-
-Сегодня в течение всего дня собрания Еврогруппы по герческому вопросу. Британский бюджет в 1430. В 1530 канадские разрешения на строительство домов, а в п убликация протоколов FOMC.
-
-Пара AUD/JPY  испытывает сильную волатильность, и это не прекратится в ближайшее время, если китайская экономика продолжит терять стабильность.
-
-Контракт НИЖЕ, что AUD/JPY закроется ниже 88.00 через 7 дней, может принести прибыль до 322%.
-
-
-[![](/post_images/dr-ru-8july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=88.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=88.000&currency=USD&underlying_symbol=frxAUDJPY&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
