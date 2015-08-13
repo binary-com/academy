@@ -5,6 +5,23 @@ permalink: ru/daily-report/
 lang: ru
 ---
 
+<div class="border"></div>
+
+
+**Анализ рынка от Дэйва Эванса за 13 августа 2015**
+
+# Евро на понижении
+
+Сегодня утром евро на понижении, несмотря на то, что греческий вопрос кажется близким к разрешению. Германия заявила, что это решение не будет достаточным. Фунт восстанавливается после неважных данных о росте экономике вчера. Австралийский доллар, напротив, теряет позиции, хотя Китай объявил о стабилизации валюты. S&P 500 спокойный после волатильной сессии вчера, а доллар в позитивном балансе пока что.
+Из новостей сегодня американские розничные продажи в 1530 и заявки на пособие по безработице.
+Золото в неважной ситуации после подъем еранее на этой неделе, и для понижения еще остался потенциал.
+Контракт НИЖЕ, что золото закроется ниже $1100 через 14 дней, может принести прибыль $237%.
+
+
+[![](/post_images/dr-ru13aug.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1100&currency=USD&underlying_symbol=frxXAUUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=commodities&time=14d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=1100&currency=USD&underlying_symbol=frxXAUUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
 
 
 <div class="border"></div>
@@ -351,25 +368,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 9 июля 2015**
-
-# Фунт на понижении из-за летнего бюджета
-
-Сегодня утром фунт все еще нестабильный после вчерашней продажи на волне летнего бюджета. Очевидно, что трейдеры нашли что-то, что вызвало их недовольство,  заставив фунт резко упасть, как против иены, так и других валют. Австралийский доллар на подъеме, так как китайский рынок стабилизируется благодаря строгому контролю фондовых рынков. Пары с иеной на подъеме, так как баланс высокого/низкого риска имеет позитивный уклон. Это отчасти благодаря более сильному евро. Долларовый индекс не в лучшей ситуации снова, а S&P 500 на подъеме.
-
-Сегодня из новостей в 1400 общий объём программы QE Банка Англии (июль) и решение по процентной ставке (июль). Число первичных заявок на получение пособий по безработице в США в 1530 по Москве, и в 1715 выступление члена FOMC Брэйнарда.
-
-Евро на этой неделе проявил завиднуюстабильность, но приближаются выходные, когда должны быть приняты важные решения. Вчера в жертвах был фунт, но сегодня от него можно ожидать начала восстановления.
-
-В целом, можно ожидать понижения для пары EUR/GBP. Контракт НИЖЕ, что EUR/GBP закроется ниже 0.7200 через 7 дней, может принести прибыль  до110%.
-
-
-[![](/post_images/dr-ru-9july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market= forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market= forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.72000&currency=USD&underlying_symbol=frxEURGBP&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
