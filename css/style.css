@@ -87,9 +87,11 @@ margin: 20px auto;
 .partner .para2{
     margin-top:20px;
 }
+h1 .post-link{
+    font-weight: 500!important;
+}
 .post-link {
     position: relative;
-    font-weight: 500!important;
 }
 .readMore {
     display: block;
