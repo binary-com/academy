@@ -88,7 +88,7 @@ margin: 20px auto;
     margin-top:20px;
 }
 h1 .post-link{
-    font-weight: 500!important;
+    font-weight: 300!important;
 }
 .post-link {
     position: relative;
@@ -128,6 +128,7 @@ h1 .post-link{
 .content-box-header h3 {
     color: #fff;
     padding: 15px 10px;
+    font-weight: 400;
 }
 .content-box p {
     text-align: left;
@@ -323,7 +324,7 @@ table td {
     font-size: 11px;
     display: block;
     color: #ccc;
-    margin: 10px 0;
+    margin: 13px 0;
 }
 .content-box-5{
 	margin-top: 10px;
