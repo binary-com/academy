@@ -82,7 +82,7 @@ $(function() {
 
                     $('<div id="report-' + idx + '" class="single-report">')
                         .append('<h1>' + title + '</h1>')
-                        .append('<span class="post-meta">' + pubDate + '</span>')
+                        //.append('<span class="post-meta">' + pubDate + '</span>')
                         .append('<p>' + post + '</p>')
                         .toggle(idx === 0)
                         .appendTo('.daily-report');
