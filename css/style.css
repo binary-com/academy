@@ -48,7 +48,7 @@ margin-bottom: 20px;
 .post-content img {
 display: block;
 max-width: 600px;
-width: initial;
+width: 100%;
 margin: 20px auto;
 
 }
@@ -401,7 +401,7 @@ table td {
 /* End of Downloads page */
 /* add bullet class to post content */
 .post-content ul li{
-    list-style-image:url(../images/list-circle_1.png)
+    list-style-image:url(../images/list-circle_1.png);
 }
 /* end of add bullet class to post content */
 .daily-report img{
@@ -609,6 +609,9 @@ aside {
 ==========================================================*/
 
 @media only screen and (max-width: 767px) {
+    .daily-report div{
+        padding: 0 10px;
+    }
     .sidebar {
     margin-top: 20px!important;
 }
@@ -668,6 +671,12 @@ aside {
     .post {
     padding-left: 20px;
     padding-right: 20px;
+}
+.daily-report img{
+    width:100%;
+}
+header h1, .page-content h1{
+    margin-left:10px;
 }
 }
 
