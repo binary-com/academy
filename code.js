@@ -95,11 +95,13 @@ $(function() {
     if ($('.daily-report').length) {
         if (currLang === 'id') {
             getDailyReport('876', '8grqRDVc105iX6ztb0GwqWNd7ZgqdRLk');
-        } else {
+        } else if (currLang === 'es') {
+            getDailyReport('875', 'bPzDzniJKAK6tyDIijdDK2Nd7ZgqdRLk');
+        }
+        else  {
             getDailyReport('26', 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk');
         }
-    }
-
+    };
     $('.report-list').on('change', function() {
         $('.single-report').hide();
         $('#report-' + $('.report-list').val()).show();
