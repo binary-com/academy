@@ -9,6 +9,29 @@ lang: ru
 <div class="border"></div>
 
 
+**Анализ рынка от Дэйва Эванса за 25 августа 2015**
+
+# Рынки восстанавливаются после черного понедельника
+
+
+Европейский рынки восстанавливаются после китайского «черного понедельника». Всемирные рынки испытывают наибольшую с 2008 года волатильность, а китайские акции продолжают падать в цене. И они, и западные фондовые рынки в последнее время слишком поднялись в целом, но никто не ожидал такого обвала. Озабоченность дальнейшим ростом китайской экономики совпала с сомнениями ФРС о подъеме ставки в сентябре. Вчера евро был в наибольшем выигрыше как основной «противник» доллара.  Как часто бывет, сильно упавшие валюты сегодня утром на подъеме, а евро тащится позади. Связанные с сырьем валюты вчера пострадали больше всех, так, AUD/JPY испытывает сильную волатильность и сегодня. Иена вчера взяла у доллара палочку эстафеты как валюта, интересующая инвесторов в сумбурные времена, что привело к большим потерям для доллара и других валют, как, например, фунта.
+
+Сегодня из новостей в 1100 индекс деловых ожиданий Германии (авг) и в 1700 индекс доверия потребителей CB (авг).
+
+Пара GBP/AUD резко поднялась вчера после того, как австралийский доллар больше других валют пострадал от китайских проблем. Британский фунт также в незавидной ситуации, но он менее подвержен влиянию проблем азиатского гиганта. В связи с этим можно ожидать дальнейшей волатильности, с вполне реалистичным подъемом для фунта.
+
+Контракет ВЫШЕ, что GBP/AUD закроется выше 2.2200 через 35 дней, может принести прибыль 140%.
+
+
+[![](/post_images/dr-ru-25aug.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=35d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=2.22000&currency=USD&underlying_symbol=frxGBPAUD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=35d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=2.22000&currency=USD&underlying_symbol=frxGBPAUD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
+
+
+
+<div class="border"></div>
+
+
 **Анализ рынка от Дэйва Эванса за 14 августа 2015**
 
 # Рынки оставляют без внимания голосование греческого парламента
@@ -344,26 +367,7 @@ http://record.binary.com/_bivVDfg8lHux76XffYA0JmNd7ZgqdRLk/1/?
 [Посмотреть и приобрести контракт](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.7400&currency=USD&underlying_symbol=frxAUDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
-<div class="border"></div>
 
-
-**Анализ рынка от Дэйва Эванса за 7 июля 2015**
-
-# Греция на краю (снова).  Евро держится.
-
-
-Эта песня уже даже надоедает – рынки снова реагируют на новости о сложностях для Греции. Они открылись ниже в воскресенье, но потом оправились и сейчас зависли в ожидании очередного раунда греческих переговоров. Сегодня примерно то же самое: S&P 500 и евро сделали скачок вниз при открытии, но сейчас восстанавливают потерянные позиции. Евро даже на подъеме, несмотря на удаление от решения греческой проблемы. Уступки Греции, возможно, повлияли на это. Пара NZD/USD преломила общую тенденцию и поднимается, несмотря на неважные данные китайского торгового баланса.
-
-Сегодня из новостей в 1130 опрос по условиям кредита BOE  в Великобритании.
-
-Для пары NZD/USD ничего не изменилось глобально, несмотря на подъем сегодня утром, поэтому в долгосрочной перспективе можно ожидать понижения.
-
-Контракт НИЖЕ, что NZD/USD закроется ниже 0.6700 через 7 дней, может принести прибыль 129%.
-
-
-[![](/post_images/dr-ru-13july.jpg)](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6700&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
-
-[Посмотреть и приобрести контракт.](https://www.binary.com/c/trade.cgi?lid={{user_id}}&market=forex&time=7d&form_name=higherlower&expiry_type=duration&amount_type=stake&H=0.6700&currency=USD&underlying_symbol=frxNZDUSD&amount=10&date_start=now&type=CALL&l=RU&utm_medium=social&utm_source=blog&utm_content=davesreport)
 
 
 
