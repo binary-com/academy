@@ -96,7 +96,7 @@ $(function() {
         if (currLang === 'id') {
             getDailyReport('876', '8grqRDVc105iX6ztb0GwqWNd7ZgqdRLk');
         } else if (currLang === 'es') {
-            getDailyReport('875', 'bPzDzniJKAK6tyDIijdDK2Nd7ZgqdRLk');
+            getDailyReport('875', 'bPzDzniJKAKx76XffYA0JmNd7ZgqdRLk');
         }
         else  {
             getDailyReport('26', 'bPzDzniJKAJHH6eEtUVc2GNd7ZgqdRLk');
