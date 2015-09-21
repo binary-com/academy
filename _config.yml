@@ -20,10 +20,11 @@ languages:
     key: 'en'
   - name: 'Français'
     key: 'fr'
+  - name: 'Español'
+    key: 'es'
   #- name: 'Português'
     #key: 'pt'
-  #- name: 'Español'
-    #key: 'es'
+
 
 collections:
   main:
