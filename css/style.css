@@ -236,17 +236,17 @@ table td {
 /* Slide */
 
 .home-content #slide-1 {
-    background: url("../images/webinar-x.png") no-repeat;
-}
-.home-content #slide-2 {
-    background: url("../images/events-x.png") no-repeat;
-}
-.home-content #slide-3 {
-    background: url("../images/ebooks-x.png") no-repeat;
-}
-.home-content #slide-4 {
     background: url("../images/partners-x.png") no-repeat;
 }
+.home-content #slide-2 {
+    background: url("../images/webinar-x.png") no-repeat;
+}                    
+.home-content #slide-3 {
+    background: url("../images/events-x.png") no-repeat;
+}                       
+.home-content #slide-4 {
+    background: url("../images/ebooks-x.png") no-repeat;
+}                       
 .home-content #slide-5 {
     background: url("../images/main-1.png") no-repeat;
 }
