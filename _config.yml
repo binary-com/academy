@@ -107,6 +107,17 @@ defaults:
       path: _posts/es
     values:
       lang: es
+  -
+    scope:
+      path: _posts/de
+    values:
+      lang: de
+      layout: default
+  -
+    scope:
+      path: localized/de
+    values:
+      lang: de
 t:
   en:
     contactus: "Contact Us"
