@@ -676,7 +676,12 @@ aside {
     width:100%;
 }
 header h1, .page-content h1{
-    margin-left:10px;
+    margin-left: 10px;
+}
+
+/* */
+.mobile-text-padding {
+    padding: 0 10px;
 }
 }
 
