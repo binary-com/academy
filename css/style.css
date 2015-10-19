@@ -836,7 +836,7 @@ header h1, .page-content h1{
 }
 
 /* Nuru Hide the gplus-fllow*/
-.fb-gplus-follow
+.hide
 {
     display: none !important;
 }
