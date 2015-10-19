@@ -7,6 +7,8 @@ excerpt: "With the latest update to our trading platform, spread contracts are n
 
 With the latest update to our trading platform, spread contracts are now available on selected markets. [Check out our new spread contracts and place your very first trade now](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=EN&utm_source=social&utm_medium=blog&utm_campaign=WhatsNew)!
 
+![](/images/spreadcontracts2.png)
+
 Spread contracts are one of the most exciting ways of speculating whether an underlying asset’s price will rise or fall. These contracts have become the preferred method of trading for investors worldwide, mostly due to the fact that it is a very flexible method of trading. 
 
 With a spread contract you can go ‘long’ on a market that’s moving upwards or you can go ‘short’ on a market that’s moving downwards. A spread contract pays based on how much the underlying market rises or falls, i.e. the higher the rise the higher a long contract will payout. 
