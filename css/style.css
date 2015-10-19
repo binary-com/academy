@@ -835,8 +835,17 @@ header h1, .page-content h1{
     margin: 50px auto;
 }
 
-/* Nuru Hide the gplus-fllow*/
+/* Nuru Hide class*/
 .hide
 {
     display: none !important;
+}
+/*Adjust the regulatory text on the indonesian page*/
+#regulatory-text:lang(id) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*Adjust the social network padding on the indonesian page*/
+#footer #social-networks:lang(id) {
+    padding-top: 0 !important;
 }
