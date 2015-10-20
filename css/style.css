@@ -679,10 +679,21 @@ header h1, .page-content h1{
     margin-left: 10px;
 }
 
-/* */
+/* Mobile padding for the content text in the pages */
 .mobile-text-padding {
     padding: 0 10px;
 }
+/* Override the left padding for the h1 in the tablets and change it to 0 for mobile*/
+ .mobile-h1-margin{
+    margin-left: 0 !important;
+}
+/*Overide the report-list and edit the margins for phone/mobile devices*/
+select.report-list{
+    margin-left:15px;
+    margin-right: 15px;
+    width: 90%;
+ }
+
 }
 
 /* hide the navigation button by default */
