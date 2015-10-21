@@ -7,6 +7,8 @@ excerpt: "Con la última actualización de nuestra plataforma de operaciones, lo
 
 Con la última actualización de nuestra plataforma de operaciones, los contratos spread ya están disponibles en los mercados seleccionados. [¡Eche un vistazo a nuestros nuevos contratos spread y realice su primera operación ahora](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=EN&utm_source=social&utm_medium=blog&utm_campaign=WhatsNew)!
 
+![](/images/spreadcontracts2.png)
+
 Los contratos spread son una de las formas más emocionantes de especular si el precio de un activo subyacente subirá o bajará. Estos contratos se han convertido en el método favorito de operar para inversores de todo el mundo, sobre todo debido al hecho de que es un método muy flexible de operar.
 
 Con un contrato spread puede ir "largo" en un mercado que se mueve hacia arriba, o puede ir "corto" en un mercado que se mueve hacia abajo. Un contrato spread paga en función de cuánto sube o baja el mercado subyacente, es decir, cuanto mayor sea el aumento más pagará un contrato largo.

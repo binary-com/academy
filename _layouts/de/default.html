@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+<body>
+    {% include top.html %}
+    {% include slide.html %}
+    <div class="content">
+        <div class="page-content">
+            {{ content }}
+        </div>
+        <aside>
+            {% include de/sidebars-main.html %}
+        </aside>
+    </div>
+    {% include de/footer.html %}
+</body>
