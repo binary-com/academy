@@ -6,7 +6,7 @@
 
         {% for post in posts limit:10 %}
         <div class="post">
-            <h1 class="margin-b"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+            <h1 class="margin-b mobile-h1-margin"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <article class="post-content">
                 <p>
@@ -23,3 +23,8 @@
 </div>
 
 <p class="center-aligned"><a class="button" href="/{{ page.lang }}/archive/"><span>{{ site.t[page.lang].readatarchive }}</span></a></p>
+
+
+
+
+
