@@ -1,7 +1,7 @@
 ---
 layout: de/post
 title:  Upgrade der Login-Möglichkeit
-permalink: de/upgrade-der-login-moglichkeit/
+permalink: /upgrade-der-login-moglichkeit/
 excerpt: "Binary.com wird bald seine Login-Möglichkeit auf seiner Website verbessern, um sich an die neusten Normen und Branchenpraktiken anzupassen. Sobald die Veränderungen umgesetzt sind, müssen Sie, um auf Ihr Konto zuzugreifen..."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: de/post
 title: Auf Die Java Chart Anwendung wurde entfernt
-permalink: de/Die-java-chart-anwendung-wurde-entfernt/
+permalink: /Die-java-chart-anwendung-wurde-entfernt/
 excerpt: "Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft!"  
 ---
 

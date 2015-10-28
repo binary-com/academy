@@ -1,7 +1,7 @@
 ---
 layout: de/post
 title: Nominieren Sie Binary.com für einen Shares Award
-permalink: de/nominieren-sie-binarycom-fur-einen-shares-award
+permalink: /nominieren-sie-binarycom-fur-einen-shares-award
 excerpt: "Wir laden Sie ein, uns Ihre Unterstützung zu zeigen, in dem Sie für Binary.com in den folgenden Kategorien der diesjährigen Shares Awards zu nominieren..."  
 ---
 
