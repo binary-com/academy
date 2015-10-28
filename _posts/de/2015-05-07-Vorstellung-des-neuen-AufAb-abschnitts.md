@@ -1,7 +1,7 @@
 ---
 layout: de/post
 title: Vorstellung des neuen Auf/Ab Abschnitts
-permalink: de/Vorstellung-des-neuen-AufAb-abschnitts
+permalink: /Vorstellung-des-neuen-AufAb-abschnitts
 excerpt: "Nach dem neusten Upgrade unserer Handelsplattform finden Sie die Steigen/Fallen und Höher/Tiefer Kontrakte im neuen Auf/Ab Abschnitt..."  
 ---
 
