@@ -1,7 +1,7 @@
 ---
 layout: de/post
-title: 3 Neue Devisenpaare Aufgenommen
-permalink: /3-neue-Devisenpaare-aufgenommen/
+title: Drei neue Devisenpaare aufgenommen
+permalink: /drei-neue-devisenpaare-aufgenommen/
 excerpt: "Wegen der großen Nachfrage haben wir die Währungspaare EUR/CHF, USD/CHF und GBP/CHF der Liste der Devisenpaare hinzugefügt. Probieren Sie jetzt doch einfach einmal die für diese drei neuen Währungspaare...."  
 ---
 
