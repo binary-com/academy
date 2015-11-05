@@ -1,8 +1,8 @@
 ---
 layout: de/post
-title: Auf Die Java Chart Anwendung wurde entfernt
-permalink: /Die-java-chart-anwendung-wurde-entfernt/
-excerpt: "Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft!"  
+title: Auf Binary.com wurde die Chart Anwenung entfernt
+permalink: /die-java-chart-anwendung-wurde-entfernt/
+excerpt: "Mit Wirkung vom heutigen Tage steht die Java Charts Anwendung nicht mehr länger zum Download zur Verfügung. Wenn Sie diese Anwendung schon vorher herunter geladen haben, beachten Sie bitte, dass sie nicht mehr länger..."  
 ---
 
 Mit Wirkung vom heutigen Tage steht die Java Charts Anwendung nicht mehr länger zum Download zur Verfügung. Wenn Sie diese Anwendung schon vorher herunter geladen haben, beachten Sie bitte, dass sie nicht mehr länger von Binary.com gepflegt wird.
@@ -18,4 +18,4 @@ Binary.com hat auch eine [TradingView Charts App](https://marketplace.firefox.co
 
 **Die von Binary.com mit jeglichen Charts zur Verfügung gestellten Chartdaten sind nur informativ und können jederzeit von den tatsächlichen Marktkursen abweichen.*
 
-***Derzeit werden keine iPhones und iPads*
+***Derzeit werden keine iPhones und iPads unterstützt.*
