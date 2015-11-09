@@ -1,6 +1,6 @@
 ---
 layout: de/post
-title:  Kleinerer Pip-Größen für die meisten wichtigen Währungspaare
+title:  Kleinerer pip-Größen für die meisten wichtigen Währungspaare
 permalink: /Kleinerer-pip-Groben-fur-die-meisten-wichtigen-Wahrungspaare/
 excerpt: "Wir freuen uns ankündigen zu können, dass die meisten wichtigen Währungspaare jetzt über verbesserte Feeds mit kleineren Pip-Größen verfügen. Diese ausgewählten Währungspaare werden jetzt mit 5 Nachkommastellen anstatt..."
 ---

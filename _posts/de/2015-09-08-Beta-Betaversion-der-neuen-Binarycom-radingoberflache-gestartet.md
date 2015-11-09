@@ -1,6 +1,6 @@
 ---
 layout: de/post
-title: Betaversion der neuen Binary.com Tradingoberfläche gestartet
+title: Betaversion der neuen Binary.com tradingoberfläche gestartet
 permalink: /Betaversion-der-neuen-Binarycom-radingoberflache-gestartet
 excerpt: "Binary.com hat hart an der Neugestaltung unserer vorhandenen Tradingoberfläche gearbeitet. Mit diesem neuen Design möchten wir unseren Kunden besser dienen. Daher sind wir auch sehr auf die Hinwendung zu einer neuen Oberfläche gespannt..."  
 ---
