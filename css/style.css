@@ -531,36 +531,36 @@ aside {
     background: url("../images/pages/home/slide-1_1.png") no-repeat 18.5% 0.9375em;
 }
    #slide-1 h1 {
-      width: 14%;
+      width: 30%;
     }
     #slide-1 p {
-      width: 15%;
+      width: 40%;
     }
     #slide-1 a.learn-more { padding-top:10px; }
   #slide-2 {
     background: url("../images/pages/home/slide-2_1.png") no-repeat 18.5% 0.9375em;}
     #slide-2 h1 {
-      width: 18%;
+      width: 30%;
     }
     #slide-2 p {
-      width: 15%;
+      width: 40%;
     }
 
   #slide-3 {
     background: url("../images/pages/home/slide-3_1.png") no-repeat 16.5% 0.75em;}
     #slide-3 h1 {
-      width: 15%;
+      width: 30%;
     }
    #slide-3 p {
-      width: 15%;
+      width: 40%;
     }
   #slide-4 {
     background: url("../images/pages/home/slide-4_1.png") no-repeat 15% 0.9375em;}
     #slide-4  h1 {
-      width: 15%;
+      width: 30%;
     }
     #slide-4  p {
-      width: 10%;
+      width: 40%;
     }
   #slide-5 {
      background: url("../images/pages/home/slide-5_1.png") no-repeat 16% 0.9375em;}
@@ -570,7 +570,7 @@ aside {
     }
      #slide-5 background: url("../images/pages/home/slide-5_1.png") no-repeat 16% 0.9375em;}
      p {
-      width: 15%;
+      width: 40%;
     }
     h4 a{
         color: #2a3052!important;
@@ -600,6 +600,12 @@ aside {
     display: block;
     margin:0 auto 20px;
     text-align: center;
+    }
+    html :lang(de){
+        text-transform:initial!important;
+    }
+    html :lang(fr){
+        text-transform:initial!important;
     }
 
 /* =====================================================
