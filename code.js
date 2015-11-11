@@ -58,6 +58,45 @@ $(function() {
             mode: 'txt'
         };
 
+        $.ajax({
+            type : 'GET',
+            url : '//js.binary.com/javascript.php',
+            data : options,
+            dataType : 'xml',
+            success : function(xml) {
+
+                $(xml).find('item').each(function(idx) {
+
+                    var title = $(this).find('title:first').text().replace(/regentmarkets\d.*$/, ''),
+                        pubDate = $(this).find('pubDate').text().replace(/\+0000$/, 'GMT');
+
+                    var post = $(this).find('content\\:encoded').text();
+                    if (!post) {
+                        post = $(this).find('encoded').text();
+                    }
+                    post = post.replace(']]&gt;', '')
+                        .replace(']]>', '')
+                        .replace(/>(.*?)</, '');
+
+                    // post = post.substr(post.indexOf('<div>') + 5, post.lastIndexOf('</div>') - 6);
+
+                    $('.report-list').append($('<option>', {
+                        value: idx,
+                        text: title
+                    }));
+
+                    $('<div id="report-' + idx + '" class="single-report">')
+                        .append('<h1>' + title + '</h1>')
+                        //.append('<span class="post-meta">' + pubDate + '</span>')
+                        .append('<p>' + post + '</p>')
+                        .toggle(idx === 0)
+                        .appendTo('.daily-report');
+                });
+            },
+            jsonp: 'jsonp'
+        });
+
+/*
         $.get('//js.binary.com/javascript.php', options, function(xml) {
 
                 $(xml).find('item').each(function(idx) {
@@ -89,7 +128,7 @@ $(function() {
                 });
             },
             'xml'
-        );
+        );*/
     }
 
     if ($('.daily-report').length) {
