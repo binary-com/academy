@@ -49158,7 +49158,9 @@ var Client = function() {
     this.residence =  $.cookie('residence');
     this.is_logged_in = false;
     this.is_real = false;
-    if(this.loginid === null || typeof this.loginid === "undefined") {
+    var curr_url = document.URL;
+
+    if(this.loginid === null || typeof this.loginid === "undefined" || /blog.binary.com/.test(curr_url)) {
         this.type = 'logged_out';
     } else if(/VRT/.test(this.loginid)) {
         this.type = 'virtual';
