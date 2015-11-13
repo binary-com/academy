@@ -49116,8 +49116,9 @@ var gtm_data_layer_info = function() {
 var User = function() {
     this.email =  $.cookie('email');
     var loginid_list = $.cookie('loginid_list');
+    var curr_url = document.URL;
 
-    if(this.email === null || typeof this.email === "undefined") {
+    if(this.email === null || typeof this.email === "undefined" || /blog.binary.com/.test(curr_url)){
         this.is_logged_in = false;
     } else {
         this.is_logged_in = true;
@@ -57683,6 +57684,7 @@ var display_career_email = function() {
     $("#hr_contact_eaddress").html(email_rot13("<n uers=\"znvygb:ue@ovanel.pbz\" ery=\"absbyybj\">ue@ovanel.pbz</n>"));
 };
 
+/*
 var get_residence_list = function() {
     var url = page.url.url_for('residence_list');
     $.getJSON(url, function(data) {
@@ -57702,7 +57704,7 @@ var get_residence_list = function() {
         });
     });
 };
-
+*/
 var on_input_password = function() {
     $('#chooseapassword').on('input', function() {
         $("#chooseapassword_2").css("visibility", "visible");
@@ -57744,7 +57746,7 @@ pjax_config_page('/$|/home', function() {
         onLoad: function() {
             on_input_password();
             on_click_signup();
-            get_residence_list();
+            //get_residence_list();
             get_ticker();
         }
     };
