@@ -163,8 +163,12 @@ $(function() {
 
         function renderVideoList(data) {
             var thumbs = data.items.map(function(item) {
+                var link = (typeof item.snippet.thumbnails === 'undefined') ? 
+                                    'https://blog.binary.com/images/thumbnail-binaryTV.png' 
+                                    :  item.snippet.thumbnails.high.url ; 
+
                 return '<a class="video-thumb" data-video-id="' + item.snippet.resourceId.videoId + '" title="' + item.snippet.title + '">' +
-                            '<img src="' + item.snippet.thumbnails.high.url + '">' +
+                            '<img src="' + link + '">' +
                             '<p>' + item.snippet.title + '</p>' +
                         '</a>';
             });
