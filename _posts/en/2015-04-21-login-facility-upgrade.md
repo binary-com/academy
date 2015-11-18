@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Login Facility Upgrade
+title:  Login facility upgrade
 permalink: /login-facility-upgrade/
 excerpt: "Binary.com will soon be upgrading the login facility on its website in an effort to conform to prevailing standards and industry practices."
 ---

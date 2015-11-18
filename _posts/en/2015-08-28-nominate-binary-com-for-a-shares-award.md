@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nominate Binary.com for a Shares Award
+title: Nominate Binary.com for a shares award
 permalink: /nominate-binary-com-for-a-shares-award
 excerpt: "We invite you to show your support for Binary.com by nominating us for an award in the following categories for this year's Shares Awards"  
 ---

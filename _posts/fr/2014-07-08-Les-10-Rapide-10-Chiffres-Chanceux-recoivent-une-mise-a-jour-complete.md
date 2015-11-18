@@ -1,8 +1,8 @@
 ---
 layout: fr/post
-title: Les 10% Rapide & 10 Chiffres Chanceux reçoivent une mise à jour complète
-permalink: fr/Les-10-Rapide-10-Chiffres-Chanceux-reçoivent-une-mise-à-jour-complète
-excerpt: Les trades “10 Chiffres Chanceux” et “10% Rapide” ont été déplacés vers la nouvelle section ”Chiffres”. Achetez ceux-ci simplement comme vous le feriez pour n’importe quel autre trade par notre interface de trade principale. Les trades peuvent être achetés sur les “Aléatoires” pour une durée minimale de 5 intervalles ou une durée maximal de 10 intervalles. Ceci vous donne une offre d’options plus large.
+title: Les 10% rapide & 10 chiffres chanceux reçoivent une mise à jour complète
+permalink: Les-10-Rapide-10-Chiffres-Chanceux-reçoivent-une-mise-à-jour-complète
+excerpt: "Les trades “10 Chiffres Chanceux” et “10% Rapide” ont été déplacés vers la nouvelle section Chiffres. Achetez ceux-ci simplement comme vous le feriez pour n’importe quel autre trade par notre interface..."
 ---
 
 Les trades “10 Chiffres Chanceux” et “10% Rapide” ont été déplacés vers la nouvelle section ”Chiffres”. Achetez ceux-ci simplement comme vous le feriez pour n’importe quel autre trade par notre interface de trade principale. Les trades peuvent être achetés sur les “Aléatoires” pour une durée minimale de 5 intervalles ou une durée maximal de 10 intervalles. Ceci vous donne une offre d’options plus large.

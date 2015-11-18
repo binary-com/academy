@@ -1,6 +1,6 @@
 ---
 layout: id/post
-title: Peluncuran Tampilan Baru Trading Binary.com versi Beta
+title: Peluncuran tampilan baru trading Binary.com versi beta
 permalink: /Peluncuran-tampilan-baru-trading-binary-com-versi-beta/
 excerpt: "Kami, Binary.com, telah bekerja keras mendesain ulang tampilan kami saat ini. Dengan desain baru, harapan..."  
 ---

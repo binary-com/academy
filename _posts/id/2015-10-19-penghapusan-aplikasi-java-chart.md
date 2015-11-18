@@ -1,6 +1,6 @@
 ---
 layout: id/post
-title: Penghapusan Aplikasi Java Chart
+title: Penghapusan aplikasi java chart
 permalink: /penghapusan-aplikasi-java-chart/
 excerpt: "Mulai hari ini, aplikasi Chart Java sudah tidak tersedia lagi. Jika Anda sudah mendownload aplikasi ini sebelumnya, mohon diketahui bahwa Binary.com tidak bertanggung jawab lebih lanjut..."  
 ---

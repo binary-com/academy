@@ -1,8 +1,8 @@
 ---
 layout: es/post
-title:  ¡Nuevo! Smart Indices Disponibles Ahora
+title:  ¡Nuevo! Smart indices disponibles ahora
 permalink: /nuevo-smart-indices-disponibles-ahora/
-excerpt: "Estamos muy contentos de anunciar que Binary.com está ampliando su gama de productos con el lanzamiento de sus índices inteligentes. Los índices inteligentes son índices sintéticos, creados con los datos relevantes del mercado, que..."
+excerpt: "Estamos muy contentos de anunciar que Binary.com está ampliando su gama de productos con el lanzamiento de sus índices inteligentes. Los índices inteligentes son índices..."
 ---
 
 Estamos muy contentos de anunciar que Binary.com está ampliando su gama de productos con el lanzamiento de sus índices inteligentes. Los índices inteligentes son índices sintéticos, creados con los datos relevantes del mercado, que siguen de cerca el índice efectivo correspondiente Cash Index*. Con gráficos en tiempo real y precios, disponibilidad de contratos a corto plazo y horas de mercado ampliado, estos índices ofrecen oportunidades más interesantes para el comercio en los mercados financieros.

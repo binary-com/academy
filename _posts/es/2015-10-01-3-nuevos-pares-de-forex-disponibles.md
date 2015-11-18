@@ -1,8 +1,8 @@
 ---
 layout: es/post
-title:  3 Nuevos Pares De Forex Disponibles
+title:  3 Nuevos pares de Forex disponibles
 permalink: /3-nuevos-pares-de-forex-disponibles/
-excerpt: "Con la última actualización de nuestra plataforma de operaciones, los contratos spread ya están disponibles en los mercados seleccionados. "
+excerpt: "Debido a la demanda popular, hemos añadido a nuestra oferta los siguientes pares Forex: EUR/CHF, USD/CHF y GBP/CHF..."
 ---
 
 

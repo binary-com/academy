@@ -1,6 +1,6 @@
 ---
 layout: id/post
-title:  Kontrak Smart Indeks Dengan Durasi 15 Detik
+title:  Kontrak smart indeks dengan durasi 15 detik
 permalink: /Kontrak-Smart-Indeks-Dengan-Durasi-15-Detik/
 excerpt: "Berita Terbaru! Trading Naik/Turun telah tersedia pada Smart Indeks dengan durasi minimal 15 detik dan durasi maksimal 10 jam."
 ---

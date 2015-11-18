@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Chart Application Removed
+title: Java chart application removed
 permalink: /Java-chart-application-Removed/
 excerpt: "Effective immediately, the Java Charts Application will no longer be available to download. If you downloaded this application earlier on, please note that it will no longer be maintained by..."  
 ---
