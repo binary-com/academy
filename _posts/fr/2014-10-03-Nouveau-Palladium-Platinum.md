@@ -1,7 +1,7 @@
 ---
 layout: fr/post
 title: Nouveau! Palladium & Platinum
-permalink: fr/Nouveau-Palladium-Platinum
+permalink: Nouveau-Palladium-Platinum
 excerpt: En réponse aux réaction reçues, nous venons díajouter ces deux métaux précieux à notre liste disponible de commodités.
 ---
 

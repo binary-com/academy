@@ -1,8 +1,8 @@
 ---
 layout: es/post
-title:  Lanzamiento Beta de la Nueva Interfaz de Comercio de Binary.com
+title:  Lanzamiento beta de la nueva interfaz de comercio de Binary.com
 permalink: /Lanzamiento-beta-de-la-nueva-interfaz-de-Comercio-de-Binarycom/
-excerpt: "En Binary.com hemos estado trabajando duro en el rediseño de nuestra interfaz de comercio actual. Con este nuevo diseño, nuestro objetivo es servir mejor a nuestros clientes. Es por ello que..."
+excerpt: "En Binary.com hemos estado trabajando duro en el rediseño de nuestra interfaz de comercio actual. Con este nuevo diseño, nuestro objetivo es servir mejor a nuestros clientes..."
 ---
 
 

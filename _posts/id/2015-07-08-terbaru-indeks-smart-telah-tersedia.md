@@ -1,6 +1,6 @@
 ---
 layout: id/post
-title:  Terbaru! Indeks Smart Telah Tersedia
+title:  Terbaru! indeks smart telah tersedia
 permalink: /terbaru-indeks-smart-telah-tersedia/
 excerpt: "Dengan peningkatan terbaru pada platform kami maka kontrak Naik/Turun dan Lebih Tinggi/Rendah mulai sekarang dapat ditemukan pada bagian Atas/Bawah."
 ---

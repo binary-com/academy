@@ -2,7 +2,7 @@
 layout: es/post
 title:  Presentando la nueva sección Up/Down
 permalink: /presentando-la-nueva-seccion-UpDown/
-excerpt: "Con la última actualización a nuestra plataforma de operaciones, los contratos Rise/Fal y Higher/Lower, se pueden encontrar ahora en la nueva sección Up/Down."
+excerpt: "Con la última actualización a nuestra plataforma de operaciones, los contratos Rise/Fal y Higher/Lower, se pueden encontrar ahora en la nueva sección..."
 ---
 
 Con la última actualización a nuestra plataforma de operaciones, los contratos Rise/Fal y Higher/Lower, se pueden encontrar ahora en la nueva sección Up/Down.

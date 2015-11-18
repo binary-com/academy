@@ -1,8 +1,8 @@
 ---
 layout: es/post
-title:  Actualización de Inicio de Sesión
+title:  Actualización de inicio de sesión
 permalink: /actualizacion-de-inicio-de-sesion/
-excerpt: "Binary.com pronto actualizará el inicio de sesión de su sitio web en un esfuerzo por cumplir con las normas vigentes y las prácticas de la industria. Una vez que los cambios ..."
+excerpt: "Binary.com pronto actualizará el inicio de sesión de su sitio web en un esfuerzo por cumplir con las normas vigentes y las prácticas de la industria. Una vez que los cambios entren en vigor, con el fin de acceder..."
 ---
 
 

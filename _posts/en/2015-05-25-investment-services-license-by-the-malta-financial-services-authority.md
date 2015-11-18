@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Investment Services license by the Malta Financial Services Authority
+title: Investment services license by the Malta Financial Services Authority(MFSA)
 permalink: /investment-services-license-by-the-malta-financial-services-authority
 excerpt: "Great News! Binary.com's Maltese subsidiary Binary Investments (Europe) Ltd. has been granted a Category 3 Investment Services license by the Malta Financial Services Authority."  
 ---
