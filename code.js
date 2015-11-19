@@ -162,10 +162,11 @@ $(function() {
         $.get(reqUrl, reqParams, renderVideoList);
 
         function renderVideoList(data) {
-            var thumbs = data.items.map(function(item) {
+            var publicVideos = data.items.filter(isPublic);
+            var thumbs = publicVideos.map(function(item) {
                 var link = (typeof item.snippet.thumbnails === 'undefined') ? 
                                     'https://blog.binary.com/images/thumbnail-binaryTV.png' 
-                                    :  item.snippet.thumbnails.high.url ; 
+                                    :  item.snippet.thumbnails.high.url ;                      
 
                 return '<a class="video-thumb" data-video-id="' + item.snippet.resourceId.videoId + '" title="' + item.snippet.title + '">' +
                             '<img src="' + link + '">' +
@@ -175,6 +176,10 @@ $(function() {
             $(thumbs.join('')).appendTo($playlist);
         }
     });
+
+    function isPublic(value) {
+        return (value.status.privacyStatus === 'public');
+    }
 
     $('div[data-role=youtube-playlist]').on('click', '.video-thumb', function() {
         var videoId = $(this).attr('data-video-id');
