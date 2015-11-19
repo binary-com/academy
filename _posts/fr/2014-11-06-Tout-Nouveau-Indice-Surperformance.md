@@ -1,7 +1,7 @@
 ---
 layout: fr/post
-title: Tout Nouveau! Indice Surperformance
-permalink: fr/Tout-Nouveau-Indice-Surperformance
+title: Tout nouveau! Indice surperformance
+permalink: Tout-Nouveau-Indice-Surperformance
 excerpt: Binary.com est en train d'étendre sa rangée d'Indices Intelligents avec la sortie des Indices Surperformance.
 ---
 

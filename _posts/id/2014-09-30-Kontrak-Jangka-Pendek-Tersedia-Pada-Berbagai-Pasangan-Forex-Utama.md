@@ -1,6 +1,6 @@
 ---
 layout: id/post
-title:  Kontrak Jangka Pendek Tersedia Pada Berbagai Pasangan Forex Utama 
+title:  Kontrak jangka pendek tersedia pada berbagai pasangan forex utama 
 permalink: Kontrak-Jangka-Pendek-Tersedia-Pada-Berbagai-Pasangan-Forex-Utama 
 excerpt: Berhubung permintaan yang sangat tinggi, durasi minimal pada berbagai jenis kontrak yang diperdagangkan menggunakan pasangan Forex telah mengalami perubahan. 
 

@@ -1,8 +1,8 @@
 ---
 layout: es/post
-title:  Aplicación Gráficos Java Eliminada
+title:  Aplicación gráficos java eliminada
 permalink: /aplicacion-graficos-java-eliminada/
-excerpt: "Con la última actualización de nuestra plataforma de operaciones, los contratos spread ya están disponibles en los mercados seleccionados. "
+excerpt: "Con efecto a partir de hoy, la Aplicación Gráficos Java ya no estará disponible para su descarga. Si ha descargado esta aplicación antes, tenga en cuenta que ya no será compatible..."
 ---
 
 

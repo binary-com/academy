@@ -1,7 +1,7 @@
 ---
 layout: fr/post 
-title: Contrats à Court Terme Disponibles sur les Paires Majeures Forex
-permalink: fr/Contrats-Court-Terme-Disponibles-sur-les-Paires-Majeures-Forex
+title: Contrats à court terme disponibles sur les paires majeures Forex
+permalink: Contrats-Court-Terme-Disponibles-sur-les-Paires-Majeures-Forex
 excerpt: D˚ à la demande populaire, la durée minimale des trades achetés sur les paires majeures Forex a changé sur líoffre compléte des contrats.
 ---
 

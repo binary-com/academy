@@ -1,7 +1,7 @@
 ---
 layout: fr/post
-title: 3 Nouveaux Marchés Forex Disponibles
-permalink: fr/3Nouveaux-Marchés-Forex-Disponibles
+title: 3 Nouveaux marchés Forex disponibles
+permalink: Nouveaux-Marchés-Forex-Disponibles
 excerpt: Les trades Hausse/Baisse sur le USD/MXN, NZD/JPY et USD/PLN sont désormais disponibles avec une durée minimale d’une journée.
 ---
 

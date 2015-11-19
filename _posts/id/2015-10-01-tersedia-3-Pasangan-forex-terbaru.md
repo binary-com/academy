@@ -1,6 +1,6 @@
 ---
 layout: id/post
-title: Tersedia 3 Pasangan Forex Terbaru
+title: Tersedia 3 pasangan forex terbaru
 permalink: /tersedia-3-Pasangan-forex-terbaru/
 excerpt: "Berhubung banyaknya permintaan, EUR/CHF, USD/CHF dan GBP/CHF telah tersedia pada daftar pasangan FX kami. Lihat kontrak apa saja yang tersedia untuk pasangan mata uang baru ini sekarang..."  
 ---

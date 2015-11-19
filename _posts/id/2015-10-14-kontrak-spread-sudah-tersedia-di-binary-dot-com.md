@@ -1,6 +1,6 @@
 ---
 layout: id/post
-title: Kontrak Spread Sudah Tersedia di Binary.com
+title: Kontrak spread sudah tersedia di Binary.com
 permalink: /kontrak-spread-sudah-tersedia-di-binary-dot-com/
 excerpt: "Dengan adanya peningkatan terbaru pada platform trading kami, kontrak spread berhasil disediakan pada beberapa pasar terpilih mulai saat ini."  
 ---
