@@ -1,13 +1,13 @@
 ---
 layout: de/post
-title: Nominieren sie Binary.com für einen shares award
+title: Nominieren Sie Binary.com für einen Shares Award
 permalink: /nominieren-sie-binarycom-fur-einen-shares-award
 excerpt: "Wir laden Sie ein, uns Ihre Unterstützung zu zeigen, in dem Sie für Binary.com in den folgenden Kategorien der diesjährigen Shares Awards zu nominieren..."  
 ---
 
 ![](/images/sharesAward2015.png)
 
-We invite you to show your support for Binary.com by nominating us for an award in the following categories for this year's Shares Awards:  
+Wir laden Sie ein, uns Ihre Unterstützung zu zeigen, indem Sie Binary.com in den folgenden Kategorien der diesjährigen Shares Awards nominieren:
 
 * Bester Kundenservice
 * Beste Online Handelsplattform
@@ -16,4 +16,4 @@ We invite you to show your support for Binary.com by nominating us for an award 
 
 [Nominieren Sie Binary.com jetzt für einen Award!](http://info.binary.com/sharesawards15)
 
-Vielen Dank für Ihre Unterstützung und das Sie sich Zeit genommen haben, Ihre Nominierung abzusenden.
+Vielen Dank für Ihre Unterstützung und dass Sie sich Zeit genommen haben, Ihre Nominierung abzusenden.
