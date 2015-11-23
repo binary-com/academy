@@ -22,6 +22,8 @@ languages:
     key: 'fr'
   - name: 'Español'
     key: 'es'
+  - name: 'Deutsch'
+    key: 'de'
   #- name: 'Português'
     #key: 'pt'
 
