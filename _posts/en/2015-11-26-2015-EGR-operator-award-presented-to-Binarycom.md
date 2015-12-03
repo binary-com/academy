@@ -2,10 +2,10 @@
 layout: post
 title: 2015 EGR Operator Award presented to Binary.com
 permalink: /2015-EGR-operator-award-presented-to-Binarycom
-excerpt: "Exciting news!  This week, Binary.com took home first prize in the Financial Betting Operator category at this year’s prestigious 2015 EGR Operator Awards Ceremony hosted in London..."  
+excerpt: "Exciting news! This week, Binary.com took home first prize in the Financial Betting Operator category at this year’s prestigious 2015 EGR Operator Awards Ceremony hosted in London..."  
 ---
 
-Exciting news!  This week, Binary.com took home first prize in the Financial Betting Operator category at this year’s prestigious [2015 EGR Operator Awards Ceremony](https://www.eiseverywhere.com/ehome/135475/308461/?&), hosted in London.
+Exciting news! This week, Binary.com took home first prize in the Financial Betting Operator category at this year’s prestigious [2015 EGR Operator Awards Ceremony](https://www.eiseverywhere.com/ehome/135475/308461/?&), hosted in London.
 
 This distinction was bestowed to us based on an evaluation of our growth, innovation, and overall product offering during the past 12 months.
 
