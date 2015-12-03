@@ -2,7 +2,7 @@
 layout: id/post
 title: EGR Operator Award 2015 dipersembahkan kepada Binary.com
 permalink: /EGR-operator-award-2015-dipersembahkan-kepada-binarycom/ 
-excerpt: "We’re pleased to introduce Binary TV! Visit this all-new channel of information – designed especially for our traders – for a range of insights and current events from..."  
+excerpt: "Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama dalam ajang bergengsi Acara EGR Operator Award 2015, di London..."  
 ---
 
 Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama dalam ajang bergengsi Acara [EGR Operator Award 2015](https://www.eiseverywhere.com/ehome/135475/308461/?&), di London.
