@@ -26,5 +26,5 @@ The winners were dramatically unveiled on Monday evening, 23 November, at the [H
 **Gracious Thanks!**
 
 Thanks – as always – for all of your continued support!  It is your passionate loyalty that has made us one of the most consistently recognised binary options trading companies for more than 15 years.  
-Keep on trading with us here at [Binary.com!]
+Keep on trading with us here at [Binary.com!](https://www.binary.com/?utm_source=blog&utm_medium=social&utm_content=en&utm_campaign=whatsnew)
 
