@@ -1,7 +1,7 @@
 ---
 layout: ru/post
 title: Номинация Binary.com на премию Shares Award
-permalink: /nominate-binarycom-for-a-shares-award/
+permalink: /ru-nominate-binarycom-for-a-shares-award/
 excerpt: "Приглашаем Вас поддержать Binary.com в этом году и номинировать нас на получение наград в рамках премии Shares Awards..."  
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: ru/post
 title: Запуск бета-версии нового торгового интерфейса Binary.com
-permalink: /Beta-launch-of-Binarydotcoms-new-trading-interface/
+permalink: /ru-Beta-launch-of-Binarydotcoms-new-trading-interface/
 excerpt: "Binary.com провёл огромную работу по улучшению дизайна своего торгового интерфейса. Новый дизайн поможет нам значительно улучшить обслуживание клиентов..."  
 ---
 
