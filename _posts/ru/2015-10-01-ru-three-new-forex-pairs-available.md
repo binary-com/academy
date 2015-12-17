@@ -1,7 +1,7 @@
 ---
 layout: ru/post
 title: "Доступны 3 новые валютные пары"
-permalink: /three-new-forex-pairs-available/
+permalink: /ru-three-new-forex-pairs-available/
 excerpt: "Ввиду недавних нововведений на нашей торговой платформе, на отдельных рынках стали доступны контракты со спредами."  
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: ru/post
 title: "Контракты со спредами теперь доступны на Binary.com"
-permalink: /spread-contracts-now-available-at-binary-dot-com/
+permalink: /ru-spread-contracts-now-available-at-binary-dot-com/
 excerpt: "Ввиду недавних нововведений на нашей торговой платформе, на отдельных рынках стали доступны контракты со спредами."  
 ---
 
