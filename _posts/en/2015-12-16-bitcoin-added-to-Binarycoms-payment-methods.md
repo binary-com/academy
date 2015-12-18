@@ -18,11 +18,11 @@ Bitcoin is a rather unique system, described by the company itself as a “decen
 Information about all aspects of this payment system and its usage can be found on Bitcoin’s website. To learn more about the basic details, visit the three links below:
 
 
-[**Getting Started**](https://bitcoin.org/en/getting-started)
++ [**Getting Started**](https://bitcoin.org/en/getting-started)
 
-[**Things You Need to Know**](https://bitcoin.org/en/you-need-to-know)
++ [**Things You Need to Know**](https://bitcoin.org/en/you-need-to-know)
 
-[**FAQ**](https://bitcoin.org/en/faq)
++ [**FAQ**](https://bitcoin.org/en/faq)
 
 
 **Selecting Bitcoin as a Binary.com Payment Method**
