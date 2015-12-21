@@ -30,7 +30,9 @@ Information about all aspects of this payment system and its usage can be found 
 To start using Bitcoin, simply follow these instructions:
 
 1.Go to the **Cashier** section of Binary.com.
+
 <br>
+
 2.Click on **Deposit**, circled in red in the screenshot below.
 
 ![](/images/Picture1.png)
