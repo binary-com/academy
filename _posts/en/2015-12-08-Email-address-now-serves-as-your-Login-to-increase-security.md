@@ -8,6 +8,8 @@ excerpt: "We’d like to announce a new security enhancement added to Binary.com
 
 We’d like to announce a new security enhancement added to Binary.com: As of yesterday morning, **your email address is now required for login to our trading platform.**
 
+![](/images/loginid-email-new.jpg)
+
 This tightened security measure is an industry standard, which further increases the security of the site and the privacy of your information.
 
 We greatly value the sensitivity of your data, as our first and foremost priority here at Binary.com.
