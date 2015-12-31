@@ -160,7 +160,7 @@ t:
     readatarchive: "leer en archivo"
   fr:
     contactus: "Contactez-nous"
-    readmore: "Lisez plus..."
-    whatsnew: "Quoi de neuf?"
+    readmore: "Afficher..."
+    whatsnew: "Quoi de neuf ?"
     archive: "ACHIVE"
-    readatarchive: "LISEZ PLUS DANS LES ARCHIVES"
+    readatarchive: "CONSULTER LES ARCHIVE"
