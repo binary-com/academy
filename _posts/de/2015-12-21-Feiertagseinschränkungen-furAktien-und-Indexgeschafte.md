@@ -2,7 +2,7 @@
 layout: de/post
 title: Feiertagseinschränkungen für Aktien- und Indexgeschäfte
 permalink: /Feiertagseinschränkungen-furAktien-und-Indexgeschafte/ 
-excerpt: "Wir teilen Ihnen mit, dass es während der Weihnachtszeit einige Handelsbeschränkungen wegen des weltweit verringerten Handelsvolumens geben wird..."  
+excerpt: "Wir teilen Ihnen mit, dass es während der Weihnachtszeit einige Handelsbeschränkungen wegen des weltweit verringerten Handelsvolumens geben wird..." 
 ---
 
 
