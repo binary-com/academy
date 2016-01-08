@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: pt/post
 title: 2015 EGR Operator Award presented to Binary.com
-permalink: /EGR-operator-award-presented-to-Binarycom/
+permalink: /pt-EGR-operator-award-presented-to-Binarycom/
 excerpt: "Bonne nouvelle! Cette semaine, Binary.com a remporté un prix récompensant les meilleurs services de courtage en ligne, lors de la prestigieuse cérémonie organisée par EGR en 2015..."  
 ---
 

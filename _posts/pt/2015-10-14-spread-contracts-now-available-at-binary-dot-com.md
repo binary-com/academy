@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: pt/post
 title: Spread contracts now available at Binary.com
-permalink: /spread-contracts-now-available-at-binary-dot-com
+permalink: /pt-spread-contracts-now-available-at-binary-dot-com
 excerpt: "With the latest update to our trading platform, spread contracts are now available on selected markets."  
 ---
 

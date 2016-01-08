@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: pt/post
 title: Email Address Now Serves as Your Login, to Increase Security
-permalink: /Email-address-now-serves-as-your-login-to-increase-security/
+permalink: /pt-Email-address-now-serves-as-your-login-to-increase-security/
 excerpt: "We’d like to announce a new security enhancement added to Binary.com: As of yesterday morning, **your email address is now required for login to our trading platform..."
 ---
 

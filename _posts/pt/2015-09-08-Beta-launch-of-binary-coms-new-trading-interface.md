@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: pt/post
 title: Beta launch of Binary.com’s new trading interface
-permalink: /Beta-launch-of-binary-coms-new-trading-interface
+permalink: /pt-Beta-launch-of-binary-coms-new-trading-interface
 excerpt: "Here at Binary.com we have been hard at work redesigning our current trading interface. With this new design, our aim is to better serve our customers.This is why we’re very excited to be moving to a new..."  
 ---
 
