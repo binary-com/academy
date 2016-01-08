@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: pt/post
 title: Brand new! Smart indices now available
-permalink: /brand-bew-bandom-bin-and-random-yang-indices-now-available/
+permalink: /pt-brand-bew-bandom-bin-and-random-yang-indices-now-available/
 excerpt: We are excited to announce that Binary.com is expanding its product range with the launch of its Smart Indices.  
 ---
 

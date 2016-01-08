@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: pt/post
 title: Binary.com nominated for another award!
-permalink: /Binarydotcom-nominated-for-another-award
+permalink: /pt-Binarydotcom-nominated-for-another-award
 excerpt: "We are pleased to announce that Binary.com (formerly known as BetOnMarkets.com) is one of this year's nominees for the UK Forex Awards 2015. "  
 ---
 
