@@ -6,6 +6,9 @@ By Ashkan & Nariman ========
 img {
     width: 100%;
 }
+i {
+    font-style: italic;
+}
 .menu-raw {
     width: 100%;
     background-color: #f2f2f2;
