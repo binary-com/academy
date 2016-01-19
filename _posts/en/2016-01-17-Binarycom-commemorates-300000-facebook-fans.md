@@ -7,7 +7,7 @@ excerpt: "We just wanted to express our sincere appreciation to all of those who
 
 
 
-We just wanted to express our sincere appreciation to all of those who helped [Binary.com’s official Facebook page](https://www.facebook.com/binarydotcom/){:target="_blank"} reach its latest milestone of **300,000 fans**!  We are truly grateful for your loyal support.  
+We just wanted to express our sincere appreciation to all of those who helped [Binary.com’s official Facebook page](https://www.facebook.com/binarydotcom/){:target="_blank"} reach its latest milestone of [300,000 fans!](https://www.facebook.com/binarydotcom/){:target="_blank"} We are truly grateful for your loyal support.  
 
 
 ![](/images/300K-SET-6H.png)
