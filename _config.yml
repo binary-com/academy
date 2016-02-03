@@ -9,6 +9,7 @@ twitter_username: Binarydotcom
 github_username:  binary-com
 
 markdown: kramdown
+gems: [jekyll-paginate]
 paginate: 10
 
 languages:
