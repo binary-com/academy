@@ -2,10 +2,11 @@
 layout: pt/post
 title: Java chart application removed
 permalink: /pt-Java-chart-application-Removed/
-excerpt: "Effective immediately, the Java Charts Application will no longer be available to download. If you downloaded this application earlier on, please note that it will no longer be maintained by..."  
+excerpt: "Effective immediately, the Java Charts Application will no longer be available to download. If you downloaded this application earlier on, please note that it will no longer be maintained by..."
+lang: pt  
 ---
 
-Effective immediately, the Java Charts Application will no longer be available to download. If you downloaded this application earlier on, please note that it will no longer be maintained by Binary.com. 
+Effective immediately, the Java Charts Application will no longer be available to download. If you downloaded this application earlier on, please note that it will no longer be maintained by Binary.com.
 
 Two new charting applications have just been launched instead - the [HighCharts](https://highcharts.binary.com/?l=EN&utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew) and the [TradingView Charts](https://tradingview.binary.com/?l=EN&utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew).*
 [Check out these new charts now](https://www.binary.com/charting/?l=EN&utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew)!

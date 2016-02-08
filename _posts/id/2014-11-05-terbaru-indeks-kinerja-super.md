@@ -2,8 +2,8 @@
 layout: id/post
 title:  Terbaru! indeks kinerja super
 permalink: Terbaru-Indeks-Kinerja-Super
-excerpt: Binary.com kini memperluas jangkauan Smart Indeks dengan peluncuran Indeks Kinerja Super. 
-
+excerpt: Binary.com kini memperluas jangkauan Smart Indeks dengan peluncuran Indeks Kinerja Super.
+lang: id
 ---
 Binary.com kini memperluas jangkauan Smart Indeks dengan peluncuran Indeks Kinerja Super.
 
@@ -14,6 +14,3 @@ Indeks Kinerja Super mengukur prestasi satu indeks relatif kepada indeks lain. J
 Trading Naik/Turun 15 menit hingga 1 jam dapat dibeli pada 4 Indeks Kinerja Super baru: **Indeks Jerman vs Belanda, Indeks Jerman vs Perancis, Indeks Jerman vs Swiss** dan **Indeks Jerman vs UK Index. Indeks Jerman vs Swiss** dan **Indeks Jerman vs UK Index** juga tersedia pada minimum durasi 5 tik.
 
 [Lihat Indeks Kinerja Super Terbaru sekarang!](https://www.binary.com/c/trade.cgi?market=smarties&time=15m&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=OPIDAXAEX&amount=100&date_&&l=ID&utm_medium=social&utm_source=blog&utm_content=whatsnew)
-
-
-

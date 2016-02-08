@@ -1,14 +1,15 @@
 ---
 layout: fr/post
-title: Binary TV présente ses rapports de marché quotidiens au format vidéo 
-permalink: /Binary-TV-presente-ses-rapports-de-marche-quotidiens-au-format-video/ 
-excerpt: "Nous avons le plaisir de vous présenter notre chaîne, BinaryTV, désormais disponible en anglais. Découvrez cette toute nouvelle chaîne d'information – conçue spécialement pour nos traders ..."  
+title: Binary TV présente ses rapports de marché quotidiens au format vidéo
+permalink: /Binary-TV-presente-ses-rapports-de-marche-quotidiens-au-format-video/
+excerpt: "Nous avons le plaisir de vous présenter notre chaîne, BinaryTV, désormais disponible en anglais. Découvrez cette toute nouvelle chaîne d'information – conçue spécialement pour nos traders ..."
+lang: fr  
 ---
 
 
 Nous avons le plaisir de vous présenter notre chaîne, [BinaryTV](https://www.binary.com/?l=EN&utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew), désormais disponible en anglais. Découvrez cette toute nouvelle chaîne d'information – conçue spécialement pour nos traders – et accédez à un large éventail d'analyses et d'actualités axées sur les marchés financiers du monde entier.
- 
-La première de la chaîne a eu lieu le 4 novembre avec la diffusion du premier épisode d'une toute nouvelle série de vidéos illustrant les rapports de marché journaliers. 
+
+La première de la chaîne a eu lieu le 4 novembre avec la diffusion du premier épisode d'une toute nouvelle série de vidéos illustrant les rapports de marché journaliers.
 
 ![](/images/binarytv-thumbnail-img-.jpg)
 
@@ -16,10 +17,10 @@ La première de la chaîne a eu lieu le 4 novembre avec la diffusion du premier 
 **Restez connecté et accédez au journal numérique quotidien des marchés financiers**
 
 
-Accédez à toute l'information concernant les principaux événements et tendances des marchés financiers internationaux. Toutes les informations compilées dans nos [Rapports de marché journaliers](https://blog.binary.com/fr/binary-tv/?utm_source=blog&utm_medium=social&utm_content=FR&utm_campaign=BinaryTV) sont maintenant disponibles au format vidéo. 
+Accédez à toute l'information concernant les principaux événements et tendances des marchés financiers internationaux. Toutes les informations compilées dans nos [Rapports de marché journaliers](https://blog.binary.com/fr/binary-tv/?utm_source=blog&utm_medium=social&utm_content=FR&utm_campaign=BinaryTV) sont maintenant disponibles au format vidéo.
 
 
-Inscrivez-vous à notre [chaîne Youtube officielle](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), pour ne jamais manquer un épisode. 
+Inscrivez-vous à notre [chaîne Youtube officielle](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), pour ne jamais manquer un épisode.
 
 <br>
 
@@ -30,4 +31,3 @@ Nous aimerions beaucoup connaître votre avis sur cette nouvelle série de vidé
 
 Restez connecté : de nombreuses nouvelles ressources Binary.com seront bientôt disponibles.
 Bon visionnage! Nous vous souhaitons d'agréables moments sur notre chaîne!
-

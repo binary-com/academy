@@ -1,12 +1,13 @@
 ---
 layout: id/post
 title: Bitcoin Telah Tersedia Sebagai Metode Pembayaran Binary.com
-permalink: /Bitcoin-Telah-Tersedia-Sebagai-Metode-Pembayaran-Binarycom/ 
-excerpt: "Kami dengan gembira mengumumkan penambahan metode pembayaran baru di Binary.com: Bitcoin..."  
+permalink: /Bitcoin-Telah-Tersedia-Sebagai-Metode-Pembayaran-Binarycom/
+excerpt: "Kami dengan gembira mengumumkan penambahan metode pembayaran baru di Binary.com: Bitcoin..."
+lang: id 
 ---
 
 
-Kami dengan gembira mengumumkan penambahan metode pembayaran baru di Binary.com: [Bitcoin](https://bitcoin.org/id/). 
+Kami dengan gembira mengumumkan penambahan metode pembayaran baru di Binary.com: [Bitcoin](https://bitcoin.org/id/).
 
 Tambahan terbaru ini memperluas jumlah [metode pembayaran](http://bit.ly/1lOK1nY) yang tersedia bagi para trader kami, dalam membantu lebih lanjut untuk memenuhi kebutuhan pribadi dan pilihan Anda.
 
@@ -73,11 +74,3 @@ Untuk mulai menggunakan Bitcoin, cukup ikuti petunjuk ini:
 **Salam Sukses Selalu!**
 
 Nikmati metode pembayaran baru ini, sebagai salah satu dari banyak pilihan deposit/penarikan yang tersedia untuk Anda dari Binary.com.
-
-
-
-
-
-
-
-

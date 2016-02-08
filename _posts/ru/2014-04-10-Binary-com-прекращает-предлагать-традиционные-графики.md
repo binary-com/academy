@@ -1,9 +1,8 @@
 ---
 layout: ru/post
-title: Binary.com прекращает предлагать традиционные графики 
+title: Binary.com прекращает предлагать традиционные графики
 permalink: Binary-com-прекращает-предлагать-традиционные-графики
-excerpt:
-
+lang: ru
 ---
 
 Это решение пришло как следствие увеличения предложения наших новых графиков, появление которых, как мы рады отметить, очень высоко оценивается нашими клиентами. Начиная с 14 апреля 2014, наши традиционные графики прекратят свое существование, уступив место Живым Графикам и графикам Java, [которые вы можете скачать здесь](https://www.binary.com/c/chart_application.cgi?l=RU&utm_medium=social&utm_source=blog&utm_content=whatsnew).
@@ -12,7 +11,7 @@ excerpt:
 
 [![](/post_images/592847.png)](https://www.binary.com/c/livechart.cgi?l=RU#R_100:10min&utm_medium=social&utm_source=blog&utm_content=whatsnew)
 
-Скачайте и установите приложение для графиков [Java для ПК или Mac и установите персонализованные настройки](https://www.binary.com/c/chart_application.cgi?l=RU&utm_medium=social&utm_source=blog&utm_content=whatsnew). 
+Скачайте и установите приложение для графиков [Java для ПК или Mac и установите персонализованные настройки](https://www.binary.com/c/chart_application.cgi?l=RU&utm_medium=social&utm_source=blog&utm_content=whatsnew).
 
 Приложение позволяет выбрать широкий ассортимент индикаторов и прикладных удобств для создания персонализованных графиков. Вы можете сохранить рабочее пространство и вернуться к нему в любой момент.
 

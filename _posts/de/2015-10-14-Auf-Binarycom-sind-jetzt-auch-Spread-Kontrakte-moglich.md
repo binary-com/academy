@@ -2,7 +2,8 @@
 layout: de/post
 title: Auf Binary.com sind jetzt auch Spread-Kontrakte möglich
 permalink: /Auf-Binarycom-sind-jetzt-auch-Spread-Kontrakte-moglich
-excerpt: "Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft!"  
+excerpt: "Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft!"
+lang: de  
 ---
 
 Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. [Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=EN&utm_source=social&utm_medium=blog&utm_campaign=WhatsNew)!

@@ -2,10 +2,11 @@
 layout: fr/post
 title: Binary.com nominé pour une nouvelle récompense!
 permalink: Binarydotcom-nomine-pour-une-nouvelle-recompense/
-excerpt: "Nous avons le plaisir de vous annoncer que Binary.com (anciennement BetOnMarkets.com) fait partie des nominés pour les UK Forex Awards 2015."  
+excerpt: "Nous avons le plaisir de vous annoncer que Binary.com (anciennement BetOnMarkets.com) fait partie des nominés pour les UK Forex Awards 2015."
+lang: fr 
 ---
 
-Nous avons le plaisir de vous annoncer que Binary.com (anciennement BetOnMarkets.com) fait partie des nominés pour les UK Forex Awards 2015. 
+Nous avons le plaisir de vous annoncer que Binary.com (anciennement BetOnMarkets.com) fait partie des nominés pour les UK Forex Awards 2015.
 
 ![](/images/ukforexawards2015.png)
 

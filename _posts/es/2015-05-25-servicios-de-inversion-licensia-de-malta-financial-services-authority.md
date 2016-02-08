@@ -3,6 +3,7 @@ layout: es/post
 title:  Servicios de inversión licensia de Malta Financial Services Authority
 permalink: /servicios-de-inversion-licensia-de-malta-financial-services-authority/
 excerpt: "¡Buenas Noticias! Al Subsidiario de Malta de Binary.com Binary Investments (Europe) Ltd. se le ha concedido una licencia de Categoría 3 para Servicios de..."
+lang: es
 ---
 
 

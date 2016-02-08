@@ -2,11 +2,12 @@
 layout: fr/post
 title: Bitcoin fait désormais partie des moyens de paiement proposés par Binary.com
 permalink: /Bitcoin-fait-desormais-partie-des-moyens-de-paiement-proposes-par-Binarycom/
-excerpt: "Nous sommes heureux d'annoncer l'ajout d'un nouveau moyen de paiement sur Binary.com: Bitcoin..."  
+excerpt: "Nous sommes heureux d'annoncer l'ajout d'un nouveau moyen de paiement sur Binary.com: Bitcoin..."
+lang: fr  
 ---
 
 
-Nous sommes heureux d'annoncer l'ajout d'un nouveau moyen de paiement sur Binary.com: [Bitcoin](https://bitcoin.org/en). 
+Nous sommes heureux d'annoncer l'ajout d'un nouveau moyen de paiement sur Binary.com: [Bitcoin](https://bitcoin.org/en).
 
 Cette nouvelle solution s'ajoute aux différents [moyens de paiement](http://bit.ly/1lOK1nY) mis à disposition de nos traders, afin de mieux répondre à vos préférences et besoins individuels.
 
@@ -75,11 +76,3 @@ Pour commencer à utiliser Bitcoin, suivez simplement les instructions suivantes
 **Nous vous souhaitons d'excellents moments sur Binary.com!**
 
 Ce nouveau moyen de paiement est maintenant à votre disposition parmi les nombreuses options de dépôt/retrait proposées par Binary.com.
-
-
-
-
-
-
-
-

@@ -2,7 +2,8 @@
 layout: fr/post
 title: Nominez Binary.com pour les prix "Shares Awards"
 permalink: /nominez-binary-com-pour-les-prix-shares-awards
-excerpt: "Nous vous invitons à nous soutenir en nominant Binary.com dans les catégories suivantes pour les prix..."  
+excerpt: "Nous vous invitons à nous soutenir en nominant Binary.com dans les catégories suivantes pour les prix..."
+lang: fr 
 ---
 
 ![](/images/sharesAward2015.png)

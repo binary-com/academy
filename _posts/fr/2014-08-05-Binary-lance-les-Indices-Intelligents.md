@@ -3,6 +3,7 @@ layout: fr/post
 title: Binary.com lance les indices intelligents
 permalink: Binary-lance-les-Indices-Intelligents
 excerpt: Nous sommes ravis de vous annoncer que Binary.com élargie son offre avec le lancement de ses Indices Intelligents.
+lang: fr
 ---
 
 Nous sommes ravis de vous annoncer que Binary.com élargit son offre avec le lancement de ses Indices Intelligents.

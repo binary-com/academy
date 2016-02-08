@@ -3,7 +3,7 @@ layout: id/post
 title:  Binary.com meluncurkan Indeks Smart
 permalink: binary-com-meluncurkan-Indeks-Smart
 excerpt: Kami dengan gembira menginformasikan bahwa Binary.com memperluas fasilitas yang ditawarkan dengan meluncurkan pilihan Indeks Smart.
-
+lang: id
 ---
 
 Kami dengan gembira menginformasikan bahwa Binary.com memperluas fasilitas yang ditawarkan dengan meluncurkan pilihan Indeks Smart.
@@ -19,4 +19,3 @@ Indeks Smart diukur dengan mengambil nilai salah satu mata uang dan ditimbang be
 [![](/post_images/2049047.jpg)](https://www.binary.com/c/trade.cgi?market=smarties&time=5t&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=WLDAUD&amount=2&date_&&l=ID?utm_medium=social&utm_source=blog&utm_content=whatsnew)
 
 [Jangan ketinggalan, silahkan coba Indeks Smart terbaru sekarang juga](https://www.binary.com/c/trade.cgi?market=smarties&time=5t&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=WLDAUD&amount=2&date_&&l=ID?utm_medium=social&utm_source=blog&utm_content=whatsnew).
-

@@ -3,6 +3,7 @@ layout: es/post
 title:  Una actualización completa de los contratos instantáneos de 10% rápido & 10 dígitos de la suerte
 permalink: /Una-actualización-completa-de-los-contratos-instantáneos-de-10-percent-rápido-10-dígitos-de-la-suerte/
 excerpt: Los contratos instantáneo "10 dígitos de la suerte" y "10% rápido" han sido trasladados a otra sección, "Dígitos". Ahora se los puede comprar como lo haría con cualquier otro contrato a través de la página principal de contratos. Se pueden comprar dentro de los mercados "Random" con una duración mínima de 5 intervalos o una duración máxima de 10 intervalos, lo cual le proporciona una gama más amplia de opciones que antes.
+lang: es
 ---
 
 Los contratos instantáneo "10 dígitos de la suerte" y "10% rápido" han sido trasladados a otra sección, "Dígitos". Ahora se los puede comprar como lo haría con cualquier otro contrato a través de la página principal de contratos. Se pueden comprar dentro de los mercados "Random" con una duración mínima de 5 intervalos o una duración máxima de 10 intervalos, lo cual le proporciona una gama más amplia de opciones que antes.

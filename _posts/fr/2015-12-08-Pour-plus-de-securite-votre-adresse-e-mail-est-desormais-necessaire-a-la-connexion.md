@@ -2,10 +2,11 @@
 layout: fr/post
 title: Pour plus de sécurité, votre adresse e-mail est désormais nécessaire à la connexion
 permalink: /Pour-plus-de-securite-votre-adresse-e-mail-est-desormais-necessaire-a-la-connexion/
-excerpt: "Binary.com annonce l'optimisation de son système de sécurité : depuis hier matin, **vous devez saisir votre adresse e-mail pour vous connecter à notre..."  
+excerpt: "Binary.com annonce l'optimisation de son système de sécurité : depuis hier matin, **vous devez saisir votre adresse e-mail pour vous connecter à notre..."
+lang: fr 
 ---
 
-Binary.com annonce l'optimisation de son système de sécurité : depuis hier matin, **vous devez saisir votre adresse e-mail pour vous connecter à notre plateforme de trading.** 
+Binary.com annonce l'optimisation de son système de sécurité : depuis hier matin, **vous devez saisir votre adresse e-mail pour vous connecter à notre plateforme de trading.**
 
 ![](/images/loginid-email-new.jpg)
 

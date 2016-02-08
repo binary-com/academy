@@ -1,8 +1,9 @@
 ---
 layout: es/post
 title: La Dirección de Correo Electrónico se Usa Ahora para Iniciar Sesión, para Incrementar la Seguridad
-permalink: /la-direccion-de-correo-electronico-se-usa-ahora-para-iniciar-sesion-para-incrementar-la-seguridad/ 
-excerpt: "Nos gustaría anunciar una nueva mejora de seguridad añadida a Binary.com: A partir de ayer por la mañana, su dirección de correo electrónico se requiere ahora para iniciar sesión en nuestra plataforma..."  
+permalink: /la-direccion-de-correo-electronico-se-usa-ahora-para-iniciar-sesion-para-incrementar-la-seguridad/
+excerpt: "Nos gustaría anunciar una nueva mejora de seguridad añadida a Binary.com: A partir de ayer por la mañana, su dirección de correo electrónico se requiere ahora para iniciar sesión en nuestra plataforma..."
+lang: es 
 ---
 
 

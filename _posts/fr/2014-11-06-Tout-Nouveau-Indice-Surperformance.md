@@ -3,6 +3,7 @@ layout: fr/post
 title: Tout nouveau! Indice surperformance
 permalink: Tout-Nouveau-Indice-Surperformance
 excerpt: Binary.com est en train d'étendre sa rangée d'Indices Intelligents avec la sortie des Indices Surperformance.
+lang: fr
 ---
 
 Binary.com est en train d'étendre sa rangée d'Indices Intelligents avec la sortie des Indices Surperformance.
@@ -14,4 +15,3 @@ Des Indices Surperformance mesurent la performance d’un indice par rapport à 
 Des trades Hausse/Baisse de 15 minutes jusqu’à 1 heure peuvent être achetés sur n’importe lequel des 4 nouveaux Indices Surperformance : l’ Indice Allemand vs Néerlandais, l’ Indice Allemand vs Français, l’Indice Allemand vs Suisse, l’ Indice Allemand vs RU. L’ Indice Allemand vs Suisse et l’ Indice Allemand vs RU sont également disponibles avec une durée minimale de 5 intervalles.
 
 [Découvrez dès maintenant nos nouveaux indices surperformance!](https://www.binary.com/c/trade.cgi?market=smarties&time=15m&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=OPIDAXAEX&amount=100&date_&&l=FR&utm_medium=social&utm_source=blog&utm_content=whatsnew)
-

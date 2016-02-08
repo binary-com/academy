@@ -1,12 +1,13 @@
 ---
 layout: de/post
 title: Die E-Mail Adresse dient jetzt als Ihr Login, um die Sicherheit zu erhöhen
-permalink: /Die-e-Mail-Adresse-dient-jetzt-als-Ihr-Login-um-die-Sicherheit-zu-erhohen/ 
-excerpt: "Wir informieren Sie hiermit über eine neue Sicherheitsverbesserung für Binary.com: Seit gestern Morgen ist nun Ihre E-Mail Adresse für die Anmeldung..."  
+permalink: /Die-e-Mail-Adresse-dient-jetzt-als-Ihr-Login-um-die-Sicherheit-zu-erhohen/
+excerpt: "Wir informieren Sie hiermit über eine neue Sicherheitsverbesserung für Binary.com: Seit gestern Morgen ist nun Ihre E-Mail Adresse für die Anmeldung..."
+lang: de 
 ---
 
 
-Wir informieren Sie hiermit über eine neue Sicherheitsverbesserung für Binary.com: Seit gestern Morgen ist nun Ihre E-Mail Adresse für die Anmeldung zu unserer Trading-Plattform erforderlich. 
+Wir informieren Sie hiermit über eine neue Sicherheitsverbesserung für Binary.com: Seit gestern Morgen ist nun Ihre E-Mail Adresse für die Anmeldung zu unserer Trading-Plattform erforderlich.
 
 ![](/images/loginid-email-new.jpg)
 

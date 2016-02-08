@@ -1,8 +1,9 @@
 ---
 layout: es/post
-title: Restricciones debido a las Vacaciones para Operaciones con Acciones e Índice 
-permalink: /Restricciones-debido-a-las-Vacaciones-para-Operaciones-con-Acciones-e-Índice/ 
-excerpt: "Nos gustaría informarle sobre ciertas restricciones en las operaciones que estarán en vigor durante el período de vacaciones, debido a un menor volumen de operaciones en todo el mundo..."  
+title: Restricciones debido a las Vacaciones para Operaciones con Acciones e Índice
+permalink: /Restricciones-debido-a-las-Vacaciones-para-Operaciones-con-Acciones-e-Índice/
+excerpt: "Nos gustaría informarle sobre ciertas restricciones en las operaciones que estarán en vigor durante el período de vacaciones, debido a un menor volumen de operaciones en todo el mundo..."
+lang: es  
 ---
 
 

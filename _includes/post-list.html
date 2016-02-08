@@ -4,8 +4,6 @@
     <div class="post-list">
         {% for post in posts limit:10 %}
         <div class="post">
-            Lang: {{ post.lang }}
-            Ling: {{ post.ling }}
             <h1 class="margin-b mobile-h1-margin"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <article class="post-content">

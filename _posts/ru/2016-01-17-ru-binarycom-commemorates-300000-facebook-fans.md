@@ -2,7 +2,8 @@
 layout: ru/post
 title: Binary.com достиг 300000 подписчиков на Facebook!
 permalink: /ru-binarycom-commemorates-300000-facebook-fans/
-excerpt: "Спешим выразить искреннюю признательность всемтем, кто поддержал официальную страницу Binary.com на Facebook, набравшую 300000..."  
+excerpt: "Спешим выразить искреннюю признательность всемтем, кто поддержал официальную страницу Binary.com на Facebook, набравшую 300000..."
+lang: ru 
 ---
 
 

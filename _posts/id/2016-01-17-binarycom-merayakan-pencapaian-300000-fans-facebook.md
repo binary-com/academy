@@ -1,8 +1,9 @@
 ---
 layout: id/post
 title: Binary.com Merayakan Pencapaian 300,000 Fans Facebook!
-permalink: /binarycom-merayakan-pencapaian-300000-fans-facebook/ 
-excerpt: "Kami ingin menyampaikan penghargaan yang tulus kepada semua yang telah membantu halaman resmi Facebook Binary.com dalam pencapaian terbaru..."  
+permalink: /binarycom-merayakan-pencapaian-300000-fans-facebook/
+excerpt: "Kami ingin menyampaikan penghargaan yang tulus kepada semua yang telah membantu halaman resmi Facebook Binary.com dalam pencapaian terbaru..."
+lang: id 
 ---
 
 
@@ -14,4 +15,3 @@ Kami ingin menyampaikan penghargaan yang tulus kepada semua yang telah membantu 
 Kurang dari dua bulan lalu, kami merayakan pencapaian sebanyak [200,000 fans Facebook](https://blog.binary.com/Binarycom-merayakan-200000-Facebook-likes/?utm_source=blog&utm_medium=social&utm_campaign=whatsnew){:target="_blank"}, hal ini menunjukkan betapa cepat perkembangan jaringan trader kami tentunya dengan dukungan antusias Anda.
 
 Terima kasih sekali lagi untuk tetap bertrading di [Binary.com](https://www.binary.com/?l=ID&utm_source=blog&utm_medium=social&utm_content=text&utm_campaign=whatsnew){:target="_blank"}!
-

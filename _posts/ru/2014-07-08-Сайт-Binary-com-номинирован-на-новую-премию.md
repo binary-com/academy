@@ -1,9 +1,9 @@
 ---
 layout: ru/post
-title: Сайт Binary.com номинирован на новую премию! 
+title: Сайт Binary.com номинирован на новую премию!
 permalink: Сайт-Binary-com-номинирован-на-новую-премию
 excerpt: Мы рады сообщить, что Binary.com является в этом году одним из номинантов на UK Forex Awards 2014. Приглашаем Вас показать свою поддержку, проголосовав за Binary.com в следующих категориях
-
+lang: ru
 ---
 
 [![](/post_images/7799451_orig.jpg)](http://info.binary.com/ukfxaward14)

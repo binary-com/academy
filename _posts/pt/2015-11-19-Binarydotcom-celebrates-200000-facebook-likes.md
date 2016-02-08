@@ -2,7 +2,8 @@
 layout: pt/post
 title: Binary.com celebrates 200,000 Facebook Fans!   
 permalink: /pt-Binarydotcom-celebrates-200000-facebook-likes/   
-excerpt: "We would just like to thank all of you who helped the Binary.com home page achieves its most recent milestone of 200,000 Facebook fans! We greatly value and ..."  
+excerpt: "We would just like to thank all of you who helped the Binary.com home page achieves its most recent milestone of 200,000 Facebook fans! We greatly value and ..."
+lang: pt  
 ---
 
 
@@ -11,5 +12,3 @@ We would just like to thank all of you who helped the [Binary.com](https://www.b
 ![](/images/SET-2-FB-2M-LIKES-POST-2.png)
 
 It is your continued loyalty that has made us the world’s leading binary options platform since 1999. Thanks again for trading with us!
-
-

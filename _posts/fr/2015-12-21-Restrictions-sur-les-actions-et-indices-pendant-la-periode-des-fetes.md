@@ -2,7 +2,8 @@
 layout: fr/post
 title: Restrictions sur les actions et indices pendant la période des fêtes
 permalink: /Restrictions-sur-les-actions-et-indices-pendant-la-periode-des-fetes/
-excerpt: "Nous vous informons que certaines restrictions entrent en vigueur pendant la période des fêtes de fin d'année, en raison d'une baisse du volume des transactions à l'échelle mondiale..."  
+excerpt: "Nous vous informons que certaines restrictions entrent en vigueur pendant la période des fêtes de fin d'année, en raison d'une baisse du volume des transactions à l'échelle mondiale..."
+lang: fr 
 ---
 
 

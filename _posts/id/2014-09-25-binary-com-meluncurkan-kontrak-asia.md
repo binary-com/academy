@@ -3,7 +3,7 @@ layout: id/post
 title:  Binary.com meluncurkan kontrak Asia
 permalink: binary-com-meluncurkan-kontrak-asia
 excerpt: Dengan upgrade terbaru pada platform trading kami, sekarang Anda memiliki kesempatan untuk membeli kontrak Asia pada berbagai pilihan market Random Index.
-
+lang: id
 ---
 Dengan upgrade terbaru pada platform trading kami, sekarang Anda memiliki kesempatan untuk membeli kontrak Asia pada berbagai pilihan market Random Index.
 
@@ -14,5 +14,3 @@ Kelebihan dari kontrak ini adalah tidak diperlukan patasan pada saat pembelian k
 ![dd](/post_images/id-25-09-2014.gif)
 
 [Manfaatkan kelebihan kontrak Asia terbaru dari kami dan beli kontrak anda sekarang!](https://www.binary.com/c/trade.cgi?market=random&time=7t&form_name=asian&expiry_&amount_&H=%2B0&currency=USD&underlying_symbol=R_50&amount=100&date_&&l=ID/?utm_medium=social&utm_source=blog&utm_content=whatsnew)
-
-

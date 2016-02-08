@@ -1,8 +1,9 @@
 ---
 layout: es/post
 title: Premio para Operador 2015 EGR otorgado a Binary.com
-permalink: /Premio-para-operador2015-EGR-otorgado-a-Binarycom/ 
-excerpt: "¡Noticias emocionantes! Esta semana, Binary.com ganó el primer premio en la categoría de Operador de Apuestas Financierasen la ceremonia de los prestigiosos premios..."  
+permalink: /Premio-para-operador2015-EGR-otorgado-a-Binarycom/
+excerpt: "¡Noticias emocionantes! Esta semana, Binary.com ganó el primer premio en la categoría de Operador de Apuestas Financierasen la ceremonia de los prestigiosos premios..."
+lang: es  
 ---
 
 ¡Noticias emocionantes! Esta semana, Binary.com ganó el primer premio en la categoría de Operador de Apuestas Financierasen la ceremonia de los prestigiosos premios [2015 EGR Operator Awards Ceremony](https://www.eiseverywhere.com/ehome/135475/308461/?&), organizada en Londres.
@@ -31,4 +32,3 @@ Los ganadores se dieron a conocer de una manera espectacular la noche del lunes 
 ¡Muchísimas gracias!
 Gracias - como siempre - por su apoyo continuo. Es su lealtad que nos ha convertido en una de las empresas de comercio binario más consistentemente reconocidas durante los últimos 15 años.
 ¡Siga comerciando con nosotros en Binary.com!
-

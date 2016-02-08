@@ -1,13 +1,14 @@
 ---
-layout: fr/post 
+layout: fr/post
 title: Contrats à court terme disponibles sur les paires majeures Forex
 permalink: Contrats-Court-Terme-Disponibles-sur-les-Paires-Majeures-Forex
 excerpt: D˚ à la demande populaire, la durée minimale des trades achetés sur les paires majeures Forex a changé sur líoffre compléte des contrats.
+lang: fr
 ---
 
 Dû à la demande populaire, la durée minimale des trades achetés sur les paires majeures Forex a changé sur l’offre complète des contrats.
 
-Avec cette dernière mise à jour, les contrats Intrajournaliers comme Supérieur/Inférieur et Touche/Ne Touche Pas peuvent être achetés avec une durée 
+Avec cette dernière mise à jour, les contrats Intrajournaliers comme Supérieur/Inférieur et Touche/Ne Touche Pas peuvent être achetés avec une durée
 minimale de 15 minutes sur toutes les paires majeures FX.
 
 Si vous préférez effectuer des trades à long terme, nous avons également ce dont vous avez besoin! Les contrats non journaliers Hausse/Baisse, Supérieur/

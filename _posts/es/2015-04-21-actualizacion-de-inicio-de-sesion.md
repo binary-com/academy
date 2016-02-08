@@ -3,6 +3,7 @@ layout: es/post
 title:  Actualización de inicio de sesión
 permalink: /actualizacion-de-inicio-de-sesion/
 excerpt: "Binary.com pronto actualizará el inicio de sesión de su sitio web en un esfuerzo por cumplir con las normas vigentes y las prácticas de la industria. Una vez que los cambios entren en vigor, con el fin de acceder..."
+lang: es
 ---
 
 
@@ -10,9 +11,8 @@ Binary.com pronto actualizará el inicio de sesión de su sitio web en un esfuer
 
 ![](/post_images/login-new-en.jpg)
 
-Si usted tiene una cuenta de dinero real o una cuenta de dinero virtual registrada en Binary.com, simplemente introduzca su dirección de correo electrónico, y la contraseña correspondiente, dependiendo de a cuál de las dos cuentas desea acceder. 
+Si usted tiene una cuenta de dinero real o una cuenta de dinero virtual registrada en Binary.com, simplemente introduzca su dirección de correo electrónico, y la contraseña correspondiente, dependiendo de a cuál de las dos cuentas desea acceder.
 
 Si se ha registrado tanto para una cuenta de dinero real y una cuenta virtual utilizando la misma dirección de correo electrónico, tendrá que acceder a su cuenta a través de la dirección de correo electrónico y la contraseña de su cuenta de dinero real.
 
 En caso de necesitar ayuda, no dude en contactar con nuestro equipo de atención al cliente en [helpdesk@binary.com](mailto:helpdesk@binary.com).
-

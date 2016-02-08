@@ -1,8 +1,9 @@
 ---
 layout: de/post
 title: Feiertagseinschränkungen für Aktien- und Indexgeschäfte
-permalink: /Feiertagseinschränkungen-furAktien-und-Indexgeschafte/ 
-excerpt: "Wir teilen Ihnen mit, dass es während der Weihnachtszeit einige Handelsbeschränkungen wegen des weltweit verringerten Handelsvolumens geben wird..." 
+permalink: /Feiertagseinschränkungen-furAktien-und-Indexgeschafte/
+excerpt: "Wir teilen Ihnen mit, dass es während der Weihnachtszeit einige Handelsbeschränkungen wegen des weltweit verringerten Handelsvolumens geben wird..."
+lang: de 
 ---
 
 
@@ -15,4 +16,3 @@ Wir teilen Ihnen mit, dass es während der Weihnachtszeit einige Handelsbeschrä
 Bitte wählen Sie ein Ablaufdatum nach dem 5. Januar 2016 aus, um mit dem Kauf solcher Kontrakte fortzufahren.
 
 Noch einmal herzlichen Dank, dass Sie bei uns traden!  Schöne Feiertage!
-

@@ -2,7 +2,8 @@
 layout: id/post
 title: Kontrak spread sudah tersedia di Binary.com
 permalink: /kontrak-spread-sudah-tersedia-di-binary-dot-com/
-excerpt: "Dengan adanya peningkatan terbaru pada platform trading kami, kontrak spread berhasil disediakan pada beberapa pasar terpilih mulai saat ini."  
+excerpt: "Dengan adanya peningkatan terbaru pada platform trading kami, kontrak spread berhasil disediakan pada beberapa pasar terpilih mulai saat ini."
+lang: id  
 ---
 
 Dengan adanya peningkatan terbaru pada platform trading kami, kontrak spread berhasil disediakan pada beberapa pasar terpilih mulai saat ini. [Lihat kontrak spread terbaru dan beli kontrak pardana Anda sekarang](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=ID&utm_source=social&utm_medium=blog&utm_campaign=WhatsNew)!

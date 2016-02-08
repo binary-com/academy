@@ -2,7 +2,8 @@
 layout: fr/post
 title: Suppression de l'application graphique Java
 permalink: /Suppression-de-lapplication-graphique-java/
-excerpt: "À partir d'aujourd'hui, l'application graphique Java n'est plus disponible en téléchargement. Si vous avez déjà téléchargé cette application, sachez qu'elle n'est désormais plus prise en charge par...."  
+excerpt: "À partir d'aujourd'hui, l'application graphique Java n'est plus disponible en téléchargement. Si vous avez déjà téléchargé cette application, sachez qu'elle n'est désormais plus prise en charge par...."
+lang: fr  
 ---
 
 À partir d'aujourd'hui, l'application graphique Java n'est plus disponible en téléchargement. Si vous avez déjà téléchargé cette application, sachez qu'elle n'est désormais plus prise en charge par Binary.com.
@@ -19,4 +20,3 @@ Binary.com a également lancé une [application graphique TradingView](https://m
 **Les données statistiques présentées dans les graphiques fournis par Binary.com ont une valeur purement indicative et peuvent parfois différer des valeurs réelles du marché.*
 
 ****Non compatible avec les iPhone et iPad pour le moment.*
-

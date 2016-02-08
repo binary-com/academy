@@ -3,6 +3,7 @@ layout: fr/post
 title: Binary.com nominé pour un autre prix!
 permalink: Binary-nominé-pour-un-autre-prix
 excerpt: Nous sommes ravis d’annoncer que Binary.com est un des nominés pour les UK Forex Awards 2014. Nous vous invitons à exprimer votre support en votant pour Binary.com dans les catégories suivantes
+lang: fr
 ---
 
 ![](post_images/7799451_orig.jpg)

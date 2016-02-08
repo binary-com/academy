@@ -3,6 +3,7 @@ layout: id/post
 title:  Memperkenalkan bagian terbaru atas/bawah
 permalink: /memperkenalkan-bagian-terbaru-atas-Bawah/
 excerpt: "Dengan peningkatan terbaru pada platform kami maka kontrak Naik/Turun dan Lebih Tinggi/Rendah mulai sekarang dapat ditemukan pada bagian Atas/Bawah."
+lang: id
 ---
 
 Dengan peningkatan terbaru pada platform kami maka kontrak Naik/Turun dan Lebih Tinggi/Rendah mulai sekarang dapat ditemukan pada bagian Atas/Bawah.

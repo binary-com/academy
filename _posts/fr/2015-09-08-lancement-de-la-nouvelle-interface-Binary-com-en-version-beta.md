@@ -2,7 +2,8 @@
 layout: fr/post
 title: Lancement de la nouvelle interface Binary.com en version bêta
 permalink: /Lancement-de-la-nouvelle-interface-Binary-com-en-version-beta/
-excerpt: "Les experts Binary.com ont apporté le plus grand soin à la refonte de notre interface de trading actuelle. Une nouvelle version a été conçue pour mieux satisfaire nos clients...."  
+excerpt: "Les experts Binary.com ont apporté le plus grand soin à la refonte de notre interface de trading actuelle. Une nouvelle version a été conçue pour mieux satisfaire nos clients...."
+lang: fr 
 ---
 
 Les experts Binary.com ont apporté le plus grand soin à la refonte de notre interface de trading actuelle. Une nouvelle version a été conçue pour mieux satisfaire nos clients.

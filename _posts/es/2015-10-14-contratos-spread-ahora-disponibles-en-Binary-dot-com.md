@@ -3,6 +3,7 @@ layout: es/post
 title:  Contratos spread ahora disponibles en Binary.com
 permalink: /contratos-spread-ahora-disponibles-en-Binary-dot-com/
 excerpt: "on la última actualización de nuestra plataforma de operaciones, los contratos spread ya están disponibles en los mercados seleccionados..."
+lang: es
 ---
 
 Con la última actualización de nuestra plataforma de operaciones, los contratos spread ya están disponibles en los mercados seleccionados. [¡Eche un vistazo a nuestros nuevos contratos spread y realice su primera operación ahora](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=EN&utm_source=social&utm_medium=blog&utm_campaign=WhatsNew)!

@@ -1,12 +1,13 @@
 ---
 layout: de/post
 title: Bitcoin zu den Zahlungsmethoden von Binary.com hinzugefügt
-permalink: /bitcoin-zu-den-zahlungsmethoden-von-Binarycom-hinzugefugt/ 
-excerpt: "Aufregende Neuigkeiten! In dieser Woche wurde Binary.com der erste Preis in der Kategorie Finanzwettenanbieter in der prestigeträchtigen 2015 EGR Operator Awards Ceremony die in London stattfand, verliehen."  
+permalink: /bitcoin-zu-den-zahlungsmethoden-von-Binarycom-hinzugefugt/
+excerpt: "Aufregende Neuigkeiten! In dieser Woche wurde Binary.com der erste Preis in der Kategorie Finanzwettenanbieter in der prestigeträchtigen 2015 EGR Operator Awards Ceremony die in London stattfand, verliehen."
+lang: de  
 ---
 
 
-Wir freuen uns, Ihnen mitteilen zu können, dass auf Binary.com eine weitere Zahlungsmethode hinzugefügt wurde: [Bitcoin](https://bitcoin.org/en/). 
+Wir freuen uns, Ihnen mitteilen zu können, dass auf Binary.com eine weitere Zahlungsmethode hinzugefügt wurde: [Bitcoin](https://bitcoin.org/en/).
 
 Diese neuste Ergänzung erweitert die Anzahl von  [Zahlungsmethoden](http://bit.ly/1lOK1nY) die jetzt für unsere Trader verfügbar sind, als Möglichkeit, weiter Ihren eigenen individuellen Bedürfnissen und Präferenzen nachzukommen.
 
@@ -78,11 +79,3 @@ Wenn Sie Bitcoin verwenden möchten, befolgen Sie einfach diese Anleitungen:
 **We Wir wünschen Ihnen viel Erfolg!**
 
 Genießen Sie diese neue Zahlungsmethode als eine der vielen Einzahlungs- und Abhebungsmöglichkeiten, die Ihnen von Binary.com geboten werden.
-
-
-
-
-
-
-
-

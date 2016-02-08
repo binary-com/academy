@@ -1,13 +1,14 @@
 ---
 layout: id/post
 title: Video perdana laporan harian BinaryTV
-permalink: /Video-perdana-laporan-harian-Binary-TV/ 
-excerpt: "We’re pleased to introduce Binary TV! Visit this all-new channel of information – designed especially for our traders – for a range of insights and current events from..."  
+permalink: /Video-perdana-laporan-harian-Binary-TV/
+excerpt: "We’re pleased to introduce Binary TV! Visit this all-new channel of information – designed especially for our traders – for a range of insights and current events from..."
+lang: id  
 ---
 
 
 Dengan bangga Kami memperkenalkan saluran [TV Binary](https://www.binary.com/?l=ID&utm_source=blog&utm_medium=social&utm_content=ID&utm_campaign=whatsnew), yang tersedia dalam berbahasa Inggris. Kunjungi semua saluran-informatif baru -Didesain khusus untuk pelanggan kami - merangkum berbagai wawasan dan event pasar keuangan dari seluruh dunia.
- 
+
 Tayangan perdana TV Binary disiarkan pada Rabu sebagai episode pertama dari serial video terbaru Laporan Harian.
 
 ![](/images/binarytv-thumbnail-img-.jpg)

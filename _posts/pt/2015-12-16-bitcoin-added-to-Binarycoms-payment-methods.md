@@ -3,10 +3,11 @@ layout: pt/post
 title: Bitcoin Added to Binary.com’s Payment Methods
 permalink: /pt-bitcoin-added-to-Binarycoms-payment-methods/
 excerpt: "We are pleased to announce the addition of a new payment method on Binary.com: Bitcoin. This latest addition expands the number of payment methods now available to our traders, as a way of catering further to your own individual needs and preferences..."
+lang: pt
 ---
 
 
-We are pleased to announce the addition of a new payment method on Binary.com: [Bitcoin](https://bitcoin.org/en). 
+We are pleased to announce the addition of a new payment method on Binary.com: [Bitcoin](https://bitcoin.org/en).
 
 This latest addition expands the number of [payment methods](http://bit.ly/1lOK1nY) now available to our traders, as a way of catering further to your own individual needs and preferences.
 
@@ -73,11 +74,3 @@ To start using Bitcoin, simply follow these instructions:
 **We Wish You Great Success!**
 
 Enjoy this new payment method, as one of the many deposit / withdrawal options now available to you from Binary.com.
-
-
-
-
-
-
-
-

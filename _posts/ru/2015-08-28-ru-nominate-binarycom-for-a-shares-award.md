@@ -2,12 +2,13 @@
 layout: ru/post
 title: Номинация Binary.com на премию Shares Award
 permalink: /ru-nominate-binarycom-for-a-shares-award/
-excerpt: "Приглашаем Вас поддержать Binary.com в этом году и номинировать нас на получение наград в рамках премии Shares Awards..."  
+excerpt: "Приглашаем Вас поддержать Binary.com в этом году и номинировать нас на получение наград в рамках премии Shares Awards..."
+lang: ru  
 ---
 
 ![](/images/sharesAward2015.png)
 
-Приглашаем Вас поддержать Binary.com в этом году и номинировать нас на получение наград в рамках премии Shares Awards в следующих категориях: 
+Приглашаем Вас поддержать Binary.com в этом году и номинировать нас на получение наград в рамках премии Shares Awards в следующих категориях:
 
 * Лучшее обслуживание клиентов (Best Customer Service);
 * Лучшая торговая онлайн платформа (Best Online Trading Platform);

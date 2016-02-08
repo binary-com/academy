@@ -3,6 +3,7 @@ layout: fr/post
 title: Introduction de la section Haut/Bas
 permalink: introduction-de-la-section-haut-Bas
 excerpt: "Avec la dernière mise à jour de notre plate-forme de trading, les contrats Hausse/Baisse et Supérieur/Inférieur, se trouveront désormais dans la section Haut/Bas... ."
+lang: fr
 ---
 
 Avec la dernière mise à jour de notre plate-forme de trading, les contrats Hausse/Baisse et Supérieur/Inférieur, se trouveront désormais dans la section Haut/Bas.

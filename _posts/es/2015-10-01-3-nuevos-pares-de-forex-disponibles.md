@@ -3,6 +3,7 @@ layout: es/post
 title:  3 Nuevos pares de Forex disponibles
 permalink: /3-nuevos-pares-de-forex-disponibles/
 excerpt: "Debido a la demanda popular, hemos añadido a nuestra oferta los siguientes pares Forex: EUR/CHF, USD/CHF y GBP/CHF..."
+lang: es
 ---
 
 
