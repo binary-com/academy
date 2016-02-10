@@ -1,41 +1,63 @@
 <head>
   <!-- Google Analytics Content Experiment code -->
-<script>function utmx_section(){}function utmx(){}(function(){var
-k='73768344-22',d=document,l=d.location,c=d.cookie;
-if(l.search.indexOf('utm_expid='+k)>0)return;
-function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
-indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
-length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
-'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-</script><script>utmx('url','A/B');</script>
-<!-- End of Google Analytics Content Experiment code -->
+  <script>
+    function utmx_section() {}
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    function utmx() {}(function() {
+      var
+        k = '73768344-22',
+        d = document,
+        l = d.location,
+        c = d.cookie;
+      if (l.search.indexOf('utm_expid=' + k) > 0) return;
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | Binary.com Blog</title>
-    <meta name="description" content="{{ site.description }}">
-    <meta name="keywords" content=" {{page.keywords}} ">
+      function f(n) {
+        if (c) {
+          var i = c.indexOf(n + '=');
+          if (i > -1) {
+            var j = c.
+            indexOf(';', i);
+            return escape(c.substring(i + n.length + 1, j < 0 ? c.length : j))
+          }
+        }
+      }
+      var x = f('__utmx'),
+        xx = f('__utmxx'),
+        h = l.hash;
+      d.write(
+        '<sc' + 'ript src="' + 'http' + (l.protocol == 'https:' ? 's://ssl' :
+          '://www') + '.google-analytics.com/ga_exp.js?' + 'utmxkey=' + k +
+        '&utmx=' + (x ? x : '') + '&utmxx=' + (xx ? xx : '') + '&utmxtime=' + new Date().valueOf() + (h ? '&utmxhash=' + escape(h.substr(1)) : '') +
+        '" type="text/javascript" charset="utf-8"><\/sc' + 'ript>')
+    })();
+  </script>
+  <script>
+    utmx('url', 'A/B');
+  </script>
+  <!-- End of Google Analytics Content Experiment code -->
 
-    <link rel='icon' type='image/png' href='https://static.binary.com/images/common/favicon_1.ico' />
-    <link rel='apple-touch-icon' href='https://static.binary.com/images/common/apple-touch-icon-57x57_1.png' />
-    <link rel='apple-touch-icon' sizes='72x72' href='https://static.binary.com/images/common/apple-touch-icon-72x72_1.png' />
-    <link rel='apple-touch-icon' sizes='114x114' href='https://static.binary.com/images/common/apple-touch-icon-114x114_1.png' />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <link rel="stylesheet" href="https://static.binary.com/css/binary.min.css">
-    <link rel="stylesheet" href="/css/style.css">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | Binary.com Blog</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="keywords" content=" {{page.keywords}} ">
 
-    <script src="https://apis.google.com/js/platform.js" defer='true'></script>
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <!-- ////// -->
-    <!--<script src='https://static.binary.com/js/binary.min.js' defer='true'></script>-->
-    <script src='/javascript/binary.js' defer='true'></script>
+  <link rel='icon' type='image/png' href='https://static.binary.com/images/common/favicon_1.ico' />
+  <link rel='apple-touch-icon' href='https://static.binary.com/images/common/apple-touch-icon-57x57_1.png' />
+  <link rel='apple-touch-icon' sizes='72x72' href='https://static.binary.com/images/common/apple-touch-icon-72x72_1.png' />
+  <link rel='apple-touch-icon' sizes='114x114' href='https://static.binary.com/images/common/apple-touch-icon-114x114_1.png' />
 
-    <!-- <script src="/superfeedr.jquery.js" defer='true'></script> -->
-    <script src="/code.js" defer='true'></script>
+  <link rel="stylesheet" href="https://static.binary.com/css/binary.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script src="https://apis.google.com/js/platform.js" defer='true'></script>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <!-- ////// -->
+  <!--<script src='https://static.binary.com/js/binary.min.js' defer='true'></script>-->
+  <script src='/javascript/binary.js' defer='true'></script>
+
+  <!-- <script src="/superfeedr.jquery.js" defer='true'></script> -->
+  <script src="/code.js" defer='true'></script>
 </head>
