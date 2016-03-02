@@ -39,6 +39,9 @@ collections:
   contributors:
     output: true
     permalink: /en/contributors/:path/
+  marketplace:
+    output: true
+    permalink: /en/marketplace/:path/
   pages:
     output: true
     permalink: /en/:path/
