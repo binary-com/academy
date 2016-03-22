@@ -5,7 +5,7 @@ permalink: /three-reasons-to-try-our-new-interface/
 excerpt: "Why Trade on Binary.com’s New Interface? Three simple reasons to make the permanent switch to our latest interface..."
 ---
 
-![](/images/ticktrade_promote.png)
+![](/images/FB-ads5.jpg)
 
 **Why Trade on Binary.com’s New Interface?**
 
