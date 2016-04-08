@@ -5,7 +5,7 @@ permalink: en/webinar_confirmation/
 ---
 
 <div>
-  <iframe frameborder="0" id="webinar_confirm"></iframe>
+  <iframe style="width:100%; min-height:400px;" frameborder="0" id="webinar_confirm"></iframe>
 </div>
 
 <script type="text/javascript">
@@ -18,5 +18,5 @@ permalink: en/webinar_confirmation/
     if (!results[2]) return '';
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
-  $('#webinar_confirm').attr('src', getParameterByName('iframe'))
+  document.getElementById('webinar_confirm').src = getParameterByName('iframe');
 </script>
