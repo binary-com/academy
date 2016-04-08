@@ -1,7 +1,7 @@
 ---
 layout: fullpage
-title: Webinar Confirmation
-permalink: en/webinar_confirmation/
+title: jjj
+permalink: en/confirmation/
 ---
 
 <div>
@@ -18,5 +18,9 @@ permalink: en/webinar_confirmation/
     if (!results[2]) return '';
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
-  document.getElementById('webinar_confirm').src = getParameterByName('iframe');
+  document.getElementsByClassName('margin-b')[0].remove();
+  var src = getParameterByName('iframe');
+  if(src) {
+    document.getElementById('webinar_confirm').src = src;
+  }
 </script>
