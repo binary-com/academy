@@ -6,7 +6,7 @@ excerpt: "Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama d
 lang: id  
 ---
 
-Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama dalam ajang bergengsi Acara [EGR Operator Award 2015](https://www.eiseverywhere.com/ehome/135475/308461/?&), di London.
+Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama dalam ajang bergengsi Acara **EGR Operator Award 2015**, di London.
 
 Penghargaan ini dianugerahkan kepada kami berdasarkan evaluasi dari **pertumbuhan, inovasi,** dan **produk yang kami tawarkan** selama 12 bulan terakhir.
 
