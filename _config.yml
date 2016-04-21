@@ -157,10 +157,10 @@ t:
     readatarchive: "Смотреть архив"
   pt:
     contactus: "Contate-Nos"
-    readmore: "Read More..."
-    whatsnew: "What's New?"
-    archive: "Archive"
-    readatarchive: "Read more in the archive"
+    readmore: "Saiba mais..."
+    whatsnew: "Novidades?"
+    archive: "Arquivo morto"
+    readatarchive: "Leia mais no arquivo morto"
   es:
     contactus: "Contáctenos"
     whatsnew: "Noticias"
