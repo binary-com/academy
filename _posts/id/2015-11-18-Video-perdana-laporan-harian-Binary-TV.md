@@ -2,7 +2,7 @@
 layout: id/post
 title: Video perdana laporan harian BinaryTV
 permalink: /Video-perdana-laporan-harian-Binary-TV/
-excerpt: "We’re pleased to introduce Binary TV! Visit this all-new channel of information – designed especially for our traders – for a range of insights and current events from..."
+excerpt: "Dengan bangga Kami memperkenalkan saluran TV Binary yang tersedia dalam berbahasa Inggris. Kunjungi semua saluran-informatif baru -Didesain khusus untuk pelanggan kami - merangkum berbagai wawasan dan event pasar keuangan ..."
 lang: id  
 ---
 
