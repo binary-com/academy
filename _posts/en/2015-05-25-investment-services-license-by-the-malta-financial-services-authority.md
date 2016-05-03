@@ -7,5 +7,5 @@ excerpt: "Great News! Binary.com's Maltese subsidiary Binary Investments (Europe
 
 Great News! Binary.com's Maltese subsidiary Binary Investments (Europe) Ltd. has been granted a Category 3 Investment Services license by the Malta Financial Services Authority. This is yet another milestone for Binary.com as it continues to reaffirm its position as an industry leader.
 
-[Read More](https://www.binary.com/group-history?l=EN&utm_medium=social&utm_source=blog&utm_content=whatsnew&utm_campaign=whatsnew)
+[Read More](https://www.binary.com/group-history?l=EN&utm_medium=social&utm_source=blog&utm_content=whatsnew&utm_campaign=whatsnew).
 

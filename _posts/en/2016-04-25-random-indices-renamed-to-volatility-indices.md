@@ -15,4 +15,5 @@ Kindly be advised that **no changes have been made to the products themselves;*
 
 **The available indices remain unaffected by these changes, and the featured contracts remain unaltered.**
 
-Thanks as always for trading with us!
+Thanks as always for [trading with us](https://www.binary.com/trading?l=EN&utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whats_new){:target="_blank"}!
+
