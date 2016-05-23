@@ -6,7 +6,7 @@ title: Why Us?
 
 Binary.com's patented pricing technology allows you to benefit from the same rates of return as traders in the interbank market.
 
-![](https://static.binary.com/images/pages/why-us/why-us-sharp-prices.png)
+![](https://www.binary.com/images/pages/why-us/why-us-sharp-prices.png)
 
 * Real-time prices, benchmarked against interbank options markets.
 * Returns above 100% on simple rise/fall contracts.
@@ -17,7 +17,7 @@ Binary.com's patented pricing technology allows you to benefit from the same rat
 
 Why limit yourself? Whatever your market view, Binary.com allows you to put your strategy to work and profit from your predictions.
 
-![](https://static.binary.com/images/pages/tour/trade-tutorial_1.svg)
+![](https://www.binary.com/images/pages/tour/trade-tutorial_1.svg)
 
 * Choose a payout from $1 to $100,000.
 * Trade all major currencies, indices, stocks, and commodities.
@@ -28,7 +28,7 @@ Why limit yourself? Whatever your market view, Binary.com allows you to put your
 
 With Binary.com, you're in control. Simply fix your upside and your downside before every trade.
 
-![](https://static.binary.com/images/pages/why-us/why-us-do-not-lose.svg)
+![](https://www.binary.com/images/pages/why-us/why-us-do-not-lose.svg)
 
 * You risk only your initial stake, and your stake never increases, even in gapping markets.
 * You will have no 'margin calls', no 'stops', and no surprises.
@@ -38,9 +38,9 @@ With Binary.com, you're in control. Simply fix your upside and your downside bef
 
 Binary.com offers the world's financial markets in a simple, user-friendly platform.
 
-![](https://static.binary.com/images/pages/why-us/trade-sample.svg)
-![](https://static.binary.com/images/pages/why-us/trade-direct-value.svg)
-![](https://static.binary.com/images/pages/why-us/trade-opposite-value.svg)
+![](https://www.binary.com/images/pages/why-us/trade-sample.svg)
+![](https://www.binary.com/images/pages/why-us/trade-direct-value.svg)
+![](https://www.binary.com/images/pages/why-us/trade-opposite-value.svg)
 
 * Find the right trade for every market condition.
 * Execute your trade in seconds.
@@ -60,7 +60,7 @@ With Binary.com, your money is secure.
 
 Binary.com is the award-winning industry pioneer in online options trading. We boast:
 
-![](https://static.binary.com/images/pages/why-us/why-us-GBAF-award-2012.svg)
+![](https://www.binary.com/images/pages/why-us/why-us-GBAF-award-2012.svg)
 
 * Over one billion dollars in trades to date.
 * First-class client service.
