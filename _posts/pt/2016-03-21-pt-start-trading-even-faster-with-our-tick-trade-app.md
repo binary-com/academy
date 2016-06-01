@@ -1,6 +1,6 @@
 ---
 layout: pt/post
-title: Começar a negociar ainda mais rápido com o nosso aplicativo de negociações tique-taque
+title: Comece a negociar ainda mais rápido com o nosso aplicativo de negociações tique-taque
 permalink: /pt-start-trading-even-faster-with-our-tick-trade-app/
 excerpt: "Interessado em executar negociações muito rapidamente? Experimente o nosso novo aplicativo de negociações tique-taque..."
 lang: pt
