@@ -2,7 +2,7 @@
 layout: post
 title: Check Out the Binary.com Shop for Apps, Gear, and More!
 permalink: /check-out-the-binarycom-shop-for-apps-gears-and-more/
-excerpt: "Have you experienced the speed and mobility of trading through our Tick Trade App yet? Now there are even more reasons to give it a try..."
+excerpt: "Browse through the Binary.com Shop, where you can conveniently find all of our trading tools, training materials, and branded merchandise..."
 ---
 
 Browse through the Binary.com [Shop](https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en){:target="_blank"}, where you can conveniently find all of our trading tools, training materials, and branded merchandise.
