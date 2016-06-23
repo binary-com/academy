@@ -15,7 +15,7 @@ Have you experienced the speed and mobility of trading through our Tick Trade Ap
 
 &nbsp;&nbsp;&nbsp;&nbsp;**1. Forex has been added.** Trade a full range of binary options for currency pairs in just seconds, even while on the move.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**2. Asians option added. Trade Asians in just seconds.
+&nbsp;&nbsp;&nbsp;&nbsp;**2. Asians option added.** Trade Asians in just seconds.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**3. Login is now even easier.** Simply enter your username and password to access the app. 
 
