@@ -17,6 +17,6 @@ lang: ru
 
 
 <center><div class="grd-grid-12 grd-grid-mobile-12 grd-grid-phablet-12 grd-no-gutter-left center">
-      <div class="gray-box">Без риска, виртуальные 10,000$. <a href="https://www.binary.com?l=EN&utm_medium=social&utm_source=blog&utm_content=dailyreport"><strong>ОТКРЫТЬ БЕСПЛАТНЫЙ СЧЕТ</strong></a></div></center>
+      <div class="gray-box">Без риска, виртуальные 10,000$. <a href="https://www.binary.com?l=EN&utm_medium=social&utm_source=blog&utm_content=dailyreport"><strong>ОТКРЫТЬ БЕСПЛАТНЫЙ СЧЕТ</strong></a></center></div>
 
    
