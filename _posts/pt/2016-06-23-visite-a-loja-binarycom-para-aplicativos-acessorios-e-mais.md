@@ -3,10 +3,10 @@ layout: pt/post
 title: Visite a loja Binary.com para Aplicativos, Acessórios e Mais!
 permalink: /visite-a-loja-binarycom-para-aplicativos-acessorios-e-mais/
 excerpt: "Navegue pela loja Binary.com, onde você pode facilmente encontrar todas as nossas ferramentas de negociação, materiais de treinamento e produtos da nossa marca..."
-lang: ru  
+lang: pt 
 ---
 
-Navegue pela [loja Binary.com,](https://shop.binary.com/collections/applications?utm_source=blog&utm_medium=social&utm_content=PT&utm_campaign=whatsnew){:target="_blank"}, onde você pode facilmente encontrar todas as nossas ferramentas de negociação, materiais de treinamento e produtos da nossa marca.
+Navegue pela [loja Binary.com,](https://shop.binary.com/collections/all?utm_source=blog&utm_medium=social&utm_content=PT&utm_campaign=whatsnew){:target="_blank"}, onde você pode facilmente encontrar todas as nossas ferramentas de negociação, materiais de treinamento e produtos da nossa marca.
 
 <h2>Por que visitar a loja Binary.com?</h2>
 
