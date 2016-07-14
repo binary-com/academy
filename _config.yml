@@ -143,7 +143,7 @@ t:
     contactus: "Hubungi Kami"
     readmore: "Baca lebih lanjut..."
     whatsnew: "Berita terbaru?"
-    shop: "Shop"
+    shop: "Toko"
     archive: "Arsip"
     readatarchive: "Baca lebih lanjut di dalam arsip"
   zh:
@@ -162,6 +162,7 @@ t:
     contactus: "Contate-Nos"
     readmore: "Saiba mais..."
     whatsnew: "Novidades?"
+    shop: "Shop"
     archive: "Arquivo morto"
     readatarchive: "Leia mais no arquivo morto"
   es:
