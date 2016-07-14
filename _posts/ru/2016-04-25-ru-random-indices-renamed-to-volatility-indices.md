@@ -1,6 +1,6 @@
 ---
 layout: ru/post
-title: “Индексы Random” переименованы в “Индексы волатильности”
+title: Индексы Random” переименованы в “Индексы волатильности
 permalink: /ru-random-indices-renamed-to-volatility-indices/
 excerpt: "В рамках недавних нововведений на торговой платформе Binary.com Индексы Random были переименованы в Индексы волатильности..."
 lang: ru
