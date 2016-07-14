@@ -129,18 +129,21 @@ t:
     contactus: "Contact Us"
     readmore: "Read More..."
     whatsnew: "What's New?"
+    shop: "Shop"
     archive: "Archive"
     readatarchive: "Read more in the archive"
   de:
     contactus: "Kontaktieren Sie uns"
     readmore: "Erfahren Sie mehr..."
     whatsnew: "Was ist neu?"
+    shop: "Shop"
     archive: "Archivieren"
     readatarchive: "Im Archiv können Sie mehr erfahren"
   id:
     contactus: "Hubungi Kami"
     readmore: "Baca lebih lanjut..."
     whatsnew: "Berita terbaru?"
+    shop: "Shop"
     archive: "Arsip"
     readatarchive: "Baca lebih lanjut di dalam arsip"
   zh:
@@ -164,11 +167,13 @@ t:
   es:
     contactus: "Contáctenos"
     whatsnew: "Noticias"
+    shop: "Shop"
     readmore: "leer más..."
     readatarchive: "leer en archivo"
   fr:
     contactus: "Contactez-nous"
     readmore: "Afficher..."
     whatsnew: "Quoi de neuf ?"
+    shop: "Shop"
     archive: "ACHIVE"
     readatarchive: "CONSULTER LES ARCHIVE"
