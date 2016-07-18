@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trade Our New Blue-Chip OTC Stocks, from Apple to PepsiCo!
-permalink: /trade-our-new-blue-chip-OTC-stocks-from-Apple-to-PepsiCo
+permalink: /trade-our-new-blue-chip-OTC-stocks-from-Apple-to-PepsiCo/
 excerpt: "Explore all of the blue-chip assets now available for trading on Binary.com as OTC Stocks...."
 ---
 
