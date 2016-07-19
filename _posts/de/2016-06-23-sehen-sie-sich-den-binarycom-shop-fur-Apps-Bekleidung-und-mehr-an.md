@@ -6,7 +6,7 @@ excerpt: "Durchsuchen Sie den Binary.com Shop, in dem Sie bequem alle unsere Han
 lang: de
 ---
 
-Durchsuchen Sie den Binary.com [Binary.com Shop für Apps](https://shop.binary.com/collections/applications?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew){:target="_blank"}, in dem Sie bequem alle unsere Handel-Tools, Schulungsmaterialien und Markenwerbeartikel finden.
+Durchsuchen Sie den [Binary.com Shop für Apps](https://shop.binary.com/collections/applications?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew){:target="_blank"}, in dem Sie bequem alle unsere Handel-Tools, Schulungsmaterialien und Markenwerbeartikel finden.
 
 <h2>Warum Sie dem Shop einen Besuch abstatten sollten.</h2>
 
