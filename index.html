@@ -4,23 +4,15 @@ language: en
 ---
 {% assign engPosts = site.posts | where: "language", "en" %}
 {% for post in engPosts | limit:15 %}  
-<div class="Blog-Posts__item">
-	<div class="col-sm-1">
-		<div class="Blog-Posts__item__date">
-			<div class="Blog-Posts__item__date__day">{{ post.date | date: "%-d" }}<span>{{ post.date | date: "%b" }}</span>											
-				<div class="Blog-Posts__item__date__month">{{ post.date | date: "%Y" }}</div>
-			</div>
-		</div>	
-	</div>	
-	<div class="col-sm-11">
-		<div class="Blog-Posts__item__excerpt">					   
-		<a class="Blog-Posts__item__title" href="{{ post.url | prepend: site.baseurl }}">
-			<span class="h-strong">{{ post.title }}</span>
+<div class="row list--item">
+	<div class="col-sm-12">
+		<div class="Page-List__item__excerpt">					   
+		<a class="Page-List__item__heading" href="https://trade.binary.com/commoditiescorner_goldsilverclub/?utm_source=blog&utm_medium=social&utm_campaign=webinars">
+			<h2>{{ post.title }}<span>{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</span></h2>
 		</a>
-		<p>{{ post.excerpt }}
-		</p>
-			<a href="{{ post.url | prepend: site.baseurl }}">Read more ..</a>						
+		<p>{{ post.excerpt }}</p>	
+		<p><a class="" href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
 		</div>
-	</div>
+	</div>	
 </div>
 {% endfor %}
