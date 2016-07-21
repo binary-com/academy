@@ -1,0 +1,22 @@
+---
+layout: page-grid-contributors
+title: Contributors
+permalink: /en/contributors/
+language: en
+tag: main
+---
+{% for page in site.pages %}
+	{% if page.tag == "contributor" %}
+	<div class="Page-Grid__grid-wrap__box">
+	<a href="{{site.baseurl}}{{ page.permalink }}">
+		<div class="Page-Grid__grid-wrap__box__boxInner">
+		<span class="grid-product-vendor" itemprop="manufacturer" content="{{ product.vendor }}">
+			<div class="Page-Grid__grid-wrap__box__boxInner__title">{{ page.title }}</div>
+			<span class="Page-Grid__grid-wrap__box__boxInner__vendor"><img src="{{site.baseurl}}{{ page.image }}"></span>
+			<div class="rte"></div>
+					
+		</div>
+	</a>	
+	</div>
+	{% endif %}
+{% endfor %}

@@ -1,0 +1,53 @@
+---
+layout: default
+permalink: de/
+language: de
+---
+{% assign PostLang = site.posts | where: "language", "de" %}
+{% for post in PostLang %}  
+<div class="Blog-Posts__item">
+	<div class="col-sm-1">
+		<div class="Blog-Posts__item__date">
+			<div class="Blog-Posts__item__date__day">{{ post.date | date: "%-d" }}<span>{{ post.date | date: "%b" }}</span>											
+				<div class="Blog-Posts__item__date__month">{{ post.date | date: "%Y" }}</div>
+			</div>
+		</div>	
+	</div>	
+	<div class="col-sm-11">
+		<div class="Blog-Posts__item__excerpt">					   
+		<a class="Blog-Posts__item__title" href="{{ post.url | prepend: site.baseurl }}">
+			<span class="h-strong">{{ post.title }} - {{ post.language }}</span>
+		</a>
+		<p>{{ post.excerpt }}
+		</p>
+		<a class="btn btn--sm" href="{{ post.url | prepend: site.baseurl }}">Read more ..</a>							
+		</div>
+	</div>
+</div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}

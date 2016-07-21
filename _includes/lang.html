@@ -1,0 +1,11 @@
+{% assign path = page.path | remove_first:'pages' | remove_last %}
+{% if path contains "/en/" %}{% assign siteLang = 'en' %}
+{% elsif path contains "/de/" %}{% assign siteLang = 'de' %}
+{% elsif path contains "/ru/" %}{% assign siteLang = 'ru' %}
+{% elsif path contains "/fr/" %}{% assign siteLang = 'fr' %}
+{% elsif path contains "/es/" %}{% assign siteLang = 'es' %}
+{% elsif path contains "/pt/" %}{% assign siteLang = 'pt' %}
+{% elsif path contains "/id/" %}{% assign siteLang = 'id' %}
+{% else %}
+{% assign siteLang = 'en' %}
+{% endif %}

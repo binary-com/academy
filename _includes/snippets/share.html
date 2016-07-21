@@ -1,0 +1,13 @@
+{% assign shareurl = page.url | prepend: site.baseurl  %}
+<div class="mdCenter">
+	<div class="Share">
+		<h5>Share</h5>
+		<ul class="Share__nav">
+			<li><a href="https://twitter.com/share?url={{ shareurl }}&amp;text={{ page_title }}&amp;hashtags=binary.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
+			<li><a href="http://www.facebook.com/sharer.php?u={{ shareurl }}" target="_blank"><i class="fa fa-facebook"></i></a></li>			
+			<li><a href="https://plus.google.com/share?url={{ shareurl }}" target="_blank"><i class="fa fa-google-plus"></i></a></li>   
+			<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ shareurl }}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+			<li><a href="mailto:?Subject={{ page_title | escape }}&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 {{ shareurl }}"><i class="fa fa-envelope"></i></a></li>
+		</ul>
+	</div>
+</div>
