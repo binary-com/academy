@@ -1,0 +1,60 @@
+<footer class="Footer">
+	<div class="Footer__socket">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5">
+				<h4>Latest Posts</h4>
+					<ul>
+						{% include navs/latest-posts.html %}
+					</ul>
+				</div>
+				<div class="col-md-3">
+				<h4>Learning Center</h4>
+					<ul>
+						{% include navs/learning.html %}
+					</ul>
+				</div>
+				<div class="col-md-2">
+				<h4>Partners</h4>
+					<ul>					    
+						{% include navs/partners.html %}
+					</ul>
+				</div>
+				<div class="col-md-2">
+				<h4>Videos</h4>
+					<ul>					    
+						{% include navs/videos.html %}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="Footer__info">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<p>Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset. In regards to binary options which are gambling products, remember that gambling can be addictive - please play responsibly. Read about <a href="https://www.binary.com/en/responsible-trading.html" >Responsible Trading</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="Footer__copyrights">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<small>Copyright &copy; 2016 Binary.com</small>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script src="{{ '/js/binary.js' | prepend: site.baseurl }}" defer='true'></script>
+<script src="{{ '/js/code.js' | prepend: site.baseurl }}" defer='true'></script>
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <script src="{{ '/js/bootstrap.js' | prepend: site.baseurl }}"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="{{ '/js/ie10-viewport-bug-workaround.js' | prepend: site.baseurl }}"></script>

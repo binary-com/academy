@@ -1,0 +1,60 @@
+<header class="">
+    <!-- Top Bar -->
+	<div class="Top-Bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					
+				</div>
+				<div class="col-md-4">
+				    <div class="Top-Bar__contacts">
+					<a href="https://www.binary.com/en/contact.html">Contact us</a>
+					</div>
+				    <div class="Top-Bar__language" id="language_select">
+						<select>
+							<option value="id">Bahasa Indonesia</option>
+							<option value="ru">Русский</option>
+							<option value="en" selected>English</option>
+							<option value="fr">Français</option>
+							<option value="es">Español</option>
+							<option value="de">Deutsch</option>
+							<option value="pt">Português</option>
+						</select>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<!-- Site Header -->
+	<div class="Header">
+		<div class="container">
+			<div class="row">
+				<a href="/">
+					<div class="col-md-3 Header__logo">
+                        <div class="Header__logo__sign"><img class="" src="https://binary.com/images/pages/binary-symbol-logo.svg" alt=""/></div>					                
+						<div class="Header__logo__text"><img class="" src="https://binary.com/images/pages/binary-type-logo.svg" alt="" /></div>    
+					</div>
+				</a>
+				<div class="col-md-9">
+				{% include header-nav.html %}
+			  </div>
+			</div>
+		</div>
+	</div>
+	<!-- Subheader -->
+	<div class="Subheader">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					{% if page.tag == "learning" %}
+						<ul class="">
+							{% include navigation.html %}
+						</ul>
+					{% elsif page.tag == "" %}
+					{% else %}
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
