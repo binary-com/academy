@@ -150,6 +150,8 @@ summary {
 */
 .Blog-Sidebar__section {background-color:#f4f4f4; padding:20px; margin-bottom:20px;}
 .Blog-Sidebar__section__title {font-weight:400; color:#2a3052;}
+.Blog-Sidebar__section__full {background-color:#f4f4f4; padding:0px; margin-bottom:20px;}
+.Blog-Sidebar__section__title__full {font-weight:400; color:#2a3052; padding:20px;}
 
 
 /* ===========================================================================
@@ -315,3 +317,8 @@ a.btn--sm:hover {text-decoration:none;}
 .btn--blue:hover {background: #15212d; border: 1px solid transparent;}
 .btn--green {color: #ffffff!important; background: #2E8836; border: 1px solid transparent;}
 .btn--green:hover {background:#14602b; border: 1px solid transparent;}
+
+/* Extras */
+.sidebar-left {margin-bottom:20px;display:table; width:100%;}
+.sidebar-left ul {width:100%; display:block; float:left; margin:0px; padding:0px;background:#ccc;}
+.sidebar-left ul li {width:100%; margin-left:0; }

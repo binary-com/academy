@@ -1,10 +1,10 @@
 {% include lang.html %}
-<div class="Blog-Sidebar__section">
+<div class="Blog-Sidebar__section__full">
     {% if siteLang == "en" %}
 	{% assign NavLang = site.pages | where: "language", "en" %}
-	<h3 class="Blog-Sidebar__section__title">Learning Center</h3>
-		<div class="Blog-Sidebar__resources">
-			<ul class="list-group">								
+	<h3 class="Blog-Sidebar__section__title__full">Learning Center</h3>
+		<div class="sidebar-left">
+			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
 					{% if page.title %}
