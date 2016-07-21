@@ -34,14 +34,7 @@ summary {
    Selector: Top-Bar
    Methodology: Block__element__element
 */
-.Top-Bar {display:table;
-	width: 100%;
-    color: #fff;
-    line-height: 1;
-    font-size: 70%;
-    text-align: right;
-    padding: 3px 0;
-	background: #15212d; }
+.Top-Bar {display:table; width: 100%; color: #fff; line-height: 1; font-size: 70%; text-align: right; padding: 3px 0; background: #15212d; }
 .Top-Bar__contacts {display:inline;text-align:right;}
 .Top-Bar__contacts a {display:inline-block; color:#fff; margin:0 10px; padding-top:5px; padding-right:20px; font-size:13px; font-weight:bold;}
 .Top-Bar__language {display:inline; float:right; text-align:right;}
@@ -136,20 +129,7 @@ summary {
 .Page-Grid {}
 .Page-Grid__grid-wrap {overflow: hidden; margin: -10px -10px;}
 .Page-Grid__grid-wrap__box {float: left;  position: relative; width: 33.3%; padding-bottom: 33.3%;}
-.Page-Grid__grid-wrap__box__boxInner {
-    position: absolute;
-    left: 10px;
-    right: 10px;
-    top: 10px;
-    bottom: 10px;
-	border:1px solid #dedede;
-	padding:0px;
-	text-align:center;
-	background:#fff;
-	background-repeat:no-repeat;
-	background-size:cover;
-	background-position:center;
-}
+.Page-Grid__grid-wrap__box__boxInner {position: absolute; left: 10px; right: 10px; top: 10px; bottom: 10px; border:1px solid #dedede; padding:0px; text-align:center; background:#fff; background-repeat:no-repeat; background-size:cover; background-position:center;}
 .Page-Grid__grid-wrap__box__boxInner:hover {border:1px solid #ccc;}
 .Page-Grid__grid-wrap__box__boxInner__title {font-weight:400; color:#222; font-size:16px; position:absolute; bottom:0px;left:0;right:0;padding:20px; }
 .Page-Grid__grid-wrap__box__boxInner__vendor {display:block; float:left;position:absolute;top:25px;left:5px; padding:0px; background:transparent; color:#444; font-size:12px;}
