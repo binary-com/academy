@@ -118,13 +118,16 @@ summary {
 */
 .Page-Grid {}
 .Page-Grid__grid-wrap {overflow: hidden; margin: -10px -10px;}
-.Page-Grid__grid-wrap__box {float: left;  position: relative; width: 33.3%; padding-bottom: 33.3%;}
+.Page-Grid__grid-wrap__box {float: left;  position: relative; width: 33.3%; padding-bottom: 35%;}
 .Page-Grid__grid-wrap__box__boxInner {position: absolute; left: 10px; right: 10px; top: 10px; bottom: 10px; border:1px solid #dedede; padding:0px; text-align:center; background:#fff; background-repeat:no-repeat; background-size:cover; background-position:center;}
 .Page-Grid__grid-wrap__box__boxInner:hover {border:1px solid #ccc;}
-.Page-Grid__grid-wrap__box__boxInner__title {font-weight:400; color:#222; font-size:16px; position:absolute; bottom:0px;left:0;right:0;padding:20px; }
-.Page-Grid__grid-wrap__box__boxInner__vendor {display:block; float:left;position:absolute;top:25px;left:5px; padding:0px; background:transparent; color:#444; font-size:12px;}
-.Page-Grid__grid-wrap__box__boxInner__vendor img {max-width:60%; height:auto;}
-
+.Page-Grid__grid-wrap__box__boxInner__title {font-weight:400; color:#222; font-size:16px; position:absolute; bottom:0px;left:0;right:0;padding:20px;}
+.Page-Grid__grid-wrap__box__boxInner__vendor {display:block; float:left;position:absolute;top:25px;left:5px; right:5px; padding:0px; background:transparent; color:#444; font-size:12px; text-align:center;}
+.Page-Grid__grid-wrap__box__boxInner__vendor img {max-width:60%; height:auto; margin:0 auto;}
+.grid--date {display:block; background:#fff; font-weight:400; font-size:14px; position:absolute; bottom:-14px;left:2px; right:2px; padding:5px; z-index:999;}
+@media only screen and (max-width : 480px) {
+	.Page-Grid__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
+}
 /* ===========================================================================
    Block: Blog Sidebar 
    Selector: Blog-Sidebar
