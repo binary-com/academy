@@ -6,10 +6,9 @@ language: en
 {% for post in engPosts | limit:15 %}  
 <div class="row list--item">
 	<div class="col-sm-12">
-		<div class="Page-List__item__excerpt">					   
-		<a class="Page-List__item__heading" href="https://trade.binary.com/commoditiescorner_goldsilverclub/?utm_source=blog&utm_medium=social&utm_campaign=webinars">
-			<h2>{{ post.title }}<span>{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</span></h2>
-		</a>
+		<div class="Page-List__item__excerpt">	
+		    <a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+			<span>{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</span>
 		<p>{{ post.excerpt }}</p>	
 		<p><a class="" href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
 		</div>

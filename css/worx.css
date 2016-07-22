@@ -114,12 +114,12 @@ summary {
 .Page-List__item__date { margin-top:10px; margin-bottom:10px; text-align:center; font-size:14px;}
 .Page-List__item__image img{padding-bottom: 20px; }
 .Page-List__item__excerpt { padding-bottom:15px;}
-.Page-List__item__excerpt h2{ font-weight:400; font-size:26px;}
-.Page-List__item__excerpt h2 span{ display:block;font-weight:400; font-size:14px; color:#000;}
-.Page-List__item__title {display:block; font-size: 24px; line-height: 28px; margin-top:20px; margin-bottom:10px; color:#e98024}
-.Page-List__item__title:hover {color:#2a3052; text-decoration:none;}
-.Page-List__item__heading {display:block; font-size: 24px; line-height: 28px; margin-top:0px; margin-bottom:10px; color:#e98024}
-.Page-List__item__heading:hover {text-decoration:none;}
+.Page-List__item__excerpt h3{font-weight:400; color:#e98024;}
+.Page-List__item__excerpt span{ display:block;font-weight:400; font-size:14px; color:#000; margin-top:-20px;}
+.Page-List__item__title {display:block; margin-top:20px; margin-bottom:10px; color:#e98024}
+.Page-List__item__title:hover {color:#e98024; text-decoration:underline;}
+.Page-List__item__heading {display:block;  line-height: 28px; margin-top:0px; margin-bottom:10px; color:#e98024}
+.Page-List__item__heading:hover {text-decoration:underline; color:#e98024}
 
 
 /* ===========================================================================
