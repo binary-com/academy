@@ -88,20 +88,10 @@ summary {
 */
 .Blog-Posts {}
 .Blog-Posts__item {display:table; margin: 0px; padding-bottom: 15px; }
-.Blog-Posts__item__date {border:0px solid #ccc; padding-top:5px; padding-bottom:0px; padding-left:5px; padding-right:5px; margin:0px;}
-.Blog-Posts__item__date__day { text-align:center; font-size:24px; line-height:20px; font-weight:700; color:#b1b0b0;}
-.Blog-Posts__item__date__day  span {display:block; text-align:center; font-size:14px;  font-weight:400;}
-.Blog-Posts__item__date__month {font-size:11px; font-weight:400;  border-top:1px solid #ccc;}
 .Blog-Posts__item__excerpt {border-bottom:1px solid #dedede; padding-bottom:15px;}
 .Blog-Posts__item__title {display:block; font-size: 24px; line-height: 28px; margin:10px 0; color:#e98024; font-weight:400;}
 .Blog-Posts__item__title:hover {color:#2a3052; text-decoration:none;}
 
-@media (max-width: 768px) {
-.Blog-Posts__item__date {margin-bottom:0px; margin-left:-5px; padding-top:10px;}
-.Blog-Posts__item__date__day {text-align:left; font-size:14px; font-weight:700;}
-.Blog-Posts__item__date__day  span {display:inline; font-size:14px; font-weight:700; padding-left:2px;}
-.Blog-Posts__item__date__month {display:inline; font-size:14px; font-weight:700;  border-top:0px solid #ccc;}
-}
 
 /* ===========================================================================
    Block: Page List 
@@ -115,7 +105,6 @@ summary {
 .Page-List__item__image img{padding-bottom: 20px; }
 .Page-List__item__excerpt { padding-bottom:15px;}
 .Page-List__item__excerpt h3{font-weight:400; color:#e98024;}
-.Page-List__item__excerpt span{ display:block;font-weight:400; font-size:14px; color:#000; margin-top:-20px;}
 .Page-List__item__title {display:block; margin-top:20px; margin-bottom:10px; color:#e98024}
 .Page-List__item__title:hover {color:#e98024; text-decoration:underline;}
 .Page-List__item__heading {display:block;  line-height: 28px; margin-top:0px; margin-bottom:10px; color:#e98024}
@@ -196,7 +185,9 @@ summary {
 .rte img{max-width:100%;}
 .list-group {padding-left: 0; margin-bottom: 20px;}
 .list--item { display:block; border-bottom:1px solid #dedede;}
+.post--date{ display:block;font-weight:400; font-size:14px; color:#000; margin-top:-20px;}
 /* Buttons */
+.button {display: inline-block;}
 .btn {
   display: inline-block;
   padding: 10px 25px;
