@@ -151,18 +151,12 @@ summary {
 */
 .Blog-Sidebar__section {background-color:#f4f4f4; padding:20px; margin-bottom:20px;}
 .Blog-Sidebar__section__title {font-weight:400; color:#2a3052;}
+.Blog-Sidebar__section ul {list-style-type: none; margin:0; padding:0;}
+.Blog-Sidebar__section ul li { border-bottom:0px solid #ccc; margin-left:0px; padding:2px 0px; width:100%; }
+.Blog-Sidebar__section ul li  a{font-size:18px; font-weight:700;}
 .Blog-Sidebar__section__full {background-color:#f4f4f4; padding:0px; margin-bottom:20px;}
 .Blog-Sidebar__section__title__full {font-weight:400; color:#2a3052; padding:20px;}
 
-
-/* ===========================================================================
-   Block: Blog Sidebar resources 
-   Selector: Blog-Sidebar__resources
-   Methodology: Block__element__element
-*/
-.Blog-Sidebar__resources ul {list-style-type: image; list-style-image: url(img/carret.png);}
-.Blog-Sidebar__resources ul li { border-bottom:0px solid #ccc; margin-left:15px; padding:2px 0px;}
-.Blog-Sidebar__resources ul li  a{font-size:16px; font-weight:400;}
 
 /* ===========================================================================
    Block: Blog Sidebar recent posts 
