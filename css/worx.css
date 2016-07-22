@@ -102,10 +102,10 @@ summary {
 .Page-List__item { display:table; border-bottom:1px solid #dedede; margin: 20px 0px;  }
 .Page-List__item__image { margin-left: -15px; }
 .Page-List__item__date { margin-top:10px; margin-bottom:10px; text-align:center; font-size:14px;}
-.Page-List__item__image img{padding-bottom: 20px; }
+.Page-List__item__image img{padding-bottom: 20px;margin-top:20px; }
 .Page-List__item__excerpt { padding-bottom:15px;}
-.Page-List__item__excerpt h3{font-weight:400; color:#e98024;}
-.Page-List__item__title {display:block; margin-top:20px; margin-bottom:10px; color:#e98024}
+.Page-List__item__excerpt h3{font-weight:400; color:#e98024; margin-top:20px;}
+.Page-List__item__title {display:block; margin-top:0px; margin-bottom:0px; color:#e98024}
 .Page-List__item__title:hover {color:#e98024; text-decoration:underline;}
 .Page-List__item__heading {display:block;  line-height: 28px; margin-top:0px; margin-bottom:10px; color:#e98024}
 .Page-List__item__heading:hover {text-decoration:underline; color:#e98024}
