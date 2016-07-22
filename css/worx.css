@@ -125,6 +125,9 @@ summary {
 .Page-Grid__grid-wrap__box__boxInner__vendor {display:block; float:left;position:absolute;top:25px;left:5px; right:5px; padding:0px; background:transparent; color:#444; font-size:12px; text-align:center;}
 .Page-Grid__grid-wrap__box__boxInner__vendor img {max-width:60%; height:auto; margin:0 auto;}
 .grid--date {display:block; background:#fff; font-weight:400; font-size:14px; position:absolute; bottom:-14px;left:2px; right:2px; padding:5px; z-index:999;}
+@media only screen and (max-width : 768px) {
+	.Page-Grid__grid-wrap__box {float: left;  position: relative; width: 50%; padding-bottom: 50%;}
+}
 @media only screen and (max-width : 480px) {
 	.Page-Grid__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
 }
