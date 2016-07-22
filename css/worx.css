@@ -195,7 +195,7 @@ summary {
 .report-list {padding:10px; width:100%;}
 .rte img{max-width:100%;}
 .list-group {padding-left: 0; margin-bottom: 20px;}
-.list--item {border-bottom:1px solid #dedede;}
+.list--item { display:block; border-bottom:1px solid #dedede;}
 /* Buttons */
 .btn {
   display: inline-block;
@@ -312,8 +312,3 @@ a.btn--sm:hover {text-decoration:none;}
 .btn--blue:hover {background: #15212d; border: 1px solid transparent;}
 .btn--green {color: #ffffff!important; background: #2E8836; border: 1px solid transparent;}
 .btn--green:hover {background:#14602b; border: 1px solid transparent;}
-
-/* Extras */
-.sidebar-left {margin-bottom:20px;display:table; width:100%;}
-.sidebar-left ul {width:100%; display:block; float:left; margin:0px; padding:0px;background:#ccc;}
-.sidebar-left ul li {width:100%; margin-left:0; }
