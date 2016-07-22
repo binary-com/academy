@@ -15,7 +15,8 @@
 		<div class="fb-share-button" data-layout="button"></div>
 <!-- Twitter -->
 </div>
-    	<div class="social-icon">
-    	<a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</div>   
+<div class="social-icon">
+	<a href="https://twitter.com/share?url=https://blog.binary.com{{ page.id }}&amp;text={{ page.title | cgi_escape }}"
+	title="Share on Twitter" class="twitter-share-button">
+	</a>
+</div>  
