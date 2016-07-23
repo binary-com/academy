@@ -26,7 +26,7 @@ Or if you’d like to jump right in, sign up for a virtual account at Binary.com
 Hope you’ve enjoyed this short video on Forex from Binary.com. Sharp prices. Smart trading.
 
 
-[Open a demo account and try Forex trading in action!](https://www.binary.com/en/home.html?utm_source=blog&utm_medium=social&utm_campaign=whatsnew){:target="_blank"}.
+[Open a demo account and try Forex trading in action!](https://www.binary.com/en/home.html?utm_source=blog&utm_medium=social&utm_campaign=whatsnew){:target="_blank"}
 
 
 
