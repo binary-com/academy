@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: home-default
+title: Blog
+permalink: /en/blog
 language: en
+tag: snippet
 ---
 {% assign engPosts = site.posts | where: "language", "en" %}
-{% for post in engPosts | limit:15 %}  
+{% for post in engPosts %}  
 <div class="row list--item">
 	<div class="col-sm-12">
 		<div class="Page-List__item__excerpt">	
@@ -15,4 +18,3 @@ language: en
 	</div>	
 </div>
 {% endfor %}
-<p class="p--action"><a class="button" href="{{site.baseurl}}/en/blog/"><span>Read more in the archive</span></a></p>
