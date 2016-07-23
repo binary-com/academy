@@ -1814,4 +1814,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 @-ms-viewport {
   width: device-width;
 }
-
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}

@@ -253,8 +253,8 @@ a.btn:hover {text-decoration:none;}
 a.btn--sm:hover {text-decoration:none;}
 
 /* Social */
-.Social { margin-top:-5px; margin-bottom:20px; text-align:right;}
-.Social h5 {font-weight:400;margin-bottom:0;}
+.Social { margin-top:-5px; margin-bottom:20px; text-align:right; }
+.Social h5 {font-weight:400;margin-bottom:0; font-size:14px;}
 .Social__nav { overflow:hidden; margin:0; padding:3px 0px; list-style:none;}
 .Social__nav li { display:inline-block; *display:inline;zoom:1;padding:0px;}
 .Social__nav li img{ margin-top:-1px;}
@@ -279,11 +279,12 @@ a.btn--sm:hover {text-decoration:none;}
     border-radius: 100px;
     margin-right: 0px;
     color: #444;
-    background-color: #fff;
-    border:1px solid #f2f2f2;
 }
-.Social__nav a:hover {z-index: 2; border:1px solid #f2f2f2;}
-
+.Social__nav a:hover {z-index: 2; }
+.Footer__social h5 {text-align:center;}
+.Footer__social ul {margin-top:20px;}
+.Footer__social ul li {padding:2px; }
+.Footer__social ul li  img{width: 30px; height: 30px;}
 /* Video Embed */
 .video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
 .video-container iframe,
