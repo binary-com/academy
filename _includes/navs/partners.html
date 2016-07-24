@@ -1,13 +1,6 @@
 {% include lang.html %}
 {% if siteLang == "en" %}
     {% assign NavLang = site.pages | where: "language", "en" %}
-	<li><a href="">partnerss</a></li>
-	<li><a href="">Affiliate Program</a></li>
-	<li><a href="">Payment Agents</a></li>
-	<li><a href="">API Developers</a></li>
-	<li><a href="">Binary Bot</a></li>
-	<li><a href="">Open Source</a></li>
-	<li><a href="">User Testing</a></li>
 	{% for page in NavLang %}
     {% if page.tag == "partners" %}	
 		{% if page.title %}

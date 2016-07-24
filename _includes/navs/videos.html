@@ -1,11 +1,6 @@
 {% include lang.html %}
 {% if siteLang == "en" %}
     {% assign NavLang = site.pages | where: "language", "en" %}
-	<li><a href="">Binary TV</a></li>
-	<li><a href="">Training Videos</a></li>
-	<li><a href="">Webinar Recordings</a></li>
-	<li><a href="">Commodities Corner</a></li>
-	<li><a href="">Weekly Trading Signals</a></li>
 	{% for page in NavLang %}
     {% if page.tag == "vidoes" %}	
 		{% if page.title %}
