@@ -14,7 +14,7 @@
 		</div>
 	{% elsif siteLang == "de" %}
 	{% assign sPosts = site.posts | where: "language", "de" %}
-	<h3 class="Blog-Sidebar__section__title">Recent Posts</h3>
+	<h3 class="Blog-Sidebar__section__title">Neue Posts</h3>
 		<div class="Blog-Sidebar__recent-posts">
 			<ul class="list-group">								
 				{% for post in sPosts | limit:10 %}
