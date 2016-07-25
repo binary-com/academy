@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auf Binary.com sind jetzt auch Spread-Kontrakte möglich
-permalink: /Auf-Binarycom-sind-jetzt-auch-Spread-Kontrakte-moglich
+permalink: /de/Auf-Binarycom-sind-jetzt-auch-Spread-Kontrakte-moglich/
 excerpt: "Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft!"
 language: de  
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Investmentdienstleistungsgenehmigung von der Malta Financial Services Authority(MFSA)
-permalink: /Investmentdienstleistungsgenehmigung-genehmigung-von-der-malta-financial-services-authority
+permalink: /de/Investmentdienstleistungsgenehmigung-genehmigung-von-der-malta-financial-services-authority/
 excerpt: "Tolle Neuigkeiten! Die maltesische Tochtergesellschaft von Binary.com, die Binary Investments (Europe) Ltd. hat von der maltesischen Finanzdienstleistungsbehörde eine Kategorie 3 Investment..."
 language: de  
 ---
