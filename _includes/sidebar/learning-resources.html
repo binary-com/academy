@@ -19,7 +19,7 @@
 			</ul>		
 	{% elsif siteLang == "de" %}
 	{% assign NavLang = site.pages | where: "language", "de" %}
-	<h3 class="Blog-Sidebar__section">Learning Center</h3>		
+	<h3 class="Blog-Sidebar__section__title">Lernzentrum</h3>		
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	

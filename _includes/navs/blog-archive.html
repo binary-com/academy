@@ -1,0 +1,130 @@
+{% include lang.html %}
+{% if siteLang == "en" %}
+    {% assign PostLang = site.posts | where: "language", "en" %}
+	{% for post in PostLang %}	
+		{% if post.title %}
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		{% endif %}
+	{% endfor %}
+{% elsif siteLang == "de" %}
+	{% assign PostLang = site.posts | where: "language", "de" %}
+	{% for post in PostLang %}
+		
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		
+	{% endfor %}
+{% elsif siteLang == "fr" %}
+	{% assign PostLang = site.pages | where: "language", "fr" %}
+	{% for page in PostLang %}
+		{% if post.title %}
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		{% endif %}
+	{% endfor %}
+{% elsif siteLang == "ru" %}
+	{% assign PostLang = site.pages | where: "language", "ru" %}
+	{% for page in PostLang %}
+		{% if page.title %}
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		{% endif %}
+	{% endfor %}	
+{% elsif siteLang == "es" %}
+	{% assign PostLang = site.pages | where: "language", "es" %}
+	{% for page in PostLang %}
+		{% if page.title %}
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		{% endif %}
+	{% endfor %}
+{% elsif siteLang == "pt" %}
+	{% assign PostLang = site.pages | where: "language", "pt" %}
+	{% for page in PostLang %}
+		{% if page.title %}
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		{% endif %}
+	{% endfor %}
+{% elsif siteLang == "id" %}
+	{% assign PostLang = site.pages | where: "language", "id" %}
+	{% for page in PostLang %}
+		{% if page.title %}
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		{% endif %}
+	{% endfor %}	
+{% else %}
+{% assign PostLang = site.pages | where: "language", "en" %}
+	{% for page in PostLang %}	
+		{% if page.title %}
+			<div class="row list--item">
+				<div class="col-sm-12">
+					<div class="Page-List__item__excerpt">	
+						<a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
+					<p>{{ post.excerpt }}</p>	
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+					</div>
+				</div>	
+            </div>
+		{% endif %}
+	{% endfor %}
+{% endif %}
