@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Feiertagseinschränkungen für Aktien- und Indexgeschäfte
-permalink: /de/Feiertagseinschränkungen-furAktien-und-Indexgeschafte/
+title: "Frohe Weihnachten, Trader!"
+permalink: /de/frohe-weihnachten/
 excerpt: "Wir teilen Ihnen mit, dass es während der Weihnachtszeit einige Handelsbeschränkungen wegen des weltweit verringerten Handelsvolumens geben wird..."
 language: de 
 ---
