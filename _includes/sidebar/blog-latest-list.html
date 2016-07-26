@@ -26,7 +26,7 @@
 		</div>
 	{% elsif siteLang == "fr" %}
 	{% assign sPosts = site.posts | where: "language", "fr" %}
-	<h3 class="Blog-Sidebar__section__title">Recent Posts</h3>
+	<h3 class="Blog-Sidebar__section__title">Posts récents</h3>
 		<div class="Blog-Sidebar__resources">
 			<ul class="list-group">								
 				{% for post in sPosts | limit:10 %}
@@ -38,7 +38,7 @@
 		</div>
 	{% elsif siteLang == "ru" %}
 	{% assign sPosts = site.posts | where: "language", "ru" %}
-	<h3 class="Blog-Sidebar__section__title">Recent Posts</h3>
+	<h3 class="Blog-Sidebar__section__title">Последние статьи</h3>
 		<div class="Blog-Sidebar__resources">
 			<ul class="list-group">								
 				{% for post in sPosts | limit:10 %}
@@ -50,7 +50,7 @@
 		</div>
 	{% elsif siteLang == "pt" %}
 	{% assign sPosts = site.posts | where: "language", "pt" %}
-	<h3 class="Blog-Sidebar__section__title">Recent Posts</h3>
+	<h3 class="Blog-Sidebar__section__title">Postingan Terkini</h3>
 		<div class="Blog-Sidebar__resources">
 			<ul class="list-group">								
 				{% for post in sPosts | limit:10 %}
@@ -62,7 +62,7 @@
 		</div>
 	{% elsif siteLang == "es" %}
 	{% assign sPosts = site.posts | where: "language", "es" %}
-	<h3 class="Blog-Sidebar__section__title">Recent Posts</h3>
+	<h3 class="Blog-Sidebar__section__title">Mensajes Recientes</h3>
 		<div class="Blog-Sidebar__resources">
 			<ul class="list-group">								
 				{% for post in sPosts | limit:10 %}
@@ -74,7 +74,7 @@
 		</div>	
 	{% elsif siteLang == "id" %}
 	{% assign sPosts = site.posts | where: "language", "id" %}
-	<h3 class="Blog-Sidebar__section__title">Recent Posts</h3>
+	<h3 class="Blog-Sidebar__section__title">Postingan Terkini</h3>
 		<div class="Blog-Sidebar__resources">
 			<ul class="list-group">								
 				{% for post in sPosts | limit:10 %}
