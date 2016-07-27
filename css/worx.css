@@ -89,8 +89,8 @@ summary {
 .Blog-Posts {}
 .Blog-Posts__item {display:table; margin: 0px; padding-bottom: 15px; }
 .Blog-Posts__item__excerpt {border-bottom:1px solid #dedede; padding-bottom:15px;}
-.Blog-Posts__item__title {display:block; font-size: 24px; line-height: 28px; margin:10px 0; color:#e98024; font-weight:400;}
-.Blog-Posts__item__title:hover {color:#2a3052; text-decoration:none;}
+.Blog-Posts__item__title {display:block; font-size: 24px; line-height: 28px; margin:10px 0;  font-weight:400;}
+.Blog-Posts__item__title:hover { text-decoration:none;}
 
 
 /* ===========================================================================
@@ -106,7 +106,7 @@ summary {
 .Page-List__item__excerpt { padding-bottom:15px;}
 .Page-List__item__excerpt h3{font-weight:400;  margin-top:20px;}
 .Page-List__item__title {display:block; margin-top:0px; margin-bottom:0px; }
-.Page-List__item__title:hover {color:#e98024; text-decoration:underline;}
+.Page-List__item__title:hover { text-decoration:underline;}
 .Page-List__item__heading {display:block;  line-height: 28px; margin-top:0px; margin-bottom:10px; }
 .Page-List__item__heading:hover {text-decoration:underline; }
 
