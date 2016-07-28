@@ -6,7 +6,7 @@ excerpt: Berita luar biasa! Telah tersedia kontrak Lebih Tingi/Rendah jangka pen
 language: id
 ---
 
-![](/post_images/4504584_orig.jpg)
+![](/images/4504584_orig.jpg)
 
 Berita luar biasa! Telah tersedia kontrak Lebih Tingi/Rendah jangka pendek dengan durasi 1 hari pada berbagai pilihan market Index. Fleksibilitas dalam memilih durasi minimal 1 hari menguatkan kontrol anda, memberi batas pilihan saat melakukan pembelian kontrak.
 

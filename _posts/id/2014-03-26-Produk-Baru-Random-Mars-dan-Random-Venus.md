@@ -6,7 +6,7 @@ excerpt: Untuk melengkapi rangkaian pilihan Random Index, kami telah meluncurkan
 language: id
 ---
 
-![](/post_images/3490486_orig.jpg)
+![](/images/3490486_orig.jpg)
 
 Untuk melengkapi rangkaian pilihan Random Index, kami telah meluncurkan Random Mars dan Random Venus. Random Mars disimulasikan dari market yang aktif pada siang hari (namun volatilitas melemah pada malam hari) dan Random Venus disimulasikan dari market yang lemah pada siang hari (namun menjadi aktif pada malam hari). Kedua dua index berikut diperbarui pada harga 1000 pada jam 12:00 SIANG GMT setiap hari.
 

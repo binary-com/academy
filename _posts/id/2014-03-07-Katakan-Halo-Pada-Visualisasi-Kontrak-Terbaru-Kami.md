@@ -5,7 +5,7 @@ permalink: /id/Katakan-Halo-Pada-Visualisasi-Kontrak-Terbaru-Kami/
 language: id
 ---
 
-![](/post_images/7137498_orig.jpg)
+![](/images/7137498_orig.jpg)
 
 Kami sangat gembira memperkenalkan visualisasi kontrak terbaru kami. Layar visualisasi kontrak terbaru menyediakan informasi harga penuh yang memberi indikasi jelas mengenai potensi hasil dan jumlah total harga berdasarkan data terkini. Akses visualisasi kontrak setelah melakukan pembelian dengan mengklik tombol "Lihat" pada bagian bawah layar konfirmasi kontrak. Anda juga dapat mengakses visualisasi kontrak pada berbagai pilihan kontrak yang tersedia pada bagian Portopolio dan Tabel Laba Rugi dengan mengklik tombol "Lihat".
 
