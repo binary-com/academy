@@ -28,7 +28,7 @@
 		{% endif %}
 	{% endif %}
 	{% endfor %}
-	<li><a href="https://shop.binary.com/">Shop</a></li>
+	<li><a href="https://shop.binary.com/">Boutique</a></li>
 {% elsif siteLang == "ru" %}
 	{% assign NavLang = site.pages | where: "language", "ru" %}
 	{% for page in NavLang %}
@@ -38,7 +38,7 @@
 		{% endif %}
 	{% endif %}
 	{% endfor %}
-	<li><a href="https://shop.binary.com/">Shop</a></li>
+	<li><a href="https://shop.binary.com/">Магазин</a></li>
 {% elsif siteLang == "es" %}
 	{% assign NavLang = site.pages | where: "language", "es" %}
 	{% for page in NavLang %}
@@ -48,7 +48,7 @@
 		{% endif %}
 	{% endif %}
 	{% endfor %}
-	<li><a href="https://shop.binary.com/">Shop</a></li>
+	<li><a href="https://shop.binary.com/">Tienda</a></li>
 {% elsif siteLang == "pt" %}
 	{% assign NavLang = site.pages | where: "language", "pt" %}
 	{% for page in NavLang %}
@@ -58,7 +58,7 @@
 		{% endif %}
 	{% endif %}
 	{% endfor %}
-	<li><a href="https://shop.binary.com/">Shop</a></li>
+	<li><a href="https://shop.binary.com/">Loja</a></li>
 {% elsif siteLang == "id" %}
 	{% assign NavLang = site.pages | where: "language", "id" %}
 	{% for page in NavLang %}
@@ -68,7 +68,7 @@
 		{% endif %}
 	{% endif %}
 	{% endfor %}
-	<li><a href="https://shop.binary.com/">Shop</a></li>
+	<li><a href="https://shop.binary.com/">Toko</a></li>
 {% else %}
 {% assign NavLang = site.pages | where: "language", "en" %}
 	{% for page in NavLang %}
