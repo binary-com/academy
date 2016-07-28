@@ -186,7 +186,7 @@ summary {
 .Footer__copyrights__copy {color:#eee;}
 
 /* ===================   Elements   ========================================== */
-.report-list {padding:10px; width:100%;}
+.report-list { width:100%;}
 .rte img{max-width:100%;}
 .list-group {padding-left: 0; margin-bottom: 20px;}
 .list--item { display:block; border-bottom:1px solid #dedede;}
