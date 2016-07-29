@@ -1,6 +1,6 @@
 ---
 layout: home-default
-title: What's New?
+title: Noticias
 permalink: /es/
 language: es
 tag: main
@@ -13,9 +13,9 @@ tag: main
 		    <a class="Page-List__item__title" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
 			<p class="post--date">{{ post.date | date: "%Y" }} {{ post.date | date: "%-d" }} {{ post.date | date: "%b" }}</p>
 		<p>{{ post.excerpt }}</p>	
-		<p><a href="{{ post.url | prepend: site.baseurl }}">Read more..</a></p>
+		<p><a href="{{ post.url | prepend: site.baseurl }}">leer más...</a></p>
 		</div>
 	</div>	
 </div>
 {% endfor %}
-<p class="p--action"><a class="button" href="{{site.baseurl}}/en/blog/"><span>Read more in the archive</span></a></p>
+<p class="p--action"><a class="button" href="{{site.baseurl}}/en/blog/"><span>leer en archivo</span></a></p>
