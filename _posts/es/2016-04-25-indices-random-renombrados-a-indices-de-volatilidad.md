@@ -18,4 +18,4 @@ Sepa que **no se han realizado cambios en los productos;** esto es simplemente u
 
 **Los índices disponibles no se verán afectados por estos cambios, y los contratos destacados permanecen inalterados.**
 
-¡Gracias como siempre por comerciar con nosotros!
+Gracias como siempre por comerciar con nosotros!
