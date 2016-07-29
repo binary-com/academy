@@ -2,7 +2,7 @@
 layout: post
 title:  Contratos spread ahora disponibles en Binary.com
 permalink: /es/contratos-spread-ahora-disponibles-en-Binary-dot-com/
-excerpt: "on la última actualización de nuestra plataforma de operaciones, los contratos spread ya están disponibles en los mercados seleccionados..."
+excerpt: "On la última actualización de nuestra plataforma de operaciones, los contratos spread ya están disponibles en los mercados seleccionados..."
 language: es
 ---
 

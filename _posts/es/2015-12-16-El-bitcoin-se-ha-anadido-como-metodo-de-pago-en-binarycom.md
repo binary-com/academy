@@ -2,7 +2,7 @@
 layout: post
 title: El Bitcoin se ha añadido como Método de Pago en Binary.com
 permalink: /es/El-bitcoin-se-ha-anadido-como-metodo-de-pago-en-binarycom/
-excerpt: "¡Felices fiestas de parte de sus amigos Binary.com! ¡Le deseamos un feliz y próspero Año Nuevo!"
+excerpt: "Felices fiestas de parte de sus amigos Binary.com! ¡Le deseamos un feliz y próspero Año Nuevo!"
 language: es
 ---
 
@@ -11,7 +11,7 @@ Nos complace anunciar la adición de un nuevo método de pago en Binary.com: [Bi
 Esta última adición expande el [número de métodos de pago](http://bit.ly/1lOK1nY) disponibles ahora para nuestros operadores, como una manera de satisfacer sus necesidades y preferencias individuales.
 
 
-**¿Cómo funciona Bitcoin?**
+**Cómo funciona Bitcoin?**
 
 Bitcoin es un sistema bastante único, descrito por la compañía misma como “una red de pago descentralizada peer-to-peer (de igual a igual).”
 
@@ -70,7 +70,7 @@ Para empezar a usar Bitcoin, simplemente siga estas instrucciones:
 
 **Ahora debería recibir un mensaje de confirmación de Bitcoin.** ¡Ya está listo!
 
-**¡Le Deseamos Mucho Éxito!**
+**Le Deseamos Mucho Éxito!**
 
 EnDisfrute de este nuevo método de pago, que es una de las muchas opciones de depósito/ retirada ahora disponibles para usted en Binary.com
 joy this new payment method, as one of the many deposit / withdrawal options now available to you from Binary.com.

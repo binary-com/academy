@@ -15,4 +15,4 @@ Esta medida de seguridad endurecida es un estándar de la industria, que aumenta
 
 Valoramos enormemente la vulnerabilidad de sus datos, siendo nuestra primera y principal prioridad aquí en Binary.com.
 
-¡Gracias como siempre por confiar en nosotros!
+Gracias como siempre por confiar en nosotros!

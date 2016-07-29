@@ -13,4 +13,4 @@ Nos gustaría informarle sobre ciertas restricciones en las operaciones que esta
 
 Por favor, seleccione una fecha de caducidad después del 5 de enero para proceder con la compra de este tipo de contratos.
 
-¡Gracias como siempre por comerciar con nosotros! ¡Felices Fiestas!
+Gracias como siempre por comerciar con nosotros! ¡Felices Fiestas!

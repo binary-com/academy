@@ -15,6 +15,6 @@ Le invitamos a mostrar su apoyo a Binary.com nominándonos a un premio en las si
 * Mejor Uso de los Medios Sociales (Best Use of Social Media)
 * Proveedor del Año de Servicios Financieros (Financial Services Provider of the Year)
 
-[¡Nomine a Binary.com para un premio ahora!](http://info.binary.com/sharesawards15)
+[Nomine a Binary.com para un premio ahora!](http://info.binary.com/sharesawards15)
 
 Gracias por su apoyo y por tomarse el tiempo de nominarnos.
