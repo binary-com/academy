@@ -117,6 +117,7 @@ summary {
 */
 .Page-Grid {}
 .Page-Grid__grid-wrap {overflow: hidden; margin: -10px -10px;}
+.Page-Grid__grid-wrap p{margin: 10px 10px;}
 .Page-Grid__grid-wrap__box {float: left;  position: relative; width: 33.3%; padding-bottom: 35%;}
 .Page-Grid__grid-wrap__box__boxInner {position: absolute; left: 10px; right: 10px; top: 10px; bottom: 10px; border:1px solid #dedede; padding:0px; text-align:center; background:#fff; background-repeat:no-repeat; background-size:cover; background-position:center;}
 .Page-Grid__grid-wrap__box__boxInner:hover {border:1px solid #ccc;}
