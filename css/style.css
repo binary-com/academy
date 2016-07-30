@@ -56,7 +56,7 @@ summary {
 .Blog-Posts {}
 .Blog-Posts__item {display:table; margin: 0px; padding-bottom: 15px; }
 .Blog-Posts__item__excerpt {border-bottom:1px solid #dedede; padding-bottom:15px;}
-.Blog-Posts__item__title {display:block; font-size: 24px; line-height: 28px; margin:10px 0; font-weight:400;}
+.Blog-Posts__item__title {display:block; line-height: 28px; margin:10px 0; }
 .Blog-Posts__item__title:hover { text-decoration:none;}
 .Page-List {margin: 20px -20px; }
 .Page-List__item { display:table; border-bottom:1px solid #dedede; margin: 20px 0px;  }
@@ -65,7 +65,7 @@ summary {
 .Page-List__item__date { margin-top:10px; margin-bottom:10px; text-align:center; font-size:14px;}
 .Page-List__item__image img{padding-bottom: 20px;margin-top:20px; }
 .Page-List__item__excerpt { padding-bottom:15px;}
-.Page-List__item__excerpt h3{font-weight:400;  margin-top:20px;}
+.Page-List__item__excerpt h3{ margin-top:20px;}
 .Page-List__item__title {display:block; margin-top:0px; margin-bottom:0px; }
 .Page-List__item__title:hover { text-decoration:underline;}
 .Page-List__item__heading {display:block;  line-height: 28px; margin-top:0px; margin-bottom:10px; }
@@ -88,7 +88,7 @@ summary {
 }
 /* Sidebar */
 .Blog-Sidebar__section {background-color:#f4f4f4; padding:20px; margin-bottom:20px;}
-.Blog-Sidebar__section__title {font-weight:400; }
+.Blog-Sidebar__section__title { }
 .Blog-Sidebar__section ul {list-style-type: none; margin:0; padding:0;}
 .Blog-Sidebar__section ul li { border-bottom:0px solid #ccc; margin-left:0px; padding:2px 0px; width:100%; }
 .Blog-Sidebar__section ul li  a{font-size:18px; font-weight:700;}
