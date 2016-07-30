@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visite la Tienda de Binary.com para Aplicaciones, Equipamiento y Más!
+title: ¡Visite la Tienda de Binary.com para Aplicaciones, Equipamiento y Más!
 permalink: /es/visite-la-tienda-de-binarycom-para-aplicaciones-equipamiento-y-mas
 excerpt: "Navegue por la Tienda de Binary.com, donde podrá encontrar convenientemente todas nuestras herramientas para el comercio, materiales para su preparación, y mercancías de marca...."
 language: es

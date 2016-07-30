@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comercie con nuestras Nuevas Acciones Blue-Chip OTC Stocks, de Apple a PepsiCo!
+title: ¡Comercie con nuestras Nuevas Acciones Blue-Chip OTC Stocks, de Apple a PepsiCo!
 permalink: /es/icomercie-con-nuestras-nuevas-acciones-blue-chip-otc-Stocks-de-apple-a-pepsico/
 excerpt: "Explore todos los activos blue-chip disponibles ahora para negociar en Binary.com como Acciones OTC...."
 language: es

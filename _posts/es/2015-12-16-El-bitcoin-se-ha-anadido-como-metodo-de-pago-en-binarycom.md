@@ -2,7 +2,7 @@
 layout: post
 title: El Bitcoin se ha añadido como Método de Pago en Binary.com
 permalink: /es/El-bitcoin-se-ha-anadido-como-metodo-de-pago-en-binarycom/
-excerpt: "Felices fiestas de parte de sus amigos Binary.com! ¡Le deseamos un feliz y próspero Año Nuevo!"
+excerpt: "¡Felices fiestas de parte de sus amigos Binary.com! ¡Le deseamos un feliz y próspero Año Nuevo!"
 language: es
 ---
 

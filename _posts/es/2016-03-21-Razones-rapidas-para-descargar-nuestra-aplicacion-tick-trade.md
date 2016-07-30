@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade. 
+title: ¿Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade. 
 permalink: /es/Razones-rapidas-para-descargar-nuestra-aplicacion-tick-trade/
 excerpt: "Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade...."
 language: es

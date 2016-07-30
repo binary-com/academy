@@ -2,7 +2,7 @@
 layout: post
 title: 3 Razones para Probar Nuestra Nueva Interfaz
 permalink: /es/razones-para-probar-nuestra-nueva-interfaz/
-excerpt: "Por qué Operar con la Nueva Interfaz de Binary.com? Tres razones simples para cambiar de forma permanente a nuestra nueva interfaz..."
+excerpt: "¿Por qué Operar con la Nueva Interfaz de Binary.com? Tres razones simples para cambiar de forma permanente a nuestra nueva interfaz..."
 language: es
 ---
 
