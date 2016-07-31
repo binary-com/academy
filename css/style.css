@@ -28,9 +28,9 @@ h2:hover {color:inherit;}
 /* Header */
 .Top-Bar {display:table; width: 100%; color: #fff; line-height: 1; font-size: 70%; text-align: right; padding: 3px 0; background: #15212d; }
 .Top-Bar__contacts {display:inline;text-align:right;}
-.Top-Bar__contacts a {display:inline-block; color:#fff; margin:0 10px; padding-top:5px; padding-right:18px; font-size:13px; font-weight:bold;}
+.Top-Bar__contacts a {display:inline-block; color:#fff; margin:0 10px; padding-top:5px; padding-right:22px; font-size:13px; font-weight:bold;}
 .Top-Bar__language {display:inline; float:right; text-align:right;}
-.Top-Bar__language select{padding: 0; margin-top:1px;}
+.Top-Bar__language select{padding: 0; margin-top:0px;}
 .Header {display:table; width:100%; background-color:#2a3052; color:#fff; border-top: 2px solid #394170; border-bottom: 4px solid #e98024; padding:5px 0;}
 .Header__logo {margin:5px 0px; }
 .Header__logo  div{display:inline;}
