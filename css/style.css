@@ -121,7 +121,7 @@ h2:hover {color:inherit;}
 .post--date{ display:block;font-weight:400; font-size:14px; color:#000; margin-top:-20px;}
 .p--action { margin-top: 30px; margin-bottom: 30px; margin-left: 0px; margin-right: 0px; text-align:center!important;}
 .fl--left {float:left; margin-right:20px; margin-bottom:15px; }
-
+.g-page {margin-left:0; margin-right:0;}
 /* Social */
 .Social { margin-top:-5px; margin-bottom:20px; text-align:right; }
 .Social h5 {font-weight:400;margin-bottom:0; font-size:14px;}
