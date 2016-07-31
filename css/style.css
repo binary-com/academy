@@ -151,6 +151,9 @@ h2:hover {color:inherit;}
     color: #444;
 }
 .Social__nav a:hover {z-index: 2; }
+@media only screen and (max-width : 768px) {
+.Social { margin-top:-5px; margin-bottom:20px; text-align:center; }
+}
 .Footer__social h5 {text-align:center;}
 .Footer__social ul {margin-top:20px;}
 .Footer__social ul li {padding:2px; }
