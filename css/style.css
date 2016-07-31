@@ -44,8 +44,8 @@ h2:hover {color:inherit;}
 .Header__title {text-align:center; margin-bottom:10px;}
 .bn-logo {text-align:center; margin-top:20px;}
 }
-.Subheader {display:table; width:100%; font-size:16px; background-color:#eee; border-bottom:1px solid #ccc; padding:0px; text-align:left;}
-.Subheader ul {list-style:none; margin:0; padding:0; width:100%; display:block; }
+.Subheader {display:table; width:100%; font-size:16px; background-color:#f2f2f2; border-bottom:1px solid #dedede; padding:0px; text-align:left;}
+.Subheader ul {list-style:none; margin:0px 0px 0px -15px; padding:0; width:100%; display:block; }
 .Subheader ul li {display:inline-block; margin:0px 0px; padding:5px 0px;}
 .Subheader ul li a{ padding:4px 12px; font-weight:400; }
 .Subheader ul li a:hover{ text-decoration:none; }
@@ -54,7 +54,6 @@ h2:hover {color:inherit;}
 .Subheader ul li a{width:100%; display:block;}
 }
 /* Pages */
-.Blog-Posts {}
 .Blog-Posts__item {display:table; margin: 0px; padding-bottom: 15px; }
 .Blog-Posts__item__excerpt {border-bottom:1px solid #dedede; padding-bottom:15px;}
 .Blog-Posts__item__title {display:block; line-height: 28px; margin:10px 0; }
@@ -70,7 +69,6 @@ h2:hover {color:inherit;}
 .Page-List__item__title:hover { text-decoration:underline;}
 .Page-List__item__heading {display:block;  line-height: 28px; margin-top:0px; margin-bottom:10px; }
 .Page-List__item__heading:hover {text-decoration:underline; }
-.Page-Grid {}
 .Page-Grid__grid-wrap {overflow: hidden; margin: -10px -10px;}
 .Page-Grid__grid-wrap p{margin: 10px 10px;}
 .Page-Grid__grid-wrap__box {float: left;  position: relative; width: 33.3%; padding-bottom: 35%;}
