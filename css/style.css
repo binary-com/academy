@@ -24,7 +24,7 @@ summary {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
-h2:hover {color:inherit;}
+a h2:hover {color:inherit;}
 /* Header */
 .Top-Bar {display:table; width: 100%; color: #fff; line-height: 1; font-size: 70%; text-align: right; padding: 3px 0; background: #15212d; }
 .Top-Bar__contacts {display:inline;text-align:right;}
