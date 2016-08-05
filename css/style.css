@@ -122,6 +122,9 @@ a h2:hover {color:inherit;}
 .p--action { margin-top: 30px; margin-bottom: 30px; margin-left: 0px; margin-right: 0px; text-align:center!important;}
 .fl--left {float:left; margin-right:20px; margin-bottom:15px; }
 .sc--center {display: block; margin-left: 0; margin-right: 0; text-align:center;}
+.daily-report img {width:inherit; display:block; margin-left:auto; margin-right:auto; margin-top:30px;}
+.daily-report ul {list-style-type: none; margin:0; padding:0;}
+.daily-report ul li {margin-left:0px; padding:0px; width:100%;}
 /* Social */
 .Social { margin-top:-5px; margin-bottom:20px; text-align:right; }
 .Social h5 {font-weight:400;margin-bottom:0; font-size:14px;}
