@@ -22,7 +22,7 @@ lang: ru
 - Siemens
 - Tata Motors
 - Tesco
-- Much More!
+- И многие другие!
 
 [Просмотрите полный список внебиржевых акций](https://www.binary.com/ru/resources/asset_indexws.html?utm_source=blog&utm_medium=social&utm_content=en&utm_campaign=whatsnew#market-stocks){:target="_blank"}.
 
