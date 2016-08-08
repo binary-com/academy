@@ -1,9 +1,9 @@
 ---
-layout: pt/post
+layout: post
 title: Binary TV estreia vídeos do “Noticiário Diário dos Mercados” 
-permalink: /pt-binary-TV-premieres-daily-market-report-videos/ 
+permalink: /pt/binary-TV-premieres-daily-market-report-videos/ 
 excerpt: "Temos o prazer de apresentar a Binary TV! Visite este novíssimo canal de informação – concebido especialmente para os nossos negociadores – para uma série de ideias e eventos da atualidade oriundos de mercados financeiros do mundo inteiro..."  
-lang: pt
+language: pt
 ---
 
 

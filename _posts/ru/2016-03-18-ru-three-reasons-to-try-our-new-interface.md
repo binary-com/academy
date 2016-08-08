@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: 3 причины перейти на наш новый интерфейс 
-permalink: /ru-three-reasons-to-try-our-new-interface/
+permalink: /ru/three-reasons-to-try-our-new-interface/
 excerpt: "В чём преимущества нового интерфейса Binary.com? Три простые причины перехода на наш новый ..."
-lang: ru 
+language: ru 
 ---
 
 

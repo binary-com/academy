@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Latest Updates to our Tick Trade App
-permalink: /the-latest-updates-to-our-tick-trade-app/
+title: "The Latest Updates to our Tick Trade App"
+language: en
+permalink: /en/the-latest-updates-to-our-tick-trade-app/
 excerpt: "Have you experienced the speed and mobility of trading through our Tick Trade App yet? Now there are even more reasons to give it a try..."
 ---
 

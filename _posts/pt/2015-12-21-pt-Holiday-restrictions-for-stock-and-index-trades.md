@@ -1,9 +1,9 @@
 ---
-layout: pt/post
+layout: post
 title: Restrições da época festiva para negociações de ações e índices
-permalink: /pt-Holiday-restrictions-for-stock-and-index-trades/
+permalink: /pt/Holiday-restrictions-for-stock-and-index-trades/
 excerpt: "Gostaríamos de lhes informar sobre certas restrições de negociação que terão efeito durante a época festiva, devido a um volume reduzido de negociações em todo o mundo..."
-lang: pt
+language: pt
 ---
 
 Boas festas, negociadores!

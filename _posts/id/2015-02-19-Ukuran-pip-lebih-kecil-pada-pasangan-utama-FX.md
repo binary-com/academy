@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title:  Ukuran pip lebih kecil pada pasangan utama FX
-permalink: Ukuran-pip-lebih-kecil-pada-pasangan-utama-FX
+permalink: /id/Ukuran-pip-lebih-kecil-pada-pasangan-utama-FX/
 excerpt: Kami dengan gembira mengumumkan sebagian besar pasangan utama FX telah mengalami peningkatan dengan menawarkan ukuran pip yang lebih kecil.
-lang: id
+language: id
 ---
 
 Kami dengan gembira mengumumkan sebagian besar pasangan utama FX telah mengalami peningkatan dengan menawarkan ukuran pip yang lebih kecil. Beberapa pasangan FX terpilih sudah dapat menawarkan 5 angka desimal tidak lagi 4 angka. Contoh, EUR/AUD sebelumnya bernilai 1.4567, sekarang menggunakan nilai 1.45678.

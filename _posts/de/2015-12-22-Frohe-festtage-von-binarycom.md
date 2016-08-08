@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: Frohe Festtage von Binary.com
-permalink: /Frohe-festtage-von-binarycom/
+permalink: /de/Frohe-festtage-von-binarycom/
 excerpt: "Frohe Festtage für alle Freunde von Binary.com. Wir wünschen Ihnen ein freudvolles und erfolgreiches Neues Jahr!"
-lang: de 
+language: de 
 ---
 
 Frohe Festtage für alle Freunde von Binary.com. Wir wünschen Ihnen ein freudvolles und erfolgreiches Neues Jahr!

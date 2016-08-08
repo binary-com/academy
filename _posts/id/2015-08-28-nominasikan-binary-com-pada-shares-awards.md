@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Nominasikan Binary.com pada shares award
-permalink: /nominasikan-binary-com-pada-shares-awards/
+permalink: /id/nominasikan-binary-com-pada-shares-awards/
 excerpt: "Kami mengundang Anda untuk mendukung Binary.com, dengan menominasikan kami untuk memenangkan penghargaan pada Shares Award tahun ini dalam..."
-lang: id 
+language: id
 ---
 
 ![](/images/sharesAward2015.png)

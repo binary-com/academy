@@ -1,7 +1,8 @@
 ---
 layout: post
-title: More flexibility, less complexity
-permalink: /more-flexibility-less-complexity/
+title: "More flexibility, less complexity"
+language: en
+permalink: /en/more-flexibility-less-complexity/
 excerpt: Timing and flexibility mean everything when you're trying to get in on a trade. Now we have two great features that will help you zero in on your perfect trade.
 ---
 

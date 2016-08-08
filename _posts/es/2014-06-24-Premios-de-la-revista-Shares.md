@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title:  Premios de la revista shares 2014
-permalink: /Premios-de-la-revista-Shares-2014/
+permalink: /es/Premios-de-la-revista-Shares-2014/
 excerpt: Le invitamos a mostrar su apoyo a Binary.com votando por nosotros en las siguientes categorías para los premios de la revista Shares de este año
-lang: es
+language: es
 ---
 
 Le invitamos a mostrar su apoyo a Binary.com votando por nosotros en las siguientes categorías para los premios de la revista Shares de este año:

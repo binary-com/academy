@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Bitcoin Telah Tersedia Sebagai Metode Pembayaran Binary.com
-permalink: /Bitcoin-Telah-Tersedia-Sebagai-Metode-Pembayaran-Binarycom/
+permalink: /id/Bitcoin-Telah-Tersedia-Sebagai-Metode-Pembayaran-Binarycom/
 excerpt: "Kami dengan gembira mengumumkan penambahan metode pembayaran baru di Binary.com: Bitcoin..."
-lang: id 
+language: id
 ---
 
 

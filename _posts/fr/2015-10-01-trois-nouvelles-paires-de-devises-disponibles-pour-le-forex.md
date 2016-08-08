@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Trois Nouvelles paires de devises disponibles pour le Forex
-permalink: /trois-nouvelles-paires-de-devises-disponibles-pour-le-forex/
+permalink: /fr/trois-nouvelles-paires-de-devises-disponibles-pour-le-forex/
 excerpt: "Pour répondre à la forte demande de nos clients, les paires EUR/CHF, USD/CHF et GBP/CHF ont été ajoutées à notre liste de devises Forex. Découvrez dès maintenant les contrats disponibles pour ces trois nouvelles...."
-lang: fr  
+language: fr  
 ---
 
 

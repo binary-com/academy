@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Nominez Binary.com pour les prix "Shares Awards"
-permalink: /nominez-binary-com-pour-les-prix-shares-awards
+permalink: /fr/nominez-binary-com-pour-les-prix-shares-awards/
 excerpt: "Nous vous invitons à nous soutenir en nominant Binary.com dans les catégories suivantes pour les prix..."
-lang: fr 
+language: fr 
 ---
 
 ![](/images/sharesAward2015.png)

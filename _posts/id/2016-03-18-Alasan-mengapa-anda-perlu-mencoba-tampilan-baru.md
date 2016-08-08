@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: 3 Alasan Mengapa Anda Perlu Mencoba Tampilan Baru
-permalink: /3-Alasan-mengapa-anda-perlu-mencoba-tampilan-baru/
+permalink: /id/3-Alasan-mengapa-anda-perlu-mencoba-tampilan-baru/
 excerpt: "Mengapa Perlu Bertrading Pada Tampilan Baru Binary.com? Tiga alasan sederhana untuk beralih permanen ke dalam tampilan baru kami..."
-lang: id 
+language: id
 ---
 
 <a href="https://www.binary.com/trading?l=ID&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew" target="_blank"><img src="/images/FB-ads5.jpg" alt=""></a>

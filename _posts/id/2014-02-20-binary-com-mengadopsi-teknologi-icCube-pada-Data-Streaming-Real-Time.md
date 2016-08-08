@@ -1,12 +1,12 @@
 ---
-layout: id/post
+layout: post
 title:  Binary.com mengadopsi teknologi icCube pada Data Streaming Real-Time
-permalink: binary-com-mengadopsi-teknologi-icCube-pada-Data-Streaming-Real-Time
+permalink: /id/binary-com-mengadopsi-teknologi-icCube-pada-Data-Streaming-Real-Time/
 excerpt: Binary.com dengan bangga mengumumkan pelaksanaan server icCube Online Analytical Processing (OLAP) pada seluruh transaksi dengan menyediakan streaming data real time yang tidak ada duanya.
-lang: id
+language: id
 ---
 
-![](/post_images/275409_orig.jpg)
+![](/images/275409_orig.jpg)
 
 **Binary.com** dengan bangga mengumumkan pelaksanaan server [icCube](http://www.iccube.com/) Online Analytical Processing (OLAP) pada seluruh transaksi dengan menyediakan streaming data real time yang tidak ada duanya.
 

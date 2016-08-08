@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 2016 “Best Binary Options Broker” Award presented to Binary.com
-permalink: /best-binary-options-broker-award-presented-to-binary/
+title: "2016 “Best Binary Options Broker” Award presented to Binary.com"
+language: en
+permalink: /en/best-binary-options-broker-award-presented-to-binary/
 excerpt: "Binary.com took home the “Best Binary Options Broker” award at the 16th MENA International Financial Conference and Exhibition last..."
 ---
 

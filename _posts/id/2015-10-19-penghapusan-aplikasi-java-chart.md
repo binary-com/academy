@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Penghapusan aplikasi java chart
-permalink: /penghapusan-aplikasi-java-chart/
+permalink: /id/penghapusan-aplikasi-java-chart/
 excerpt: "Mulai hari ini, aplikasi Chart Java sudah tidak tersedia lagi. Jika Anda sudah mendownload aplikasi ini sebelumnya, mohon diketahui bahwa Binary.com tidak bertanggung jawab lebih lanjut..."
-lang: id 
+language: id
 ---
 
 

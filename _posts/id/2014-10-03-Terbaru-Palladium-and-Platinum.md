@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title:  Terbaru! Palladium & Platinum
-permalink: Terbaru-Palladium-and-Platinum
+permalink: /id/Terbaru-Palladium-and-Platinum/
 excerpt: Berdasarkan kritik dan saran yang kami terima, kami baru saja menambahkan dua logam mulia ini ke dalam daftar komoditas yang kami sediakan.
-lang: id
+language: id
 ---
 
 Berdasarkan kritik dan saran yang kami terima, kami baru saja menambahkan dua logam mulia ini ke dalam daftar komoditas yang kami sediakan.

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Smart FX contracts now with a minimum duration of 15 seconds
-permalink: /contracts-on--mart-FX-contracts-now-with-a-duration-of-15-seconds/
+title:  "Smart FX contracts now with a minimum duration of 15 seconds"
+language: en
+permalink: /en/contracts-on--mart-FX-contracts-now-with-a-duration-of-15-seconds/
 excerpt: "Great news! Rise/Fall trades are now available on Smart FX Contracts with a minimum duration of 15 seconds and a maximum duration of 10 hours."
 ---
 

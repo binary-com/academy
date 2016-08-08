@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title:  Upgrade der Login-Möglichkeit
-permalink: /upgrade-der-login-moglichkeit/
+permalink: /de/upgrade-der-login-moglichkeit/
 excerpt: "Binary.com wird bald seine Login-Möglichkeit auf seiner Website verbessern, um sich an die neusten Normen und Branchenpraktiken anzupassen. Sobald die Veränderungen umgesetzt sind, müssen Sie, um auf Ihr Konto zugreifen zu können..."
-lang: de
+language: de
 ---
 
 Binary.com wird bald seine Login-Möglichkeit auf seiner Website verbessern, um sich an die neusten Normen und Branchenpraktiken anzupassen. Sobald die Veränderungen umgesetzt sind, müssen Sie, um auf Ihr Konto zugreifen zu können, nur noch die E-Mail Adresse eingeben, die Sie bei der Einrichtung des Kontos angegeben haben. Sie müssen dann nicht mehr länger Ihre Login-ID eingeben, um sich bei Ihrem Konto anzumelden.

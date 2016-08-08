@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Official launch of Binary.com’s new trading interface
-permalink: /official-launch-of-Binarycoms-new-trading-interface/
+title: "Official launch of Binary.com’s new trading interface"
+language: en
+permalink: /en/official-launch-of-Binarycoms-new-trading-interface/
 excerpt: "We’re very proud to announce the formal launch of a streamlined trading interface on the Binary.com website which will be rolled out..."  
 ---
 

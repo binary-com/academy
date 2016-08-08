@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: С целью повышения безопасности, Ваш электронный адрес стал Вашим логином
-permalink: /ru-Email-address-now-serves-as-your-login-to-increase-security/
+permalink: /ru/email-address-now-serves-as-your-login-to-increase-security/
 excerpt: "Сообщаем о повышении уровня безопасности на Binary.com: со вчерашнего утра, чтобы войти на нашу торговую платформу, необходимо указать..."
-lang: ru  
+language: ru 
 ---
 
 Сообщаем о повышении уровня безопасности на Binary.com: со вчерашнего утра, **чтобы войти на нашу торговую платформу, необходимо указать Ваш электронный адрес.**

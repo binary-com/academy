@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Binary.com Merayakan 200,000 Facebook Likes
-permalink: /Binarycom-merayakan-200000-Facebook-likes
+permalink: /id/Binarycom-merayakan-200000-Facebook-likes/
 excerpt: "Kami hanya ingin mengucapkan terima kasih kapada Anda semua yang telah membantu home page Binary.com mencapai tonggak terbarunya berupa 200,000 Facebook Likes Kami sangat menghargai ..."
-lang: id  
+language: id 
 ---
 
 Kami hanya ingin mengucapkan terima kasih kapada Anda semua yang telah membantu home page Binary.com mencapai tonggak terbarunya berupa [200,000 Facebook Likes](https://www.facebook.com/binarydotcom) Kami sangat menghargai dukungan Anda yang sangat luar biasa.  

@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title:  Komisi Lebih Rendah Pada Opsi Penjualan Market
-permalink: Komisi-Lebih-Rendah-Pada-Opsi-Penjualan-Market
+permalink: /id/Komisi-Lebih-Rendah-Pada-Opsi-Penjualan-Market/
 excerpt: Dapatkan lebih dari kontrak anda dengan menjual kontrak sebelum periode kontrak berakhir menggunakan pilihan Jual Pada Market.
-lang: id
+language: id
 ---
 
 Dapatkan lebih dari kontrak anda dengan menjual kontrak sebelum periode kontrak berakhir menggunakan pilihan "Jual Pada Market".

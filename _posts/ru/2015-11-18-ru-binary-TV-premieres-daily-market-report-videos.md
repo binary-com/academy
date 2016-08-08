@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: Binary TV представляет ежедневный видео обзор рынка  
-permalink: /ru-binary-TV-premieres-daily-market-report-videos/
+permalink: /ru/binary-TV-premieres-daily-market-report-videos/
 excerpt: "С радостью представляем Вам Binary TV, которое теперь доступно на английском языке. Посетите новый информационный канал, созданный специально для наших трейдеров..."
-lang: ru  
+language: ru
 ---
 
 

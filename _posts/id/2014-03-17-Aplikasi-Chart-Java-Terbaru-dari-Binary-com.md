@@ -1,12 +1,12 @@
 ---
-layout: id/post
+layout: post
 title:  Aplikasi Chart Java Terbaru dari Binary.com
-permalink: Aplikasi-Chart-Java-Terbaru-dari-Binary-com
-excerpt:
-lang: id
+permalink: /id/Aplikasi-Chart-Java-Terbaru-dari-Binary-com/
+excerpt: Peluncuran aplikasi chart yang sudah sangat ditunggu tunggu ini akan menyediakan berbagai peralatan charting dan indikator yang sangat mudah dan sederhana bagi pemula dan sangat berguna bagi para trader tingkat lanjut.
+language: id
 ---
 
-[![](/post_images/3288101.jpg)](https://www.binary.com/c/chart_application.cgi?l=EN&utm_medium=social&source=blog&utm_content=newsletter)
+[![](/images/3288101.jpg)](https://www.binary.com/c/chart_application.cgi?l=EN&utm_medium=social&source=blog&utm_content=newsletter)
 
 Peluncuran aplikasi chart yang sudah sangat ditunggu tunggu ini akan menyediakan berbagai peralatan charting dan indikator yang sangat mudah dan sederhana bagi pemula dan sangat berguna bagi para trader tingkat lanjut.
 

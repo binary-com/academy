@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Revamped Tick Trades from Binary.com
-permalink: /revamped-tick-trades-from-binary-com/
+title: "Revamped Tick Trades from Binary.com"
+language: en
+permalink: /en/revamped-tick-trades-from-binary-com/
 excerpt: With the latest upgrade to our trading interface, we have redesigned the way the tick trades work. Tick trades may now be purchased on "Randoms" via the "Rise/Fall" section for a minimum duration of 5 ticks or a maximum duration of 10 ticks.
 ---
 

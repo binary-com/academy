@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: Binary TV-Premiere der täglichen Marktbericht Videos
-permalink: /BinaryTV-premiere-der-taglichen-marktbericht-videos/
+permalink: /de/BinaryTV-premiere-der-taglichen-marktbericht-videos/
 excerpt: "Wir freuen uns, Ihnen Binary TV, derzeit in Englisch, präsentieren zu können. Besuchen Sie den brandneuen Nachrichtenkanal, der ganz besonders für unsere Trader geschaffen wurde,..."
-lang: de 
+language: de 
 ---
 
 

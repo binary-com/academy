@@ -1,12 +1,12 @@
 ---
-layout: id/post
+layout: post
 title:  Binary.com dinominasikan untuk penghargaan lainnya!
-permalink: binary-com-dinominasikan-untuk-penghargaan-lainnya
+permalink: /id/binary-com-dinominasikan-untuk-penghargaan-lainnya/
 excerpt: "Kami sangat gembira untuk mengumumkan bahwa Binary.com masuk sebagai salah satu nominasi pada UK Forex Awards 2014. Kami mengundang anda untuk memberi dukungan dengan memilih Binary.com pada beberapa kategori berikut ini:"
-lang: id
+language: id
 ---
 
-![](/post_images/7799451_orig.jpg)
+![](/images/7799451_orig.jpg)
 
 Kami sangat gembira untuk mengumumkan bahwa Binary.com masuk sebagai salah satu nominasi pada UK Forex Awards 2014. Kami mengundang anda untuk memberi dukungan dengan memilih Binary.com pada beberapa kategori berikut ini:  
 

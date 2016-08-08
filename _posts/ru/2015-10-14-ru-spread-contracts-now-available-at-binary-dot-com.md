@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: "Контракты со спредами теперь доступны на Binary.com"
-permalink: /ru-spread-contracts-now-available-at-binary-dot-com/
+permalink: /ru/spread-contracts-now-available-at-binary-dot-com/
 excerpt: "Ввиду недавних нововведений на нашей торговой платформе, на отдельных рынках стали доступны контракты со спредами."
-lang: ru  
+language: ru 
 ---
 
 Ввиду недавних нововведений на нашей торговой платформе, на отдельных рынках стали доступны контракты со спредами. [Узнайте о наших новых контрактах со спредами и разместите первую сделку прямо сейчас](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=RU&utm_source=social&utm_medium=blog&utm_campaign=WhatsNew)!

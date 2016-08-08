@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Selamat Berlibur Dari Binary.com!
-permalink: /selamat-berlibur-dari-Binarycom/
+permalink: /id/selamat-berlibur-dari-Binarycom/
 excerpt: "Selamat berlibur dari kami semua di Binary.com! Semoga Anda memperoleh Tahun Baru yang penuh dengan kebahagianan dan kesejahteraan yang..."
-lang: id  
+language: id 
 ---
 
 

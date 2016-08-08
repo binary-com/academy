@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: Bitcoin zu den Zahlungsmethoden von Binary.com hinzugefügt
-permalink: /bitcoin-zu-den-zahlungsmethoden-von-Binarycom-hinzugefugt/
+permalink: /de/bitcoin-zu-den-zahlungsmethoden-von-Binarycom-hinzugefugt/
 excerpt: "Aufregende Neuigkeiten! In dieser Woche wurde Binary.com der erste Preis in der Kategorie Finanzwettenanbieter in der prestigeträchtigen 2015 EGR Operator Awards Ceremony die in London stattfand, verliehen."
-lang: de  
+language: de  
 ---
 
 

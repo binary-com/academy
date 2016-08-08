@@ -1,8 +1,8 @@
 ---
-layout: ru/post
+layout: post
 title: новые графики Java на Binary.com
-permalink: новые-графики-Java-на-Binary-com
-lang: ru
+permalink: /ru/новые-графики-Java-на-Binary-com
+language: ru
 ---
 
 [![](/post_images/3288101.jpg)](https://www.binary.com/c/chart_application.cgi?l=RU&utm_medium=social&source=blog&utm_content=newsletter)

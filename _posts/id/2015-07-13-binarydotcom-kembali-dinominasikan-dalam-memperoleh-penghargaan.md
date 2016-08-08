@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Binary.com kembali dinominasikan dalam memperoleh penghargaan!
-permalink: /Binarydotcom-kembali-dinominasikan-dalam-memperoleh-penghargaan/
+permalink: /id/Binarydotcom-kembali-dinominasikan-dalam-memperoleh-penghargaan/
 excerpt: "Kami sangat gembira mengumumkan bahwa Binary.com (sebelumnya dikenal sebagai BetOnMarkets.com) kembali menjadi salah satu nominator tahun ini pada UK Forex Awards 2015."
-lang: id  
+language: id 
 ---
 
 Kami sangat gembira mengumumkan bahwa Binary.com (sebelumnya dikenal sebagai BetOnMarkets.com) kembali menjadi salah satu nominator tahun ini pada UK Forex Awards 2015.

@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: Начните торговать ещё быстрее, благодаря нашему приложению Tick Trade App
-permalink: /ru-start-trading-even-faster-with-our-tick-trade-app/
+permalink: /ru/start-trading-even-faster-with-our-tick-trade-app/
 excerpt: "Хотите быстро проводить сделки? Попробуйте наше новое торговое приложение Tick Trade App...."
-lang: ru
+language: ru
 ---
 
 

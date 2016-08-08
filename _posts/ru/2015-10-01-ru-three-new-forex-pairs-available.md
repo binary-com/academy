@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: "Доступны 3 новые валютные пары"
-permalink: /ru-three-new-forex-pairs-available/
+permalink: /ru/three-new-forex-pairs-available/
 excerpt: "Ввиду недавних нововведений на нашей торговой платформе, на отдельных рынках стали доступны контракты со спредами."
-lang: ru 
+language: ru
 ---
 
 В ответ на многочисленные пожелания, наш список валютных пар пополнили следующие активы: EUR/CHF, USD/CHF и GBP/CHF. [Пожалуйста, просмотрите контракты, доступные на трёх новых парах](ttps://www.binary.com/d/trade.cgi?market=forex&time=5m&form_name=risefall&expiry_type=duration&amount_type=payout&H=S0P&currency=USD&underlying_symbol=frxEURCHF&amount=100&date_start=now&type=CALL&L=S0P&l=RU&utm_source=blog&utm_medium=social&utm_campaign=whatsnew)!

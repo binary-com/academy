@@ -1,15 +1,15 @@
 ---
-layout: es/post
+layout: post
 title: 3 Razones para Probar Nuestra Nueva Interfaz
-permalink: /razones-para-probar-nuestra-nueva-interfaz/
+permalink: /es/razones-para-probar-nuestra-nueva-interfaz/
 excerpt: "¿Por qué Operar con la Nueva Interfaz de Binary.com? Tres razones simples para cambiar de forma permanente a nuestra nueva interfaz..."
-lang: es 
+language: es
 ---
 
 
 <a href="https://www.binary.com/trading?l=ES&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew" target="_blank"><img src="/images/FB-ads5.jpg" alt=""></a>
 
-**¿Por qué Operar con la Nueva Interfaz de Binary.com?**
+**Por qué Operar con la Nueva Interfaz de Binary.com?**
 
 Tres razones simples para cambiar de forma permanente a nuestra nueva interfaz: 
 

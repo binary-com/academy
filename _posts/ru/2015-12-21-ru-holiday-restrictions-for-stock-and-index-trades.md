@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: Праздничные ограничения для торговли акциями и индексами
-permalink: /ru-holiday-restrictions-for-stock-and-index-trades/
+permalink: /ru/holiday-restrictions-for-stock-and-index-trades/
 excerpt: "Информируем Вас о некоторых торговых ограничениях, которые будут действовать в течение праздничного периода, ввиду снижения количества мировых трейдеров..."
-lang: ru 
+language: ru
 ---
 
 

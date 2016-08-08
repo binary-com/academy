@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: Bitcoin добавлен к способам оплаты на Binary.com
-permalink: /ru-bitcoin-added-to-Binarycoms-payment-methods/
+permalink: /ru/bitcoin-added-to-Binarycoms-payment-methods/
 excerpt: "Потрясающая новость! На этой неделе Binary.com получил первое место в категории Лучший оператор на престижной церемонии 2015 EGR Operator Awards 2015 EGR Operator Awards Ceremony..."
-lang: ru 
+language: ru 
 ---
 
 

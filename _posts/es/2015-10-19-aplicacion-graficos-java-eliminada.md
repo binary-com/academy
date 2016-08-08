@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title:  Aplicación gráficos java eliminada
-permalink: /aplicacion-graficos-java-eliminada/
+permalink: /es/aplicacion-graficos-java-eliminada/
 excerpt: "Con efecto a partir de hoy, la Aplicación Gráficos Java ya no estará disponible para su descarga. Si ha descargado esta aplicación antes, tenga en cuenta que ya no será compatible..."
-lang: es
+language: es
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title: ¿Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade. 
-permalink: /Razones-rapidas-para-descargar-nuestra-aplicacion-tick-trade/
-excerpt: "¿Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade...."
-lang: es 
+permalink: /es/Razones-rapidas-para-descargar-nuestra-aplicacion-tick-trade/
+excerpt: "Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade...."
+language: es
 ---
 
 **3 Razones Rápidas para Descargar Nuestra Aplicación Tick Trade**
@@ -12,7 +12,7 @@ lang: es
 <a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade_promote.png" alt=""></a>
 
 
-¿Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade.
+Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade.
 
 <br><br>
 

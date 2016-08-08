@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title:  Nuevo! Platino y paladio
-permalink: Nuevo-Platino-y-paladio
+permalink: /es/Nuevo-Platino-y-paladio/
 excerpt: En respuesta a los comentarios recibidos, hemos agregado estos dos metales preciosos a la lista de nuestros activos.
-lang: es
+language: es
 ---
 
 En respuesta a los comentarios recibidos, hemos agregado estos dos metales preciosos a la lista de nuestros activos.

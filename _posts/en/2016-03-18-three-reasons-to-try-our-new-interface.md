@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Three Reasons to Try our New Interface 
-permalink: /three-reasons-to-try-our-new-interface/
+title: "Three Reasons to Try our New Interface"
+language: en
+permalink: /en/three-reasons-to-try-our-new-interface/
 excerpt: "Why Trade on Binary.com’s New Interface? Three simple reasons to make the permanent switch to our latest interface..."
 ---
 

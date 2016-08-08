@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: EGR Operator Award 2015 dipersembahkan kepada Binary.com
-permalink: /EGR-operator-award-2015-dipersembahkan-kepada-binarycom/
+permalink: /id/EGR-operator-award-2015-dipersembahkan-kepada-binarycom/
 excerpt: "Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama dalam ajang bergengsi Acara EGR Operator Award 2015, di London..."
-lang: id  
+language: id  
 ---
 
 Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama dalam ajang bergengsi Acara **EGR Operator Award 2015**, di London.

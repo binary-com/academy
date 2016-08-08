@@ -1,6 +1,0 @@
-<select>
-{% for lang in site.languages %}
-	<option value="{{ lang.key }}" {% if page.lang == lang.key %} {{ "selected" }} {% endif %} >{{ lang.name }}</option>
-{% endfor %}
-</select>
-

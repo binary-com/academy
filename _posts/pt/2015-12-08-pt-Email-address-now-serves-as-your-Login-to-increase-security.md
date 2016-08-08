@@ -1,9 +1,9 @@
 ---
-layout: pt/post
+layout: post
 title: O seu endereço de e-mail serve agora como seu login para aumentar a segurança
-permalink: /pt-Email-address-now-serves-as-your-login-to-increase-security/
+permalink: /pt/Email-address-now-serves-as-your-login-to-increase-security/
 excerpt: "Gostaríamos anunciar uma nova melhoria de segurança adicionada à Binary.com: Desde ontem de manhã, o seu endereço de e-mail é necessário para acessar..."
-lang: pt
+language: pt
 ---
 
 

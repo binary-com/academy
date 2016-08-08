@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Binary TV premieres "Daily Financial Review" videos 
-permalink: /binary-TV-premieres-daily-market-report-videos/ 
+title: "Binary TV premieres Daily Financial Review videos"
+language: en
+permalink: /en/binary-TV-premieres-daily-market-report-videos/ 
 excerpt: "We’re pleased to introduce Binary TV! Visit this all-new channel of information – designed especially for our traders – for a range of insights and current events from..."  
 ---
 

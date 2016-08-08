@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Alamat Email Mulai Sekarang Berfungsi Sebagai Login, untuk Meningkatkan Keamanan
-permalink: /Alamat-email-mulai-sekarang-berfungsi-sebagai-login-untuk-meningkatkan-keamanan/
+permalink: /id/Alamat-email-mulai-sekarang-berfungsi-sebagai-login-untuk-meningkatkan-keamanan/
 excerpt: "Kami ingin mengumumkan peningkatan keamanan baru yang ditambahkan ke Binary.com: Sejak kemarin pagi, alamat email Anda mulai sekarang diperlukan untuk masuk ke dalam platform trading kami..."
-lang: id 
+language: id
 ---
 
 Kami ingin mengumumkan peningkatan keamanan baru yang ditambahkan ke Binary.com: Sejak kemarin pagi, **alamat email Anda mulai sekarang diperlukan untuk masuk ke dalam platform trading kami**.

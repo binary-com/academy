@@ -1,9 +1,9 @@
 ---
-layout: pt/post
+layout: post
 title: Bitcoin foi adicionado aos métodos de pagamento da Binary.com
-permalink: /pt-bitcoin-added-to-Binarycoms-payment-methods/
+permalink: /pt/bitcoin-added-to-Binarycoms-payment-methods/
 excerpt: "Temos o prazer de anunciar a adição de um novo método de pagamento na Binary.com: Bitcoin. Esta adição mais recente aumenta o número de..."
-lang: pt
+language: pt
 ---
 
 

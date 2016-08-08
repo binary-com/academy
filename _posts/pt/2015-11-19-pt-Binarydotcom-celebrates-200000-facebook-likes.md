@@ -1,9 +1,9 @@
 ---
-layout: pt/post
+layout: post
 title: A Binary.com celebra 200.000 fãs no Facebook!  
-permalink: /pt-Binarydotcom-celebrates-200000-facebook-likes/   
+permalink: /pt/Binarydotcom-celebrates-200000-facebook-likes/   
 excerpt: "Gostaríamos de agradecer todos vocês que ajudaram a página oficial da Binary.com no Facebook a alcançar o seu marco mais recente de 200.000 fãs ..."  
-lang: pt
+language: pt
 ---
 
 

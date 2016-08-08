@@ -1,13 +1,10 @@
 ---
-layout: pt/post
+layout: post
 title: “Índice Random” passam a chamar-se “Índices Volatility”
-permalink: /pt-random-indices-renamed-to-volatility-indices/
+permalink: /pt/random-indices-renamed-to-volatility-indices/
 excerpt: "Como parte do nosso lançamento mais recente, os “Índices Random” foram redesignados “Índices Volatility” na plataforma de negociação..."
-lang: pt
+language: pt
 ---
-
-
-
 
 As part of our latest release, **the *“Random Indices”* have been renamed to *“Volatility Indices”* on the Binary.com trading platform.**
 

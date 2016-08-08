@@ -1,9 +1,9 @@
 ---
-layout: pt/post
+layout: post
 title: Três razões para experimentar a nossa nova interface
-permalink: /pt-three-reasons-to-try-our-new-interface/
+permalink: /pt/three-reasons-to-try-our-new-interface/
 excerpt: "Três razões simples de fazer a mudança permanente para a nossa interface mais recente ..."
-lang: pt
+language: pt
 ---
 
 <a href="https://www.binary.com/trading?l=EN&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew" target="_blank"><img src="/images/FB-ads5.jpg" alt=""></a>

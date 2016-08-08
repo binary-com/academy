@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title:  Más flexibilidad, menos complejidad
-permalink: /Más-flexibilidad-menos-complejidad /
+permalink: /es/Mas-flexibilidad-menos-complejidad/
 excerpt: El tiempo y la flexibilidad significan todo cuando se está tratando de comprar un contrato financiero. Ahora le ofrecemos dos nuevas características que le ayudarán a encontrar su operación perfecta.
-lang: es 
+language: es
 ---
 
 El tiempo y la flexibilidad significan todo cuando se está tratando de comprar un contrato financiero. Ahora le ofrecemos dos nuevas características que le ayudarán a encontrar su operación perfecta.

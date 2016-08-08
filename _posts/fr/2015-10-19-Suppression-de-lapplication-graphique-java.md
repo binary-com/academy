@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Suppression de l'application graphique Java
-permalink: /Suppression-de-lapplication-graphique-java/
+permalink: /fr/Suppression-de-lapplication-graphique-java/
 excerpt: "À partir d'aujourd'hui, l'application graphique Java n'est plus disponible en téléchargement. Si vous avez déjà téléchargé cette application, sachez qu'elle n'est désormais plus prise en charge par...."
-lang: fr  
+language: fr 
 ---
 
 À partir d'aujourd'hui, l'application graphique Java n'est plus disponible en téléchargement. Si vous avez déjà téléchargé cette application, sachez qu'elle n'est désormais plus prise en charge par Binary.com.

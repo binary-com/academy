@@ -1,23 +1,25 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | Binary.com Blog</title>
-    <meta name="description" content="{{ site.description }}">
-    <meta name="keywords" content=" {{page.keywords}} ">
-
-    <link rel="icon" href="https://binary.com/images/favicons/apple-touch-icon-57x57.png" sizes="57x57" />
-
-    <link rel="stylesheet" href="/css/binary.css">
-    <link rel="stylesheet" href="/css/style.css">
-
-    <script src="https://apis.google.com/js/platform.js" defer='true'></script>
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <!-- ////// -->
-    <!--<script src='https://www.binary.com/js/binary.min.js' defer='true'></script>-->
-    <script src='/javascript/binary.js' defer='true'></script>
-
-    <!-- <script src="/superfeedr.jquery.js" defer='true'></script> -->
-    <script src="/code.js" defer='true'></script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="keywords" content=" {{page.keywords}} ">
+	<link rel='icon' type='image/png' href='https://www.binary.com/images/common/favicon_1.ico' />
+	<link rel='apple-touch-icon' href='https://www.binary.com/images/common/apple-touch-icon-57x57_1.png' />
+	<link rel='apple-touch-icon' sizes='72x72' href='https://www.binary.com/images/common/apple-touch-icon-72x72_1.png' />
+	<link rel='apple-touch-icon' sizes='114x114' href='https://www.binary.com/images/common/apple-touch-icon-114x114_1.png' />
+	<link rel="stylesheet" href="https://style.binary.com/binary.css">
+	<link rel="stylesheet" href="{{ '/css/grid.min.css' | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl">		
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">	
 </head>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>

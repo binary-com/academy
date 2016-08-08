@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Start Trading Even Faster with our Tick Trade App
-permalink: /start-trading-even-faster-with-our-tick-trade-app/
+title: "Start Trading Even Faster with our Tick Trade App"
+language: en
+permalink: /en/start-trading-even-faster-with-our-tick-trade-app/
 excerpt: "Interested in executing trades very quickly? Try our new tick trade app. Here are three quick reasons to download our Tick Trade App..."
 ---
 

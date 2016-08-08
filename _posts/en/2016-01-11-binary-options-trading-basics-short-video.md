@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Short Video Explains Binary Options Trading Basics
-permalink: /binary-options-trading-basics-short-video/
+title: "Short Video Explains Binary Options Trading Basics"
+language: en
+permalink: /en/binary-options-trading-basics-short-video/
 excerpt: "Binary.com is pleased to introduce a very short training video, designed to explain the fundamental basics of binary options trading to new visitors..."
 ---
 

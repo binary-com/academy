@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: Очередная номинация Binary.com!
-permalink: /Очередная-номинация-binarydotcom/
+permalink: /ru/Очередная-номинация-binarydotcom/
 excerpt: "Мы рады сообщить, что сайт Binary.com (ранее известный как BetOnMarkets.com) в этом году снова был номинирован на UK Forex Awards 2015."
-lang: ru  
+language: ru 
 ---
 
 Мы рады сообщить, что сайт Binary.com (ранее известный как BetOnMarkets.com) в этом году снова был номинирован на UK Forex Awards 2015.

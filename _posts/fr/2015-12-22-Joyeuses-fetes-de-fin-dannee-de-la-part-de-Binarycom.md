@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Joyeuses fêtes de fin d'année de la part de Binary.com !
-permalink: /Joyeuses-fetes-de-fin-dannee-de-la-part-de-Binarycom/
+permalink: /fr/Joyeuses-fetes-de-fin-dannee-de-la-part-de-Binarycom/
 excerpt: "Joyeuses fêtes de fin d'année de la part de Binary.com !"
-lang: fr 
+language: fr 
 ---
 
 Joyeuses fêtes de fin d'année de la part de Binary.com !

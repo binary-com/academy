@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Batasan Libur Untuk Trading Saham dan Indeks
-permalink: /Batasan-libur-untuk-trading-saham-dan-indeks/
+permalink: /id/Batasan-libur-untuk-trading-saham-dan-indeks/
 excerpt: "Kami ingin menginformasikan mengenai beberapa batasan trading yang akan diterapkan selama periode liburan, hal ini berhubung pengurangan volume transaksi di seluruh dunia..."
-lang: id  
+language: id 
 ---
 
 Seasons greeting, para trader!

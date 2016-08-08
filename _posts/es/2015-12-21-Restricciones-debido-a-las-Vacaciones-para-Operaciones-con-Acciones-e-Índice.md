@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title: Restricciones debido a las Vacaciones para Operaciones con Acciones e Índice
-permalink: /Restricciones-debido-a-las-Vacaciones-para-Operaciones-con-Acciones-e-Índice/
+permalink: /es/Restricciones-debido-a-las-Vacaciones-para-Operaciones-con-Acciones-e-Índice/
 excerpt: "Nos gustaría informarle sobre ciertas restricciones en las operaciones que estarán en vigor durante el período de vacaciones, debido a un menor volumen de operaciones en todo el mundo..."
-lang: es  
+language: es 
 ---
 
 
@@ -13,4 +13,4 @@ Nos gustaría informarle sobre ciertas restricciones en las operaciones que esta
 
 Por favor, seleccione una fecha de caducidad después del 5 de enero para proceder con la compra de este tipo de contratos.
 
-¡Gracias como siempre por comerciar con nosotros! ¡Felices Fiestas!
+Gracias como siempre por comerciar con nosotros! ¡Felices Fiestas!

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Holiday Restrictions for Stock and Index Trades
-permalink: /Holiday-restrictions-for-stock-and-index-trades/
+title: "Holiday Restrictions for Stock and Index Trades"
+language: en
+permalink: /en/Holiday-restrictions-for-stock-and-index-trades/
 excerpt: "We are pleased to announce the addition of a new payment method on Binary.com: Bitcoin. This latest addition expands the number of payment methods now available to our traders, as a way of catering further to your own individual needs and preferences..."
 ---
 

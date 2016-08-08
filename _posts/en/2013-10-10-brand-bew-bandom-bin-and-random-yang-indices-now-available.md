@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Brand New! Random Yin and Random Yang Indices Now Available
-permalink: /brand-bew-bandom-bin-and-random-yang-indices-now-available/
+title: "Brand New! Random Yin and Random Yang Indices Now Available"
+language: en
+permalink: /en/brand-bew-bandom-bin-and-random-yang-indices-now-available/
 excerpt: Due to high demand, we have now launched two new indices the Random Yin and Random Yang.  
 ---
 

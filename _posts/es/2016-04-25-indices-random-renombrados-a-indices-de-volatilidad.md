@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title: Los “Índices Random” Renombrados a “Índices de Volatilidad”
-permalink: /indices-random-renombrados-a-indices-de-volatilidad/
+permalink: /es/indices-random-renombrados-a-indices-de-volatilidad/
 excerpt: "Como parte de nuestro último lanzamiento, los Índices Random han sido renombrados a Índices de Volatilidad en la plataforma de..."
-lang: es 
+language: es
 ---
 
 Como parte de nuestro último lanzamiento, **los *“Índices Random”* han sido renombrados a *“Índices de Volatilidad”* en la plataforma de comercio de Binary.com. **
@@ -18,4 +18,4 @@ Sepa que **no se han realizado cambios en los productos;** esto es simplemente u
 
 **Los índices disponibles no se verán afectados por estos cambios, y los contratos destacados permanecen inalterados.**
 
-¡Gracias como siempre por comerciar con nosotros!
+Gracias como siempre por comerciar con nosotros!

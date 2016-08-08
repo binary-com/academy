@@ -1,174 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: Welcome
-email: blog@binary.com
+title: Binary.com Blog
+email: marketing@binary.com
 description: > # this means to ignore newlines until "baseurl:"
   Binary.com is the premier trading platform for binary options on all financial markets. Trade Forex, Indices, Stocks, Commodities and global Sector Indices with trades ranging from 15 seconds up to 365 days.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "#" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 twitter_username: Binarydotcom
-github_username:  binary-com
+github_username:  binary-com  
 
+# Build settings
 markdown: kramdown
 gems: [jekyll-paginate]
 paginate: 10
-
-languages:
-  - name: 'Bahasa Indonesia'
-    key: 'id'
-  - name: 'Русский'
-    key: 'ru'
-  - name: 'English'
-    key: 'en'
-  - name: 'Français'
-    key: 'fr'
-  - name: 'Español'
-    key: 'es'
-  - name: 'Deutsch'
-    key: 'de'
-  - name: 'Português'
-    key: 'pt'
-
-
-collections:
-  main:
-    output: true
-    permalink: /:path/
-  videos:
-    output: true
-    permalink: /en/videos/:path/
-  contributors:
-    output: true
-    permalink: /en/contributors/:path/
-  marketplace:
-    output: true
-    permalink: /en/marketplace/:path/
-  pages:
-    output: true
-    permalink: /en/:path/
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      lang: en
-      layout: default
-  -
-    scope:
-      path: localized/en
-    values:
-      lang: en
-  -
-    scope:
-      path: _posts/en
-    values:
-      lang: en
-  -
-    scope:
-      path: localized/id
-    values:
-      lang: id
-  -
-    scope:
-      path: _posts/id
-    values:
-      lang: id
-  -
-    scope:
-      path: localized/ru
-    values:
-      lang: ru
-  -
-    scope:
-      path: _posts/ru
-    values:
-      lang: ru
-  -
-    scope:
-      path: localized/fr
-    values:
-      lang: fr
-  -
-    scope:
-      path: _posts/fr
-    values:
-      lang: fr
-  -
-    scope:
-      path: localized/pt
-    values:
-      lang: pt
-  -
-    scope:
-      path: _posts/pt
-    values:
-      lang: pt
-  -
-    scope:
-      path: localized/es
-    values:
-      lang: es
-  -
-    scope:
-      path: _posts/es
-    values:
-      lang: es
-  -
-    scope:
-      path: _posts/de
-    values:
-      lang: de
-      layout: default
-  -
-    scope:
-      path: localized/de
-    values:
-      lang: de
-t:
-  en:
-    contactus: "Contact Us"
-    readmore: "Read More..."
-    whatsnew: "What's New?"
-    archive: "Archive"
-    readatarchive: "Read more in the archive"
-  de:
-    contactus: "Kontaktieren Sie uns"
-    readmore: "Erfahren Sie mehr..."
-    whatsnew: "Was ist neu?"
-    archive: "Archivieren"
-    readatarchive: "Im Archiv können Sie mehr erfahren"
-  id:
-    contactus: "Hubungi Kami"
-    readmore: "Baca lebih lanjut..."
-    whatsnew: "Berita terbaru?"
-    archive: "Arsip"
-    readatarchive: "Baca lebih lanjut di dalam arsip"
-  zh:
-    contactus: "联系我们"
-  ar:
-    contactus: "اتصل بنا"
-  pl:
-    contactus: "Napisz do nas"
-  ru:
-    contactus: "Контакты"
-    readmore: "Узнать больше..."
-    whatsnew: "Что нового?"
-    archive: "Архив"
-    readatarchive: "Смотреть архив"
-  pt:
-    contactus: "Contate-Nos"
-    readmore: "Saiba mais..."
-    whatsnew: "Novidades?"
-    archive: "Arquivo morto"
-    readatarchive: "Leia mais no arquivo morto"
-  es:
-    contactus: "Contáctenos"
-    whatsnew: "Noticias"
-    readmore: "leer más..."
-    readatarchive: "leer en archivo"
-  fr:
-    contactus: "Contactez-nous"
-    readmore: "Afficher..."
-    whatsnew: "Quoi de neuf ?"
-    archive: "ACHIVE"
-    readatarchive: "CONSULTER LES ARCHIVE"

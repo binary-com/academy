@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Durée minimale jusqu'à 15 minutes pour les trades Hausse/Baisse sur indices
-permalink: Durée-Minimale-Jusqu'à-15-Minutes-Pour-Les-Trades-Hausse-Baisse-sur-Indices
+permalink: /fr/Durée-Minimale-Jusqu'à-15-Minutes-Pour-Les-Trades-Hausse-Baisse-sur-Indices/
 excerpt: "Durée Minimale Jusqu’à 15 Minutes Pour Les Trades Hausse/Baisse sur Indices Bonne nouvelle! Les trades Hausse/Baisse sont désormais..."
-lang: fr
+language: fr
 ---
 
 Durée Minimale Jusqu’à 15 Minutes Pour Les Trades Hausse/Baisse sur Indices Bonne nouvelle! Les trades Hausse/Baisse sont désormais disponibles pour une durée minimale de 15 minutes sur les Indices sélectionnés suivants:

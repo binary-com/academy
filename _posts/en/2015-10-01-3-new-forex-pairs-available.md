@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 3 New forex pairs available
-permalink: /3-new-forex-pairs-available/
+title: "3 New forex pairs available"
+language: en
+permalink: /en/3-new-forex-pairs-available/
 excerpt: "Due to popular demand, the EUR/CHF, USD/CHF and GBP/CHF have been added to our list of available FX pairs. Check out the contracts available on these three new currency pairs now..."  
 ---
 

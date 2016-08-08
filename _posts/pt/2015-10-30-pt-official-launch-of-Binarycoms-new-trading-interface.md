@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lançamento oficial da nova interface de negociação da Binary.com
-permalink: /pt-official-launch-of-Binarycoms-new-trading-interface/
+permalink: /pt/official-launch-of-Binarycoms-new-trading-interface/
 excerpt: "Temos a satisfação de anunciar o lançamento oficial de uma interface aperfeiçoada e simplificada no website da Binary.com que irá ser implementada durante esta semana...."  
-lang: pt
+language: pt
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Video perdana laporan harian BinaryTV
-permalink: /Video-perdana-laporan-harian-Binary-TV/
+permalink: /id/Video-perdana-laporan-harian-Binary-TV/
 excerpt: "Dengan bangga Kami memperkenalkan saluran TV Binary yang tersedia dalam berbahasa Inggris. Kunjungi semua saluran-informatif baru -Didesain khusus untuk pelanggan kami - merangkum berbagai wawasan dan event pasar keuangan ..."
-lang: id  
+language: id 
 ---
 
 

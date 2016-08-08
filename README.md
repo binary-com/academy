@@ -1,4 +1,2 @@
-marketing-binary.github.io
-==========================
-
-Binary Blog
+# blog-v2
+v2

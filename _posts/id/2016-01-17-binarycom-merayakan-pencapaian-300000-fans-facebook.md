@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Binary.com Merayakan Pencapaian 300,000 Fans Facebook!
-permalink: /binarycom-merayakan-pencapaian-300000-fans-facebook/
+permalink: /id/binarycom-merayakan-pencapaian-300000-fans-facebook/
 excerpt: "Kami ingin menyampaikan penghargaan yang tulus kepada semua yang telah membantu halaman resmi Facebook Binary.com dalam pencapaian terbaru..."
-lang: id 
+language: id
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title: BinaryTV estrena videos de informes de mercado diarios
-permalink: /BinaryTV-estrena-videos-de-informes-de-mercado-diarios/
+permalink: /es/BinaryTV-estrena-videos-de-informes-de-mercado-diarios/
 excerpt: "Nos complace presentar Binary TV, ahora disponible en inglés. Visite este Nuevo canal de información –diseñado especialmente para nuestros comerciantes – para información y..."
-lang: es 
+language: es
 ---
 
 

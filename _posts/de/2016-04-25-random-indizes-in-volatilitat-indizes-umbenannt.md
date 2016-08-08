@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: „Random Indizes“ in „Volatilität Indizes“ umbenannt
-permalink: /random-indizes-in-volatilitat-indizes-umbenannt/
+permalink: /de/random-indizes-in-volatilitat-indizes-umbenannt/
 excerpt: "Im Rahmen unseres neusten Release sind die,„Random Indizes“ auf der Binary.com Handelsplattform in „Volatilität Indizes” umbenannt worden..."
-lang: de 
+language: de 
 ---
 
 Im Rahmen unseres neusten Release sind die**,*„Random Indizes“* auf der Binary.com Handelsplattform in *„Volatilität Indizes”* umbenannt worden. **

@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: “Indeks Random” Berganti Nama Menjadi “Indeks Volatilitas”
-permalink: /indeks-random-berganti-nama-menjadi-indeks-volatilitas/
+permalink: /id/indeks-random-berganti-nama-menjadi-indeks-volatilitas/
 excerpt: "Berdasarkan peningkatan terbaru, “Indeks Random” telah berganti nama menjadi “Indeks Volatilitas” pada platform trading Binary.com. Lihat daftar perubahan nama berikut ini untuk referensi..."
-lang: id
+language: id
 ---
 
 Berdasarkan peningkatan **terbaru, *“Indeks Random”* telah berganti nama menjadi *“Indeks Volatilitas”* pada platform trading Binary.com. **

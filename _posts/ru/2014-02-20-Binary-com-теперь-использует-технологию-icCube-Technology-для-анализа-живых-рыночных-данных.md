@@ -1,8 +1,8 @@
 ---
-layout: ru/post
+layout: post
 title: Binary.com теперь использует технологию icCube Technology для анализа живых рыночных данных
-permalink: Binary-com-теперь-использует-технологию-icCube-Technology-для-анализа-живых-рыночных-данных 
-lang: ru
+permalink: /ru/Binary-com-теперь-использует-технологию-icCube-Technology-для-анализа-живых-рыночных-данных 
+language: ru
 ---
 ![](/post_images/275409_orig.jpg)
 

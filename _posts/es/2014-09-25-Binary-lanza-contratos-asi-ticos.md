@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title:  Binary.com lanza contratos asi·ticos
-permalink: /Binary-lanza-contratos-asi-ticos/
+permalink: /es/Binary-lanza-contratos-asi-ticos/
 excerpt: Con la ˙ltima actualizaciÛn de nuestra plataforma, ahora le ofrecemos la oportunidad de adquirir contratos asi·ticos sobre los mercados Forex e Ìndices Random.
-lang: es
+language: es
 ---
 
 Con la ˙ltima actualizaciÛn de nuestra plataforma, ahora le ofrecemos la oportunidad de adquirir contratos asi·ticos sobre los mercados Forex e Ìndices Random.

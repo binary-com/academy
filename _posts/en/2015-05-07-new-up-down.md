@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Introducing the new Up/Down section
-permalink: /introducing-the-new-up-down-section
+title: "Introducing the new Up/Down section"
+language: en
+permalink: /en/introducing-the-new-up-down-section
 excerpt: "With the latest upgrade to our trading platform, Rise/Fall and Higher/Lower contracts, may now be found under the new Up/Down section."  
 ---
 

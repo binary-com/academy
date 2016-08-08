@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: "Удалено приложение для графиков Java"
-permalink: /Java-chart-application--removed/
+permalink: /ru/java-chart-application--removed/
 excerpt: "Ввиду недавних нововведений на нашей торговой платформе, на отдельных рынках стали доступны контракты со спредами."
-lang: ru 
+language: ru
 ---
 
 

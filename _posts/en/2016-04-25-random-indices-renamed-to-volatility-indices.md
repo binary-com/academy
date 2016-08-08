@@ -1,7 +1,8 @@
 ---
 layout: post
-title: “Random Indices” Renamed to “Volatility Indices”
-permalink: /random-indices-renamed-to-volatility-indices/
+title: “Random Indices” Renamed to “Volatility Indices”
+language: en
+permalink: /en/random-indices-renamed-to-volatility-indices/
 excerpt: "As part of our latest release, the “Random Indices” have been renamed to “Volatility Indices” on the Binary.com trading platform..."
 ---
 

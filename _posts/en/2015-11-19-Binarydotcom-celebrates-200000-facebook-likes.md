@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Binary.com celebrates 200,000 Facebook Fans!   
-permalink: /Binarydotcom-celebrates-200000-facebook-likes/   
+title: "Binary.com celebrates 200,000 Facebook Fans!"
+language: en
+permalink: /en/Binarydotcom-celebrates-200000-facebook-likes/   
 excerpt: "We would just like to thank all of you who helped the Binary.com home page achieves its most recent milestone of 200,000 Facebook fans! We greatly value and ..."  
 ---
 

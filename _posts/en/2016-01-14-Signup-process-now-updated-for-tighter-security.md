@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Signup Process Now Updated, for Tighter Security
-permalink: /Signup-process-now-updated-for-tighter-security/
+title: "Signup Process Now Updated, for Tighter Security"
+language: en
+permalink: /en/Signup-process-now-updated-for-tighter-security/
 excerpt: "Today marked the rollout of some changes to the signup process on Binary.com Email verification is now required for the setup of all new virtual money accounts..."
 ---
 

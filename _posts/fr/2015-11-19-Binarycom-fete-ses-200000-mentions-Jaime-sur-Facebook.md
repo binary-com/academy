@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Binary.com fête ses 200 000 mentions « J'aime » sur Facebook 
-permalink: /Binarycom-fete-ses-200000-mentions-Jaime-sur-Facebook/
+permalink: /fr/Binarycom-fete-ses-200000-mentions-Jaime-sur-Facebook/
 excerpt: "Nous tenons à remercier tous les internautes ayant permis à la page Facebook de Binary.com de passer récemment la barre des [200 000 mentions J'aime..."  
-lang: fr 
+language: fr
 ---
 
 

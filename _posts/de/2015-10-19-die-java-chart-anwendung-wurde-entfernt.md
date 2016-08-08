@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: Auf Binary.com wurde die Chart Anwenung entfernt
-permalink: /die-java-chart-anwendung-wurde-entfernt/
+permalink: /de/die-java-chart-anwendung-wurde-entfernt/
 excerpt: "Mit Wirkung vom heutigen Tage steht die Java Charts Anwendung nicht mehr länger zum Download zur Verfügung. Wenn Sie diese Anwendung schon vorher herunter geladen haben, beachten Sie bitte, dass sie nicht mehr länger..."
-lang: de 
+language: de 
 ---
 
 Mit Wirkung vom heutigen Tage steht die Java Charts Anwendung nicht mehr länger zum Download zur Verfügung. Wenn Sie diese Anwendung schon vorher herunter geladen haben, beachten Sie bitte, dass sie nicht mehr länger von Binary.com gepflegt wird.

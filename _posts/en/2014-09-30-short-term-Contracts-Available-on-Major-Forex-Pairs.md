@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Short-term Contracts Available on Major Forex Pairs
-permalink: /short-term-contracts-available-on-major-forex-pairs/
+title: "Short-term Contracts Available on Major Forex Pairs"
+language: en
+permalink: /en/short-term-contracts-available-on-major-forex-pairs/
 excerpt: With this latest upgrade, Intraday contracts such as the Higher/Lower and the Touch/NoTouch may be purchased with a minimum duration of 15 minutes on all Major FX pairs.
 ---
 

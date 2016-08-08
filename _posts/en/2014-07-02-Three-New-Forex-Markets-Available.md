@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Three New Forex Markets Available
-permalink: /Three-New-Forex-Markets-Available/
+title: "Three New Forex Markets Available"
+language: en
+permalink: /en/Three-New-Forex-Markets-Available/
 excerpt: Rise/Fall trades on the USD/MXN, NZD/JPY and USD/PLN are now available with a minimum duration of 1 day.
 ---
 

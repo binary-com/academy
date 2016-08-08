@@ -1,9 +1,9 @@
 ---
-layout: es/post
+layout: post
 title: Los contratos a corto plazo disponibles para los principales pares de Forex
-permalink: Los-contratos-a-corto-plazo-disponibles-para-los-principales-pares-de-Forex
+permalink: /es/Los-contratos-a-corto-plazo-disponibles-para-los-principales-pares-de-Forex/
 excerpt: Debido a la demanda popular, la duraciÛn mÌnima de los contratos para los pares principales de Forex ha cambiado para toda nuestra gama de contratos.
-lang: es
+language: es
 ---
 
 Debido a la demanda popular, la duraciÛn mÌnima de los contratos para los pares principales de Forex ha cambiado para toda nuestra gama de contratos.

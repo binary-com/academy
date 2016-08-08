@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Trois bonnes raisons d'essayer notre nouvelle interface
-permalink: /Trois-bonnes-raisons-dessayer-notre-nouvelle-interface/
+permalink: /fr/Trois-bonnes-raisons-dessayer-notre-nouvelle-interface/
 excerpt: "Pourquoi utiliser la nouvelle interface Binary.com pour vos opérations de trading ? Voici trois bonnes raisons d'opter pour notre nouvelle interface de façon permanente..."
-lang: fr 
+language: fr 
 ---
 
 

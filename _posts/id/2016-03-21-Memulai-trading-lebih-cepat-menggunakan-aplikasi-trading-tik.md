@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title: Memulai Trading Lebih Cepat Menggunakan Aplikasi Trading Tik
-permalink: /Memulai-trading-lebih-cepat-menggunakan-aplikasi-trading-tik/
+permalink: /id/Memulai-trading-lebih-cepat-menggunakan-aplikasi-trading-tik/
 excerpt: "Tertarik untuk mengeksekusi kontrak dengan lebih cepat? Cobalah aplikasi trading tik terbaru dari kami...."
-lang: id
+language: id
 ---
 
 **3 Alasan Tepat Mengapa Anda Perlu Mendownload Applikasi Trading Tik**

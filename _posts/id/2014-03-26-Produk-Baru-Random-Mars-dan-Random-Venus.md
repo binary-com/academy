@@ -1,13 +1,12 @@
 ---
-layout: id/post
+layout: post
 title:  Produk Baru! Random Mars dan Random Venus
-permalink: Produk-Baru-Random-Mars-dan-Random-Venus
-excerpt: This move comes as a result of the recent upgrade to our charting package, which we are pleased to say was very well-received by our customers. Effective from the 14 April 2014, the "Legacy Charts" will be brought down, to make room for our new and improved "Live Charts" and the "Java application" which you can download right here.
-keywords: <!--- write post kewords here(for SEO) -->
-lang: id
+permalink: /id/Produk-Baru-Random-Mars-dan-Random-Venus/
+excerpt: Untuk melengkapi rangkaian pilihan Random Index, kami telah meluncurkan Random Mars dan Random Venus.
+language: id
 ---
 
-![](/post_images/3490486_orig.jpg)
+![](/images/3490486_orig.jpg)
 
 Untuk melengkapi rangkaian pilihan Random Index, kami telah meluncurkan Random Mars dan Random Venus. Random Mars disimulasikan dari market yang aktif pada siang hari (namun volatilitas melemah pada malam hari) dan Random Venus disimulasikan dari market yang lemah pada siang hari (namun menjadi aktif pada malam hari). Kedua dua index berikut diperbarui pada harga 1000 pada jam 12:00 SIANG GMT setiap hari.
 

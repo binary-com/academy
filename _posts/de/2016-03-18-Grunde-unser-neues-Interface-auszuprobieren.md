@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: 3 Gründe, unser neues Interface auszuprobieren
-permalink: /Grunde-unser-neues-Interface-auszuprobieren/
+permalink: /de/Grunde-unser-neues-Interface-auszuprobieren/
 excerpt: "Warum Sie mit dem neuen Binary.com Interface traden sollen? Hier die drei simplen Gründe, warum Sie den ständigen Wechsel auf unser neustes Interface vollziehen sollten..."
-lang: de 
+language: de 
 ---
 
 

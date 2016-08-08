@@ -1,9 +1,9 @@
 ---
-layout: ru/post
+layout: post
 title: Праздничное поздравление от Binary.com!
-permalink: /ru-happy-holidays-from-binarycom/
+permalink: /ru/happy-holidays-from-binarycom/
 excerpt: "Binary.com поздравляет всех своих друзей с зимними праздниками и Новым годом! Желаем Вам счастья и процветания в наступающем..."
-lang: ru 
+language: ru
 ---
 
 

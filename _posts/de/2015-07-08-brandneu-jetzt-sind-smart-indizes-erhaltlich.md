@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: Brandneu! Jetzt sind Smart Indizes erhältlich
-permalink: /brandneu-jetzt-sind-smart-indizes-erhaltlich
+permalink: /de/brandneu-jetzt-sind-smart-indizes-erhaltlich/
 excerpt: "Wir freuen uns Ihnen mitteilen zu können, dass Binary.com sein Produktangebot durch den Start seiner Smart Indizes erweitert. Smart Indizes sind synthetische Indizes, die unter Verwendung von Marktdaten geschaffen..."
-lang: de 
+language: de 
 ---
 
 Wir freuen uns Ihnen mitteilen zu können, dass Binary.com sein Produktangebot durch den Start seiner Smart Indizes erweitert. Smart Indizes sind synthetische Indizes, die unter Verwendung von Marktdaten geschaffen wurden, die den entsprechenden Cash Index* eng nachverfolgen. Mit Echtzeit Charts & Kursen, der Verfügbarkeit von kurzfristigen Kontrakten und verlängerten Börsenzeiten bieten sie Ihnen spannendere Möglichkeiten, auf den Finanzmärkten zu handeln.

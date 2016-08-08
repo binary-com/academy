@@ -1,9 +1,9 @@
 ---
-layout: id/post
+layout: post
 title:  Lebih fleksibel, kompleksitas kurang
-permalink: Lebih-fleksibel-kompleksitas-kurang
+permalink: /id/Lebih-fleksibel-kompleksitas-kurang/
 excerpt: Waktu dan fleksibilitas adalah segalanya pada dunia trading. Saat ini kami telah memiliki dua fitur hebat yang akan membantu dalam menyempurnakan trading Anda.
-lang: id
+language: id
 ---
 
 Waktu dan fleksibilitas adalah segalanya pada dunia trading. Saat ini kami telah memiliki dua fitur hebat yang akan membantu dalam menyempurnakan trading Anda.

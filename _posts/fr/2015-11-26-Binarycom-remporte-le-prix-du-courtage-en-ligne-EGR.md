@@ -1,9 +1,9 @@
 ---
-layout: fr/post
+layout: post
 title: Binary.com remporte le prix du courtage en ligne EGR
-permalink: /Binarycom-remporte-le-prix-du-courtage-en-ligne-EGR/
+permalink: /fr/Binarycom-remporte-le-prix-du-courtage-en-ligne-EGR/
 excerpt: "Bonne nouvelle! Cette semaine, Binary.com a remporté un prix récompensant les meilleurs services de courtage en ligne, lors de la prestigieuse [cérémonie organisée par EGR en 2015..."
-lang: fr  
+language: fr 
 ---
 
 Bonne nouvelle! Cette semaine, Binary.com a remporté un prix récompensant les meilleurs services de courtage en ligne, lors de la prestigieuse [cérémonie organisée par EGR en 2015](https://www.eiseverywhere.com/ehome/135475/308461/?&), à Londres.
@@ -22,7 +22,7 @@ Les principaux critères d'évaluation sont les suivants:
 
 
 
-L'identité des gagnants a été dévoilée en grande pompe, le lundi 23 novembre au soir, dans les bâtiments de [l'Honourable Artillery Company (HAC)](http://www.hac.org.uk/events): un magnifique manoir de style georgien situé au cœur de Londres, accueillant de nombreux événements.    
+L'identité des gagnants a été dévoilée en grande pompe, le lundi 23 novembre au soir, dans les bâtiments de [l'Honourable Artillery Company (HAC)](http://www.hac.org.uk/events): un magnifique manoir de style georgien situé au cœur de Londres, accueillant de nombreux événements.
 
 **Merci à vous!**
 

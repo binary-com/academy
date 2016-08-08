@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Check Out the Binary.com Shop for Apps, Gear, and More!
-permalink: /check-out-the-binarycom-shop-for-apps-gears-and-more/
+title: "Check Out the Binary.com Shop for Apps, Gear, and More!"
+language: en
+permalink: /en/check-out-the-binarycom-shop-for-apps-gears-and-more/
 excerpt: "Browse through the Binary.com Shop, where you can conveniently find all of our trading tools, training materials, and branded merchandise..."
 ---
 

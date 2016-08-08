@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Smaller pip sizes on most major FX pairs
-permalink: /smaller-pip-sizes-on-most-major-fx-pairs/
+title:  "Smaller pip sizes on most major FX pairs"
+language: en
+permalink: /en/smaller-pip-sizes-on-most-major-fx-pairs/
 excerpt: We are excited to announce that most major FX pairs now have upgraded feeds with smaller pip sizes.
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: de/post
+layout: post
 title: Die E-Mail Adresse dient jetzt als Ihr Login, um die Sicherheit zu erhöhen
-permalink: /Die-e-Mail-Adresse-dient-jetzt-als-Ihr-Login-um-die-Sicherheit-zu-erhohen/
+permalink: /de/Die-e-Mail-Adresse-dient-jetzt-als-Ihr-Login-um-die-Sicherheit-zu-erhohen/
 excerpt: "Wir informieren Sie hiermit über eine neue Sicherheitsverbesserung für Binary.com: Seit gestern Morgen ist nun Ihre E-Mail Adresse für die Anmeldung..."
-lang: de 
+language: de 
 ---
 
 
