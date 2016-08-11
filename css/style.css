@@ -91,7 +91,7 @@ a h2:hover {color:inherit;}
 .Blog-Sidebar__section ul li  a{font-size:18px; font-weight:700;}
 .Blog-Sidebar__section__full {background-color:#f4f4f4; padding:0px; margin-bottom:20px;}
 .Blog-Sidebar__section__title__full {font-weight:400; padding:20px;}
-.Blog-Sidebar__recent-posts ul {list-style-type: image; list-style-image: url(img/carret.png);}
+.Blog-Sidebar__recent-posts ul {list-style-type: none; }
 .Blog-Sidebar__recent-posts ul li { border-bottom:0px solid #ccc; margin-left:15px; padding:5px 0px; }
 .Blog-Sidebar__recent-posts ul li  a{}
 /* Footer */
@@ -161,7 +161,6 @@ a h2:hover {color:inherit;}
 .Footer__social ul {margin-top:20px;}
 .Footer__social ul li {padding:2px; }
 .Footer__social ul li  img{width: 30px; height: 30px;}
-
 /* Video Embed */
 .video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
 .video-container iframe,
