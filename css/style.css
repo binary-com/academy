@@ -51,7 +51,7 @@ a h2:hover {color:inherit;}
 .Subheader ul li a:hover{ text-decoration:none; }
 @media (max-width: 768px) {
 .Subheader ul li {display:block; margin:0px 0px; padding:6px 0px; width:100%; border-bottom:1px solid #ccc;}
-.Subheader ul li a{width:100%;margin-left:-15px; display:block;}
+.Subheader ul li a{width:100%;margin-left:-15px;padding:7px 15px; display:block;}
 }
 /* Pages */
 .Blog-Posts__item {display:table; margin: 0px; padding-bottom: 15px; }
