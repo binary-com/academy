@@ -45,13 +45,13 @@ a h2:hover {color:inherit;}
 .bn-logo {text-align:center; margin-top:20px;}
 }
 .Subheader {display:table; width:100%; font-size:15px; background-color:#f2f2f2; border-bottom:1px solid #dedede; padding:0px; text-align:left;}
-.Subheader ul {list-style:none; margin:0px 0px 0px -15px; padding:0; width:100%; display:block; }
+.Subheader ul {list-style:none; margin:0px; padding:0; width:100%; display:block; }
 .Subheader ul li {display:inline-block; margin:0px 0px; padding:5px 0px;}
 .Subheader ul li a{ padding:4px 15px; font-weight:400; }
 .Subheader ul li a:hover{ text-decoration:none; }
 @media (max-width: 768px) {
 .Subheader ul li {display:block; margin:0px 0px; padding:6px 0px; width:100%; border-bottom:1px solid #ccc;}
-.Subheader ul li a{width:100%; display:block;}
+.Subheader ul li a{width:100%;margin-left:-15px; display:block;}
 }
 /* Pages */
 .Blog-Posts__item {display:table; margin: 0px; padding-bottom: 15px; }
@@ -155,6 +155,7 @@ a h2:hover {color:inherit;}
 .Social__nav a:hover {z-index: 2; }
 @media only screen and (max-width : 768px) {
 .Social { margin-top:-5px; margin-bottom:20px; text-align:center; }
+.Social__nav li a { width: 50px;height: 50px;line-height: 50px;}
 }
 .Footer__social h5 {text-align:center;}
 .Footer__social ul {margin-top:20px;}
