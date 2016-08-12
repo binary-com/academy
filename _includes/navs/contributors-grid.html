@@ -1,7 +1,8 @@
 {% include lang.html %}
+
 {% if siteLang == "en" %}
     {% assign NavLang = site.pages | where: "language", "en" %}
-	{% for page in NavLang %}
+	{% for page in NavLang  %}
     {% if page.tag == "contributor" %}	
 		{% if page.title %}
 			<div class="Page-Grid__grid-wrap__box">
