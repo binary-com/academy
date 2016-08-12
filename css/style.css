@@ -170,3 +170,5 @@ a h2:hover {color:inherit;}
 .video-thumb:nth-child(4n) {margin-right: 0;}
 .video-thumb img {padding-bottom: 1em;}
 .video-thumb p{font-size: 14px;margin: 0;}
+/* Corrections */
+.button {display:inline-table;margin-bottom:5px;}

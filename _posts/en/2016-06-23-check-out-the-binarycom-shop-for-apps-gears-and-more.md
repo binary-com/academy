@@ -6,7 +6,7 @@ permalink: /en/check-out-the-binarycom-shop-for-apps-gears-and-more/
 excerpt: "Browse through the Binary.com Shop, where you can conveniently find all of our trading tools, training materials, and branded merchandise..."
 ---
 
-Browse through the Binary.com [Shop](https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en){:target="_blank"}, where you can conveniently find all of our trading tools, training materials, and branded merchandise.
+Browse through the Binary.com [Shop](https://shop.binary.com){:target="_blank"}, where you can conveniently find all of our trading tools, training materials, and branded merchandise.
 
 <h2>Why Visit the Binary.com Shop?</h2>
 
