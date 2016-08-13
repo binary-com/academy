@@ -69,7 +69,7 @@ layout: post
 title: "Learn Forex Trading Basics"
 language: en
 permalink: /en/learn-forex-trading-basics/
-excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged — is the largest and most liquid market in the world. Do you want to learn Forex trading..."
+excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged..."
 ```
 
 
@@ -78,6 +78,8 @@ excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged
 ###Post Content
 
 you can just use p element, no need for fancy div usage.
-Note that a button under new unified style looks like this: <a class="button" href"http://binary.com"><span>Link Title</span></a>
-
+Note that a button under new unified style looks like this:
+```
+<a class="button" href"http://binary.com"><span>Link Title</span></a>
+```
 But all elements following unified styling can be found on the style guide here: https://style.binary.com
