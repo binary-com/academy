@@ -59,9 +59,9 @@ Image value is used for contributors grid, page "Contributors".
 ```
 layout: page-contributor
 title: Jim Mellon
+permalink: /en/jim-mellon/
 language: en
 tag: contributor
-permalink: /en/jim-mellon/
 image: /images/speaker/jimmellon.jpg
 ```
 
@@ -76,8 +76,8 @@ Correct usage of front matter for posts.
 ```
 layout: post
 title: "Learn Forex Trading Basics"
-language: en
 permalink: /en/learn-forex-trading-basics/
+language: en
 excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged..."
 ```
 
