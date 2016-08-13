@@ -1,4 +1,4 @@
-# Binary blog v2
+## Binary blog v2
 
 1. Always add language to the permalink ( like this -> permalink: /en/some-text-for-prmalink }
 
@@ -43,28 +43,27 @@ Correct usage of front matter for pages:
 Tag value sets the group of pages to build navigation for. Example: Learning center sidebar nav and contributors grid page as well as contributor sidebar menu. 
 There are only 3 tags now, "learning" for Learning Center, "contributor" for Contributors and "main" for building main navigation.
 
-
 Front matter example for page webinars, which is under tag "learning", mening it belongs to the group of pages (category if you will) Learning Center.
----
+```
 layout: page-learning-center
 title: Webinars
 permalink: /en/webinars/
 language: en
 tag: learning
----
+```
 
 
 Front matter for contributors pages. 
 Image value is used for contributors grid, page "Contributors".
 
----
+```
 layout: page-contributor
 title: Jim Mellon
 language: en
 tag: contributor
 permalink: /en/jim-mellon/
 image: /images/speaker/jimmellon.jpg
----
+```
 
 
 ========================================================
@@ -76,13 +75,13 @@ Note that even if you add post in the wrong language subfolder but with correct 
 
 Correct usage of front matter for posts.
 
----
+```
 layout: post
 title: "Learn Forex Trading Basics"
 language: en
 permalink: /en/learn-forex-trading-basics/
 excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged — is the largest and most liquid market in the world. Do you want to learn Forex trading..."
----
+```
 
 
 =========================================================
