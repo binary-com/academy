@@ -12,11 +12,11 @@ If you forget to add language value to the permalink, Jekyll will not be happy a
 
 
 Why is this important?
-This value is used to show pages and posts. Without it, jekyll will have nightmare and bad things will hapen.
+This value is used to show pages and posts. Without it, jekyll will have nightmare and bad things will happen.
 
 
 
-- All sidebar elements and links are loaded dinamically, according to the language within permalink. Example: If Jekyll see value /ru/ in the url (which is added to the page or post permalink), it will load last 10 Russian posts, generate Russian links for learning center, show Russian contributors, show russian version of promotional boxes. 
+- All sidebar elements and links are loaded dynamically, according to the language within permalink. Example: If Jekyll see value /ru/ in the url (which is added to the page or post permalink), it will load last 10 Russian posts, generate Russian links for learning center, show Russian contributors, show Russian version of promotional boxes. 
 
 ===========================================================
 
@@ -44,7 +44,7 @@ _includes/navs/footer
 Tag value sets the group of pages to build navigation for. Example: Learning center sidebar nav and contributors grid page as well as contributor sidebar menu. 
 There are only 3 tags now, "learning" for Learning Center, "contributor" for Contributors and "main" for building main navigation.
 
-Front matter example for page webinars, which is under tag "learning", mening it belongs to the group of pages (category if you will) Learning Center.
+Front matter example for page webinars, which is under tag "learning", meaning it belongs to the group of pages (category if you will) Learning Center.
 ```
 layout: page-learning-center
 title: Webinars
@@ -69,7 +69,7 @@ image: /images/speaker/jimmellon.jpg
 
 ###Adding posts
  
-Note that even if you add post in the wrong language subfolder but with correct front matter values, it will be still correctly shown. Language subfolders are ment to just make management easier and better organized (and that is also valid for pages):
+Note that even if you add post in the wrong language subfolder but with correct front matter values, it will be still correctly shown. Language subfolders are meant to just make management easier and better organized (and that is also valid for pages):
 
 Correct usage of front matter for posts.
 
