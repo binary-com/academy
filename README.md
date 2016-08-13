@@ -6,6 +6,7 @@
 
 Why is this important?
 Blog is always listening url and looking for language value (/en/) in order to show correct language on the page for all elements (header, footer, sidebar..) 
+
 If you forget to add language value to the permalink, Jekyll will not be happy about it and will use English in spite.
 - Always add language to the front matter ( like this -> language: en )
 
@@ -16,7 +17,8 @@ This value is used to show pages and posts. Without it, jekyll will have nightma
 
 
 
-- All sidebar elements and links are loaded dynamically, according to the language within permalink. Example: If Jekyll see value /ru/ in the url (which is added to the page or post permalink), it will load last 10 Russian posts, generate Russian links for learning center, show Russian contributors, show Russian version of promotional boxes. 
+- All sidebar elements and links are loaded dynamically, according to the language within permalink. 
+Example: If Jekyll see value /ru/ in the url (which is added to the page or post permalink), it will load last 10 Russian posts, generate Russian links for learning center, show Russian contributors, show Russian version of promotional boxes. 
 
 ===========================================================
 
