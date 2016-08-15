@@ -94,3 +94,26 @@ Note that a button under new unified style looks like this:
 <a class="button" href"http://binary.com"><span>Link Title</span></a>
 ```
 But all elements following unified styling can be found on the style guide here: https://style.binary.com
+
+###Grid System
+12 columns
+
+
+Using a single set of .col-md grid classes, you can create a basic grid system that starts out stacked on mobile devices and tablet devices (the extra small to small range) before becoming horizontal on desktop (medium) devices. Place grid columns in any .row
+
+
+Always make sure the total sum is 12 (3+3+3+3 / 4+4+4 / 6+6 / 4+8 etc.)
+
+```
+<div class="row">
+  <div class="col-md-4">.col-md-4</div>
+  <div class="col-md-4">.col-md-4</div>
+  <div class="col-md-4">.col-md-4</div>
+</div>
+<div class="row">
+  <div class="col-md-6">.col-md-6</div>
+  <div class="col-md-6">.col-md-6</div>
+</div>
+```
+
+No need to add container class, this is already added. Just add row and columns.
