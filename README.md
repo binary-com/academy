@@ -42,7 +42,7 @@ _includes/navs/footer
 
 24/7 Listening for front matter language and tag values in pages and posts and building the page content according to this combination.
 
-###Correct usage of front matter for pages:
+###Correct usage of front matter for pages
 
 Tag value sets the group of pages to build navigation for. Example: Learning center sidebar nav and contributors grid page as well as contributor sidebar menu. 
 There are only 3 tags now, "learning" for Learning Center, "contributor" for Contributors and "main" for building main navigation.
