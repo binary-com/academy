@@ -24,7 +24,7 @@ Desfrute de todos os benefícios de gráficos e preços em tempo real com as nos
 - Tesco
 - Much More!
 
-[Veja a nossa lista completa de ações OTC](https://www.binary.com/en/resources/asset_indexws.html?utm_source=blog&utm_medium=social&utm_content=en&utm_campaign=whatsnew#market-stocks){:target="_blank"}.
+[Veja a nossa lista completa de ações OTC](https://www.binary.com/pt/resources/asset_indexws.html?utm_source=blog&utm_medium=social&utm_content=en&utm_campaign=whatsnew#market-stocks ){:target="_blank"}.
 
 Note que, por derivarem do mercado de balcão, os preços das nossas ações OTC podem diferir dos preços publicados para as ações correspondentes nas bolsas centralizadas.
 
