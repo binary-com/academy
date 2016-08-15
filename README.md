@@ -7,7 +7,7 @@
 Why is this important?
 Blog is always listening url and looking for language value (/en/) in order to show correct language on the page for all elements (header, footer, sidebar..) 
 
-If you forget to add language value to the permalink, Jekyll will not be happy about it and will use English in spite.
+If you forget to add language value to the permalink, English will be used.
 - Always add language to the front matter ( like this -> language: en )
 
 
