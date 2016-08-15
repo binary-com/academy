@@ -118,3 +118,8 @@ Always make sure the total sum is 12 (3+3+3+3 / 4+4+4 / 6+6 / 4+8 etc.)
 ```
 
 No need to add container class, this is already added. Just add row and columns.
+
+
+
+###Validate your code
+Its highly recommended to validate the page code you just created. Use html Validator: https://html5.validator.nu
