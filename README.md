@@ -32,10 +32,11 @@ file: _includes/lang.html
 
 ####Building page elements according to the language found in the url (header, menu, sidebar, footer)
 files: 
+```
 _includes/sidebar
 _includes/navs
 _includes/navs/footer
-
+```
 
 ===========================================================
 
