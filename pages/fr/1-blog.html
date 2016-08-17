@@ -6,7 +6,7 @@ language: fr
 tag: main
 ---
 {% assign frPosts = site.posts | where: "language", "fr" %}
-{% for post in frPosts | limit:15 %}  
+{% for post in frPosts limit:15 %}  
 <div class="row list--item">
 	<div class="col-sm-12">
 		<div class="Page-List__item__excerpt">	

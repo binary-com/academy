@@ -3,7 +3,7 @@ layout: default
 language: en
 ---
 {% assign engPosts = site.posts | where: "language", "en" %}
-{% for post in engPosts | limit:15 %}  
+{% for post in engPosts limit:15 %}  
 <div class="row list--item">
 	<div class="col-sm-12">
 		<div class="Page-List__item__excerpt">	
