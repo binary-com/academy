@@ -9,4 +9,4 @@ language: ru
 
 Binary.com поздравляет всех своих друзей с зимними праздниками и Новым годом! Желаем Вам счастья и процветания в наступающем году!
 
-![](/images/ru-greeting2016.gif)
+![Binary.com]({{ site.url }}/images/ru-greeting2016.gif)

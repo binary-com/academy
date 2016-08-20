@@ -9,7 +9,7 @@ language: id
 
 Kami dengan gembira mengumumkan penambahan metode pembayaran baru di Binary.com: [Bitcoin](https://bitcoin.org/id/).
 
-Tambahan terbaru ini memperluas jumlah [metode pembayaran](http://bit.ly/1lOK1nY) yang tersedia bagi para trader kami, dalam membantu lebih lanjut untuk memenuhi kebutuhan pribadi dan pilihan Anda.
+Tambahan terbaru ini memperluas jumlah metode pembayaran yang tersedia bagi para trader kami, dalam membantu lebih lanjut untuk memenuhi kebutuhan pribadi dan pilihan Anda.
 
 
 **Bagaimana Cara Kerja Bitcoin?**
@@ -36,36 +36,36 @@ Untuk mulai menggunakan Bitcoin, cukup ikuti petunjuk ini:
 
 2.Klik **Deposit**, dilingkari merah pada gambar di bawah.
 
-![](/images/Picture1.png)
+![Binary.com]({{ site.url }}/images/Picture1.png)
 
 3.Pilih **Bitcoin** sebagai metode pembayaran.
 
-![](/images/Picture2.png)
+![Binary.com]({{ site.url }}/images/Picture2.png)
 
 4.Masukkan **jumlah** yang ingin Anda depositkan.
 
-![](/images/Picture3.png)
+![Binary.com]({{ site.url }}/images/Picture3.png)
 
 5.Tunggu sekitar **lima detik**.
 
-![](/images/Picture4.png)
+![Binary.com]({{ site.url }}/images/Picture4.png)
 
 6.Copy **alamat Bitcoin** yang disediakan pada Kasir, seperti yang diperlihatkan pada screenshot berikut – dilingkari merah. *(Mohon perhatikan bahwa semua informasi sensitif dalam ilustrasi ini telah di sensor untuk tujuan keamanan).*
 
-![](/images/Picture5.png)
+![Binary.com]({{ site.url }}/images/Picture5.png)
 
 7.Kemudian akses **akun Bitcoin wallet** Anda.
 8.Paste alamat Bitcoin kedalam kolom “**Alamat penerima bitcoin**”.
 
-![](/images/Picture6.png)
+![Binary.com]({{ site.url }}/images/Picture6.png)
 
 9.Isikan kolom **Deskripsi**, sebagai informasi tambahan.
 
-![](/images/Picture7.png)
+![Binary.com]({{ site.url }}/images/Picture7.png)
 
 10.Masukkan **Jumlah bitcoin**.
 
-![](/images/Picture8.png)
+![Binary.com]({{ site.url }}/images/Picture8.png)
 
 11.Tekan “**Confirm**”.
 

@@ -8,4 +8,4 @@ language: de
 
 Frohe Festtage für alle Freunde von Binary.com. Wir wünschen Ihnen ein freudvolles und erfolgreiches Neues Jahr!
 
-![](/images/gr-greeting2016.gif)
+![Binary.com]({{site.url }}/images/gr-greeting2016.gif)

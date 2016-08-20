@@ -9,7 +9,7 @@ language: es
 **3 Razones Rápidas para Descargar Nuestra Aplicación Tick Trade**
 
 
-<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade_promote.png" alt=""></a>
+<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade_promote.png" alt="Binary.com"></a>
 
 
 Quiere realizar operaciones de forma muy rápida? Pruebe nuestra aplicación tick trade.

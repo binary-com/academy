@@ -11,13 +11,13 @@ Nos complace presentar [BinaryTV](https://www.binary.com/?l=ES&utm_source=blog&u
 
 Binary TV fue lanzado el miércoles con el primer episodio de una nueva serie de videos de Informe de Mercado Diario.
 
-![](/images/binarytv-thumbnail-img-.jpg)
+![Binary.com]({{ site.url }}/images/binarytv-thumbnail-img-.jpg)
 
 
 **Véanos Cada Día para Noticias Financieras**
 
 
-Manténgase informado sobre los principales titulares y tendencias del sector financiero global. Toda esta información valiosa incluida en nuestros [Daily Market Reports(Informes de Mercado Diarios)](https://blog.binary.com/es/binary-tv/?utm_source=blog&utm_medium=social&utm_content=ES&utm_campaign=BinaryTV) ahora disponible de forma conveniente en video.
+Manténgase informado sobre los principales titulares y tendencias del sector financiero global. Toda esta información valiosa incluida en nuestros [Daily Market Reports(Informes de Mercado Diarios)](https://blog.binary.com/es/binary-tv/) ahora disponible de forma conveniente en video.
 
 Subscríbase a nuestro canal de [YouTube](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), para asegurarse de no perder ningún capítulo.
 

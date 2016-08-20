@@ -8,4 +8,4 @@ language: es
 
 ¡Felices fiestas de parte de sus amigos Binary.com! ¡Le deseamos un feliz y próspero Año Nuevo!
 
-![](/images/sp-greeting2016.gif)
+![Binary.com]({{ site.url }}/images/sp-greeting2016.gif)

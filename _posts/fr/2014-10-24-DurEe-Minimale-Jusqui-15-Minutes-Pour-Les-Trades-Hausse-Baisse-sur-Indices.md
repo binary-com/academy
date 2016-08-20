@@ -21,4 +21,4 @@ Durée Minimale Jusqu’à 15 Minutes Pour Les Trades Hausse/Baisse sur Indices 
 * Indice Belge
 * Indice NÈerlandais
 
-Cette addition à notre plate-forme de trade vous donne plus de flexibilité et une offre plus large d’options lorsque vous achetez votre trade. [Achetez votre trade à court terme maintenant](https://www.binary.com/c/trade.cgi?market=indices&time=15m&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=SX5E&amount=100&date_&&l=FR&utm_medium=social&utm_source=blog&utm_content=whatsnew).
+Cette addition à notre plate-forme de trade vous donne plus de flexibilité et une offre plus large d’options lorsque vous achetez votre trade. [Achetez votre trade à court terme maintenant](https://www.binary.com/).

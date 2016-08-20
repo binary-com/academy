@@ -21,4 +21,4 @@ Great news! Rise/Fall trades are now available with a minimum duration of 15 min
 * Belgian Index
 * Dutch Index
 
-This addition to our trading platform gives you more flexibility and a broader range of options when purchasing your trade. [Purchase a short-term trade now!](https://www.binary.com/c/trade.cgi?market=indices&time=15m&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=SX5E&amount=100&date_&&l=EN&utm_medium=social&utm_source=blog&utm_content=whatsnew)
+This addition to our trading platform gives you more flexibility and a broader range of options when purchasing your trade. [Purchase a short-term trade now!](https://www.binary.com/)

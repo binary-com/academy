@@ -11,7 +11,7 @@ Berdasarkan peningkatan **terbaru, *“Indeks Random”* telah berganti nama me
 Lihat daftar perubahan nama berikut ini untuk referensi Anda: 
 
 
-![](/images/random_newname_id.jpg)
+![Binary.com]({{ site.url }}/images/random_newname_id.jpg)
 
 Mohon diketahui bahwa pada dasarnya **tidak ada perubahan pada produk,** melainkan hanya perubahan nama pada Indeks Random. 
 

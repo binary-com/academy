@@ -21,13 +21,13 @@ Today marked the rollout of some changes to the signup process on [Binary.com](h
 
 As you’ll now notice on our home page, an email address is first requested to sign up for a virtual account: 
 
-![](/images/newsignup-1-2016.png)
+![Binary Options Trading]({{ site.url }}/images/newsignup-1-2016.png)
 
 Once your email address has been entered, check your inbox for a new message from us, to verify this address. 
 
 Click on the link in the verification email, which will launch the following signup screen: 
 
-![](/images/newsignup-2-2016.png)
+![Binary.com]({{ site.url }}/images/newsignup-2-2016.png)
 
 Complete the details in this form, and then you’ll be all set up to start trading with virtual money.
 

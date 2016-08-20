@@ -10,7 +10,7 @@ language: pt
 
 Esta distinção nos foi entregue com base na avaliação do nosso crescimento, na nossa inovação e na oferta global de produtos durante os últimos 12 meses.
 
-![](/images/Financial-betting-operator.jpg)
+![Binary.com]({{ site.url }}/images/Financial-betting-operator.jpg)
 
 Os critérios-chave para este prêmio incluíram:
 
@@ -29,7 +29,7 @@ Os vencedores foram revelados em grande estilo na noite de segunda-feira, dia 23
 
 Obrigado – como sempre – por todo o apoio contínuo! É esta vigorosa lealdade que nos tem tornado uma das empresa de opções binárias mais consistentemente reconhecidas por mais mais de 15 anos.
 
-Continue negociando conosco aqui na [Binary.com](https://www.binary.com/home?l=PT?utm_source=blog&utm_medium=social&utm_content=en&utm_campaign=whatsnew)!
+Continue negociando conosco aqui na [Binary.com](https://www.binary.com/)!
 
 
 

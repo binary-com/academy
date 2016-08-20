@@ -8,7 +8,7 @@ language: ru
 
 
 
-<a href="https://www.binary.com/trading?l=RU&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew" target="_blank"><img src="/images/FB-ads5.jpg" alt=""></a>
+<a href="https://www.binary.com" target="_blank"><img src="/images/FB-ads5.jpg" alt="Binary.com"></a>
 
 
 **В чём преимущества нового интерфейса Binary.com?**
@@ -23,4 +23,4 @@ language: ru
 <br>
 
 Не ждите, пока старая платформа прекратит работу: <br>
-[Опробуйте наш новый интерфейс сейчас.](https://www.binary.com/trading?l=RU&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew){:target="_blank"}
+[Опробуйте наш новый интерфейс сейчас.](https://www.binary.com/){:target="_blank"}

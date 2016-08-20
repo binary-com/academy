@@ -6,7 +6,7 @@ excerpt: "Wir laden Sie ein, uns Ihre Unterstützung zu zeigen, in dem Sie für 
 language: de 
 ---
 
-![](/images/sharesAward2015.png)
+![Nominieren Sie Binary.com]({{site.url }}/images/sharesAward2015.png)
 
 Wir laden Sie ein, uns Ihre Unterstützung zu zeigen, indem Sie Binary.com in den folgenden Kategorien der diesjährigen Shares Awards nominieren:
 

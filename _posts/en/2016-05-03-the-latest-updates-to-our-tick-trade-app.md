@@ -8,7 +8,7 @@ excerpt: "Have you experienced the speed and mobility of trading through our Tic
 
 
 
-<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade2-resized.png" alt=""></a>
+<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="{{ site.url }}/images/ticktrade2-resized.png" alt="Binary.com"></a>
 
 **What's New with our Tick Trade App?**
 

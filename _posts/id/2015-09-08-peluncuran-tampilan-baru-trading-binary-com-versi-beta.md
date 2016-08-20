@@ -10,9 +10,9 @@ Kami, Binary.com, telah bekerja keras mendesain ulang tampilan kami saat ini. De
 
 
 
-[Lihat versi beta pada tampilan baru trading kami.](https://www.binary.com/trading)
+[Lihat versi beta pada tampilan baru trading kami.](https://www.binary.com/)
 
-[Beli kontrak perdana Anda menggunakan tampilan ini untuk memperloleh eksekusi trading terunggul dan tercepat!](https://www.binary.com/trading)
+[Beli kontrak perdana Anda menggunakan tampilan ini untuk memperloleh eksekusi trading terunggul dan tercepat!](https://www.binary.com/)
 
 Jangan ragu untuk mengirimkan kritik dan saran Anda atau melaporkan berbagai bug yang Anda temukan ke alamat email kami di [marketing@binary.com](mailto:marketing@binary.com).
 

@@ -9,9 +9,7 @@ excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged
 The Forex — where foreign currencies are bought, sold, and exchanged — is the largest and most liquid market in the world. Do you want to learn Forex trading? Then start with this quick tutorial video from Binary.com. Watch it now to familiarise yourself with the basics of Forex and how it works from a trading perspective.
 
 
-<p class="p--action"><iframe width="420" height="315"
-src="https://www.youtube.com/embed/T0tUvDMuEjY">
-</iframe></p>
+<p class="p--action"><iframe width="420" height="315" src="https://www.youtube.com/embed/T0tUvDMuEjY"></iframe></p>
 
 Did you learn anything new about Forex trading from this video? Let us know. Send your feedback to marketing@binary.com.
 

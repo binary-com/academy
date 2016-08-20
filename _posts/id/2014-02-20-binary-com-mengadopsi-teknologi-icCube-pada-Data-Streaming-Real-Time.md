@@ -6,7 +6,7 @@ excerpt: Binary.com dengan bangga mengumumkan pelaksanaan server icCube Online A
 language: id
 ---
 
-![](/images/275409_orig.jpg)
+![Binary.com]({{ site.url }}/images/275409_orig.jpg)
 
 **Binary.com** dengan bangga mengumumkan pelaksanaan server [icCube](http://www.iccube.com/) Online Analytical Processing (OLAP) pada seluruh transaksi dengan menyediakan streaming data real time yang tidak ada duanya.
 

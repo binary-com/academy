@@ -6,7 +6,7 @@ permalink: /en/nominate-binary-com-for-a-shares-award
 excerpt: "We invite you to show your support for Binary.com by nominating us for an award in the following categories for this year's Shares Awards"  
 ---
 
-![](/images/sharesAward2015.png)
+![Binary.com Award]({{site.url }}/images/sharesAward2015.png)
 
 We invite you to show your support for Binary.com by nominating us for an award in the following categories for this year's Shares Awards:  
 

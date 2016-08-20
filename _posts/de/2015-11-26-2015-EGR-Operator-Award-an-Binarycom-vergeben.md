@@ -11,7 +11,7 @@ Aufregende Neuigkeiten! In dieser Woche wurde Binary.com der erste Preis in der 
 
 Diese Ehrung wurde uns auf der Grundlage der Beurteilung unseres **Wachstums, unserer Innovation** und dem **gesamten Produktangebot** während der vergangenen 12 Monate zuteil.
 
-![](/images/Financial-betting-operator.jpg)
+![Award an Binary.com vergeben]({{site.url }}/images/Financial-betting-operator.jpg)
 
 Hauptkriterien für diese Auszeichnung waren:
 

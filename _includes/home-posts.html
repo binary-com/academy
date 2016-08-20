@@ -9,12 +9,12 @@
 	</div>	
 	<div class="col-sm-11">
 		<div class="Blog-Posts__item__excerpt">					   
-		<a class="Blog-Posts__item__title" href="{{ post.url | prepend: site.baseurl }}">
+		<a class="Blog-Posts__item__title" href="{{ post.url | prepend: site.url }}">
 			<span class="h-strong">{{ post.title }}</span>
 		</a>
 		<p>{{ post.excerpt }}
 		</p>
-		<a class="btn btn--sm" href="{{ post.url | prepend: site.baseurl }}">Read more ..</a>							
+		<a class="btn btn--sm" href="{{ post.url | prepend: site.url }}">Read more ..</a>							
 		</div>
 	</div>
 </div>

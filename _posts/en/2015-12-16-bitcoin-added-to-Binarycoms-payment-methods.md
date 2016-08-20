@@ -9,7 +9,7 @@ excerpt: "We are pleased to announce the addition of a new payment method on Bin
 
 We are pleased to announce the addition of a new payment method on Binary.com: [Bitcoin](https://bitcoin.org/en). 
 
-This latest addition expands the number of [payment methods](http://bit.ly/1lOK1nY) now available to our traders, as a way of catering further to your own individual needs and preferences.
+This latest addition expands the number of payment methods now available to our traders, as a way of catering further to your own individual needs and preferences.
 
 
 **How Does Bitcoin Work?**
@@ -36,36 +36,36 @@ To start using Bitcoin, simply follow these instructions:
 
 2.Click on **Deposit**, circled in red in the screenshot below.
 
-![](/images/Picture1.png)
+![Binary.com]({{ site.url }}/images/Picture1.png)
 
 3.Choose **Bitcoin** as the payment method.
 
-![](/images/Picture2.png)
+![Binary.com]({{ site.url }}/images/Picture2.png)
 
 4.Enter the **amount** you would like to deposit.
 
-![](/images/Picture3.png)
+![Binary.com]({{ site.url }}/images/Picture3.png)
 
 5.Wait for **five seconds.**
 
-![](/images/Picture4.png)
+![Binary.com]({{ site.url }}/images/Picture4.png)
 
 6.Copy the **Bitcoin address** provided by the Cashier, as shown in the screenshot below – circled in red. *(Note that all sensitive information has been greyed out in this illustration, for security purposes.)*
 
-![](/images/Picture5.png)
+![Binary.com]({{ site.url }}/images/Picture5.png)
 
 7.Now log into your **Bitcoin wallet account.**
 8.Paste the Bitcoin address into the **“Receiving bitcoin address”** field.
 
-![](/images/Picture6.png)
+![Binary.com]({{ site.url }}/images/Picture6.png)
 
 9.Add a **Description**, as an optional field.
 
-![](/images/Picture7.png)
+![Binary.com]({{ site.url }}/images/Picture7.png)
 
 10.Insert the **Amount in bitcoins.**
 
-![](/images/Picture8.png)
+![Binary.com]({{ site.url }}/images/Picture8.png)
 
 11.Hit **“Confirm.”**
 

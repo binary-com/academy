@@ -11,7 +11,7 @@ Como parte de nuestro último lanzamiento, **los *“Índices Random”* han si
 Indicamos aquí debajo el cambio de nombre correspondiente para los índices individuales, para su referencia: 
 
 
-![](/images/blogpostpic-11.png)
+![Binary Trading]({{ site.url }}/images/blogpostpic-11.png)
 
 
 Sepa que **no se han realizado cambios en los productos;** esto es simplemente un cambio de nombre de los Índices Random. 

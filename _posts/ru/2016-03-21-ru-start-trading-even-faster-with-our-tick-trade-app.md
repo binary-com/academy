@@ -10,7 +10,7 @@ language: ru
 **3 причины загрузить приложение Tick Trade App**
 
 
-<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade_promote.png" alt=""></a>
+<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade_promote.png" alt="Binary.com"></a>
 
 Хотите быстро проводить сделки? Попробуйте наше новое торговое приложение Tick Trade App.
 

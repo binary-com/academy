@@ -10,7 +10,7 @@ Bonne nouvelle! Cette semaine, Binary.com a remporté un prix récompensant les 
 
 Cette distinction nous a été décernée sur la base d'une évaluation de notre croissance, de nos innovations et de notre offre générale de produitsau cours des 12 derniers mois.
 
-![](/images/Financial-betting-operator.jpg)
+![Binary.com]({{ site.url }}/images/Financial-betting-operator.jpg)
 
 Les principaux critères d'évaluation sont les suivants:
 

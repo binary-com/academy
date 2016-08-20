@@ -6,7 +6,7 @@ excerpt: "Kami sangat gembira untuk mengumumkan bahwa Binary.com masuk sebagai s
 language: id
 ---
 
-![](/images/7799451_orig.jpg)
+![Binary.com]({{ site.url }}/images/7799451_orig.jpg)
 
 Kami sangat gembira untuk mengumumkan bahwa Binary.com masuk sebagai salah satu nominasi pada UK Forex Awards 2014. Kami mengundang anda untuk memberi dukungan dengan memilih Binary.com pada beberapa kategori berikut ini:  
 

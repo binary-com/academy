@@ -11,7 +11,7 @@ Noticias emocionantes! Esta semana, Binary.com ganó el primer premio en la cate
 
 Este premio nos ha sido otorgado en base a la evaluación de nuestro **crecimiento, innovación, yoferta de productos general** durante los últimos 12 meses.
 
-![](/images/Financial-betting-operator.jpg)
+![Binary.com Trading]({{ site.url }}/images/Financial-betting-operator.jpg)
 
 Los criterios clave para este premio fueron:
 

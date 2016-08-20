@@ -10,7 +10,7 @@ language: pt
 **3 razões rápidas para baixar o nosso aplicativo de negociações tique-taque**
 
 
-<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade_promote.png" alt=""></a>
+<a href="https://play.google.com/store/apps/details?id=com.binary.ticktrade&utm_source=blog&utm_medium=social&utm_campaign=blog_post_en" target="_blank"><img src="/images/ticktrade_promote.png" alt="Binary.com"></a>
 
 
 Interessado em executar negociações muito rapidamente? Experimente o nosso novo aplicativo de negociações tique-taque.

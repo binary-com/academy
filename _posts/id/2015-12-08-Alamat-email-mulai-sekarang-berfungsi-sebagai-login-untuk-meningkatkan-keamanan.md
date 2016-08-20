@@ -8,7 +8,7 @@ language: id
 
 Kami ingin mengumumkan peningkatan keamanan baru yang ditambahkan ke Binary.com: Sejak kemarin pagi, **alamat email Anda mulai sekarang diperlukan untuk masuk ke dalam platform trading kami**.
 
-![](/images/loginid-email-new.jpg)
+![Binary.com]({{ site.url }}/images/loginid-email-new.jpg)
 
 Ukuran pengamanan yang diperketat ini merupakan standar industri, yang selanjutnya akan meningkatkan keamanan situs dan privasi informasi Anda.
 

@@ -8,7 +8,7 @@ language: fr
 
 Binary.com annonce l'optimisation de son système de sécurité : depuis hier matin, **vous devez saisir votre adresse e-mail pour vous connecter à notre plateforme de trading.**
 
-![](/images/loginid-email-new.jpg)
+![Binary.com]({{ site.url }}/images/loginid-email-new.jpg)
 
 Cette mesure de sécurité supplémentaire, conforme aux normes du secteur, permet d'optimiser la sécurité du site et la confidentialité de vos informations.
 

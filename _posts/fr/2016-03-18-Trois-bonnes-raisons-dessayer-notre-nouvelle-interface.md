@@ -7,7 +7,7 @@ language: fr
 ---
 
 
-<a href="https://www.binary.com/trading?l=FR&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew" target="_blank"><img src="/images/FB-ads5.jpg" alt=""></a>
+<a href="https://www.binary.com/" target="_blank"><img src="/images/FB-ads5.jpg" alt="Binary.com"></a>
 
 **Pourquoi utiliser la nouvelle interface Binary.com pour vos opérations de trading ?**
 
@@ -23,4 +23,4 @@ Voici trois bonnes raisons d'opter pour notre nouvelle interface de façon perma
 <br>
 
 N'attendez pas que la version antérieure de notre plateforme soit supprimée :<br>
-[Essayez notre nouvelle interface dès maintenant.](https://www.binary.com/trading?l=FR&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew){:target="_blank"}
+[Essayez notre nouvelle interface dès maintenant.](https://www.binary.com/){:target="_blank"}

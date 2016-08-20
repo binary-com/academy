@@ -8,7 +8,7 @@ language: es
 
 Nos complace anunciar la adición de un nuevo método de pago en Binary.com: [Bitcoin](https://bitcoin.org/es/).
 
-Esta última adición expande el [número de métodos de pago](http://bit.ly/1lOK1nY) disponibles ahora para nuestros operadores, como una manera de satisfacer sus necesidades y preferencias individuales.
+Esta última adición expande el número de métodos de pago disponibles ahora para nuestros operadores, como una manera de satisfacer sus necesidades y preferencias individuales.
 
 
 **Cómo funciona Bitcoin?**
@@ -35,36 +35,36 @@ Para empezar a usar Bitcoin, simplemente siga estas instrucciones:
 
 2.Haga click en **Depositar**, rodeado con rojo en la captura de pantalla de abajo.
 
-![](/images/Picture1.png)
+![Binary.com]({{ site.url }}/images/Picture1.png)
 
 3.Elija **Bitcoin** como el método de pago.
 
-![](/images/Picture2.png)
+![Binary.com]({{ site.url }}/images/Picture2.png)
 
 4.Introduzca la **cantidad** que desea depositar.
 
-![](/images/Picture3.png)
+![Binary.com]({{ site.url }}/images/Picture3.png)
 
 5.Espere **cinco segundos.**
 
-![](/images/Picture4.png)
+![Binary.com]({{ site.url }}/images/Picture4.png)
 
 6.Copie la **dirección Bitcoin** proporcionada por el Cajero, como se muestra en la captura de pantalla de abajo – rodeada con rojo. *(Tenga en cuenta que toda la información vulnerable se ha ocultado en esta ilustración por razones de seguridad.)*
 
-![](/images/Picture5.png)
+![Binary.com]({{ site.url }}/images/Picture5.png)
 
 7.Ahora conéctese en su cuenta de cartera **Bitcoin.**
 8.Pegue la dirección Bitcoin en el campo  **“Dirección Bitcoin recipiente”.**
 
-![](/images/Picture6.png)
+![Binary.com]({{ site.url }}/images/Picture6.png)
 
 9.Añada una **Descripción**, como un campo opcional.
 
-![](/images/Picture7.png)
+![Binary.com]({{ site.url }}/images/Picture7.png)
 
 10.Introduzca la **Cantidad en bitcoins**.
 
-![](/images/Picture8.png)
+![Binary.com]({{ site.url }}/images/Picture8.png)
 
 11.Pulse **“Confirmar"**
 

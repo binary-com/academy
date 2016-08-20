@@ -21,4 +21,4 @@ Berita gembira! Kontrak Naik/Turun kini tersedia dengan minimal durasi 15 menit 
 * Indeks Belgia
 * Indeks Belanda
 
-Tambahan ini memberi fleksibelitas lebih pada platform trading kami dan memberi pilihan lebih luas bagi trading Anda. [Beli trading jangka pendek sekarang](https://www.binary.com/c/trade.cgi?market=indices&time=15m&form_name=risefall&expiry_type=duration&amount_type=payout&H=S0P&currency=USD&underlying_symbol=SX5E&amount=100&date_start=now&type=FLASHU&l=ID&utm_medium=social&utm_source=blog&utm_content=whatsnew).
+Tambahan ini memberi fleksibelitas lebih pada platform trading kami dan memberi pilihan lebih luas bagi trading Anda. [Beli trading jangka pendek sekarang](https://www.binary.com/).

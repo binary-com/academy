@@ -6,7 +6,7 @@ excerpt: Peluncuran aplikasi chart yang sudah sangat ditunggu tunggu ini akan me
 language: id
 ---
 
-[![](/images/3288101.jpg)](https://www.binary.com/c/chart_application.cgi?l=EN&utm_medium=social&source=blog&utm_content=newsletter)
+[![Binary.com]({{ site.url }}/images/3288101.jpg)](https://www.binary.com/)
 
 Peluncuran aplikasi chart yang sudah sangat ditunggu tunggu ini akan menyediakan berbagai peralatan charting dan indikator yang sangat mudah dan sederhana bagi pemula dan sangat berguna bagi para trader tingkat lanjut.
 
@@ -14,4 +14,4 @@ Dengan penambahan aplikasi ini pada paket charting kami, anda akan memperoleh ke
 
 Setelah anda menggambarkan charting sesuai dengan keinginan anda, anda dapat menyimpannya. Hanya dengan menyimpan chart kegemaran anda dan gunakannya kembali!
 
-[Download Aplikasi Chart Java Terbaru kami disini](https://www.binary.com/c/chart_application.cgi?l=ID&utm_medium=social&source=blog&utm_content=newsletter).
+[Download Aplikasi Chart Java Terbaru kami disini](https://www.binary.com/).

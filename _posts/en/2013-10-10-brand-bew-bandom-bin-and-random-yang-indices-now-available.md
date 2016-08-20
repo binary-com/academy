@@ -12,4 +12,4 @@ These new indices are particularly appealing to Asian and Oceania clients becaus
 
 The Random Yin simulates a pessimistic market where downward movements are prevalent. The Random Yang simulates an optimistic market that typically trends upwards.
 
-The Random Yin and Random Yang are available immediately for trading and may be accessed via the [Randoms section under Nocturnes](https://www.binary.com/d/trade.cgi?l=EN&market=random&utm_medium=social&utm_source=blog&utm_content=whatsnew).
+The Random Yin and Random Yang are available immediately for trading and may be accessed via the [Randoms section under Nocturnes](https://www.binary.com/).

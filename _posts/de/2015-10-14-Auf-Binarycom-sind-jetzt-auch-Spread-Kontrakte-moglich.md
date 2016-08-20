@@ -6,9 +6,9 @@ excerpt: "Mit dem neusten Update unserer Handelsplattform haben wir auch für au
 language: de  
 ---
 
-Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. [Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=EN&utm_source=social&utm_medium=blog&utm_campaign=WhatsNew)!
+Mit dem neusten Update unserer Handelsplattform haben wir auch für ausgewählte Märkte Spread-Kontrakte eingeführt. [Probieren Sie unsere neuen Spread-Kontrakte aus und platzieren Sie jetzt Ihr erstes Geschäft](https://www.binary.com/)!
 
-![](/images/spreadcontracts2.png)
+![Binary.com]({{site.url }}/images/spreadcontracts2.png)
 
 Die Spread-Kontrakte (auch Kursspannenverträge genannt) sind eine der spannendsten Arten der Spekulation, ob der Kurs einer zugrunde liegenden Anlage steigen oder fallen wird. Diese Art von Verträgen wurde, hauptsächlich wegen der Tatsache, dass sie eine sehr flexible Methode des Trading ist, weltweit zur meist verwendeten Tradingmethode von Investoren.
 

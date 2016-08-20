@@ -12,6 +12,6 @@ Con esta ˙ltima actualizaciÛn, contratos intradÌa como Alza/Baja y Toque/Sin 
 
 Si prefiere contratos a largo plazo, °tambiÈn tenemos algo para Usted! Contratos no intradÌa Alza/Baja, Superior/Inferior y Toque/Sin toque para 4 de los principales pares de divisas (EUR/AUD, EUR/CAD, GBP/AUD y GBP/CAD) est·n ahora tambiÈn disponibles.
 
-La duraciÛn mÌnima de contratos Alza/Baja en las pares de forex principales es de 15 segundos entre 08:00GMT y 20:00GMT. (La duraciÛn mÌnima para contratos comprados fuera este marco de tiempo es de 30 segundos).  [Compre su contrato a corto plazo ahora](https://www.binary.com/c/trade.cgi?market=forex&time=15s&form_name=risefall&expiry_type=duration&amount_type=payout&H=S0P&currency=USD&underlying_symbol=frxEURJPY&amount=100&date_start=now&type=FLASHU&l=ES&utm_medium=social&utm_source=blog&utm_content=whatsnew)
+La duraciÛn mÌnima de contratos Alza/Baja en las pares de forex principales es de 15 segundos entre 08:00GMT y 20:00GMT. (La duraciÛn mÌnima para contratos comprados fuera este marco de tiempo es de 30 segundos).  [Compre su contrato a corto plazo ahora](https://www.binary.com/)
 
-Eche un vistazo a nuestra actualizada p·gina de [disponibles activos](https://www.binary.com/c/asset_index.cgi?l=ES&utm_medium=social&utm_source=blog&utm_content=whatsnew) para ver la lista completa de los activos que actualmente ofrecemos en nuestro sitio web, incluyendo la duraciÛn disponible para cada activo.
+Eche un vistazo a nuestra actualizada p·gina de [disponibles activos](https://www.binary.com/) para ver la lista completa de los activos que actualmente ofrecemos en nuestro sitio web, incluyendo la duraciÛn disponible para cada activo.

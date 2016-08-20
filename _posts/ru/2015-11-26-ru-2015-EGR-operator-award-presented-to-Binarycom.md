@@ -12,7 +12,7 @@ language: ru
 
 Эта награда была присуждена нам на основе оценки нашего **роста, развития, инноваций,** а также **общего предложения** за последние 12 месяцев.
 
-![](/images/Financial-betting-operator.jpg)
+![Binary.com]({{ site.url }}/images/Financial-betting-operator.jpg)
 
 Ключевые критерии премии:
 

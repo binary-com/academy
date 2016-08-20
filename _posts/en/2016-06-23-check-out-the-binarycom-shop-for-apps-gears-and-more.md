@@ -18,7 +18,7 @@ Browse through the Binary.com [Shop](https://shop.binary.com){:target="_blank"},
 **<a href="https://shop.binary.com/collections/apparels?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew" target="_blank">Apparel:</a>** Wear our brand with pride! Grab one of our colourful t-shirts, with many more items to come soon.
 
 
-<a href="https://shop.binary.com/collections/all?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew" target="_blank"><img src="/images/binary-shop-email-image-01.jpg" alt=""></a>
+<a href="https://shop.binary.com/collections/all?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew" target="_blank"><img src="{{ site.url }}/images/binary-shop-email-image-01.jpg" alt="Binary.com"></a>
 
 Don't miss out. [Visit the Binary.com Shop now](https://shop.binary.com/collections/all?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew){:target="_blank"}!
 

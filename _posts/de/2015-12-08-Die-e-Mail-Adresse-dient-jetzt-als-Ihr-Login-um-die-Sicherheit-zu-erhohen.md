@@ -6,10 +6,9 @@ excerpt: "Wir informieren Sie hiermit über eine neue Sicherheitsverbesserung f�
 language: de 
 ---
 
-
 Wir informieren Sie hiermit über eine neue Sicherheitsverbesserung für Binary.com: Seit gestern Morgen ist nun Ihre E-Mail Adresse für die Anmeldung zu unserer Trading-Plattform erforderlich.
 
-![](/images/loginid-email-new.jpg)
+![Binary]({{site.url }}/images/loginid-email-new.jpg)
 
 Diese verstärkte Sicherheitsmaßnahme ist ein Branchenstandard, der die Sicherheit der Site und die Vertraulichkeit Ihrer Daten erhöht.
 

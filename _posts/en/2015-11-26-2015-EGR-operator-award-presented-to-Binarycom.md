@@ -10,7 +10,7 @@ Exciting news! This week, Binary.com took home first prize in the Financial Bett
 
 This distinction was bestowed to us based on an evaluation of our **growth, innovation**, and **overall product offering** during the past 12 months.
 
-![](/images/Financial-betting-operator.jpg)
+![Binary.com]({{site.url }}/images/Financial-betting-operator.jpg)
 
 Key criteria for this award included: 
 

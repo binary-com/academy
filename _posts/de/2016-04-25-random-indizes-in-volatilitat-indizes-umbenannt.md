@@ -10,7 +10,7 @@ Im Rahmen unseres neusten Release sind die**,*„Random Indizes“* auf der Bin
 
 Zu Ihrer Information finden Sie nachstehend die entsprechend geänderten Bezeichnungen der einzelnen Indizes: 
 
-![](/images/blogpostpic-11.png)
+![Binary.com]({{site.url }}/images/blogpostpic-11.png)
 
 Bitte beachten Sie, dass bei **den Produkten selbst keine Veränderungen vorgenommen wurden;** dies ist lediglich eine Namensänderung bei den Random Indizes. 
 

@@ -6,7 +6,7 @@ excerpt: Nous sommes ravis d’annoncer que Binary.com est un des nominés pour 
 language: fr
 ---
 
-![](images/7799451_orig.jpg)
+![Binary.com]({{ site.url }}/images/7799451_orig.jpg)
 
 Nous sommes ravis d’annoncer que [Binary.com](https://www.binary.com/?utm_medium=social&utm_campaign=blog&utm_source=binary&l=FR) est un des nominés pour les [UK Forex Awards 2014](http://info.binary.com/ukfxaward14). Nous vous invitons à exprimer votre support en votant pour Binary.com dans les catégories suivantes:
 

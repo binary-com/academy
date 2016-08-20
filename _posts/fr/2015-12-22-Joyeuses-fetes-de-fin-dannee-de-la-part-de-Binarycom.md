@@ -8,4 +8,4 @@ language: fr
 
 Joyeuses fêtes de fin d'année de la part de Binary.com !
 
-![](/images/fr-greeting2016.gif)
+![Binary.com]({{ site.url }}/images/fr-greeting2016.gif)

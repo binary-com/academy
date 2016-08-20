@@ -6,7 +6,7 @@ excerpt: "Nous vous invitons à nous soutenir en nominant Binary.com dans les ca
 language: fr 
 ---
 
-![](/images/sharesAward2015.png)
+![Binary Trading]({{ site.url }}/images/sharesAward2015.png)
 
 Nous vous invitons à nous soutenir en nominant Binary.com dans les catégories suivantes pour les prix "Shares Awards" de cette année:
 

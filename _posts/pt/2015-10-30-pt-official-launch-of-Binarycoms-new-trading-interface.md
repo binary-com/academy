@@ -7,9 +7,9 @@ language: pt
 ---
 
 
-Temos a satisfação de anunciar o lançamento oficial [de uma interface aperfeiçoada e simplificada no website da Binary.com](https://www.binary.com/trading?l=EN&utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew) que irá ser implementada durante esta semana.
+Temos a satisfação de anunciar o lançamento oficial [de uma interface aperfeiçoada e simplificada no website da Binary.com](https://www.binary.com/) que irá ser implementada durante esta semana.
 
-Apresentamos esta interface pela primeira vez como uma versão beta no [início de setembro](https://www.binary.com/trading?l=PT&utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=whatsnew).  Temos trabalhado diligentemente para a refinar desde então.
+Apresentamos esta interface pela primeira vez como uma versão beta no [início de setembro](https://www.binary.com).  Temos trabalhado diligentemente para a refinar desde então.
 
 <br>
 
@@ -24,7 +24,7 @@ Você irá notar que esta nova plataforma proporciona uma série de vantagens si
 
 3. **Design mais simples e responsivo.** Gaste menos tempo clicando e mais tempo negociando. Não importa qual dispositivo você prefere usar em qualquer dado momento – desktop, móvel ou tablet – você irá achá-los todos igualmente convenientes, com base em um conjunto de recursos simplificados e um design responsivo aperfeiçoado.
 
-![](/images/newinterface-1.jpg)
+![Binary.com]({{ site.url }}/images/newinterface-1.jpg)
 <br>
 
 
@@ -36,14 +36,14 @@ Para apoiar estas melhorias, você vai notar que mudamos a posição de alguns r
 2. **Os dois campos subjacentes também foram transferidos para o menu principal** – sendo agora necessário apenas um clique para a seleção da sua preferência. 
 3. **O botão “Obter preços” foi totalmente removido,** visto que o preço é agora carregado instantaneamente, com base em todas as variáveis selecionadas.
 
-![](/images/newinterface-2.jpg)
+![Binary.com]({{ site.url }}/images/newinterface-2.jpg)
 <br>
 
 **A sua opinião nos interessa!**
 
 Como sempre, agradecemos os seus comentários para continuarmos a poder refinar a nossa plataforma. Não hesite em entrar em contato conosco em [marketing@binary.com](mailto:marketing@binary.com) com o seus comentários e suas sugestões, depois de a ter experimentado.
 
-[Desfrute das negociações com a nova plataforma!](https://www.binary.com/trading?l=PT&utm_source=blog&utm_medium=social&utm_content=PT&utm_campaign=whatsnew)!
+[Desfrute das negociações com a nova plataforma!](https://www.binary.com)!
 
 
 

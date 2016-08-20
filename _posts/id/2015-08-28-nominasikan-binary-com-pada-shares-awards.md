@@ -6,7 +6,7 @@ excerpt: "Kami mengundang Anda untuk mendukung Binary.com, dengan menominasikan 
 language: id
 ---
 
-![](/images/sharesAward2015.png)
+![Binary.com]({{ site.url }}/images/sharesAward2015.png)
 
 Kami mengundang Anda untuk mendukung Binary.com, dengan menominasikan kami untuk memenangkan penghargaan pada Shares Award tahun ini dalam kategori:
 

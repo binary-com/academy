@@ -12,7 +12,7 @@ Como parte do nosso lançamento mais recente, **os *“Índices Random”* fora
 
 Para a sua referência, as correspondentes alterações de nome para cada índice individual encontram-se abaixo: 
 
-![](/images/blogpostpic-11.png)
+![Binary.com]({{ site.url }}/images/blogpostpic-11.png)
 
 
 Informamos que **nenhumas alterações foram feitas aos produtos em si;** isto é simplesmente uma alteração de nome para os Índices Random. 

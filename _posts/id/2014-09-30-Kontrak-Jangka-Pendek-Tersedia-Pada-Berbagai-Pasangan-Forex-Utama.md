@@ -11,6 +11,6 @@ Dengan peningkatan terbaru, kontrak Intraday seperti Lebih Tinggi/Lebih Rendah d
 
 Jika anda lebih memilih trading jangka panjang, kami juga menyediakanya! Kontrak Non-Intraday Naik/Turun, Lebih Tinggi/Rendah dan Menyentuh/Tidak pada 4 pasangan utama FX (EUR/AUD, EUR/CAD, GBP/AUD dan GBP/CAD) juga telah tersedia!
 
-Durasi minimal untuk kontrak Naik/Turun pada berbagai pilihan pasangan FX utama adalah 15 detik, tersedia antara jam 08:00GMT hingga 20h00GMT. (Duration minimal di luar jam tersebut adalah 30 detik). [Beli kontrak jangka pendek sekarang!](https://www.binary.com/c/trade.cgi?market=forex&time=30s&form_name=risefall&expiry_&amount_&H=S0P&currency=USD&underlying_symbol=frxEURJPY&amount=100&date_&&l=EN&utm_medium=social&utm_source=blog&utm_content=whatsnew)
+Durasi minimal untuk kontrak Naik/Turun pada berbagai pilihan pasangan FX utama adalah 15 detik, tersedia antara jam 08:00GMT hingga 20h00GMT. (Duration minimal di luar jam tersebut adalah 30 detik). [Beli kontrak jangka pendek sekarang!](https://www.binary.com)
 
-Lihat juga halaman [Aset Index terbaru kami](https://www.binary.com/c/asset_index.cgi?l=ID&utm_medium=social&utm_source=blog&utm_content=whatsnew) di untuk daftar lengkap aset yang kami tawarkan pada website kami, termasuk durasi yang tersedia pada masing masing aset.
+Lihat juga halaman [Aset Index terbaru kami](https://www.binary.com/) di untuk daftar lengkap aset yang kami tawarkan pada website kami, termasuk durasi yang tersedia pada masing masing aset.

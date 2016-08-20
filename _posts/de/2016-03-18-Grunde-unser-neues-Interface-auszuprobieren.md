@@ -7,7 +7,7 @@ language: de
 ---
 
 
-<a href="https://www.binary.com/trading?l=DE&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew" target="_blank"><img src="/images/FB-ads5.jpg" alt=""></a>
+<a href="https://www.binary.com" target="_blank"><img src="{{site.url }}/images/FB-ads5.jpg" alt="Binary.com"></a>
 
 **Warum Sie mit dem neuen Binary.com Interface traden sollen?**
 
@@ -20,4 +20,4 @@ Hier die drei simplen Gründe, warum Sie den ständigen Wechsel auf unser neuste
 &nbsp;&nbsp;&nbsp;&nbsp;**3. Bessere Reaktionsfähigkeit.** Handeln Sie ganz einfach von überall her - auch von unterwegs - über Ihr bevorzugtes Mobilgerät.
 
 Warten Sie nicht so lange, bis unsere Vorgängerplattform abgeschaltet wird:<br>
-[Probieren Sie jetzt unsere neue Oberfläche aus!](https://www.binary.com/trading?l=DE&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew){:target="_blank"}
+[Probieren Sie jetzt unsere neue Oberfläche aus!](https://www.binary.com){:target="_blank"}

@@ -10,7 +10,7 @@ Berita menarik! Minggu ini, Binary.com membawa pulang hadiah pertama dalam ajang
 
 Penghargaan ini dianugerahkan kepada kami berdasarkan evaluasi dari **pertumbuhan, inovasi,** dan **produk yang kami tawarkan** selama 12 bulan terakhir.
 
-![](/images/Financial-betting-operator.jpg)
+![Binary.com]({{ site.url }}/images/Financial-betting-operator.jpg)
 
 Kriteria utama untuk penghargaan ini termasuk:
 

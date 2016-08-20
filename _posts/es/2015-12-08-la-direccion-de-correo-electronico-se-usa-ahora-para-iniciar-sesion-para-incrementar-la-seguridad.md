@@ -9,7 +9,7 @@ language: es
 
 Nos gustaría anunciar una nueva mejora de seguridad añadida a Binary.com: A partir de ayer por la mañana, **su dirección de correo electrónico se requiere ahora para iniciar sesión en nuestra plataforma de operaciones.**
 
-![](/images/loginid-email-new.jpg)
+![Binary.com]({{ site.url }}/images/loginid-email-new.jpg)
 
 Esta medida de seguridad endurecida es un estándar de la industria, que aumenta aún más la seguridad del sitio y la privacidad de su información.
 

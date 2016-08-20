@@ -9,4 +9,4 @@ language: id
 
 Selamat berlibur dari kami semua di Binary.com! Semoga Anda memperoleh Tahun Baru yang penuh dengan kebahagianan dan kesejahteraan yang melimpah!
 
-![](/images/in-greeting2016.gif)
+![Binary.com]({{ site.url }}/images/in-greeting2016.gif)

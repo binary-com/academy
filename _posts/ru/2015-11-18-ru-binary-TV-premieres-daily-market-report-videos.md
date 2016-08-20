@@ -11,13 +11,13 @@ language: ru
 
 Премьера Binary TV состоялась в среду и ознаменовалась первым эпизодом новой серии ежедневных видео обзоров рынка.
 
-![](/images/binarytv-thumbnail-img-.jpg)
+![Binary.com]({{ site.url }}/images/binarytv-thumbnail-img-.jpg)
 
 
 **Смотрите ежедневные финансовые новости**
 
 
-Будьте в курсе основных событий и тенденций в мировом финансовом секторе. Вся полезная информация собрана в наших [ежедневных обзорах рынка](https://blog.binary.com/ru/binary-tv/?utm_source=blog&utm_medium=social&utm_content=RU&utm_campaign=BinaryTV) и доступна Вам в удобном видео формате.
+Будьте в курсе основных событий и тенденций в мировом финансовом секторе. Вся полезная информация собрана в наших [ежедневных обзорах рынка](https://blog.binary.com/ru/binary-tv/) и доступна Вам в удобном видео формате.
 
 Подпишитесь на наш [канал на YouTube](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), чтобы не пропустить ни один видеосюжет.
 

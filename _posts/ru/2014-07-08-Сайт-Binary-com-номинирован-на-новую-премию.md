@@ -6,7 +6,7 @@ excerpt: Мы рады сообщить, что Binary.com является в �
 language: ru
 ---
 
-[![](/post_images/7799451_orig.jpg)](http://info.binary.com/ukfxaward14)
+![Binary.com]({{ site.url }}/images/7799451_orig.jpg)(http://info.binary.com/ukfxaward14)
 
 Мы рады сообщить, что Binary.com является в этом году одним из номинантов на [UK Forex Awards 2014](http://info.binary.com/ukfxaward14). Приглашаем Вас показать свою поддержку, проголосовав за Binary.com в следующих категориях:
 

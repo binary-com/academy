@@ -7,7 +7,7 @@ excerpt: "Binary.com took home the “Best Binary Options Broker” award at the
 ---
 
 
-![](/images/MENA.png)
+![Binary.com]({{ site.url }}/images/MENA.png)
 
 Binary.com took home the “Best Binary Options Broker” award at the 16th MENA International Financial Conference and Exhibition last week, hosted at the Westin Mina Seyahi Hotel in Dubai.
 

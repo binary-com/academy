@@ -7,7 +7,7 @@ language: id
 ---
 
 
-Berhubung banyaknya permintaan, EUR/CHF, USD/CHF dan GBP/CHF telah tersedia pada daftar pasangan FX kami. [Lihat kontrak apa saja yang tersedia untuk pasangan mata uang baru ini sekarang](https://www.binary.com/d/trade.cgi?market=forex&time=5m&form_name=risefall&expiry_type=duration&amount_type=payout&H=S0P&currency=USD&underlying_symbol=frxEURCHF&amount=100&date_start=now&type=CALL&L=S0P&l=ID&utm_source=blog&utm_medium=social&utm_campaign=whatsnew)!
+Berhubung banyaknya permintaan, EUR/CHF, USD/CHF dan GBP/CHF telah tersedia pada daftar pasangan FX kami. [Lihat kontrak apa saja yang tersedia untuk pasangan mata uang baru ini sekarang](https://www.binary.com/)!
 
 Kontrak pada EUR/CHF dan USD/CHF tersedia dengan durasi minimum dari 5 tik, sedangkan kontrak pada GBP/CHF tersedia dengan minimum durasi dari 1 menit.
 

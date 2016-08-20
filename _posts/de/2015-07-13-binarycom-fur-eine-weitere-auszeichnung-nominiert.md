@@ -8,7 +8,7 @@ language: de
 
 Wir freuen uns ankündigen zu dürfen, dass Binary.com (früher als BetOnMarkets.com bekannt), einer der diesjährigen Nominierten für die UK Forex Awards 2015 ist.
 
-![](/images/ukforexawards2015.png)
+![Binary.com]({{site.url }}/images/ukforexawards2015.png)
 
 Wir laden Sie ein, uns Ihre Unterstützung zu zeigen, indem Sie für Binary.com (im Abstimmungsbereich als BetOnMarkets aufgeführt) in den folgenden Kategorien Ihre Stimme abgeben:
 

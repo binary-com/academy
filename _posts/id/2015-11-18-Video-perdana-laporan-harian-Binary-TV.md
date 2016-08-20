@@ -11,13 +11,13 @@ Dengan bangga Kami memperkenalkan saluran [TV Binary](https://www.binary.com/?l=
 
 Tayangan perdana TV Binary disiarkan pada Rabu sebagai episode pertama dari serial video terbaru Laporan Harian.
 
-![](/images/binarytv-thumbnail-img-.jpg)
+![Binary.com]({{ site.url }}/images/binarytv-thumbnail-img-.jpg)
 
 
 **Ikuti Setiap Hari Liputan Berita Keuangan**
 
 
-Tetap ikuti topik utama dari seluruh sektor keuangan dunia. Semua informasi penting yang terangkum dalam [Laporan Pasar Harian](https://blog.binary.com/id/binary-tv/?utm_source=blog&utm_medium=social&utm_content=id&utm_campaign=BinaryTV) kami kini tersedia diujung jari Anda dalam format video.
+Tetap ikuti topik utama dari seluruh sektor keuangan dunia. Semua informasi penting yang terangkum dalam [Laporan Pasar Harian](https://blog.binary.com/id/binary-tv/) kami kini tersedia diujung jari Anda dalam format video.
 
 Berlanggananlah [di saluran YouTube kami yang berdedikasi](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), kami kini tersedia diujung jari Anda dalam format video.
 

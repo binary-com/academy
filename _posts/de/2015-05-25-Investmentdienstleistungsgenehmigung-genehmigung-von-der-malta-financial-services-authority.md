@@ -8,4 +8,4 @@ language: de
 
 Tolle Neuigkeiten! Die maltesische Tochtergesellschaft von Binary.com, die Binary Investments (Europe) Ltd. hat von der maltesischen Finanzdienstleistungsbehörde eine Kategorie 3 Investmentdienstleistungsgenehmigung verliehen bekommen. Dies ist ein weiterer Meilenstein für Binary.com, um seine Position als Branchenführer zu festigen.
 
-[Lesen Sie mehr](https://www.binary.com/group-history?l=DE&utm_medium=social&utm_source=blog&utm_content=whatsnew&utm_campaign=whatsnew)
+[Lesen Sie mehr](https://www.binary.com/)

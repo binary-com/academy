@@ -11,7 +11,7 @@ Temos o prazer de apresentar a [BinaryTV](https://www.binary.com/?l=EN&utm_sourc
  
 A Binary TV estreou na quarta-feira o primeiro episódio de uma nova série de vídeos que apresentam o “Noticiário Diário dos Mercados”.
 
-![](/images/binarytv-thumbnail-img-.jpg)
+![Binary.com]({{ site.url }}/images/binarytv-thumbnail-img-.jpg)
 
 
 **Descubra os vários benefícios**

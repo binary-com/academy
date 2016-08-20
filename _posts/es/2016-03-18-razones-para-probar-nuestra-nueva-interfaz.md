@@ -7,7 +7,7 @@ language: es
 ---
 
 
-<a href="https://www.binary.com/trading?l=ES&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew" target="_blank"><img src="/images/FB-ads5.jpg" alt=""></a>
+<a href="https://www.binary.com" target="_blank"><img src="/images/FB-ads5.jpg" alt="Binary.com"></a>
 
 **Por qué Operar con la Nueva Interfaz de Binary.com?**
 
@@ -20,5 +20,5 @@ Tres razones simples para cambiar de forma permanente a nuestra nueva interfaz:
 &nbsp;&nbsp;&nbsp;&nbsp;**3. Mayor capacidad de respuesta.** Comercie fácilmente desde cualquier parte – incluso en movimiento – usando sus dispositivos móviles favoritos.
 
 No espere hasta que nuestra antigua plataforma sea eliminada:<br>
-[Pruebe nuestra nueva interfaz ahora.](https://www.binary.com/trading?l=ES&utm_source=social&utm_medium=blog&utm_content=text&utm_campaign=whatsnew){:target="_blank"}
+[Pruebe nuestra nueva interfaz ahora.](https://www.binary.com/){:target="_blank"}
 

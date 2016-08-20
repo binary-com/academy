@@ -9,7 +9,7 @@ language: fr
 
 Nous sommes heureux d'annoncer l'ajout d'un nouveau moyen de paiement sur Binary.com: [Bitcoin](https://bitcoin.org/en).
 
-Cette nouvelle solution s'ajoute aux différents [moyens de paiement](http://bit.ly/1lOK1nY) mis à disposition de nos traders, afin de mieux répondre à vos préférences et besoins individuels.
+Cette nouvelle solution s'ajoute aux différents moyens de paiement mis à disposition de nos traders, afin de mieux répondre à vos préférences et besoins individuels.
 
 **Comment fonctionne Bitcoin?**
 
@@ -35,23 +35,23 @@ Pour commencer à utiliser Bitcoin, suivez simplement les instructions suivantes
 
 2.Cliquez sur **Dépôt**, entouré en rouge sur la capture d'écran ci-dessous.
 
-![](/images/Picture1.png)
+![Binary.com]({{ site.url }}/images/Picture1.png)
 
 3.Sélectionnez **Bitcoin** comme moyen de paiement.
 
-![](/images/Picture2.png)
+![Binary.com]({{ site.url }}/images/Picture2.png)
 
 4.Saisissez le **montant** souhaité pour votre dépôt.
 
-![](/images/Picture3.png)
+![Binary.com]({{ site.url }}/images/Picture3.png)
 
 5.Attendez **cinq secondes**.
 
-![](/images/Picture4.png)
+![Binary.com]({{ site.url }}/images/Picture4.png)
 
 6.Copiez **l'adresse Bitcoin** fournie par la Caisse, comme indiqué sur la capture d'écran ci-dessous (voir cercle rouge). *N.B. Pour des raisons de sécurité, toutes les informations sensibles apparaissant sur cette illustration ont été grisées*.
 
-![](/images/Picture5.png)
+![Binary.com]({{ site.url }}/images/Picture5.png)
 
 7.Connectez-vous à votre **portefeuille Bitcoin**.
 
@@ -59,15 +59,15 @@ Pour commencer à utiliser Bitcoin, suivez simplement les instructions suivantes
 
 8.Collez l'adresse Bitcoin dans le champ correspondant à **l'adresse réceptrice**.
 
-![](/images/Picture6.png)
+![Binary.com]({{ site.url }}/images/Picture6.png)
 
 9.Ajoutez une **Description** (champ facultatif).
 
-![](/images/Picture7.png)
+![Binary.com]({{ site.url }}/images/Picture7.png)
 
 10.Saisissez votre **montant en bitcoins**.
 
-![](/images/Picture8.png)
+![Binary.com]({{ site.url }}/images/Picture8.png)
 
 11.Cliquez sur « **Confirmer** ».
 

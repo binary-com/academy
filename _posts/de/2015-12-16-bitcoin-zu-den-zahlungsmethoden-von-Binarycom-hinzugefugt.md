@@ -9,7 +9,7 @@ language: de
 
 Wir freuen uns, Ihnen mitteilen zu können, dass auf Binary.com eine weitere Zahlungsmethode hinzugefügt wurde: [Bitcoin](https://bitcoin.org/en/).
 
-Diese neuste Ergänzung erweitert die Anzahl von  [Zahlungsmethoden](http://bit.ly/1lOK1nY) die jetzt für unsere Trader verfügbar sind, als Möglichkeit, weiter Ihren eigenen individuellen Bedürfnissen und Präferenzen nachzukommen.
+Diese neuste Ergänzung erweitert die Anzahl von  Zahlungsmethoden die jetzt für unsere Trader verfügbar sind, als Möglichkeit, weiter Ihren eigenen individuellen Bedürfnissen und Präferenzen nachzukommen.
 
 
 **Wiefunktioniert Bitcoin?**
@@ -36,24 +36,24 @@ Wenn Sie Bitcoin verwenden möchten, befolgen Sie einfach diese Anleitungen:
 
 2.Klicken Sie auf **Einzahlen**, im nachstehenden Screenshot in Rot eingekreist.
 
-![](/images/Picture1.png)
+![Binary.com]({{site.url }}/images/Picture1.png)
 
 3.Wählen Sie **Bitcoin** als Zahlungsmethode aus.
 
-![](/images/Picture2.png)
+![Binary.com]({{site.url }}/images/Picture2.png)
 
 4.Geben Sie den **Betrag** ein, den Sie einzahlen möchten.
 
-![](/images/Picture3.png)
+![Binary.com]({{site.url }}/images/Picture3.png)
 
 5.Warten Sie fünf **Sekunden**.
 
-![](/images/Picture4.png)
+![Binary.com]({{site.url }}/images/Picture4.png)
 
 6.Kopieren Sie die **Bitcoin Adresse**, die von der Kasse, wie im nachstehenden Screenshot in Rot eingekreist gezeigt, vorgegeben wird *(Beachten Sie, dass alle sensiblen Daten aus Sicherheitsgründen in dieser Abbildung unkenntlich gemacht wurden)*.
 
 
-![](/images/Picture5.png)
+![Binary.com]({{site.url }}/images/Picture5.png)
 
 7.Jetzt loggen Sie sich in Ihr **Bitcoin Wallet Konto** ein.
 
@@ -62,15 +62,15 @@ Wenn Sie Bitcoin verwenden möchten, befolgen Sie einfach diese Anleitungen:
 8.Kopieren Sie die Bitcoin Adresse in das Feld **"Bitcoin Empfänger Adresse"**.
 
 
-![](/images/Picture6.png)
+![Binary.com]({{site.url }}/images/Picture6.png)
 
 9.Im optionalen Feld können Sie eine **Beschreibung** beifügen.
 
-![](/images/Picture7.png)
+![Binary.com]({{site.url }}/images/Picture7.png)
 
 10.Geben Sie den **Betrag in Bitcoins** ein.
 
-![](/images/Picture8.png)
+![Binary.com]({{site.url }}/images/Picture8.png)
 
 11.Klicken Sie auf "Bestätigen".
 

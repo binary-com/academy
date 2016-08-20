@@ -11,13 +11,13 @@ Nous avons le plaisir de vous présenter notre chaîne, [BinaryTV](https://www.b
 
 La première de la chaîne a eu lieu le 4 novembre avec la diffusion du premier épisode d'une toute nouvelle série de vidéos illustrant les rapports de marché journaliers.
 
-![](/images/binarytv-thumbnail-img-.jpg)
+![Binary TV]({{ site.url }}/images/binarytv-thumbnail-img-.jpg)
 
 
 **Restez connecté et accédez au journal numérique quotidien des marchés financiers**
 
 
-Accédez à toute l'information concernant les principaux événements et tendances des marchés financiers internationaux. Toutes les informations compilées dans nos [Rapports de marché journaliers](https://blog.binary.com/fr/binary-tv/?utm_source=blog&utm_medium=social&utm_content=FR&utm_campaign=BinaryTV) sont maintenant disponibles au format vidéo.
+Accédez à toute l'information concernant les principaux événements et tendances des marchés financiers internationaux. Toutes les informations compilées dans nos [Rapports de marché journaliers](https://blog.binary.com/fr/binary-tv/) sont maintenant disponibles au format vidéo.
 
 
 Inscrivez-vous à notre [chaîne Youtube officielle](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), pour ne jamais manquer un épisode.

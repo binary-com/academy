@@ -6,9 +6,9 @@ excerpt: "Suite à la dernière mise à jour de notre plateforme de trading, les
 language: fr 
 ---
 
-Suite à la dernière mise à jour de notre plateforme de trading, les options sur spread sont maintenant disponibles sur une sélection de marchés. [Découvrez nos nouvelles options sur spread et effectuez dès aujourd'hui votre tout premier trade!](https://www.binary.com/d/trade.cgi?market=random&form_name=spreads&stop_profit=50&currency=USD&underlying_symbol=R_50&stop_type=point&date_start=now&amount_per_point=1&type=SPREADU&stop_loss=20&l=FR&utm_source=blog&utm_medium=social&utm_campaign=whatsnew)
+Suite à la dernière mise à jour de notre plateforme de trading, les options sur spread sont maintenant disponibles sur une sélection de marchés. [Découvrez nos nouvelles options sur spread et effectuez dès aujourd'hui votre tout premier trade!](https://www.binary.com/)
 
-![](/images/spreadcontracts2.png)
+![Binary.com]({{ site.url }}/images/spreadcontracts2.png)
 
 Les options sur spread sont des produits dérivés attractifs permettant de spéculer sur la hausse ou la baisse du cours d'un actif sous-jacent. De par leur très grande flexibilité, ces options représentent aujourd'hui une méthode de trading très prisée par les investisseurs du monde entier.
 
