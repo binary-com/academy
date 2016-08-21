@@ -1,6 +1,9 @@
 language: ruby
 rvm:
   - 2.1
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx --check-html
