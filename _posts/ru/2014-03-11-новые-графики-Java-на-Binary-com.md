@@ -3,6 +3,7 @@ layout: post
 title: новые графики Java на Binary.com
 permalink: /ru/новые-графики-Java-на-Binary-com
 language: ru
+excerpt: "Выпуск этого давно ожидаемого приложения увеличит Ваш выбор графиков и индикаторов. Они просты и удобны для начинающих, а также достаточно мощны для продвинутых пользователей."
 ---
 
 [![Binary.com]({{ site.url }}/images/3288101.jpg)](https://www.binary.com/)

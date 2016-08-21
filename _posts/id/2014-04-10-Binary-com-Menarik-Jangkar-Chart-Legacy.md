@@ -2,13 +2,13 @@
 layout: post
 title:  Binary.com Menarik Jangkar Chart Legacy
 permalink: /id/Binary-com-Menarik-Jangkar-Chart-Legacy/
-excerpt: Keputusan ini diambil berhubung hasil peningkatan paket charting kami dan kami puas dengan penerimaan para pelanggan. Mulai 14 April 2014, "Chart Legacy" akan diturunkan, untuk memberi kesempatan pada "Chart Live" yang telah disempurnakan dan "aplikasi Java" yang dapat anda download disini.
+excerpt: Keputusan ini diambil berhubung hasil peningkatan paket charting kami dan kami puas dengan penerimaan para pelanggan. Mulai 14 April 2014, Chart Legacy akan diturunkan, untuk memberi kesempatan pada Chart Live yang telah disempurnakan dan aplikasi Java yang dapat anda download disini.
 language: id
 ---
 
-Keputusan ini diambil berhubung hasil peningkatan paket charting kami dan kami puas dengan penerimaan para pelanggan. Mulai 14 April 2014, "Chart Legacy" akan diturunkan, untuk memberi kesempatan pada "Chart Live" yang telah disempurnakan dan "aplikasi Java" [yang dapat anda download disini](https://www.binary.com/).
+Keputusan ini diambil berhubung hasil peningkatan paket charting kami dan kami puas dengan penerimaan para pelanggan. Mulai 14 April 2014, Chart Legacy akan diturunkan, untuk memberi kesempatan pada Chart Live yang telah disempurnakan dan aplikasi Java [yang dapat anda download disini](https://www.binary.com/).
 
-Dapatkan data tik per tik pada Forex & Random Index harian, per jam, mingguan dan harga bulanan untuk Saham, Index, Komoditas & Sektor. Anda juga dapat mengexpor data langsung dari Chart Live hingga CSV, JPEG, atau PDF. Cari tombol pada bagian pojok kanan atas chart (lingkaran merah). [Coba "Live Chart" sekarang](https://www.binary.com/)!
+Dapatkan data tik per tik pada Forex & Random Index harian, per jam, mingguan dan harga bulanan untuk Saham, Index, Komoditas &amp; Sektor. Anda juga dapat mengexpor data langsung dari Chart Live hingga CSV, JPEG, atau PDF. Cari tombol pada bagian pojok kanan atas chart (lingkaran merah). [Coba Live Chart sekarang](https://www.binary.com/)!
 
 [![Binary.com]({{ site.url }}/images/592847.png)](https://www.binary.com)
 

@@ -3,6 +3,7 @@ layout: post
 title:  Telah Tersedia Data Historikal untuk Market Random
 permalink: /id/Telah-Tersedia-Data-Historikal-untuk-Market-Random/
 language: id
+excerpt: "Dapatkan akses lengkap bagi data tik per tik untuk semua Market Random dengan menggunakan [peralatan download baru](https://www.binary.com/)."
 ---
 
 [![Binary.com]({{ site.url }}/images/24673887_orig.png)](https://www.binary.com/)

@@ -3,6 +3,7 @@ layout: post
 title: Binary.com теперь использует технологию icCube Technology для анализа живых рыночных данных
 permalink: /ru/Binary-com-теперь-использует-технологию-icCube-Technology-для-анализа-живых-рыночных-данных 
 language: ru
+excerpt: "Binary.com рад сообщить о введение технологии [icCube](http://www.iccube.com/) - Online Analytical Processing OLAP, которая обеспечивает оптимальную аналитику живых рыночных данных."
 ---
 ![Binary.com]({{ site.url }}/images/275409_orig.jpg)
 

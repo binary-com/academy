@@ -3,10 +3,10 @@ layout: post
 title: "Revamped Tick Trades from Binary.com"
 language: en
 permalink: /en/revamped-tick-trades-from-binary-com/
-excerpt: With the latest upgrade to our trading interface, we have redesigned the way the tick trades work. Tick trades may now be purchased on "Randoms" via the "Rise/Fall" section for a minimum duration of 5 ticks or a maximum duration of 10 ticks.
+excerpt: With the latest upgrade to our trading interface, we have redesigned the way the tick trades work. Tick trades may now be purchased on Randoms via the Rise/Fall section for a minimum duration of 5 ticks or a maximum duration of 10 ticks.
 ---
 
-With the latest upgrade to our trading interface, we have redesigned the way the tick trades work. Tick trades may now be purchased on "Randoms" via the "Rise/Fall" section for a minimum duration of 5 ticks or a maximum duration of 10 ticks. Simply purchase a tick trade as you would any other trade with more flexibility and most importantly, no delays!
+With the latest upgrade to our trading interface, we have redesigned the way the tick trades work. Tick trades may now be purchased on Randoms via the Rise/Fall section for a minimum duration of 5 ticks or a maximum duration of 10 ticks. Simply purchase a tick trade as you would any other trade with more flexibility and most importantly, no delays!
  ![Binary.com]({{site.url }}/images/4735165_orig.jpg)
 Select your favorite Random Index, choose the start time and duration for your trade by inserting the number of ticks, and finally select your stake or the amount you'd like to receive upon expiry.
  ![Binary.com]({{site.url }}/images/3949173_orig.jpg)
