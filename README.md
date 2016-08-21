@@ -1,5 +1,7 @@
 ## Binary blog v2
 
+[![Build Status](https://travis-ci.org/binary-com/blog.svg?branch=master)](https://travis-ci.org/binary-com/blog)
+
 - Always add language to the permalink ( like this -> permalink: /en/some-text-for-prmalink }
 
 
