@@ -1,0 +1,46 @@
+<footer class="Footer">
+	<div class="Footer__socket">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-3">
+			    	{% include navs/footer/col-1.html %}
+				</div>
+				<div class="col-xs-3">
+			    	{% include navs/footer/col-2.html %}
+				</div>
+				<div class="col-xs-3">				
+                    {% include navs/footer/col-3.html %}
+				</div>
+				<div class="col-xs-3">
+                    {% include navs/footer/col-4.html %}
+				</div>			
+			</div>
+		</div>
+	</div>
+	<div class="Footer__info">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9">
+					{% include snippets/footer-info.html %}
+				</div>
+				<div class="col-md-3 Footer__social">
+					{% include snippets/social.html %}
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="Footer__copyrights">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<small>&copy; 2016 Binary.com</small>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script src="https://apis.google.com/js/platform.js" defer></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="{{ '/js/code.js' | prepend: site.url }}" defer></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
+<script src="{{ '/js/ie10-viewport-bug-workaround.js' | prepend: site.url }}"></script>
