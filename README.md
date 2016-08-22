@@ -124,4 +124,4 @@ No need to add container class, this is already added. Just add row and columns.
 
 
 ###Validate your code
-Validate the code you just created before you submit request. Use html Validator and choose Validator Input as best suits you: https://html5.validator.nu
+Validate code before you submit request. Use html Validator and choose Validator Input as best suits you: https://html5.validator.nu
