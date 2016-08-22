@@ -1,52 +1,50 @@
-<header class="">
-	<div class="Top-Bar">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8">
-					
-				</div>
-				<div class="col-md-4">
-				    <div class="Top-Bar__contacts">
-					{% include navs/contactus.html %}
-					</div>
-				    <div class="Top-Bar__language" id="language_select">
-						<select>
-							<option value="id" {% if siteLang == 'id' %}selected{% endif %}>Bahasa Indonesia</option>
-							<option value="ru" {% if siteLang == 'ru' %}selected{% endif %}>Русский</option>
-							<option value="en" {% if siteLang == 'en' %}selected{% endif %}>English</option>
-							<option value="fr" {% if siteLang == 'fr' %}selected{% endif %}>Français</option>
-							<option value="es" {% if siteLang == 'es' %}selected{% endif %}>Español</option>
-							<option value="de" {% if siteLang == 'de' %}selected{% endif %}>Deutsch</option>
-							<option value="pt" {% if siteLang == 'pt' %}selected{% endif %}>Português</option>
-						</select>
-					</div>
-				</div>
+<div class="Top-Bar">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				
 			</div>
-		</div>
-	</div>	
-	<div class="Header">
-		<div class="container">
-			<div class="row">
-				<a href="/">
-					<div class="col-md-3 Header__logo">
-                        <div class="Header__logo__sign"><img class="" src="https://binary.com/images/pages/binary-symbol-logo.svg" alt="Binary.com"/></div>					                
-						<div class="Header__logo__text"><img class="" src="https://binary.com/images/pages/binary-type-logo.svg" alt="Binary Blog" /></div>    
-					</div>
-				</a>
-				<div class="col-md-9">
-			  </div>
-			</div>
-		</div>
-	</div>
-	<div class="Subheader">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-				<ul class="">
-					{% include navs/navigation.html %}
-				</ul>
+			<div class="col-md-4">
+				<div class="Top-Bar__contacts">
+				{% include navs/contactus.html %}
+				</div>
+				<div class="Top-Bar__language" id="language_select">
+					<select>
+						<option value="id" {% if siteLang == 'id' %}selected{% endif %}>Bahasa Indonesia</option>
+						<option value="ru" {% if siteLang == 'ru' %}selected{% endif %}>Русский</option>
+						<option value="en" {% if siteLang == 'en' %}selected{% endif %}>English</option>
+						<option value="fr" {% if siteLang == 'fr' %}selected{% endif %}>Français</option>
+						<option value="es" {% if siteLang == 'es' %}selected{% endif %}>Español</option>
+						<option value="de" {% if siteLang == 'de' %}selected{% endif %}>Deutsch</option>
+						<option value="pt" {% if siteLang == 'pt' %}selected{% endif %}>Português</option>
+					</select>
 				</div>
 			</div>
 		</div>
 	</div>
-</header>
+</div>	
+<div class="Header">
+	<div class="container">
+		<div class="row">
+			<a href="/">
+				<div class="col-md-3 Header__logo">
+					<div class="Header__logo__sign"><img class="" src="https://binary.com/images/pages/binary-symbol-logo.svg" alt="Binary.com"/></div>					                
+					<div class="Header__logo__text"><img class="" src="https://binary.com/images/pages/binary-type-logo.svg" alt="Binary Blog" /></div>    
+				</div>
+			</a>
+			<div class="col-md-9">
+		  </div>
+		</div>
+	</div>
+</div>
+<div class="Subheader">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+			<ul class="">
+				{% include navs/navigation.html %}
+			</ul>
+			</div>
+		</div>
+	</div>
+</div>
