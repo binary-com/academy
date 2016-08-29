@@ -4,6 +4,7 @@ rvm:
 branches:
   only:
   - gh-pages     # test the gh-pages branch
+  - master
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx --check-html
