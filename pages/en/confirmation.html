@@ -4,6 +4,26 @@ title: Thank you
 permalink: /en/confirmation/
 language: en
 ---
+<div>
+  <iframe style="width:100%; min-height:400px;" id="webinar_confirm"></iframe>
+</div>
+
+<script type="text/javascript">
+  function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)", "i"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+  }
+  document.getElementsByClassName('margin-b')[0].remove();
+  var src = getParameterByName('iframe');
+  if(src) {
+    document.getElementById('webinar_confirm').src = src;
+  }
+</script>
 <p>We're pleased to confirm that you have successfully signed up for our upcoming webinar.</p>
 <p>Further instructions on how to access the webinar session will be sent to you by email in due course.</p> 
 <p>We look forward to seeing you there.</p>
