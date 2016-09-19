@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Negociações tique-taque disponíveis agora em contratos Volatility "Superior/Inferior"
+title: Negociações tique-taque disponíveis agora em contratos Volatility Superior/Inferior
 permalink: /pt/tique-taque-disponíveis-agora-em-contratos-volatility-superior-inferior-2016/
 excerpt: "Aproveite o nosso tipo de negociação mais rápido numa variedade de formas novas, com negociações tique-taque Superior/Inferior disponíveis agora nos Índices Volatility..."
 language: pt
 ---
-Aproveite o nosso tipo de negociação mais rápido numa variedade de formas novas, com negociações tique-taque "Superior/Inferior" disponíveis agora nos Índices Volatility.
+Aproveite o nosso tipo de negociação mais rápido numa variedade de formas novas, com negociações tique-taque Superior/Inferior disponíveis agora nos Índices Volatility.
 
 <a href="https://www.binary.com/pt/trading.html?currency=USD&market=volidx&duration_amount=5&duration_units=t&amount=10&amount_type=payout&expiry_type=duration&underlying=R_100&formname=higherlower&barrier" target="_blank"><img src="/images/pt-19-sep.jpg" alt="Binary.com"></a>
 
