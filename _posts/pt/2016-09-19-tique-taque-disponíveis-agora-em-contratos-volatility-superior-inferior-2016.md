@@ -11,6 +11,6 @@ Aproveite o nosso tipo de negociação mais rápido numa variedade de formas nov
 
 Explore esta nova e veloz adição à nossa interface de negociação. <a href="http://info.binary.com/2csGGsM" target="_blank">Experimente adquirir um contrato Superior/Inferior entre 5 e 10 tique-taques</a> e desfrute dos resultados quase instantâneos – disponível para você negociar 24/7, até nos fins-de-semana.
 
-Como sempre, agradecemos o seu apoio!
-
 Envie-nos os seus comentários sobre este novo recurso recém-lançado. Envie as mensagens para marketing@binary.com
+
+Como sempre, agradecemos o seu apoio!
