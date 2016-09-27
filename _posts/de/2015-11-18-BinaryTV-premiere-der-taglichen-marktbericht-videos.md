@@ -16,7 +16,7 @@ Binary TV hat am Mittwoch mit der ersten Episode der brandneuen Serie von Tägli
 **Schalten Sie sich jeden Tag zu den neusten Finanznachrichten ein**
 
 
-Wir informieren Sie über die wichtigsten Themen und Trends aus dem globalen Finanzsektor. Alle diese wertvollen Informationen fassen wir in unseren [täglichen Marktberichten](https://blog.binary.com/de/binary-tv/) zusammen, die jetzt bequem mit nur einem Mausklick im Videoformat zur Verfügung stehen.
+Wir informieren Sie über die wichtigsten Themen und Trends aus dem globalen Finanzsektor. Alle diese wertvollen Informationen fassen wir in unseren [täglichen Marktberichten](https://academy.binary.com/de/binary-tv/) zusammen, die jetzt bequem mit nur einem Mausklick im Videoformat zur Verfügung stehen.
 
 Abonnieren Sie unseren [eigenen YouTube Kanal](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), damit Sie keine Sendung verpassen.
 <br>

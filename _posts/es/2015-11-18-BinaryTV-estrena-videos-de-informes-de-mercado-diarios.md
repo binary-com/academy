@@ -17,7 +17,7 @@ Binary TV fue lanzado el miércoles con el primer episodio de una nueva serie de
 **Véanos Cada Día para Noticias Financieras**
 
 
-Manténgase informado sobre los principales titulares y tendencias del sector financiero global. Toda esta información valiosa incluida en nuestros [Daily Market Reports(Informes de Mercado Diarios)](https://blog.binary.com/es/binary-tv/) ahora disponible de forma conveniente en video.
+Manténgase informado sobre los principales titulares y tendencias del sector financiero global. Toda esta información valiosa incluida en nuestros [Daily Market Reports(Informes de Mercado Diarios)](https://academy.binary.com/es/binary-tv/) ahora disponible de forma conveniente en video.
 
 Subscríbase a nuestro canal de [YouTube](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), para asegurarse de no perder ningún capítulo.
 

@@ -17,7 +17,7 @@ Binary TV premiered on Wednesday with the first episode of a brand-new series of
 **Explore the Many Benefits**
 
 
-With Binary TV now live, it’s never been easier to keep up with headline stories throughout the global financial sector each day. All of the valuable information packed into our [Daily Financial Review](https://blog.binary.com/en/binary-tv/) is now conveniently at your fingertips in video format. 
+With Binary TV now live, it’s never been easier to keep up with headline stories throughout the global financial sector each day. All of the valuable information packed into our [Daily Financial Review](https://academy.binary.com/en/binary-tv/) is now conveniently at your fingertips in video format. 
 
 Subscribe to our [dedicated YouTube channel](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), to make sure you never miss an episode. 
 

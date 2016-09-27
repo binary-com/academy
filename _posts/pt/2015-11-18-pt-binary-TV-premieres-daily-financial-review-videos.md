@@ -17,7 +17,7 @@ A Binary TV estreou na quarta-feira o primeiro episódio de uma nova série de v
 **Descubra os vários benefícios**
 
 
-Com a Binary TV já lançada, nunca foi tão fácil manter-se atualizado com as notícias principais de todo o setor financeiro global todos os dias. Toda a informação concentrada no nosso Noticiário [Diário dos Mercados](https://blog.binary.com/en/binary-tv/?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=BinaryTV) está agora convenientemente disponibilizada para você em formato de vídeo.
+Com a Binary TV já lançada, nunca foi tão fácil manter-se atualizado com as notícias principais de todo o setor financeiro global todos os dias. Toda a informação concentrada no nosso Noticiário [Diário dos Mercados](https://academy.binary.com/en/binary-tv/?utm_source=blog&utm_medium=social&utm_content=EN&utm_campaign=BinaryTV) está agora convenientemente disponibilizada para você em formato de vídeo.
 
 Inscreva-se no nosso [canal dedicado no YouTube](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), para garantir que nunca perca um episódio.
 
