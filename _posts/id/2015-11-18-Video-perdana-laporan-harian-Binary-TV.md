@@ -17,7 +17,7 @@ Tayangan perdana TV Binary disiarkan pada Rabu sebagai episode pertama dari seri
 **Ikuti Setiap Hari Liputan Berita Keuangan**
 
 
-Tetap ikuti topik utama dari seluruh sektor keuangan dunia. Semua informasi penting yang terangkum dalam [Laporan Pasar Harian](https://blog.binary.com/id/binary-tv/) kami kini tersedia diujung jari Anda dalam format video.
+Tetap ikuti topik utama dari seluruh sektor keuangan dunia. Semua informasi penting yang terangkum dalam [Laporan Pasar Harian](https://academy.binary.com/id/binary-tv/) kami kini tersedia diujung jari Anda dalam format video.
 
 Berlanggananlah [di saluran YouTube kami yang berdedikasi](https://www.youtube.com/playlist?list=PLVJJAiu3lRjYz1XO_yoyIRxgz5zBlQc-g), kami kini tersedia diujung jari Anda dalam format video.
 

@@ -11,7 +11,7 @@ email: marketing@binary.com
 description: > # this means to ignore newlines until "baseurl:"
   Binary.com is the premier trading platform for binary options on all financial markets. Trade Forex, Indices, Stocks, Commodities and global Sector Indices with trades ranging from 15 seconds up to 365 days.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.binary.com" # the base hostname & protocol for your site
+url: "https://academy.binary.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 
