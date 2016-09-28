@@ -1,6 +1,6 @@
 ## Binary blog v2
 
-[![Build Status](https://travis-ci.org/binary-com/blog.svg?branch=gh-pages)](https://travis-ci.org/binary-com/blog)
+[![Build Status](https://travis-ci.org/binary-com/academy.svg?branch=gh-pages)](https://travis-ci.org/binary-com/academy)
 
 - Always add language to the permalink ( like this -> permalink: /en/some-text-for-prmalink }
 
