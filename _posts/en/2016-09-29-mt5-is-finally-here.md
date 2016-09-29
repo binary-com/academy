@@ -11,9 +11,9 @@ Traders, we are delighted to announce the launch of Binary.com’s MT5 trading p
 
 MetaTrader 5 (MT5) is the industry leading platform that allows users to:
 
--Customise their trades for higher return potential
--Take advantage of algorithmic trading
--Trade our proprietary volatility indices 24/7 in a new exciting manner
+- Customise their trades for higher return potential
+- Take advantage of algorithmic trading
+- Trade our proprietary volatility indices 24/7 in a new exciting manner
 
 Find out more about how to join and upgrade your existing account to MT5
 
