@@ -17,7 +17,7 @@ MetaTrader 5 (MT5) is the industry leading platform that allows users to:
 
 Find out more about how to join and upgrade your existing account to MT5
 
-<p class="p--action"<a class="button" href="https://mt.binary.com/?utm_source=blog&utm_medium=social"><span>Click here to join and upgrade your existing account to MT5</span></a></p>
+<p class="p--action"><a class="button" href="https://mt.binary.com/?utm_source=blog&utm_medium=social"><span>Click here to join and upgrade your existing account to MT5</span></a></p>
 
 Our MetaTrader 5 trading platform is currently not available to clients resident in the EU and Australia
 
