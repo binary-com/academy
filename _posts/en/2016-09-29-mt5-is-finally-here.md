@@ -5,7 +5,7 @@ language: en
 permalink: /en/mt5-is-finally-here/
 excerpt: "Traders, we are delighted to announce the launch of Binary.com’s MT5 trading platform starting with volatility indices. Additional assets will be coming your way shortly..."
 ---
-![MT5 is Finally Here!]({{site.baseurl }}/images/MT5.jpg)
+![MT5 is Finally Here!](/images/MT5.jpg)
 
 Traders, we are delighted to announce the launch of Binary.com’s MT5 trading platform starting with volatility indices. Additional assets will be coming your way shortly.
 
