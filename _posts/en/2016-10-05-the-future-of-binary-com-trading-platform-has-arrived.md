@@ -16,9 +16,7 @@ Exciting new features include:
 *  Universal sidebar to access all panels in one screen
 *  "Watch List" feature to keep an eye on saved assets
 
-and more.
-
-<p class="p--action"><a class="button" href="http://info.binary.com/2dXoxFz"><span>Read more</span></a></p>
+<a href="http://info.binary.com/2dXoxFz">and more.</a>
 
 <p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image2.png" alt="Binary.com Trading Platform"></a></p>
  
