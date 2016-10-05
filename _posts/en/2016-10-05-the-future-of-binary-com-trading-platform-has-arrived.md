@@ -6,7 +6,7 @@ permalink: /en/the-future-of-binary-com-trading-platform-has-arrived/
 excerpt: "The future of Binary.com trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level...."
 ---
 
-<a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image1.jpg" alt="The Future of Binary.com Trading Platform"></a>
+<p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image1.jpg" alt="The Future of Binary.com Trading Platform"></a></p>
 
 The future of Binary.com trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level.
 
@@ -21,11 +21,9 @@ and more.
 
 <p class="p--action"><a class="button" href="http://info.binary.com/2dXoxFz"><span>Read more</span></a></p>
 
-<a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image2.jpg" alt="Binary.com Trading Platform"></a>
+<p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image2.png" alt="Binary.com Trading Platform"></a></p>
+ 
+<p class="p--action"><a class="button" href="http://info.binary.com/2db4TBy"><span>Start trading on your virtual or real money account today</span></a></p>
 
-Start trading on your virtual or real money account today. 
-
-<p class="p--action"><a class="button" href="http://info.binary.com/2db4TBy"><span>Click here</span></a></p>
-
-###### Volatility Indices are not available in the following countries: Germany, France, Spain, Singapore, Australia, Italy, and Luxembourg.
+##### Volatility Indices are not available in the following countries: Germany, France, Spain, Singapore, Australia, Italy, and Luxembourg.
 
