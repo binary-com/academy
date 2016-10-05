@@ -11,9 +11,7 @@ excerpt: "The future of Binary.com trading platform has arrived. This next gener
 The future of Binary.com trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level.
 
 Exciting new features include:
-
-Preparation of upto 5 trades simultaneously
-
+* Preparation of upto 5 trades simultaneously
 * Universal sidebar to access all panels in one screen
 * "Watch List" feature to keep an eye on saved assets
 
