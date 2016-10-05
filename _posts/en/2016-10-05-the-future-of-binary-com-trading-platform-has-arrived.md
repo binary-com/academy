@@ -6,7 +6,7 @@ permalink: /en/the-future-of-binary-com-trading-platform-has-arrived/
 excerpt: "The future of Binary.com trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level...."
 ---
 
-<a href="http://info.binary.com/2cP9xZU"><img src="{{site.url }}/images/image1.jpg" alt="The Future of Binary.com Trading Platform"></a>
+<a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image1.jpg" alt="The Future of Binary.com Trading Platform"></a>
 
 The future of Binary.com trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level.
 
@@ -21,7 +21,7 @@ and more.
 
 <p class="p--action"><a class="button" href="http://info.binary.com/2dXoxFz"><span>Read more</span></a></p>
 
-<a href="http://info.binary.com/2cP9xZU"><img src="{{site.url }}/images/image2.jpg" alt="Binary.com Trading Platform"></a>
+<a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image2.jpg" alt="Binary.com Trading Platform"></a>
 
 Start trading on your virtual or real money account today. 
 
