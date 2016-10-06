@@ -18,7 +18,7 @@ Exciting new features include:
 
 <a href="http://info.binary.com/2dXoxFz">and more.</a>
 
-<p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image2.png" alt="Binary.com Trading Platform"></a></p>
+<p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image3.png" alt="Binary.com Trading Platform"></a></p>
  
 <p class="p--action"><a class="button" href="http://info.binary.com/2db4TBy"><span>Start trading on your virtual or real money account today</span></a></p>
 
