@@ -170,6 +170,6 @@ a h2:hover {color:inherit;}
 .video-thumb:nth-child(4n) {margin-right: 0;}
 .video-thumb img {padding-bottom: 1em;}
 .video-thumb p{font-size: 14px;margin: 0;}
-.unbounce--confirmation iframe {border:none; margin:0; padding:0;}
+.unbounce--confirmation iframe {background-color:#f4f4f4; border:none; margin:0; padding:0;}
 /* Corrections */
 .button {display:inline-table;margin-bottom:5px;}
