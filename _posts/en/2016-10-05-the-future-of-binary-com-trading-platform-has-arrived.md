@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "The Future of Binary.com Trading Platform has Arrived"
+title: "The Future of Binary.com's Trading Platform has Arrived"
 language: en
 permalink: /en/the-future-of-binary-com-trading-platform-has-arrived/
-excerpt: "The future of Binary.com trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level...."
+excerpt: "The future of Binary.com's trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level...."
 ---
 
 <p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image1.jpg" alt="The Future of Binary.com Trading Platform"></a></p>
 
-The future of Binary.com trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level.
+The future of Binary.com's trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level.
 
 Exciting new features include:
 
-*  Preparation of upto 5 trades simultaneously
+*  Preparation of up to 5 trades simultaneously
 *  Universal sidebar to access all panels in one screen
 *  "Watch List" feature to keep an eye on saved assets
 
