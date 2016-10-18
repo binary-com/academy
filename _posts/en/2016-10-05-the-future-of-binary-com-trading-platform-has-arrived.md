@@ -2,7 +2,7 @@
 layout: post
 title: "Explore Advanced Trading Features with the Binary.com Next-Gen App"
 language: en
-permalink: /en/the-future-of-binary-com-trading-platform-has-arrived/
+permalink: /en/explore-advanced-trading-features-with-the-binary-com-next-gen-app/
 excerpt: "The future of Binary.com's trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level..."
 ---
 
