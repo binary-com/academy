@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Índice Random” passam a chamar-se “Índices Volatility”
+title: “Índices Random” passam a chamar-se “Índices Volatility”
 permalink: /pt/random-indices-renamed-to-volatility-indices/
 excerpt: "Como parte do nosso lançamento mais recente, os “Índices Random” foram redesignados “Índices Volatility” na plataforma de negociação..."
 language: pt
