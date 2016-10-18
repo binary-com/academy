@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "The Future of Binary.com's Trading Platform has Arrived"
+title: "Explore Advanced Trading Features with the Binary.com Next-Gen App"
 language: en
 permalink: /en/the-future-of-binary-com-trading-platform-has-arrived/
-excerpt: "The future of Binary.com's trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level...."
+excerpt: "The future of Binary.com's trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level..."
 ---
 
 <p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image1.jpg" alt="The Future of Binary.com Trading Platform"></a></p>
 
-The future of Binary.com's trading platform has arrived. This next generation platform upgrades the existing platform and takes it to the next level.
+The Next-Gen app has arrived. Explore cutting-edge features to take your trading to the next level, including:
 
-Exciting new features include:
+*  Prepare up to five trades simultaneously.
+*  Access all panels on one page with the new universal sidebar menu.
+*  Easily track and monitor your saved assets with the "Watch List" feature.
 
-*  Preparation of up to 5 trades simultaneously
-*  Universal sidebar to access all panels in one screen
-*  "Watch List" feature to keep an eye on saved assets
+There’s a lot more exciting features for you to take advantage of.
 
-<a href="http://info.binary.com/2dXoxFz">and more.</a>
+
 
 <p class="p--action"><a href="http://info.binary.com/2cP9xZU"><img src="{{site.baseurl }}/images/image3.png" alt="Binary.com Trading Platform"></a></p>
  
-<p class="p--action"><a class="button" href="http://info.binary.com/2db4TBy"><span>Start trading on your virtual or real money account today</span></a></p>
+<p class="p--action"><a class="button" href="http://info.binary.com/2db4TBy"><span>Start Trading with Binary.com Next-Gen Now</span></a></p>
 
-##### Volatility Indices are not available in the following countries: Germany, France, Spain, Singapore, Australia, Italy, and Luxembourg.
+##### Note: Volatility Indices are not available in the following countries: Germany, France, Spain, Singapore, Australia, Italy, and Luxembourg.
 
