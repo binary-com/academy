@@ -3,12 +3,12 @@ layout: post
 title: "Jelajahi Fitur Trading Tingkat Lanjut dengan Applikasi Next-Gen Binary.com"
 language: id
 permalink: /id/explore-advanced-trading-features-with-the-binary-com-next-gen-app/
-excerpt: "Представляем Вашему вниманию приложение Next-Gen. Ознакомьтесь с передовыми функциями, способными поднять Вашу торговлю на новый уровень..."
+excerpt: "Applikasi Next-Gen telah hadir. Jelajahi fitur mutakhir yang akan membawa trading Anda ke tingkat selanjutnya, termasuk..."
 ---
 
 <p class="p--action"><a href="http://info.binary.com/2ee8z6X"><img src="{{site.baseurl }}/images/image1.jpg" alt="The Future of Binary.com Trading Platform"></a></p>
 
-ПApplikasi Next-Gen telah hadir. Jelajahi fitur mutakhir yang akan membawa trading Anda ke tingkat selanjutnya, termasuk:
+Applikasi Next-Gen telah hadir. Jelajahi fitur mutakhir yang akan membawa trading Anda ke tingkat selanjutnya, termasuk:
 
 *  Mempersiapkan hingga lima trading secara bersamaan.
 *  Mengakses semua panel dalam satu halaman dengan menu sidebar universal baru.
