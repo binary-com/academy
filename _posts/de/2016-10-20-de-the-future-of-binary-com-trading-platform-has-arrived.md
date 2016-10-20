@@ -21,4 +21,4 @@ Es gibt noch weitere, aufregende Features, von denen Sie Nutzen machen können.
  
 <p class="p--action"><a class="button" href="http://info.binary.com/2dR5KNs"><span>Beginnen Sie den Handel jetzt, mit der Binary.com Next-Gen App</span></a></p>
 
-##### Note: Os índices Volatility não estão disponíveis nos seguintes países: Alemanha, França, Espanha, Cingapura, Austrália, Itália e Luxemburgo.
+##### Note: Volatilität Indizes sind in den folgenden Ländern nicht erhältlich: Deutschland, Spanien, Singapur, Australien, Italien, und Luxemburg.
