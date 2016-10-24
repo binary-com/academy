@@ -94,7 +94,7 @@ excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged
 you can just use p element, no need for fancy div usage.
 Note that a button under new unified style looks like this:
 ```
-<a class="button" href"http://binary.com"><span>Link Title</span></a>
+<a class="button" href="http://binary.com"><span>Link Title</span></a>
 ```
 But all elements following unified styling can be found on the style guide here: https://style.binary.com
 
