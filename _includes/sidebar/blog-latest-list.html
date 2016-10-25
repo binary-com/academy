@@ -42,7 +42,7 @@
 			</ul>
 	{% elsif siteLang == "pt" %}
 	{% assign sPosts = site.posts | where: "language", "pt" %}
-	<h3>Postingan Terkini</h3>
+	<h3>Publicações recentes</h3>
 			<ul>								
 				{% for post in sPosts | limit:10 %}
 					{% if post.title %}
