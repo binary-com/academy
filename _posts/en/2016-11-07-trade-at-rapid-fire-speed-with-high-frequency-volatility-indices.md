@@ -18,7 +18,7 @@ You’ll find our new <strong>HF Volatility 10 Index, HF Volatility 50 Index, an
 To find our new HF Volatility assets in MetaTrader 5, use Market Watch –– click to add, and type the name of the asset class. Add each one into the Symbol list, and double-click to place an order.
 
 
-Enjoy our new High-Frequency Volatility Indices for MT5? Send your feedback to marketing@binary.com.
+Enjoy our new High-Frequency Volatility Indices for MT5? Send your feedback to <a href="mailto:marketing@binary.com">marketing@binary.com</a>.
 
 
 
