@@ -9,12 +9,12 @@ Looking for more diversity in the Volatility Indices markets? We’ve just launc
 
 The new Volatility 10 Index is one-tenth as volatile as our Volatility 100 Index, and can be traded on all types of contracts on a 24/7 basis, including:
 
-   Up/Down
-   Touch/No Touch
-   In/Out
-   Asians
-   Digits
-   Spreads
+-  Up/Down
+-  Touch/No Touch
+-  In/Out
+-  Asians
+-  Digits
+-  Spreads
 
 <a href="http://info.binary.com/2eHCg2o">Purchase your first Volatility 10 contract</a> now on Binary.com and enjoy the change of pace from our current Volatility Indices.
 
