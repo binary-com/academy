@@ -11,6 +11,7 @@ Our new <strong>HF Volatility Indices have two ticks per second</strong>, compar
 
 You’ll find our new <strong>HF Volatility 10 Index, HF Volatility 50 Index, and HF Volatility 100 Index</strong> exclusively on our MetaTrader 5 trading platform. Don’t have a MetaTrader 5 account? <a href="http://info.binary.com/2fzMsrm">Sign up now</a> and experience multi-asset trading at its finest.
 
+<p class="p--action"><a class="button" href="http://info.binary.com/2fzMsrm"><span>Sign up now</span></a></p>
 
 <p class="p--action"><a href="http://info.binary.com/2fzMsrm"><img src="{{site.baseurl }}/images/08-nov-16.jpg" alt="Rapid-Fire Speed with High-Frequency Volatility Indices for MT5"></a></p>
 
