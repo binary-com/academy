@@ -19,10 +19,12 @@ language: fr
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
   var src = getParameterByName('iframe');
+  src = src.replace(/[&\\#,+()$~%'"`*?<>{}]/g, '');
   if(src) {
     document.getElementById('webinar_confirm').src = src;
   }
   var webinar_link = getParameterByName('webinar_link');
+  webinar_link = webinar_link.replace(/[&\\#,+()$~%'"`*?<>{}]/g, '');
   if(webinar_link) {
     document.getElementById('webinar_link').setAttribute('href', webinar_link);
   }
