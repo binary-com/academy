@@ -3,7 +3,7 @@ layout: post
 title: "Experience the Easiest MT5 Trading Yet"
 language: en
 permalink: /en/experience-the-easiest-mt5-trading-yet/
-excerpt: "We’ve just launched the new Volatility 10 Index that possesses 10% of the volatility of simulated markets for both MT5 and binary options platforms..."
+excerpt: "The MetaTrader 5 (MT5) mobile app is here to help. Place your orders anytime, anywhere and benefit from our highly competitive spreads with zero commission..."
 ---
 <p class="p--action"><img src="{{site.baseurl }}/images/mt5-2.jpg" alt="Experience the Easiest MT5 Trading Yet"></p>
 
