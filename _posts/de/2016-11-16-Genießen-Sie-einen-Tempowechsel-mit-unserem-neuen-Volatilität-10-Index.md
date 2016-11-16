@@ -22,4 +22,4 @@ Der neue Volatilität 10 Index ist zu einem Zehntel so volatil wie unser Volatil
 
 Lassen Sie uns wissen, was Sie von unserem Volatilität 10 Index halten. Senden Sie Ihr  Feedback an <a href="mailto:marketing@binary.com">marketing@binary.com</a>
  
-<p class="p--action"><a class="button" href="http://info.binary.com/2eGrC8R"><span>Kaufen Sie Ihren ersten Volatilität 10 Kontrakt</span></a></p>
+<p class="p--action"><a class="button" href="http://info.binary.com/2eRWRhf"><span>Kaufen Sie Ihren ersten Volatilität 10 Kontrakt</span></a></p>
