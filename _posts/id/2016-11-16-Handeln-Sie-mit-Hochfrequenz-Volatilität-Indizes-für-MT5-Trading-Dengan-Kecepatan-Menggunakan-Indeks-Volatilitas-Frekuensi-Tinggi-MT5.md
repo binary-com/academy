@@ -13,7 +13,7 @@ Kami dengan sangat gembira mengumumkan Indeks Volailitas Frekuensi Tinggi Terbar
 
 <p class="p--action"><a href="http://info.binary.com/2ffxA1C"><img src="{{site.baseurl }}/images/08-nov-16-2.jpg" alt="Negocie a rápida velocidade com índices Volatility de alta frequência para a MT5"></a></p>
 
-Untuk menemukan aset Volatilitas HF pada MetaTrader 5, gunakan Market Watch –– klik untuk menambahkan dan ketik nama kelas aset. Tambahkan setiap aset pada daftar Simbol dan klik dua kali untuk membuat order.
+Untuk menemukan aset Volatilitas HF pada MetaTrader 5, gunakan Market Watch klik untuk menambahkan dan ketik nama kelas aset. Tambahkan setiap aset pada daftar Simbol dan klik dua kali untuk membuat order.
 
 Anda menyukai Indeks Volatilitas Frekuensi Tinggi MT5? Kirimkan pendapat Anda ke <a href="mailto:marketing@binary.com">marketing@binary.com</a>
  
