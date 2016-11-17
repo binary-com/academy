@@ -13,7 +13,7 @@ Sie werden unseren neuen <strong>HF Volatilität 10 Index, HF Volatilität 50 In
 
 <p class="p--action"><a href="http://info.binary.com/2fhOVcX"><img src="{{site.baseurl }}/images/08-nov-16-2.jpg" alt="Negocie a rápida velocidade com índices Volatility de alta frequência para a MT5"></a></p>
 
-Um unsere neuen HF Volatilität Anlagen in MetaTrader 5 zu finden, verwenden Sie bitte Market Watch –– klicken Sie um es hinzuzufügen, und tippen Sie den Namen der Anlageklasse ein. Fügen Sie jedes einzelne in die Symbolliste ein, und geben Sie eine Bestellung via Doppelklick auf.
+Um unsere neuen HF Volatilität Anlagen in MetaTrader 5 zu finden, verwenden Sie bitte Market Watch –– klicken Sie um es hinzuzufügen, und tippen Sie den Namen der Anlageklasse ein. Fügen Sie jeden einzelnen in die Symbolliste ein, und geben Sie eine Bestellung via Doppelklick auf.
 
 Sie genießen unsere neuen Hochfrequenz Volatilität Indizes für MT5? Senden Sie uns Ihr Feedback an <a href="mailto:marketing@binary.com">marketing@binary.com</a>
  
