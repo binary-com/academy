@@ -18,7 +18,7 @@ Der neue Volatilität 10 Index ist zu einem Zehntel so volatil wie unser Volatil
 <li>Spreads</li>
 </ul>
 
-<strong>Kaufen Sie jetzt Ihren ersten Volatilität 10 Kontrakt</strong> aauf Binary.com und genießen Sie den Tempowechsel von unseren aktuellen Volatilität Indizes.
+<strong>Kaufen Sie jetzt Ihren ersten Volatilität 10 Kontrakt</strong> auf Binary.com und genießen Sie den Tempowechsel von unseren aktuellen Volatilität Indizes.
 
 Lassen Sie uns wissen, was Sie von unserem Volatilität 10 Index halten. Senden Sie Ihr  Feedback an <a href="mailto:marketing@binary.com">marketing@binary.com</a>
  
