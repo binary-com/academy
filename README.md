@@ -125,3 +125,23 @@ No need to add container class, this is already added. Just add row and columns.
 
 ###Validate your code
 Validate code before you submit request. Use html Validator and choose Validator Input as best suits you: https://html5.validator.nu
+
+
+###Installing to localhost
+
+Make sure your ruby version is above 2.2.2 
+```
+ruby -v 
+```
+
+```
+gem install bundler
+```
+
+To start to server at localhost 
+```
+bundle exec jekyll serve
+```
+
+The server will start at localhost at port 4000 (at default config)
+
