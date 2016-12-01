@@ -19,13 +19,18 @@ language: es
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
   var src = getParameterByName('iframe');
-  src = src.replace(/[&\\#,+()$~%'"`*?<>{}]/g, '');
-  if(src) {
-    document.getElementById('webinar_confirm').src = src;
+  var patt = /^(https?:\/\/)?(([a-zA-Z0-9]+\.)?(binary)\.([a-z\.]{2,8})([\/\w \.-]*)*\/?)$/g;
+  if(patt.test(decodeURIComponent(src)) == true) {
+    document.getElementById('webinar_confirm').src == src;
+  }
+  else{
+  	document.write("Invalid URL. ");
   }
   var webinar_link = getParameterByName('webinar_link');
-  webinar_link = webinar_link.replace(/[&\\#,+()$~%'"`*?<>{}]/g, '');
-  if(webinar_link) {
+  if(patt.test(decodeURIComponent(webinar_link)) == true) {
     document.getElementById('webinar_link').setAttribute('href', webinar_link);
+  }
+  else{
+  	document.write("  Invalid webinar link.");
   }
 </script>
