@@ -3,10 +3,10 @@ layout: post
 title: "Three Reasons to Trade Forex on MT5"
 language: en
 permalink: /en/three-reasons-to-trade-forex-on-MT5/
-excerpt: "Experience a new way of CFD trading for Forex, using our much anticipated MetaTrader 5 (MT5) platform –– available on desktop app, mobile app, and web terminal..."
+excerpt: "Experience a new way of CFD trading for Forex, using our much anticipated MetaTrader 5 (MT5) platform available on desktop app, mobile app, and web terminal..."
 ---
 
-Experience a new way of CFD trading for Forex, using our much anticipated MetaTrader 5 (MT5) platform –– available on desktop app, mobile app, and web terminal.
+Experience a new way of CFD trading for Forex, using our much anticipated MetaTrader 5 (MT5) platform available on desktop app, mobile app, and web terminal.
 
 All the currency pairs that you’ve grown to love are available. Here are all the reasons you need to start trading Forex right now on our MT5 platform:
 
