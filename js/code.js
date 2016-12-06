@@ -99,7 +99,7 @@ $(function() {
             var publicVideos = data.items.filter(isPublic);
             var thumbs = publicVideos.map(function(item) {
                 var link = (typeof item.snippet.thumbnails === 'undefined') ? 'https://academy.binary.com/images/thumbnail-binaryTV.png' : item.snippet.thumbnails.high.url;
-                return '<a class="video-thumb" data-video-id="' + item.snippet.resourceId.videoId + '" title="' + item.snippet.title.replace(/\"/g,"%22"); + '">' + '<img src="' + link + '">' + '<p>' + item.snippet.title + '</p>' + '</a>';
+                return '<a class="video-thumb" data-video-id="' + item.snippet.resourceId.videoId + '" title="' + item.snippet.title.replace(/\"/g,"%22") + '">' + '<img src="' + link + '">' + '<p>' + item.snippet.title + '</p>' + '</a>';
             });
             $(thumbs.join('')).appendTo($playlist);
         }
