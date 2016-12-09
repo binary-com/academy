@@ -19,7 +19,7 @@ language: en
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
   var src = getParameterByName('iframe');
-  var patt = new RegExp(/^(https?:\/\/)?(([a-zA-Z0-9]+\.)?([a-zA-Z0-9]+)\.([a-z\.]{2,8})([\/\w \.-\?\#]*)*\/?)$/g);
+  var patt = new RegExp(/^(https?:\/\/)?(([a-zA-Z0-9]+\.)?([a-zA-Z0-9]+)\.([a-z\.]{2,8})([\/\w \.-\?\#]*)*\/?)$/, 'g');
   if(patt.test(decodeURIComponent(src)) == true) {
     document.getElementById('webinar_confirm').src == src;
   }
