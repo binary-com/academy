@@ -19,18 +19,10 @@ language: pt
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
   var src = getParameterByName('iframe');
-  var patt = /^(https?:\/\/)?(([a-zA-Z0-9]+\.)?(binary)\.([a-z\.]{2,8})([\/\w \.-]*)*\/?)$/g;
+  var patt = /^(https?:\/\/)?(([a-zA-Z0-9]+\.)?([a-zA-Z0-9]+)\.([a-z\.]{2,8})([\/\w \.-\?\#]*)*\/?)$/;
   if(patt.test(decodeURIComponent(src)) == true) {
-    document.getElementById('webinar_confirm').src == src;
-  }
-  else{
-  	document.write("Invalid URL. ");
-  }
-  var webinar_link = getParameterByName('webinar_link');
-  if(patt.test(decodeURIComponent(webinar_link)) == true) {
-    document.getElementById('webinar_link').setAttribute('href', webinar_link);
-  }
-  else{
-  	document.write("  Invalid webinar link.");
+    document.getElementById('webinar_confirm').src = src;
+  } else {
+  	document.write("Invalid URL.");
   }
 </script>
