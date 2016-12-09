@@ -21,7 +21,7 @@ language: en
   var src = getParameterByName('iframe');
   var patt = /^(https?:\/\/)?(([a-zA-Z0-9]+\.)?([a-zA-Z0-9]+)\.([a-z\.]{2,8})([\/\w \.-\?\#]*)*\/?)$/;
   if(patt.test(decodeURIComponent(src)) == true) {
-    document.getElementById('webinar_confirm').src == src;
+    document.getElementById('webinar_confirm').src = src;
   } else {
   	document.write("Invalid URL.");
   }
