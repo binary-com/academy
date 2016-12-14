@@ -47,7 +47,7 @@ a h2:hover {color:inherit;}
 }
 #language_select {padding:0px 0;margin: 0px;}
 .logo-parent {display:block; padding-top:10px; padding-left:1px;}
-.logo {max-width:100%; width:55px;}
+.logo {width:55px;}
 .binary-logo-text {margin-left:-3px; width:178px; margin-top:0px; padding-top:0px;display:inline-table;}
 
 @media (max-width:768px) {
