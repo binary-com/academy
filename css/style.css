@@ -27,10 +27,52 @@ summary {
 a h2:hover {color:inherit;}
 /* Header */
 .Top-Bar {display:table; width: 100%; color: #fff; line-height: 1; font-size: 70%; text-align: right; padding: 3px 0; background: #15212d; }
-.Top-Bar__contacts {display:inline;text-align:right;}
-.Top-Bar__contacts a {display:inline-block; color:#fff; margin:0 10px; padding-top:5px; padding-right:23px; font-size:13px; font-weight:bold;}
-.Top-Bar__language {display:inline; float:right; text-align:right;}
-.Top-Bar__language select{padding: 0px; margin:0px;}
+
+.Top-Bar__contacts {
+    display: inline;
+    text-align: right;
+	margin:0;
+}
+.Top-Bar__contacts a {
+    display: inline-block;
+    color: #fff;
+    margin: 0 10px;
+    padding-top: 7px;
+    padding-right: 17px;    
+}
+.Top-Bar__language {
+    display: inline;
+    float: right;
+    text-align: right;
+	margin:0;
+}
+#language_select {padding:0px 0;margin-right: 1px;}
+.logo-parent {display:block; padding-top:10px; padding-left:1px;}
+.logo {max-width:100%; width:55px;}
+.binary-logo-text {margin-left:-3px; width:178px; margin-top:0px; padding-top:0px;display:inline-table;}
+@media (max-width:992px) {
+	#topbar, #header {text-align:center;}
+    .logo-parent {text-align:center;}
+    .logo{width:55px!important; margin-right:-10px;}
+    .binary-logo-text {visibility:visible!important; display:inline-block!important;}
+}
+@media (max-width:768px) {
+	
+    #topbar a {
+        display: inline-block;
+        margin: 15px 10px;
+        padding: 10px 0
+    }
+    .Top-Bar__language {
+		display:block;
+        text-align: center;
+        clear: both;
+        width: 100%;
+        padding-bottom: 5px
+    }
+	#language_select {margin-top:0px; margin-bottom:20px;}
+}
+
 .Header {display:table; width:100%; background-color:#2a3052; color:#fff; border-top: 2px solid #394170; border-bottom: 4px solid #e98024; padding:5px 0;}
 .Header__logo {margin:5px 0px; }
 .Header__logo  div{display:inline;}
