@@ -26,7 +26,6 @@ summary {
 }
 a h2:hover {color:inherit;}
 /* Header */
-.Top-Bar {display:table; width: 100%; color: #fff; line-height: 1; font-size: 70%; text-align: right; padding: 3px 0; background: #15212d; }
 
 .Top-Bar__contacts {
     display: inline;
@@ -46,7 +45,7 @@ a h2:hover {color:inherit;}
     text-align: right;
 	margin:0;
 }
-#language_select {padding:0px 0;margin-right: 1px;}
+#language_select {padding:0px 0;margin: 0px;}
 .logo-parent {display:block; padding-top:10px; padding-left:1px;}
 .logo {max-width:100%; width:55px;}
 .binary-logo-text {margin-left:-3px; width:178px; margin-top:0px; padding-top:0px;display:inline-table;}
