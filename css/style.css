@@ -49,13 +49,12 @@ a h2:hover {color:inherit;}
 .logo-parent {display:block; padding-top:10px; padding-left:1px;}
 .logo {max-width:100%; width:55px;}
 .binary-logo-text {margin-left:-3px; width:178px; margin-top:0px; padding-top:0px;display:inline-table;}
-@media (max-width:992px) {
+
+@media (max-width:768px) {
 	#topbar, #header {text-align:center;}
     .logo-parent {text-align:center;}
     .logo{width:55px!important; margin-right:-10px;}
     .binary-logo-text {visibility:visible!important; display:inline-block!important;}
-}
-@media (max-width:768px) {
 	
     #topbar a {
         display: inline-block;
