@@ -19,7 +19,7 @@ Como parte de nuestro compromiso con la innovación, verá un cambio en nuestra 
 
 Si nos pueda dar 5 minutos de su tiempo, por favor digamos cómo podemos mejorar nuestro servicio para servirle mejor.
 
-####Diganos cua es la caracteristica favorirta de Binary.com y que es lo que podemos hacer mejor en 2017
+<strong>Diganos cua es la caracteristica favorirta de Binary.com y que es lo que podemos hacer mejor en 2017</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_es/"><span>Envienos su opinion </span></a></p>
 

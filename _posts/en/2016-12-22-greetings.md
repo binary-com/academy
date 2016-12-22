@@ -19,7 +19,7 @@ As part of our commitment to innovation, you will see a change in our branding f
 
 If you can spare us five minutes of your time, please tell us how we can improve further in order to serve you better.
 
-####Tell us your favourite Binary.com feature and what we can do even better in 2017
+<strong>Tell us your favourite Binary.com feature and what we can do even better in 2017</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_en/"><span>Send your feedback</span></a></p>
 

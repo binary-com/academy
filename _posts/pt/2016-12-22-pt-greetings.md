@@ -19,7 +19,7 @@ Como parte do nosso compromisso com a inovação, haverá uma mudança na imagem
  
 Caso possível, pedimos que você dedique cinco minutos do seu tempo para nos dizer como podemos melhorar ainda mais, a fim de servi-lo melhor.
 
-####Diga-nos qual é o seu recurso favorito na Binary.com e o que podemos fazer melhor em 2017.
+<strong>Diga-nos qual é o seu recurso favorito na Binary.com e o que podemos fazer melhor em 2017.</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_pt/"><span>Envie os seus comentários</span></a></p>
 

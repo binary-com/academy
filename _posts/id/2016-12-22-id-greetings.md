@@ -19,7 +19,7 @@ Sebagai komitmen pada inovasi, kami melakukan perubahan branding mulai 2017 deng
 
 Luangkan lima menit waktu Anda untuk menyampaikan berbagai saran agar kami dapat meningkatkan lebih lanjut pelayanan kami.
 
-####Informasikan fasilitas favorit Binary.com Anda dan apa yang dapat kami lakukan untuk menjadi lebih baik di tahun 2017
+<strong>Informasikan fasilitas favorit Binary.com Anda dan apa yang dapat kami lakukan untuk menjadi lebih baik di tahun 2017</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_id/"><span>Kirim Tanggapan Anda</span></a></p>
 
