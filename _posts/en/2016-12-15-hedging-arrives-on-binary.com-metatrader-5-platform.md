@@ -1,24 +1,27 @@
 ---
 layout: post
-title: "Hedging Arrives on Binary.com’s MetaTrader 5 Platform"
+title: "Season’s Greetings to All Our Traders for Trusting Us Since 2000"
 language: en
-permalink: /en/hedging-arrives-on-binary.com-metatrader-5-platform/
-excerpt: "Experience a new way of CFD trading for Forex, using our much anticipated MetaTrader 5 (MT5) platform available on desktop app, mobile app, and web terminal..."
+permalink: /en/seasons-greetings/
+excerpt: "We’re sending you our warmest wishes for the coming holidays to tell you how much we appreciate having you as a Binary.com client..."
 ---
-![MT5 Binary options Trading!]({{site.baseurl }}/images/mt5-binaryoptions.jpg)
-Want to protect yourself against uncertain market conditions? Now you can have open positions in opposite directions of the same symbol.
+![MT5 Binary options Trading!]({{site.baseurl }}/images/greetings-2016.jpg)
 
-We’ve enabled the hedging feature in our MetaTrader 5 (MT5) platform –– that’s available on desktop, mobile, and a web terminal –– so you can enjoy the full potential of your trading strategies.
+Dear Traders,
 
-This hedging feature is similar to the one used in MetaTrader 4, and will feel familiar to traders who wish to upgrade to MT5. At the same time, you will be able to take advantage of the new features that are available exclusively on MT5, including up to six pending order types, netting, unlimited symbols, and exchange trading.
+It’s that time of the year again –– the season to rejoice and reflect, of gratitude and giving.
 
-You can also set the Stop Loss and Take Profit levels for each order, and then see the profit level of each position you’ve taken in real time.
+We’re sending you our warmest wishes for the coming holidays to tell you how much we appreciate having you as a Binary.com client.
 
-So what are you waiting for? Trade the Forex markets and Volatility Indices, using both demo and real accounts.
+We hope to see you again next year and for many more years to come.
 
-<p class="p--action"><a class="button" href="https://goo.gl/lOV7nm"><span>Start Hedging Your Trades Now</span></a></p>
+As part of our commitment to innovation, you will see a change in our branding from 2017 onwards. We’re revamping our tagline to ‘Trusted by traders since 2000’ to better convey our track record as the oldest and most trusted binary options provider for traders around the world.
 
-Enjoyed trading on MetaTrader 5? Help us improve our products and platform. Send your feedback to <a href="mailto:marketing@binary.com">marketing@binary.com</a>.
+If you can spare us five minutes of your time, please tell us how we can improve further in order to serve you better.
+
+Tell us your favourite Binary.com feature and what we can do even better in 2017
+
+<p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_en/"><span>Send your feedback</span></a></p>
 
 
 
