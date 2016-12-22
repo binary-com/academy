@@ -9,7 +9,7 @@ excerpt: "We’re sending you our warmest wishes for the coming holidays to tell
 
 Dear Traders,
 
-It’s that time of the year again –– the season to rejoice and reflect, of gratitude and giving.
+It’s that time of the year again the season to rejoice and reflect, of gratitude and giving.
 
 We’re sending you our warmest wishes for the coming holidays to tell you how much we appreciate having you as a Binary.com client.
 
