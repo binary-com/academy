@@ -9,7 +9,7 @@ excerpt: "Kami mengucapkan selamat menyambut liburan dan ingin menyampaikan beta
 
 Dear Rekan Trader,
 
-Saat yang ditunggu telah tiba –– saat untuk bersukacita dan merefleksikan rasa syukur dan memberi.
+Saat yang ditunggu telah tiba saat untuk bersukacita dan merefleksikan rasa syukur dan memberi.
 
 Kami mengucapkan selamat menyambut liburan dan ingin menyampaikan betapa kami menghargai Anda sebagai pelanggan Binary.com.
 
