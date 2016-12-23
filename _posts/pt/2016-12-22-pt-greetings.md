@@ -6,8 +6,6 @@ permalink: /pt/seasons-greetings/
 excerpt: "Enviamos calorosas saudações nesta época festiva para lhe mostrar o quanto valorizamos tê-lo como cliente na Binary.com..."
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/greetings-2016.jpg)
-
-Caros negociadores,
  
 Estamos novamente na época de alegria, reflexões e gratidão e de dar e receber.
  
@@ -22,10 +20,5 @@ Caso possível, pedimos que você dedique cinco minutos do seu tempo para nos di
 <strong>Diga-nos qual é o seu recurso favorito na Binary.com e o que podemos fazer melhor em 2017.</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_pt/"><span>Envie os seus comentários</span></a></p>
-
-Atenciosamente,
- 
-A equipe Binary.com
-
 
 
