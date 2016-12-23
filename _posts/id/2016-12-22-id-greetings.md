@@ -7,8 +7,6 @@ excerpt: "Kami mengucapkan selamat menyambut liburan dan ingin menyampaikan beta
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/greetings-2016.jpg)
 
-Dear Rekan Trader,
-
 Saat yang ditunggu telah tiba saat untuk bersukacita dan merefleksikan rasa syukur dan memberi.
 
 Kami mengucapkan selamat menyambut liburan dan ingin menyampaikan betapa kami menghargai Anda sebagai pelanggan Binary.com.
@@ -22,10 +20,5 @@ Luangkan lima menit waktu Anda untuk menyampaikan berbagai saran agar kami dapat
 <strong>Informasikan fasilitas favorit Binary.com Anda dan apa yang dapat kami lakukan untuk menjadi lebih baik di tahun 2017</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_id/"><span>Kirim Tanggapan Anda</span></a></p>
-
-Salam,
-
-Tim Binary.com
-
 
 

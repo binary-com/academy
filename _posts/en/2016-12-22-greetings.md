@@ -7,8 +7,6 @@ excerpt: "We’re sending you our warmest wishes for the coming holidays to tell
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/greetings-2016.jpg)
 
-Dear Traders,
-
 It’s that time of the year again the season to rejoice and reflect, of gratitude and giving.
 
 We’re sending you our warmest wishes for the coming holidays to tell you how much we appreciate having you as a Binary.com client.
@@ -22,10 +20,6 @@ If you can spare us five minutes of your time, please tell us how we can improve
 <strong>Tell us your favourite Binary.com feature and what we can do even better in 2017</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_en/"><span>Send your feedback</span></a></p>
-
-Regards,
-
-The Binary.com Team
 
 
 

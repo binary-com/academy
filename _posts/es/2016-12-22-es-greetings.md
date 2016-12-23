@@ -7,8 +7,6 @@ excerpt: "Le enviamos nuestros mejores deseos para las próximas fiestas y quere
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/greetings-2016.jpg)
 
-Estimados Traders,
-
 Es la época del año más importante - la temporada para regocijarse, reflexionar, de gratitud y de dar.
 
 Le enviamos nuestros mejores deseos para las próximas fiestas y queremos decirle cuánto apreciamos tenerle como cliente Binary.com.
@@ -22,10 +20,6 @@ Si nos pueda dar 5 minutos de su tiempo, por favor digamos cómo podemos mejorar
 <strong>Diganos cua es la caracteristica favorirta de Binary.com y que es lo que podemos hacer mejor en 2017</strong>
 
 <p class="p--action"><a class="button" href="https://trade.binary.com/2017wishlist_es/"><span>Envienos su opinion </span></a></p>
-
-Saludos,
-
-Equipo Binary.com
 
 
 
