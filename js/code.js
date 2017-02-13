@@ -59,7 +59,7 @@ $(function() {
                     if (!post) {
                         post = $(this).find('encoded').text();
                     }
-                    post = post.replace(']]&gt;', '').replace(']]>', '').replace(/>(.*?)</, '');
+                    post = post.replace(']]&gt;', '').replace(']]>', '');
                     $('.report-list').append($('<option>', {
                         value: idx,
                         text: title
