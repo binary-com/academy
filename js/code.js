@@ -64,7 +64,7 @@ $(function() {
                         value: idx,
                         text: title
                     }));
-                    $('<div id="report-' + idx + '" class="single-report">').append('<h1>' + title + '</h1>').append('<p>' + post + '</p>').toggle(idx === 0).appendTo('.daily-report');
+                    $('<div id="report-' + idx + '" class="single-report">').append('<h2>' + title + '</h2>').append( + post + ).toggle(idx === 0).appendTo('.daily-report');
                 });
             },
             jsonp: 'jsonp'
