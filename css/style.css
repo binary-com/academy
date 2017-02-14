@@ -42,8 +42,8 @@ a h2:hover {color:inherit;}
 #select_language {z-index:9999!important;}
 #select_language li a:link {color:#000000!important; font-weight:normal!important;}
 #select_language li a:visited {color:#000000!important; font-weight:normal!important;}
-.world {text-align:left; float:left;}
-.topbar {padding:3px 0!important;}
+.world {text-align:left;}
+.topbar {padding:5px 0!important;}
 .Header__title {
     color: #fff;
     margin: 0;
