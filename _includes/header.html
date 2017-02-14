@@ -1,27 +1,33 @@
-<div id="topbar" class="primary-color-dark">
+<div class="topbar primary-color-dark">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8">
-				
-			</div>
-			<div class="col-md-4">
-				<div class="Top-Bar__contacts font-s">
-				{% include navs/contactus.html %}
-				</div>
-				<div class="Top-Bar__language" id="language_select">
-					<select>
-						<option value="id" {% if siteLang == 'id' %}selected{% endif %}>Bahasa Indonesia</option>
-						<option value="ru" {% if siteLang == 'ru' %}selected{% endif %}>Русский</option>
-						<option value="en" {% if siteLang == 'en' %}selected{% endif %}>English</option>
-						<option value="fr" {% if siteLang == 'fr' %}selected{% endif %}>Français</option>
-						<option value="es" {% if siteLang == 'es' %}selected{% endif %}>Español</option>
-						<option value="de" {% if siteLang == 'de' %}selected{% endif %}>Deutsch</option>
-						<option value="pt" {% if siteLang == 'pt' %}selected{% endif %}>Português</option>
-					</select>
+			<div class="col-md-12">
+				<div class="languages">
+					<ul id="display_language">
+						<li class="EN">
+							<span class="world world-white"></span>
+							<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% elsif siteLang == "fr" %}Français{% elsif siteLang == "es" %}Español{% elsif siteLang == "de" %}Deutsch{% elsif siteLang == "pt" %}Português{% else %}English{% endif %}</span>
+							<span class="nav-caret"></span>
+						</li>
+					</ul>
+					<ul id="select_language">
+						<li class="EN">
+							<span class="world world-black"></span>
+							<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% elsif siteLang == "fr" %}Français{% elsif siteLang == "es" %}Español{% elsif siteLang == "de" %}Deutsch{% elsif siteLang == "pt" %}Português{% else %}English{% endif %}</span>
+							<span class="nav-caret"></span>
+						</li>
+						<li class="ID {% if siteLang == 'id' %}invisible{% endif %}"><a href="{{ '/id/' | prepend: site.url }}">Indonesia</a></li>
+						<li class="EN {% if siteLang == 'en' %}invisible{% endif %}"><a href="{{ '/' | prepend: site.url }}">English</a></li>
+						<li class="RU {% if siteLang == 'ru' %}invisible{% endif %}"><a href="{{ '/ru/' | prepend: site.url }}">Русский</a></li>
+						<li class="RU {% if siteLang == 'fr' %}invisible{% endif %}"><a href="{{ '/fr/' | prepend: site.url }}">Français</a></li>
+						<li class="RU {% if siteLang == 'es' %}invisible{% endif %}"><a href="{{ '/es/' | prepend: site.url }}">Español</a></li>
+						<li class="RU {% if siteLang == 'de' %}invisible{% endif %}"><a href="{{ '/de/' | prepend: site.url }}">Deutsch</a></li>
+						<li class="RU {% if siteLang == 'pt' %}invisible{% endif %}"><a href="{{ '/pt/' | prepend: site.url }}">Português</a></li>
+					</ul>
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>	
 </div>	
 <div id="header" class="">
 	<div class="container">
