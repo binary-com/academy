@@ -54,7 +54,7 @@ a h2:hover {color:inherit;}
 .Header__title {
     color: #fff;
     margin: 0;
-    padding-top: 20px;
+    padding-top: 10px;
 	padding-right: 20px;
     text-align: right;
 	font-weight: 300!important;
@@ -65,7 +65,7 @@ a h2:hover {color:inherit;}
 }
 .Signup {text-align:right;}
 @media (max-width: 992px) {
-.Header__title {text-align:center; margin-bottom:10px;}
+.Header__title {text-align:center; margin-bottom:10px; padding-right: 0px;}
 .bn-logo {text-align:center; margin-top:20px;}
 }
 .Subheader {display:table; width:100%; font-size:15px; background-color:#f2f2f2; border-bottom:1px solid #dedede; padding:0px; text-align:left;}
