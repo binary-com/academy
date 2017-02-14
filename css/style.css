@@ -39,13 +39,10 @@ a h2:hover {color:inherit;}
     padding-top: 7px;
     padding-right: 17px;    
 }
-.Top-Bar__language {
-    display: inline;
-    float: right;
-    text-align: right;
-	margin:0;
-}
-#language_select {padding:0px 0;margin: 0px;}
+#select_language {z-index:9999!important;}
+#select_language li a:link {color:#000000!important; font-weight:normal!important;}
+#select_language li a:visited {color:#000000!important; font-weight:normal!important;}
+
 .logo-parent {display:block; padding-top:10px; padding-left:1px;}
 .logo {width:55px;}
 .binary-logo-text {margin-left:-3px; width:178px; margin-top:0px; padding-top:0px;display:inline-table;}
@@ -68,7 +65,7 @@ a h2:hover {color:inherit;}
         width: 100%;
         padding-bottom: 5px
     }
-	#language_select {margin-top:0px; margin-bottom:20px;}
+	
 }
 
 .Header {display:table; width:100%; background-color:#2a3052; color:#fff; border-top: 2px solid #394170; border-bottom: 4px solid #e98024; padding:5px 0;}
