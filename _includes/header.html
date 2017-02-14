@@ -6,14 +6,18 @@
 					<ul id="display_language">
 						<li class="EN">
 							<span class="world world-white"></span>
-							<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% elsif siteLang == "fr" %}Français{% elsif siteLang == "es" %}Español{% elsif siteLang == "de" %}Deutsch{% elsif siteLang == "pt" %}Português{% else %}English{% endif %}</span>
+								<div class="language-wrapper">
+									<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% elsif siteLang == "fr" %}Français{% elsif siteLang == "es" %}Español{% elsif siteLang == "de" %}Deutsch{% elsif siteLang == "pt" %}Português{% else %}English{% endif %}</span>
+								</div>
 							<span class="nav-caret"></span>
 						</li>
 					</ul>
 					<ul id="select_language">
 						<li class="EN">
 							<span class="world world-black"></span>
-							<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% elsif siteLang == "fr" %}Français{% elsif siteLang == "es" %}Español{% elsif siteLang == "de" %}Deutsch{% elsif siteLang == "pt" %}Português{% else %}English{% endif %}</span>
+								<div class="language-wrapper">
+									<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% elsif siteLang == "fr" %}Français{% elsif siteLang == "es" %}Español{% elsif siteLang == "de" %}Deutsch{% elsif siteLang == "pt" %}Português{% else %}English{% endif %}</span>
+								</div>
 							<span class="nav-caret"></span>
 						</li>
 						<li class="ID {% if siteLang == 'id' %}invisible{% endif %}"><a href="{{ '/id/' | prepend: site.url }}">Indonesia</a></li>
