@@ -42,7 +42,15 @@ a h2:hover {color:inherit;}
 #select_language {z-index:9999!important;}
 #select_language li a:link {color:#000000!important; font-weight:normal!important;}
 #select_language li a:visited {color:#000000!important; font-weight:normal!important;}
-
+#topbar .language-wrapper,
+.topbar .language-wrapper {
+    vertical-align: middle;
+    padding: 0 5px;
+    display: inline-flex;
+    min-width: 58px;
+    margin: 0 auto
+}
+.topbar .language-wrapper .language{padding:5px 1px;}
 
 .Header__title {
     color: #fff;
