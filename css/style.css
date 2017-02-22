@@ -85,7 +85,7 @@ a h2:hover {color:inherit;}
 .Page-List__item { display:table; border-bottom:1px solid #dedede; margin: 20px 0px;  }
 .Page-List__item__full { display:table; width:100%; border-bottom:1px solid #dedede; margin: 20px 0px; text-align:center!important; }
 .Page-List__item__image { margin-left: -15px; }
-.Page-List__item__date { margin-top:10px; margin-bottom:10px; text-align:center; font-size:14px;}
+.Page-List__item__date { margin-top:10px; margin-bottom:10px; text-align:center; font-size:13px;}
 .Page-List__item__image img{padding-bottom: 20px;margin-top:20px; }
 .Page-List__item__excerpt { padding-bottom:15px;}
 .Page-List__item__excerpt h3{ margin-top:20px;}
