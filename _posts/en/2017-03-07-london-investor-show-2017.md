@@ -7,7 +7,7 @@ excerpt: "We’ll be at the UK’s leading show for private investors, happening
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/london-investor-show-2017.jpg)
 
-We’ll be at the UK’s leading show for private investors, happening at the Business Design Centre in London on 25 March.
+We’ll be at the <a href="https://masterinvestor.co.uk/show/" target="_blank">UK’s leading show for private investors</a>, happening at the Business Design Centre in London on 25 March.
 
 We’ll be right in the thick of the action as the Master Investor Show celebrates its 15th anniversary. If you’re looking to trade on our award-winning platform, or want to explore partnership opportunities with us –– let’s meet up!
 
