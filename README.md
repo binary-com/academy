@@ -96,7 +96,7 @@ Note that a button under new unified style looks like this:
 ```
 <a class="button" href="http://binary.com"><span>Link Title</span></a>
 ```
-More elements - Binary style guide: https://style.binary.com
+More elements > Binary style guide: https://style.binary.com
 
 ###Grid System
 12 columns
@@ -119,7 +119,7 @@ Always make sure the total sum is 12 (3+3+3+3 / 4+4+4 / 6+6 / 4+8 etc.)
 </div>
 ```
 
-No need to add container class, just add row and columns.
+No need to add container, just add row and columns.
 
 
 
@@ -138,7 +138,7 @@ ruby -v
 gem install bundler
 ```
 
-To start thhr server at localhost 
+To start the server at localhost 
 ```
 bundle exec jekyll serve
 ```
