@@ -1,4 +1,4 @@
-## Binary blog v2
+## Binary Academy
 
 [![Build Status](https://travis-ci.org/binary-com/academy.svg?branch=gh-pages)](https://travis-ci.org/binary-com/academy)
 
