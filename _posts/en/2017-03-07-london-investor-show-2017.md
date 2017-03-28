@@ -1,16 +1,28 @@
 ---
 layout: post
-title: "Binary.com heads to London for Master Investor Show 2017"
+title: "Experience the power of spread trading on MT5"
 language: en
-permalink: /en/london-investor-show-2017/
-excerpt: "We’ll be at the UK’s leading show for private investors, happening at the Business Design Centre in London on 25 March..."
+permalink: /en/experience-the-power-of-spread-trading-on-MT5/
+excerpt: "As part of our ongoing efforts to enhance our products and services, we are consolidating all spread contracts solely on our MT5 platform..."
 ---
-![MT5 Binary options Trading!]({{site.baseurl }}/images/london-investor-show-2017.jpg)
+As part of our ongoing efforts to enhance our products and services, we are consolidating all spread contracts solely on <a href="https://mt.binary.com" target="_blank">our MT5 platform</a>.
 
-We’ll be at the <a href="https://masterinvestor.co.uk/show/" target="_blank">UK’s leading show for private investors</a>, happening at the Business Design Centre in London on 25 March.
+This means that we will discontinue all spread contracts for binary options on 31 March.
 
-We’ll be right in the thick of the action as the Master Investor Show celebrates its 15th anniversary. If you’re looking to trade on our award-winning platform, or want to explore partnership opportunities with us –– let’s meet up!
+We firmly believe that MT5 is the ideal platform if you want to trade spread contracts on an ongoing basis.
 
-We’ll be at Booth #62 so drop by for a quick chat and get all your questions answered. We also have a special bonus for new clients, plus exclusive Binary.com merchandise.
+We encourage you to sign up to our MT5 platform today to reap its full benefits, including:
 
-See you there!
+<ul class="bullet">
+    <li>Access to leverage that allows you to make bigger trades using smaller capital</li>
+    <li>Advanced tools for technical and fundamental analysis</li>
+    <li>State-of-the-art trading interface recognised as the industry standard worldwide</li>
+</ul>
+
+<p class="p--action"><a class="button" href="http://mt.binary.com/"><span>Trade spreads on MT5</span></a></p>
+
+If you’ve been planning to register your MT5 account but don’t know how, we’ve prepared a 60-second video to help get you started.
+
+<div class="video-container">
+    <iframe src="//www.youtube.com/embed/FF8KceqJKCY" allowfullscreen></iframe>
+</div>
