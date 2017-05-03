@@ -27,6 +27,6 @@ The margin requirements for our CFDs will remain at 2%.
 We will continue to monitor market conditions and risk implications after the French Elections to determine the future margin requirements of all affected currency pairs and CFDs.
 
 
-### Important reminder for all traders
+#### Important reminder for all traders
 
 Please ensure that you possess sufficient equity in your trading accounts in order to accommodate these new margin requirements.
