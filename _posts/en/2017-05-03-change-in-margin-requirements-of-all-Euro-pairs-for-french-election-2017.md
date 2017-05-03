@@ -3,7 +3,7 @@ layout: post
 title: "Change in margin requirements of all Euro pairs for French Election 2017"
 language: en
 permalink: /en/change-in-margin-requirements-of-all-Euro-pairs-for-french-election-2017/
-excerpt: "As part of our ongoing efforts to enhance our products and services, we are consolidating all spread contracts solely on our MT5 platform..."
+excerpt: "To mitigate potential market volatility from the final round of the French Election on 7 May 2017, Binary.com will be adopting a margin requirement of 2%..."
 ---
 To mitigate potential market volatility from the final round of the French Election on 7 May 2017, Binary.com will be adopting a margin requirement of 2% for the following EUR pairs on our MT5 platform:
 
