@@ -10,8 +10,3 @@ Dear Traders,
 All impacted assets have resumed normal trading after the French Election.
 
 Please take note that you may now trade EUR pairs on all our platforms without any restrictions.
-
-
-Regards,
-
-Binary.com
