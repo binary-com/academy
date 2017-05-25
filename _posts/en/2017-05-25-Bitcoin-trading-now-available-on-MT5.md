@@ -13,6 +13,9 @@ In an effort to make this instrument affordable for every client, we are offerin
  
 Bitcoin is offered on our MT5 platform with three decimals (e.g. 1350.155) and our spread starts from 80 pips on our STP account.
 
-<p class="p--action"><a class="button" href=”https://mt.binary.com/en/user/settings/metatrader.html?utm_source=blog&utm_medium=social&utm_campaign=bitcoin_launch#financial"><span>Trade BTC/USD now</span></a></p>
+<p class="p--action">
+<a class="button" href="https://mt.binary.com/en/user/settings/metatrader.html?utm_source=blog&utm_medium=social&utm_campaign=bitcoin_launch#financial"><span>Trade BTC/USD now</span>
+</a>
+</p>
 
 With large swings expected in the coming months, Bitcoin trading can become a fundamental part of your trading strategy. Bitcoin has already confounded financial experts and currently has more than USD 30 billion in circulation today.
