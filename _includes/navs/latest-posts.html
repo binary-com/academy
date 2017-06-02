@@ -48,6 +48,13 @@
 				<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
 			{% endif %}
 		{% endfor %}
+	{% elsif siteLang == "it" %}
+	{% assign sPosts = site.posts | where: "language", "it" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}	
 	{% else %}
 	{% assign sPosts = site.posts | where: "language", "en" %}							
 		{% for post in sPosts | limit:10 %}
