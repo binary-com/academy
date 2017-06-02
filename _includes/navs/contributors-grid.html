@@ -118,6 +118,23 @@
 	        </div>
 		{% endif %}
 	{% endif %}
+	{% endfor %}
+{% elsif siteLang == "it" %}
+	{% assign NavLang = site.pages | where: "language", "it" %}
+	{% for page in NavLang %}
+	{% if page.tag == "contributor" %}
+		{% if page.title %}
+			<div class="Page-Grid__grid-wrap__box">
+				<a href="{{site.url}}{{ page.permalink }}">
+					<div class="Page-Grid__grid-wrap__box__boxInner">
+						<div class="Page-Grid__grid-wrap__box__boxInner__title">{{ page.title }}</div>
+						<span class="Page-Grid__grid-wrap__box__boxInner__vendor"><img src="{{site.url}}{{ page.image }}" alt="{{ page.title }}"></span>
+						<div class="rte"></div>					
+					</div>
+				</a>	
+	        </div>
+		{% endif %}
+	{% endif %}
 	{% endfor %}	
 {% else %}
 {% assign NavLang = site.pages | where: "language", "en" %}

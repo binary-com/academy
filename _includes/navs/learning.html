@@ -61,7 +61,16 @@
 			<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 		{% endif %}
 	{% endif %}
-	{% endfor %}	
+	{% endfor %}
+{% elsif siteLang == "it" %}
+	{% assign NavLang = site.pages | where: "language", "it" %}
+	{% for page in NavLang %}
+	{% if page.tag == "learning" %}
+		{% if page.title %}
+			<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+		{% endif %}
+	{% endif %}
+	{% endfor %}
 {% else %}
 {% assign NavLang = site.pages | where: "language", "en" %}
 	{% for page in NavLang %}
