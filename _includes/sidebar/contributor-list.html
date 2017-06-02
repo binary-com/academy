@@ -97,6 +97,20 @@
 				{% endif %}	
 				{% endfor %}
 			</ul>
+		</div>
+	{% elsif siteLang == "it" %}
+	{% assign NavLang = site.pages | where: "language", "it" %}
+	<h3 class="Blog-Sidebar__section__title">Contributori</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
 		</div>	
 	{% else %}
 	{% assign NavLang = site.pages | where: "language", "en" %}
