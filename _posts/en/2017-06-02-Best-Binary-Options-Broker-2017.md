@@ -21,5 +21,3 @@ Over the past year, we’ve seen several strategic initiatives bear fruit, inclu
 <li>Successfully completing our registration to operate in Japan after a lengthy licensing process</li>
 <li>Achieving a milestone in our IT architecture that gave us greater flexibility in scaling our infrastructure, and helped us to advance the development of multiple proprietary trading platforms</li>
 </ul>
-
-We’re also gearing up for an exciting second half of 2017. For instance, we will soon introduce Bitcoin as an account currency so you can deposit, trade, and collect your payouts in bitcoin. 
