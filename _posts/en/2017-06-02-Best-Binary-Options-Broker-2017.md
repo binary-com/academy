@@ -6,7 +6,7 @@ permalink: /en/Best-Binary-Options-Broker-2017/
 excerpt: "We are extremely happy to announce that we’ve been named Best Binary Options Broker by the Online Personal Wealth Awards 2017..."
 ---
 <div class="cta-lg">
-<img src="{{site.url}}/images/aw-2017.jpg" alt="Best Binary Options Broker 2017">
+<img src="{{site.url}}/images/aw-2017.jpg" width="300" height="auto" alt="Best Binary Options Broker 2017">
 </div>
 
 We are extremely happy to announce that we’ve been named Best Binary Options Broker by the <a href="https://goo.gl/IKimTN">Online Personal Wealth Awards 2017</a> –– a highly-respected name in the UK financial industry.
