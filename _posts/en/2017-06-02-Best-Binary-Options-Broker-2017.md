@@ -5,9 +5,11 @@ language: en
 permalink: /en/Best-Binary-Options-Broker-2017/
 excerpt: "We are extremely happy to announce that we’ve been named Best Binary Options Broker by the Online Personal Wealth Awards 2017..."
 ---
+<div class="cta-lg">
 ![Best Binary Options Broker 2017!]({{site.baseurl }}/images/aw-2017.jpg)
+</div>
 
-We are extremely happy to announce that we’ve been named Best Binary Options Broker by the Online Personal Wealth Awards 2017 –– a highly-respected name in the UK financial industry.
+We are extremely happy to announce that we’ve been named Best Binary Options Broker by the <a href="https://goo.gl/IKimTN">Online Personal Wealth Awards 2017</a> –– a highly-respected name in the UK financial industry.
  
 Out of numerous competitors, Binary.com stood firm as being the outstanding leader in the binary options category.
  
