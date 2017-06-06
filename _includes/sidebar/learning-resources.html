@@ -1,8 +1,8 @@
 {% include lang.html %}
-<div class="Blog-Sidebar__section">
     {% if siteLang == "en" %}
 	{% assign NavLang = site.pages | where: "language", "en" %}
-	<h3 class="Blog-Sidebar__section__title">Learning Center</h3>		
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Learning Center</h3>		
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -16,10 +16,12 @@
 				<li><a href="https://www.binary.com/en/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_glossary_en">Glossary</a></li>
 				<li><a href="{{ site.url }}/en/videos/">Educational Videos</a></li>
 				<li><a href="https://www.binary.com/en/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_en">FAQ</a></li>
-			</ul>		
+			</ul>
+	</div>		
 	{% elsif siteLang == "de" %}
 	{% assign NavLang = site.pages | where: "language", "de" %}
-	<h3 class="Blog-Sidebar__section__title">Lernzentrum</h3>		
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Lernzentrum</h3>		
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -33,10 +35,12 @@
 				<li><a href="https://www.binary.com/de/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_glossar_de">Glossar</a></li>
 				<li><a href="{{ site.url }}/de/videos/">Trainingsvideos</a></li>
 				<li><a href="https://www.binary.com/de/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_faq_de">FAQ</a></li>
-			</ul>		
+			</ul>
+	</div>		
 	{% elsif siteLang == "fr" %}
 	{% assign NavLang = site.pages | where: "language", "fr" %}
-	<h3 class="Blog-Sidebar__section__title">Centre d'apprentissage</h3>
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Centre d'apprentissage</h3>
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -46,9 +50,11 @@
 				{% endif %}	
 				{% endfor %}
 			</ul>
+	</div>		
 	{% elsif siteLang == "ru" %}
 	{% assign NavLang = site.pages | where: "language", "ru" %}
-	<h3 class="Blog-Sidebar__section__title">Учебный центр</h3>
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Учебный центр</h3>
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -63,9 +69,11 @@
 				<li><a href="{{ site.url }}/ru/videos/">Образовательные видео</a></li>
 				<li><a href="https://www.binary.com/ru/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_ru">FAQ</a></li>
 			</ul>
+	</div>		
 	{% elsif siteLang == "pt" %}
 	{% assign NavLang = site.pages | where: "language", "pt" %}
-	<h3 class="Blog-Sidebar__section__title">Centro de ensino</h3>
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Centro de ensino</h3>
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -79,9 +87,11 @@
 				<li><a href="https://www.binary.com/pt/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_glossario_pt">Glossário</a></li>
 				<li><a href="https://www.binary.com/pt/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_perguntasfrequentes_pt">Perguntas frequentes</a></li>
 			</ul>
+	</div>		
 	{% elsif siteLang == "es" %}
 	{% assign NavLang = site.pages | where: "language", "es" %}
-	<h3 class="Blog-Sidebar__section__title">Centro de Aprendizaje</h3>
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Centro de Aprendizaje</h3>
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -96,9 +106,11 @@
 				<li><a href="{{ site.url }}/es/videos/">Videos Educacionales</a></li>
 				<li><a href="https://www.binary.com/es/get-started/beginners-faq.html?l=en">FAQ</a></li>
 			</ul>	
+	</div>		
 	{% elsif siteLang == "id" %}
 	{% assign NavLang = site.pages | where: "language", "id" %}
-	<h3 class="Blog-Sidebar__section__title">Pusat Pelatihan</h3>
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Pusat Pelatihan</h3>
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -113,12 +125,14 @@
 				<li><a href="{{ site.url }}/id/videos/">Video Pelatihan</a></li>
 				<li><a href="https://www.binary.com/id/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_id">FAQ</a></li>
 			</ul>
+	</div>		
 	{% elsif siteLang == "it" %}
 	{% assign NavLang = site.pages | where: "language", "it" %}
 	
 	{% else %}
 	{% assign NavLang = site.pages | where: "language", "en" %}
-	<h3 class="Blog-Sidebar__section__title">Learning Center</h3>
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Learning Center</h3>
 			<ul>								
 				{% for page in NavLang %}
 				{% if page.tag == "learning" %}	
@@ -133,5 +147,5 @@
 				<li><a href="{{ site.url }}/en/videos/">Educational Videos</a></li>
 				<li><a href="https://www.binary.com/en/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_en">FAQ</a></li>
 			</ul>
+	</div>		
 	{% endif %}						
-</div>
