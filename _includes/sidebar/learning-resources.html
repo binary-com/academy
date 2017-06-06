@@ -113,6 +113,9 @@
 				<li><a href="{{ site.url }}/id/videos/">Video Pelatihan</a></li>
 				<li><a href="https://www.binary.com/id/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_id">FAQ</a></li>
 			</ul>
+	{% elsif siteLang == "it" %}
+	{% assign NavLang = site.pages | where: "language", "it" %}
+	
 	{% else %}
 	{% assign NavLang = site.pages | where: "language", "en" %}
 	<h3 class="Blog-Sidebar__section__title">Learning Center</h3>
