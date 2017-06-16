@@ -68,13 +68,18 @@ Bitcoin, Ethereum, and Litecoin are some of the most popular cryptocurrencies ar
 
 <h2>How to trade Bitcoin, Ethereum, and Litecoin on MetaTrader 5</h2>
 <p>Are you ready to start trading cryptocurrencies on our MT5 platform? Find out what cryptocurrencies are and how to trade them on the Binary.com MT5 platform.</p>
-<table>
-	<tr>
-		<td><a href="https://shop.binary.com/collections/cryptocurrencies/products/what-are-cryptocurrencies"><img src="https://offers.binary.com/binary/customer-io/images/cryptocurrency.jpg" alt="" width="150"><br /><span class="centered">What are cryptocurrencies</span></a></td>
-		<td><a href="https://shop.binary.com/collections/cryptocurrencies/products/how-to-trade-cryptocurrencies-on-mt5"><img src="https://offers.binary.com/binary/customer-io/images/cryptocurrency.jpg" alt="" width="150"><br /><span class="centered">How to trade crypto-currencies on Binary.com MT5</span></a></td>
-	</tr>										
-</table>	
-<div class="separator-line"></div>
+
+
+<div class="row">
+	<div class="col-md-6">
+		<p class="p--action"><a href="https://shop.binary.com/collections/cryptocurrencies/products/what-are-cryptocurrencies"><img src="https://offers.binary.com/binary/customer-io/images/cryptocurrency.jpg" alt="" width="150"><br />What are cryptocurrencies</a></p>
+	</div>
+	<div class="col-md-6">
+		<p class="p--action"><a href="https://shop.binary.com/collections/cryptocurrencies/products/how-to-trade-cryptocurrencies-on-mt5"><img src="https://offers.binary.com/binary/customer-io/images/cryptocurrency.jpg" alt="" width="150"><br />How to trade crypto-currencies on Binary.com MT5</a></p>
+	</div>
+</div>	
+
+
 <p>Here’s what you need to do:</p>
 <ol>
 <li>Log in to your MT5 account</li>
