@@ -24,7 +24,7 @@ Example: If Jekyll see value /ru/ in the url (which is added to the page or post
 
 ===========================================================
 
-###Heart n Soul
+### Heart n Soul
 
 - All pages are stored in the folder "pages", in the subfolder for each language.
 - All posts are stored in the folder "_posts" , in the subfolder for each language.
@@ -44,7 +44,7 @@ _includes/navs/footer
 
 24/7 Listening for front matter language and tag values in pages and posts and building the page content according to this combination.
 
-###Correct usage of front matter for pages
+### Correct usage of front matter for pages
 
 Tag value sets the group of pages to build navigation for. Example: Learning center sidebar nav and contributors grid page as well as contributor sidebar menu. 
 There are only 3 tags now, "learning" for Learning Center, "contributor" for Contributors and "main" for building main navigation.
@@ -72,7 +72,7 @@ image: /images/speaker/jimmellon.jpg
 
 ========================================================
 
-###Adding posts
+### Adding posts
  
 Note that even if you add post in the wrong language subfolder but with correct front matter values, it will be still correctly shown. Language subfolders are meant to just make management easier and better organized (and that is also valid for pages):
 
@@ -89,7 +89,7 @@ excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged
 
 =========================================================
 
-###Post Content
+### Post Content
 
 you can just use p element, no need for fancy div usage.
 Note that a button under new unified style looks like this:
@@ -98,7 +98,7 @@ Note that a button under new unified style looks like this:
 ```
 More elements > Binary style guide: https://style.binary.com
 
-###Grid System
+### Grid System
 12 columns
 
 
@@ -122,12 +122,7 @@ Always make sure the total sum is 12 (3+3+3+3 / 4+4+4 / 6+6 / 4+8 etc.)
 No need to add container, just add row and columns.
 
 
-
-###Validate your code
-Validate code before you submit request. Use html Validator and choose Validator Input as best suits you: https://html5.validator.nu
-
-
-###Installing to localhost
+### Installing to localhost
 
 Make sure your ruby version is above 2.2.2 
 ```
