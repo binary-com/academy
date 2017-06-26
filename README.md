@@ -22,7 +22,6 @@ This value is used to show pages and posts. Without it, jekyll will have nightma
 - All sidebar elements and links are loaded dynamically, according to the language within permalink. 
 Example: If Jekyll see value /ru/ in the url (which is added to the page or post permalink), it will load last 10 Russian posts, generate Russian links for learning center, show Russian contributors, show Russian version of promotional boxes. 
 
-===========================================================
 
 ### Heart n Soul
 
@@ -40,7 +39,6 @@ _includes/navs
 _includes/navs/footer
 ```
 
-===========================================================
 
 24/7 Listening for front matter language and tag values in pages and posts and building the page content according to this combination.
 
@@ -70,7 +68,6 @@ tag: contributor
 image: /images/speaker/jimmellon.jpg
 ```
 
-========================================================
 
 ### Adding posts
  
@@ -86,8 +83,6 @@ language: en
 excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged..."
 ```
 
-
-=========================================================
 
 ### Post Content
 
