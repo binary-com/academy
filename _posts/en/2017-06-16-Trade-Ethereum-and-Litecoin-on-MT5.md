@@ -113,7 +113,7 @@ Bitcoin, Ethereum, and Litecoin are some of the most popular cryptocurrencies ar
 		</tr>
 		<tr>
 			<td><strong>Minimum volume</strong></td>
-			<td>1</td>
+			<td>0.01</td>
 			<td>0.1</td>
 			<td>1</td>
 		</tr>
