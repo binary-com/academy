@@ -144,6 +144,8 @@ a h2:hover {color:inherit;}
 .post--date{ display:block;font-weight:400; font-size:14px; color:#000; margin-top:-20px;}
 .p--action { margin-top: 30px; margin-bottom: 30px; margin-left: 0px; margin-right: 0px; text-align:center!important;}
 .fl--left {float:left; margin-right:20px; margin-bottom:15px; }
+.float-left {float: left; margin-right: 20px}
+.float-right {float: right; margin-left: 20px}
 .sc--center {display: block; margin-left: 0; margin-right: 0; text-align:center;}
 .daily-report img {width:inherit; height:auto; display:block; margin-left:auto; margin-right:auto; margin-top:30px;}
 .daily-report ul {list-style-type: none; margin:0; padding:0;}
