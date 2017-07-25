@@ -147,7 +147,7 @@ a h2:hover {color:inherit;}
 .float-left {float: left; margin-right: 20px}
 .float-right {float: right; margin-left: 20px}
 .sc--center {display: block; margin-left: 0; margin-right: 0; text-align:center;}
-.top-70 {padding-top: 70px;}
+.top-70 {display: inline-block; margin-top: 40px;}
 .daily-report img {width:inherit; height:auto; display:block; margin-left:auto; margin-right:auto; margin-top:30px;}
 .daily-report ul {list-style-type: none; margin:0; padding:0;}
 .daily-report ul li {margin-left:0px; padding:0px; width:100%;}
