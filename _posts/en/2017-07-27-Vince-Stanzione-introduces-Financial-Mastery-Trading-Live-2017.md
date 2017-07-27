@@ -20,5 +20,5 @@ In an exclusive excerpt from his ‘Financial Trading Mastery’ event in London
 </ul>
 			
 <div class="cta-lg">
-	<a href="https://www.youtube.com/watch?v=BoDxsIJgGZs&t=796s&utm_source=blog&utm_medium=social&utm_campaign=vincerctcvideo" class="button"><span>Watch Vince Stanzione in Action</span></a>	
+	<a href="https://www.youtube.com/watch?v=BoDxsIJgGZs&utm_source=blog&utm_medium=social&utm_campaign=vincerctcvideo" class="button"><span>Watch Vince Stanzione in Action</span></a>	
 </div>
