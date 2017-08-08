@@ -3,14 +3,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="keywords" content="{{page.keywords}}">
 	<link rel="icon" href="{{ '/images/binary-icon.png' | prepend: site.url }}" sizes="57x57"/>
 	<link rel="stylesheet" href="https://style.binary.com/binary.css">
 	<link rel="stylesheet" href="{{ '/css/grid.min.css' | prepend: site.url }}">
 	<link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.url }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">		
-	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}">	
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 	<script src="https://style.binary.com/binary.js"></script>
 	<script>
