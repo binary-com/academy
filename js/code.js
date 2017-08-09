@@ -48,7 +48,7 @@ $(function() {
         };
         $.ajax({
             type: 'GET',
-            url: '//js.binary.com/javascript.php',
+            url: 'http://js.partnershipsprogram.com/javascript.php',
             data: options,
             dataType: 'xml',
             success: function(xml) {
