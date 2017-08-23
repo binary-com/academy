@@ -24,9 +24,10 @@ With our BTC accounts, you can:
 <li>Worry less about security – Bitcoin transactions occur directly between two parties and use military grade cryptography, protecting you against many types of fraud.</li>
 </ul>
 
+<div class="separator-lg"></div>
+<p class="sc--center">Create your BTC account now and join the cryptocurrency revolution:</p>
 			
-<div class="cta-lg">
-	<p class="sc--center">Create your BTC account now and join the cryptocurrency revolution:</p>
+<div class="cta-lg">	
 	<a href="https://www.binary.com/en/user/accounts.html?utm_source=blog&utm_medium=social&utm_campaign=native_btc" class="button"><span>Yes, I want to create my BTC account now</span></a>	
 </div>
 
