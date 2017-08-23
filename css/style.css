@@ -200,8 +200,9 @@ a h2:hover {color:inherit;}
 .unbounce--confirmation iframe {border:none; margin:0; padding:0;}
 /* Corrections */
 .button {display:inline-table;margin-bottom:5px;}
-.cta-lg {text-align: center; padding: 10px 30px; margin-bottom: 40px;}
+.cta-lg {text-align: center; padding: 20px 30px; }
 .cta-lg img {text-align: center !important;}
 .separator-lg {
-    height: 30px
+    height: 30px;
+	display: block;
 }
