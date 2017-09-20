@@ -1,0 +1,21 @@
+{% for post in site.posts  %}  
+<div class="Blog-Posts__item">
+	<div class="col-sm-1">
+		<div class="Blog-Posts__item__date">
+			<div class="Blog-Posts__item__date__day">{{ post.date | date: "%-d" }}<span>{{ post.date | date: "%b" }}</span>											
+				<div class="Blog-Posts__item__date__month">{{ post.date | date: "%Y" }}</div>
+			</div>
+		</div>	
+	</div>	
+	<div class="col-sm-11">
+		<div class="Blog-Posts__item__excerpt">					   
+		<a class="Blog-Posts__item__title" href="{{ post.url | prepend: site.url }}">
+			<span class="h-strong">{{ post.title }}</span>
+		</a>
+		<p>{{ post.excerpt }}
+		</p>
+		<a class="btn btn--sm" href="{{ post.url | prepend: site.url }}">Read more ..</a>							
+		</div>
+	</div>
+</div>
+{% endfor %}

@@ -1,0 +1,84 @@
+{% include lang.html %}
+<div class="Blog-Sidebar__section">
+    {% if siteLang == "en" %}
+	{% assign sPosts = site.posts | where: "language", "en" %}
+	<h3>Recent Posts</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% elsif siteLang == "de" %}
+	{% assign sPosts = site.posts | where: "language", "de" %}
+	<h3>Neue Posts</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% elsif siteLang == "fr" %}
+	{% assign sPosts = site.posts | where: "language", "fr" %}
+	<h3>Posts récents</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% elsif siteLang == "ru" %}
+	{% assign sPosts = site.posts | where: "language", "ru" %}
+	<h3>Последние статьи</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% elsif siteLang == "pt" %}
+	{% assign sPosts = site.posts | where: "language", "pt" %}
+	<h3>Publicações recentes</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% elsif siteLang == "es" %}
+	{% assign sPosts = site.posts | where: "language", "es" %}
+	<h3>Mensajes Recientes</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>	
+	{% elsif siteLang == "id" %}
+	{% assign sPosts = site.posts | where: "language", "id" %}
+	<h3>Postingan Terkini</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% else %}
+	{% assign sPosts = site.posts | where: "language", "en" %}
+	<h3>Recent Posts</h3>
+			<ul>								
+				{% for post in sPosts | limit:10 %}
+					{% if post.title %}
+						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% endif %}						
+</div>

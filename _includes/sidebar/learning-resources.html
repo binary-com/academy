@@ -1,0 +1,151 @@
+{% include lang.html %}
+    {% if siteLang == "en" %}
+	{% assign NavLang = site.pages | where: "language", "en" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Learning Center</h3>		
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+				<li><a href="https://www.binary.com/en/get-started.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_newtotrading_en">New to trading?</a></li>
+				<li><a href="https://shop.binary.com/collections/applications.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_applications_en">Applications</a></li>
+				<li><a href="https://www.binary.com/en/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_glossary_en">Glossary</a></li>
+				<li><a href="{{ site.url }}/en/videos/">Educational Videos</a></li>
+				<li><a href="https://www.binary.com/en/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_en">FAQ</a></li>
+			</ul>
+	</div>		
+	{% elsif siteLang == "de" %}
+	{% assign NavLang = site.pages | where: "language", "de" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Lernzentrum</h3>		
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+				<li><a href="https://www.binary.com/de/get-started.html?utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_neuerhandler_de">Neuer Händler?</a></li>
+				<li><a href="https://shop.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_shop_de">Shop</a></li>
+				<li><a href="https://www.binary.com/de/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_glossar_de">Glossar</a></li>
+				<li><a href="{{ site.url }}/de/videos/">Trainingsvideos</a></li>
+				<li><a href="https://www.binary.com/de/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_faq_de">FAQ</a></li>
+			</ul>
+	</div>		
+	{% elsif siteLang == "fr" %}
+	{% assign NavLang = site.pages | where: "language", "fr" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Centre d'apprentissage</h3>
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+	</div>		
+	{% elsif siteLang == "ru" %}
+	{% assign NavLang = site.pages | where: "language", "ru" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Учебный центр</h3>
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+				<li><a href="https://www.binary.com/ru/get-started.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_newtotrading_ru">Вы – новичок?</a></li>
+				<li><a href="https://shop.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_shop_ru">Магазин</a></li>
+				<li><a href="https://www.binary.com/ru/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_glossary_ru">Глоссарий</a></li>
+				<li><a href="{{ site.url }}/ru/videos/">Образовательные видео</a></li>
+				<li><a href="https://www.binary.com/ru/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_ru">FAQ</a></li>
+			</ul>
+	</div>		
+	{% elsif siteLang == "pt" %}
+	{% assign NavLang = site.pages | where: "language", "pt" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Centro de ensino</h3>
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+				<li><a href="https://www.binary.com/pt/get-started.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_nuncanegociou_pt">Nunca negociou?</a></li>
+				<li><a href="https://shop.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_loja_pt">Loja</a></li>
+				<li><a href="https://www.binary.com/pt/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_glossario_pt">Glossário</a></li>
+				<li><a href="https://www.binary.com/pt/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_perguntasfrequentes_pt">Perguntas frequentes</a></li>
+			</ul>
+	</div>		
+	{% elsif siteLang == "es" %}
+	{% assign NavLang = site.pages | where: "language", "es" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Centro de Aprendizaje</h3>
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+				<li><a href="https://binary.com">Novedad para Usted?</a></li>
+				<li><a href="https://shop.binary.com">Tienda</a></li>
+				<li><a href="https://www.binary.com/es/get-started/glossary.html">Glosario</a></li>
+				<li><a href="{{ site.url }}/es/videos/">Videos Educacionales</a></li>
+				<li><a href="https://www.binary.com/es/get-started/beginners-faq.html?l=en">FAQ</a></li>
+			</ul>	
+	</div>		
+	{% elsif siteLang == "id" %}
+	{% assign NavLang = site.pages | where: "language", "id" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Pusat Pelatihan</h3>
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+				<li><a href="https://www.binary.com/id/get-started.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_pemuladitrading_id">Pemula Di Trading?</a></li>
+				<li><a href="https://shop.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_toko_id">Toko</a></li>
+				<li><a href="https://www.binary.com/id/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_kamus_id">Kamus</a></li>
+				<li><a href="{{ site.url }}/id/videos/">Video Pelatihan</a></li>
+				<li><a href="https://www.binary.com/id/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_id">FAQ</a></li>
+			</ul>
+	</div>		
+	{% elsif siteLang == "it" %}
+	{% assign NavLang = site.pages | where: "language", "it" %}
+	
+	{% else %}
+	{% assign NavLang = site.pages | where: "language", "en" %}
+	<div class="Blog-Sidebar__section">
+		<h3 class="Blog-Sidebar__section__title">Learning Center</h3>
+			<ul>								
+				{% for page in NavLang %}
+				{% if page.tag == "learning" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+				<li><a href="https://www.binary.com/en/get-started.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_newtotrading_en">New to trading?</a></li>
+				<li><a href="https://shop.binary.com/collections/applications.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_applications_en">Applications</a></li>
+				<li><a href="https://www.binary.com/en/get-started/glossary.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_glossary_en">Glossary</a></li>
+				<li><a href="{{ site.url }}/en/videos/">Educational Videos</a></li>
+				<li><a href="https://www.binary.com/en/get-started/beginners-faq.html?l=en&utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_faq_en">FAQ</a></li>
+			</ul>
+	</div>		
+	{% endif %}						

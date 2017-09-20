@@ -1,0 +1,65 @@
+{% include lang.html %}
+    {% if siteLang == "en" %}
+	{% assign sPosts = site.posts | where: "language", "en" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% elsif siteLang == "de" %}
+	{% assign sPosts = site.posts | where: "language", "de" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% elsif siteLang == "fr" %}
+	{% assign sPosts = site.posts | where: "language", "fr" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% elsif siteLang == "ru" %}
+	{% assign sPosts = site.posts | where: "language", "ru" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% elsif siteLang == "pt" %}
+	{% assign sPosts = site.posts | where: "language", "pt" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% elsif siteLang == "es" %}
+	{% assign sPosts = site.posts | where: "language", "es" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% elsif siteLang == "id" %}
+	{% assign sPosts = site.posts | where: "language", "id" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% elsif siteLang == "it" %}
+	{% assign sPosts = site.posts | where: "language", "it" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}	
+	{% else %}
+	{% assign sPosts = site.posts | where: "language", "en" %}							
+		{% for post in sPosts | limit:10 %}
+			{% if post.title %}
+				<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% endif %}						

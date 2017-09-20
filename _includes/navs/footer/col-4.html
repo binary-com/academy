@@ -1,0 +1,65 @@
+{% if siteLang == "en" %}
+	<h4>Partners</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Contributors</a></li>
+			<li><a href="https://www.binary.com/en/affiliate/signup.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_affiliate_en">Affiliate Program</a></li>
+			<li><a href="https://www.binary.com/en/payment-agent.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_paymentagent_en">Payment Agents</a></li>
+			<li><a href="https://developers.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_apidevelopers_en">API Developers</a></li>
+		</ul>
+{% elsif siteLang == "de" %}
+	<h4>Partner</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Mitwirkende</a></li>
+			<li><a href="https://www.binary.com/de/affiliate/signup.html?utm_source=blog&utm_medium=social&utm_campaign=nov2016_footer_partner_affiliateprogramm_de">Affiliate-Programm</a></li>
+			<li><a href="https://www.binary.com/de/payment-agent.html?utm_source=blog&utm_medium=social&utm_campaign=nov2016_footer_partner_zahlstellen_de">Zahlstellen</a></li>
+			<li><a href="https://developers.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=nov2016_footer_partner_apientwickler_de">API Entwickler</a></li>
+		</ul>
+{% elsif siteLang == "fr" %}
+	<h4>Les partenaires</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Contributeurs</a></li>
+			<li><a href="https://www.binary.com/fr/affiliate/signup.html">Programme d'affiliation</a></li>
+			<li><a href="https://www.binary.com/fr/payment-agent.html">Agents de paiement</a></li>
+			<li><a href="https://developers.binary.com/">API Développeurs</a></li>
+		</ul>
+{% elsif siteLang == "ru" %}
+	<h4>Партнёры</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Авторы</a></li>
+			<li><a href="https://www.binary.com/ru/affiliate/signup.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_affliate_ru">Партнерская программа</a></li>
+			<li><a href="https://www.binary.com/ru/payment-agent.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_paymentagent_ru">Агенты оплаты</a></li>
+			<li><a href="https://developers.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_apidevelopers_ru">API Разработчики</a></li>
+		</ul>
+{% elsif siteLang == "es" %}
+	<h4>Fogonadura</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Colaboradores</a></li>
+			<li><a href="https://www.binary.com/es/affiliate/signup.html">Programa de Afiliación</a></li>
+			<li><a href="https://www.binary.com/es/payment-agent.html">Agentes de pago</a></li>
+			<li><a href="https://developers.binary.com/">API Desarrolladores</a></li>
+		</ul>
+{% elsif siteLang == "pt" %}
+	<h4>Parceiros</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Contribuintes</a></li>
+			<li><a href="https://www.binary.com/pt/affiliate/signup.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_parceiros_programadeafiliados_pt">Programa de Afiliados</a></li>
+			<li><a href="https://www.binary.com/pt/payment-agent.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_parceiros_agentesdepagamento_pt">Agentes de pagamento</a></li>
+			<li><a href="https://developers.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_parceiros_apidesenvolvedores_pt">API Desenvolvedores</a></li>
+		</ul>
+{% elsif siteLang == "id" %}
+	<h4>Rekan</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Kontributor</a></li>
+			<li><a href="https://www.binary.com/id/affiliate/signup.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_rekan_afiliasi_id">Program Afiliasi</a></li>
+			<li><a href="https://www.binary.com/id/payment-agent.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_rekan_agenpembayaran_id">Agen Pembayaran</a></li>
+			<li><a href="https://developers.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_rekan_apipengembang_id">API Pengembang</a></li>
+		</ul>
+{% else %}
+    <h4>Partners</h4>
+		<ul>					    
+			<li><a href="{{ site.url }}/{{ siteLang }}/contributors/">Contributors</a></li>
+			<li><a href="https://www.binary.com/en/affiliate/signup.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_affiliate_en">Affiliate Program</a></li>
+			<li><a href="https://www.binary.com/en/payment-agent.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_paymentagent_en">Payment Agents</a></li>
+			<li><a href="https://developers.binary.com/?utm_source=blog&utm_medium=social&utm_campaign=oct2016_footer_partners_apidevelopers_en">API Developers</a></li>
+		</ul>
+{% endif %}

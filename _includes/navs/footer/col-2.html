@@ -1,0 +1,64 @@
+{% if siteLang == "en" %}
+	<h4>Videos</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/videos/">Resources</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">Binary TV</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Training Videos</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Webinar Videos</a></li>
+		</ul>
+{% elsif siteLang == "de" %}
+	<h4>Videos</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/videos/">Ressourcen</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">Binary TV</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Schulungsvideos</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Webinar Videos</a></li>
+		</ul>
+{% elsif siteLang == "fr" %}
+	<h4>Videos</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">Binary TV</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Vidéos de formation</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Vidéos Webinar</a></li>
+		</ul>
+{% elsif siteLang == "ru" %}
+	<h4>Видео</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/videos/">Ресурсы</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">Binary TV</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Обучающие видео</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Вебинары</a></li>
+		</ul>
+{% elsif siteLang == "es" %}
+	<h4>Videos</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/videos/">Recursos</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">Binary TV</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Vídeos de entrenamiento</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Videos Webinar</a></li>
+		</ul>
+{% elsif siteLang == "pt" %}
+	<h4>Videos</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/videos/">Recursos</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">Binary TV</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Vídeos de treinamento</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Webinar Videos</a></li>
+		</ul>
+{% elsif siteLang == "id" %}
+	<h4>Video</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/videos/">Sumber</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">TV Binary</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Video pelatihan</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Video webinar</a></li>
+		</ul>
+{% else %}
+    <h4>Videos</h4>
+		<ul>
+			<li><a href="{{ site.url }}/{{ siteLang }}/videos/">Resources</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-tv/">Binary TV</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/binary-training-videos/">Training Videos</a></li>
+			<li><a href="{{ site.url }}/{{ siteLang }}/webinar-videos/">Webinar Videos</a></li>
+		</ul>
+{% endif %}

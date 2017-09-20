@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.2.2
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+script:
+  - bundle exec jekyll build

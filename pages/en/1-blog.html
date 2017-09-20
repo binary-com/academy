@@ -1,0 +1,21 @@
+---
+layout: home-default
+title: What's New?
+permalink: /en/
+language: en
+tag: main
+---
+{% assign engPosts = site.posts | where: "language", "en" %}
+{% for post in engPosts limit:15 %}  
+<div class="row list--item">
+	<div class="col-sm-12">
+		<div class="Page-List__item__excerpt">	
+		    <a class="Page-List__item__title" href="{{ post.url | prepend: site.url }}"><h2>{{ post.title }}</h2></a>
+			<p class="post--date">{{ post.date | date: "%d.%m.%Y" }}</p>
+		<p>{{ post.excerpt }}</p>	
+		<p><a href="{{ post.url | prepend: site.url }}">Read more..</a></p>
+		</div>
+	</div>	
+</div>
+{% endfor %}
+<p class="p--action"><a class="button" href="{{site.url}}/en/blog/"><span>Read more in the archive</span></a></p>

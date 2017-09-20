@@ -1,0 +1,130 @@
+{% include lang.html %}
+<div class="Blog-Sidebar__section">
+    {% if siteLang == "en" %}
+	{% assign NavLang = site.pages | where: "language", "en" %}
+	<h3 class="Blog-Sidebar__section__title">Contributors</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>
+	{% elsif siteLang == "de" %}
+	{% assign NavLang = site.pages | where: "language", "de" %}
+	<h3 class="Blog-Sidebar__section__title">Mitwirkende</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>
+	{% elsif siteLang == "fr" %}
+	{% assign NavLang = site.pages | where: "language", "fr" %}
+	<h3 class="Blog-Sidebar__section__title">Collaborateurs</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>
+	{% elsif siteLang == "ru" %}
+	{% assign NavLang = site.pages | where: "language", "ru" %}
+	<h3 class="Blog-Sidebar__section__title">Авторы</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>
+	{% elsif siteLang == "pt" %}
+	{% assign NavLang = site.pages | where: "language", "pt" %}
+	<h3 class="Blog-Sidebar__section__title">Contribuintes</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>
+	{% elsif siteLang == "es" %}
+	{% assign NavLang = site.pages | where: "language", "es" %}
+	<h3 class="Blog-Sidebar__section__title">Colaboradores</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>	
+	{% elsif siteLang == "id" %}
+	{% assign NavLang = site.pages | where: "language", "id" %}
+	<h3 class="Blog-Sidebar__section__title">Kontributor</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>
+	{% elsif siteLang == "it" %}
+	{% assign NavLang = site.pages | where: "language", "it" %}
+	<h3 class="Blog-Sidebar__section__title">Contributori</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>	
+	{% else %}
+	{% assign NavLang = site.pages | where: "language", "en" %}
+	<h3 class="Blog-Sidebar__section__title">Contributors</h3>
+		<div class="Blog-Sidebar__resources">
+			<ul class="list-group">								
+				{% for page in NavLang %}
+				{% if page.tag == "contributor" %}	
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
+					{% endif %}
+				{% endif %}	
+				{% endfor %}
+			</ul>
+		</div>
+	{% endif %}						
+</div>
