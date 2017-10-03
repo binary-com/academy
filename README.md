@@ -28,10 +28,10 @@ Example: If Jekyll see value /ru/ in the url (which is added to the page or post
 - All pages are stored in the folder "pages", in the subfolder for each language.
 - All posts are stored in the folder "_posts" , in the subfolder for each language.
 
-####24/7 Listening for language in the url
+#### 24/7 Listening for language in the url
 file: _includes/lang.html
 
-####Building page elements according to the language found in the url (header, menu, sidebar, footer)
+#### Building page elements according to the language found in the url (header, menu, sidebar, footer)
 files: 
 ```
 _includes/sidebar
