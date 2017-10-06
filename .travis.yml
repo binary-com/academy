@@ -3,6 +3,7 @@ rvm:
   - 2.2.2
 branches:
   only:
-  - gh-pages     # test the gh-pages branch
+  - master
+  - gh-pages
 script:
   - bundle exec jekyll build
