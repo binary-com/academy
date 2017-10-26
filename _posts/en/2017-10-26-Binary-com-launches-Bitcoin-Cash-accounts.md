@@ -26,9 +26,7 @@ Create your free BCH denominated account now and you can deposit, trade, and wit
 Plus, deposits and withdrawals are faster and more efficient as you won’t have to rely on credit cards and banks.
 
 This is a fantastic opportunity to experience the cryptocurrency revolution that’s shaping the future of online trading. So, what are you waiting for?
-
-<div class="separator-lg"></div>
 		
-<div class="cta-lg">	
-	<a href="https://www.binary.com/en/user/accounts.html?utm_source=social&utm_medium=blog&utm_campaign=native_ltc" class="button"><span>Create your BCH Account Now</span></a>	
+<div class="cta">	
+	<p><a href="https://www.binary.com/en/user/accounts.html?utm_source=social&utm_medium=blog&utm_campaign=native_ltc" class="button"><span>Create your BCH Account Now</span></a></p>
 </div>
