@@ -42,6 +42,7 @@ Every investment opportunity comes with risks. To ensure potential investors und
 We’ve also received widespread media coverage on our ICO from the likes of <a href="https://www.leaprate.com/experts/jean-yves-sireau/funding-benefits-ico-initial-coin-offering/">LeapRate</a>, <a href="https://www.financemagnates.com/cryptocurrency/exchange/binary-com-blockchain-ipo-tokens-list-lykke-vanuatu-exchange/">Finance Magnates</a>, <a href="http://www.profitf.com/news/binary-com-offers-securities-backed-tokens-initial-coin-offering-ico/">ProfitF</a>, and more. Catching up on the latest news related to our ICO will give you different perspectives on our token sale from people who write about ICOs and blockchain technology, day in and day out.
 
 If you’re interested in learning more about this opportunity, then visit our ICO announcement page for more information:
+
 		
 <div class="cta">	
 	<p class="sc--center"><a href="https://ico.binary.com/?utm_source=social&utm_medium=blog&utm_campaign=ico_launch" class="button"><span>Yes, take me to the ICO announcement page</span></a></p>
