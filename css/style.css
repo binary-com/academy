@@ -136,6 +136,33 @@ a h2:hover {color:inherit;}
 .Footer__copyrights ul li a{padding:4px 15px; font-size:12px; font-weight:400; text-decoration:none;}
 .Footer__copyrights ul li a:hover{color:#eee; text-decoration:underline; }
 .Footer__copyrights__copy {color:#eee;}
+#footer-menu h4 {
+    font-size: .8695652174rem;
+}
+#footer #footer-menu ul {
+	padding: 0;
+	margin-top: -10px;
+}
+#footer #footer-menu li {
+    line-height: 1;
+}
+
+#footer .content-inverse-color a {
+    text-decoration: underline
+}
+
+#footer #footer-regulatory #regulatory-text {
+    text-align: justify;
+    font-size: .6575162324rem
+}
+
+#footer #footer-last .gambling {
+    text-align: justify;
+    font-size: .7561436673rem;
+    font-weight: 400;
+    line-height: 110%
+}
+
 /* Snippets */
 .report-list { width:100%;}
 .rte img{max-width:100%;}
@@ -207,11 +234,26 @@ a h2:hover {color:inherit;}
 .Social__nav a:hover {z-index: 2; }
 @media only screen and (max-width : 768px) {
 .Social { margin-top:-5px; margin-bottom:20px; text-align:center; }
-.Social__nav li a { width: 50px;height: 50px;line-height: 50px;}
+.Footer__social ul li {
+    padding: 2px;	
+}
 }
 
-.Footer__social ul li {padding:2px; }
-.Footer__social ul li  img{width: 30px; height: 30px;}
+.Footer__social ul {
+	margin: 0px;
+	margin-top:10px;
+	margin-bottom:0px;
+	padding: 0px;
+}
+
+.Footer__social ul li {
+    padding: 0 2px;
+}
+
+.Footer__social ul li img {
+    width: 30px;
+    height: 30px;
+}
 /* Video Embed */
 .video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
 .video-container iframe,
@@ -234,4 +276,7 @@ a h2:hover {color:inherit;}
 .regulatory-text {
     text-align: justify;
     font-size: .6575162324rem
+}
+.centered {
+	text-align: center !important;
 }
