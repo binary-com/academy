@@ -1,5 +1,5 @@
-<footer class="Footer">
-	<div class="Footer__socket">
+<div id="footer" class="primary-bg-color">
+	<div id="footer-menu">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-3">
@@ -17,10 +17,10 @@
 			</div>
 		</div>
 	</div>
-	<div class="Footer__info">
+	<div id="footer-regulatory" class="primary-bg-color-dark">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8">
+				<div class="col-md-8 ">
 					{% include snippets/footer-info.html %}
 				</div>
 				<div class="col-md-4 Footer__social">
@@ -29,18 +29,16 @@
 			</div>
 		</div>
 	</div>
-	<div class="Footer__copyrights">
+	<div id="footer-last" class="primary-bg-color">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
-					<small>&copy; 2016 Binary.com</small>
+				<div class="col-md-12 centered">
+					<p class="font-s content-inverse-color">&copy; 2016 Binary.com</p>
 				</div>
 			</div>
 		</div>
 	</div>
-</footer>
+</div>
 <script src="https://apis.google.com/js/platform.js" defer></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="{{ '/js/code.js' | prepend: site.url }}" defer></script>
-<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
-<script src="{{ '/js/ie10-viewport-bug-workaround.js' | prepend: site.url }}"></script>
