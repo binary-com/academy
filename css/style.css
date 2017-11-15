@@ -1,3 +1,6 @@
+---
+---
+{% include geturl.html %}
 article,
 aside,
 details,
@@ -279,4 +282,51 @@ a h2:hover {color:inherit;}
 }
 .centered {
 	text-align: center !important;
+}
+.ico-banner {
+	background-image: url({{ '/images/ico/white_background.png' | prepend: site.url }});
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin: 30px 0;
+	height: 90px;
+	border: 1px solid #f2f2f2;
+	
+}
+.ico-banner-image {
+	background-image: url({{ '/images/ico/image_left_area.png' | prepend: site.url }});
+	background-size: contain;
+    background-repeat: no-repeat;
+	min-height: 90px;
+}
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+.ico-banner-content {
+	text-align: left;
+	margin-top: 30px;
+	text-transform: uppercase;
+    font-size: 1.3225rem;
+    font-weight: 400;
+    color: #2a3052
+}
+.ico-banner-cta {
+	text-align: center;
+	margin-top: 25px;
+}
+@media only screen and (max-width : 768px) {
+	.ico-banner {
+		height: auto;
+		padding: 20px;
+		background-size: cover;
+	}
+	.ico-banner-content {
+		text-align: center;
+	}
+}
+@media only screen and (max-width : 990px) {
+	.ico-banner-cta {
+		margin-top: 15px;
+	}
 }
