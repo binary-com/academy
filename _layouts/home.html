@@ -8,21 +8,6 @@ layout: compress
     {% include header.html %}
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12 ico-banner">
-					<div class="row">
-						<div class="col-sm-3 ico-banner-image">
-
-						</div>
-						<div class="col-sm-6 ico-banner-content">
-								The Binary.com is now live
-						</div>
-						<div class="col-sm-3 ico-banner-cta">
-								<a class="button" href="https://www.binary.com/en/user/ico-subscribe.html"><span>Participate now</span></a>
-						</div>
-					</div>	
-				</div>
-			</div>
-			<div class="row">
 				<div class="col-md-9">
 				    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
 				</div>
@@ -35,6 +20,7 @@ layout: compress
 					<div class="rte">{{ content }}</div>
 				</div>
 				<div class="col-md-3">
+					{% include sidebar/ico-banner.html %}
 					{% include sidebar/ready-to-start.html %}
 				    {% include sidebar/partner-with-us.html %}
 					{% include sidebar/learning-resources.html %}
