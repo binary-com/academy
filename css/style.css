@@ -330,3 +330,10 @@ a h2:hover {color:inherit;}
 		margin-top: 15px;
 	}
 }
+.sidebar-ico-banner {
+	margin: 20px 0;
+}
+.sidebar-ico-banner img{
+	text-align: center;
+	max-width: 100%;
+}
