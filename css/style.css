@@ -283,57 +283,68 @@ a h2:hover {color:inherit;}
 .centered {
 	text-align: center !important;
 }
-.ico-banner {
-	background-image: url({{ '/images/ico/white_background.png' | prepend: site.url }});
-	background-size: contain;
+
+.ico-banner-layout {
+	background-image: url({{ '/images/ico/970x90-bg.jpg' | prepend: site.url }});
 	background-repeat: no-repeat;
-	margin: 30px 0;
-	height: 90px;
-	border: 1px solid #f2f2f2;
+	background-size: cover;
+	color: #fff;
+    text-align: center;
+    margin: 20px 0;
+}
+.ico-banner-title {
+	display: block;
+	font-weight: bold;
+	font-size: 24px;
+	color: #e98024;
+	margin-top: 15px
+}
+.ico-banner-subtitle {
+	display: block;
+	font-weight: 400;
+	font-size: 24px;
 	
 }
-.ico-banner-image {
-	background-image: url({{ '/images/ico/image_left_area.png' | prepend: site.url }});
-	background-size: contain;
-    background-repeat: no-repeat;
-	min-height: 90px;
+.ico-banner-col-end-date {
+	border-left: 30px solid transparent;
+    border-bottom: 100px solid #e98024; 
+	height: 0;
+    line-height: 40px;
+	padding: 0px;
+	margin: 0;
+	margin-left: -15px;
 }
-
-.no-gutter > [class*='col-'] {
-    padding-right:0;
-    padding-left:0;
+.ico-banner-ends {
+    display: block;
+	font-weight: bold;
+	font-size: 28px;
+	line-height: 32px;
+	color: #fff;
+	margin-top: 20px;
+	padding: 0 20px;
 }
-.ico-banner-content {
-	text-align: left;
-	margin-top: 30px;
-	text-transform: uppercase;
-    font-size: 1.3225rem;
-    font-weight: 400;
-    color: #2a3052
+.ico-date {
+	display: block;
 }
-.ico-banner-cta {
-	text-align: center;
-	margin-top: 25px;
-}
-@media only screen and (max-width : 768px) {
-	.ico-banner {
-		height: auto;
-		padding: 20px;
-		background-size: cover;
+@media only screen and (max-width: 992px) {
+	  .ico-banner-col-end-date {
+		border-left: 0px;
+		border-bottom: 0px; 
+		height: 100%;
+		line-height: auto;
+		background-color: #e98024;
+		padding: 15px 0;
+        margin: 0 15px;
+        margin-top: 20px;
 	}
-	.ico-banner-content {
-		text-align: center;
+	.ico-banner-ends {
+		margin: 0;
+      	padding: 5px;
+	}
+	.ico-date {
+		display: inline;
 	}
 }
-@media only screen and (max-width : 990px) {
-	.ico-banner-cta {
-		margin-top: 15px;
-	}
-}
-.sidebar-ico-banner {
-	margin: 20px 0;
-}
-.sidebar-ico-banner img{
-	text-align: center;
-	max-width: 100%;
+.ico-banner-links:hover {
+  	text-decoration: none;
 }
