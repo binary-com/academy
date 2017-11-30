@@ -285,7 +285,7 @@ a h2:hover {color:inherit;}
 }
 
 .ico-banner-layout {
-	background-image: url({{ '/images/ico/970x90-bg.jpg' | prepend: site.url }});
+	background-image: url({{ '/images/ico/970x90-bg.jpg' | prepend: SourceUrl }});
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
@@ -311,7 +311,7 @@ a h2:hover {color:inherit;}
 	height: 0;
     line-height: 40px;
 	padding: 0px;
-	margin: 0;
+	margin: 0px;
 	margin-left: -15px;
 }
 .ico-banner-ends {
@@ -327,6 +327,13 @@ a h2:hover {color:inherit;}
 	display: block;
 }
 @media only screen and (max-width: 992px) {
+	.ico-banner-ends {
+       font-size: 22px;
+	   line-height: 26px;
+	   padding: 0 5px;
+    }
+}
+@media only screen and (max-width: 766px) {
 	  .ico-banner-col-end-date {
 		border-left: 0px;
 		border-bottom: 0px; 
@@ -336,6 +343,10 @@ a h2:hover {color:inherit;}
 		padding: 15px 0;
         margin: 0 15px;
         margin-top: 20px;
+		display: block;
+	}
+	.ico-banner-col-main {
+		display: block;
 	}
 	.ico-banner-ends {
 		margin: 0;
