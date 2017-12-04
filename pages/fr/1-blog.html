@@ -5,17 +5,17 @@ permalink: /fr/
 language: fr
 tag: main
 ---
+{% include geturl.html %}
 {% assign frPosts = site.posts | where: "language", "fr" %}
 {% for post in frPosts limit:15 %}  
-<div class="row list--item">
-	<div class="col-sm-12">
-		<div class="Page-List__item__excerpt">	
-		    <a class="Page-List__item__title" href="{{ post.url | prepend: site.url }}"><h2>{{ post.title }}</h2></a>
+<div class="row">
+	<div class="col">	
+		    <a href="{{ post.url | prepend: site.url }}"><h2>{{ post.title }}</h2></a>
 			<p class="post--date">{{ post.date | date: "%d.%m.%Y" }}</p>
 		<p>{{ post.excerpt }}</p>	
 		<p><a href="{{ post.url | prepend: site.url }}">Afficher...</a></p>
-		</div>
 	</div>	
 </div>
+<div class="separator-line-thin-gray-xs"></div>
 {% endfor %}
-<p class="p--action"><a class="button" href="{{site.url}}/fr/blog/"><span>Consulter les archives</span></a></p>
+<p class="center-text"><a class="button" href="{{ '/fr/blog/' | prepend: SourceUrl }}"><span>Consulter les archives</span></a></p>
