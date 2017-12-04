@@ -5,7 +5,7 @@
 		<h3 class="Blog-Sidebar__section__title">Learning Center</h3>		
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
@@ -24,7 +24,7 @@
 		<h3 class="Blog-Sidebar__section__title">Lernzentrum</h3>		
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
@@ -43,7 +43,7 @@
 		<h3 class="Blog-Sidebar__section__title">Centre d'apprentissage</h3>
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
@@ -57,7 +57,7 @@
 		<h3 class="Blog-Sidebar__section__title">Учебный центр</h3>
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
@@ -76,7 +76,7 @@
 		<h3 class="Blog-Sidebar__section__title">Centro de ensino</h3>
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
@@ -94,7 +94,7 @@
 		<h3 class="Blog-Sidebar__section__title">Centro de Aprendizaje</h3>
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
@@ -113,7 +113,7 @@
 		<h3 class="Blog-Sidebar__section__title">Pusat Pelatihan</h3>
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
@@ -135,7 +135,7 @@
 		<h3 class="Blog-Sidebar__section__title">Learning Center</h3>
 			<ul>								
 				{% for page in NavLang %}
-				{% if page.tag == "learning" %}	
+				{% if page.tag contains "learning" %}	
 					{% if page.title %}
 						<li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
 					{% endif %}
