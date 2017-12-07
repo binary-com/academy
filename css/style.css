@@ -1,32 +1,7 @@
 ---
 ---
 {% include geturl.html %}
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-* {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
-*:before,
-*:after {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
+
 a h2:hover {color:inherit;}
 /* Header */
 .topbar {min-height: 28px; }
@@ -167,7 +142,7 @@ a h2:hover {color:inherit;}
 
 /* Snippets */
 .report-list { width:100%;}
-.rte img{max-width:100%;}
+img{max-width:100%;}
 .list-group {padding-left: 0; margin-bottom: 20px;}
 .list--item { display:block; border-bottom:1px solid #dedede;}
 .post--date{ display:block;font-weight:400; font-size:14px; color:#000; margin-top:-20px;}
@@ -182,6 +157,17 @@ a h2:hover {color:inherit;}
 .daily-report ul {list-style-type: none; margin:0; padding:0;}
 .daily-report ul li {margin-left:0px; padding:0px; width:100%;}
 .TestBG {background: #f2f2f2;}
+.md-padding {padding: 20px;}
+.tb-15 {
+	margin: 15px 0;
+}
+.rounded {
+	border-radius: 100%;
+	border: 1px solid #dedede;
+	padding: 3px;
+	width: 125px;
+	height: 125px;
+}
 .separator-line-thin-gray-xs {
     height: 1px;
     background-color: #dedede;
@@ -227,8 +213,7 @@ a h2:hover {color:inherit;}
 
 .Social {
 	text-align: right;
-	margin: 0;
-	margin-top: 15px;
+	margin:15px  0;
 }
 
 @media only screen and (max-width: 768px) {

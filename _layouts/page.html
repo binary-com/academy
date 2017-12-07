@@ -17,9 +17,13 @@ layout: compress
 			</div>
 			<div class="row">
 				<div class="col-md-9">			
-					<div class="rte">{{ content }}</div>				
+					{{ content }}				
 				</div>
 				<div class="col-md-3">
+					{% if page.tag == "contributor" %}	
+						{% include sidebar/become-contributor.html %}
+						{% include sidebar/contributor-list.html %}
+					{% endif %}
 					{% include sidebar/ready-to-start.html %}
 					{% include sidebar/partner-with-us.html %}
 					{% include sidebar/learning-resources.html %}
