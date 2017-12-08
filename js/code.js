@@ -1,24 +1,4 @@
 $(function() {
-    var slider = function() {
-        var slider = $('#slider');
-        if (slider.size()) {
-            $('.invisibleslides').show();
-            slider.slides({
-                container: 'slides-container',
-                paginationClass: 'slides-pagination',
-                generatePagination: false,
-                generateNextPrev: false,
-                start: 1,
-                preload: true,
-                play: 10000,
-                slideSpeed: 800,
-            });
-            if ($('.slides_control').height() < 300) {
-                $('.slides_control').css('min-height', '300px');
-            }
-        }
-    };
-    slider();
     var currLang = document.documentElement.lang;
     $('#language_select select').on('change', function() {
         var lang = $(this).val();

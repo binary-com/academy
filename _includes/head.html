@@ -3,6 +3,13 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+	<meta name="description" content="{{ site.description }}" />
+	<meta name="keywords" content="binary options, forex, forex trading, online trading, financial trading, binary trading, index trading, trading indices, forex trades, trading commodities, binary options strategy, binary options trading platform, binary strategy" />
+	<meta property="og:title" content="Binary.com Academy" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Binary.com is the premier trading platform for binary options on all financial markets." />
+	<meta property="og:url" content="{{ site.url }}" />
+	<meta property="og:image" content="{{ '/images/og_image.gif' | prepend: SourceUrl }}" />
 	<link rel="icon" href="{{ '/images/binary-icon.png' | prepend: site.url }}" sizes="57x57"/>
 	<link rel="stylesheet" href="https://style.binary.com/binary.css">
 	<link rel="stylesheet" href="{{ '/css/grid.css' | prepend: site.url }}">

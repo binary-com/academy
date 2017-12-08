@@ -33,24 +33,6 @@ a h2:hover {color:inherit;}
     padding: 5px 1px
 }
 
-.Header__title {
-    color: #fff;
-    margin: 0;
-    padding-top: 10px;
-    padding-right: 20px;
-    text-align: right;
-    font-weight: 300!important;
-    margin-top: 5px!important
-}
-
-@media (max-width:992px) {
-    .Header__title {
-        text-align: right;
-        margin-bottom: 10px;
-        padding-right: 0
-    }
-}
-
 .Subheader {
     display: table;
     width: 100%;
@@ -204,6 +186,10 @@ img {
     margin-left: 0;
     margin-right: 0;
     text-align: center
+}
+
+.text-right {
+	text-align: right;
 }
 
 .top-20 {
