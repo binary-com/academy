@@ -1,41 +1,9 @@
 <div class="row">
 	<div class="col">
 		<div class="sidebar-box fill-bg-color">
-		{% if siteLang == "en" %}
-			<h3>Become a contributor</h3>	
-			<p>Do you want to become a Binary.com contributor/webinar speaker?</p>
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Contact Us</a></p>
-		{% elsif siteLang == "de" %}
-			<h3>Werden Sie Beitragender</h3>
-			<p>Möchten Sie Binary.com Autor/Webinar Redner werden?</p>
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Melden Sie sich bei uns</a></p>
-		{% elsif siteLang == "fr" %}
-			<h3>Devenir Auteur</h3>	
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Contactez nous</a></p>
-		{% elsif siteLang == "ru" %}
-			<h3>Стать Автор</h3>	
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Свяжитесь с нами</a></p>
-		{% elsif siteLang == "pt" %}
-			<h3>Torne-se um colaborador</h3>	
-			<p>Deseja se tornar um colaborador de webinars na Binary.com?</p>
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Contate-nos</a></p>
-		{% elsif siteLang == "es" %}
-			<h3>Conviértase en un colaborador</h3>	
-			<p>Desea convertirse en un colaborador/ orador en webinarios de Binary.com?</p>
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Contáctenos</a></p>
-		{% elsif siteLang == "id" %}
-			<h3>Menjadi kontributor</h3>	
-			<p>Apakah Anda ingin menjadi kontributor/pembicara webinar di Binary.com?</p>
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Hubungi Kami</a></p>
-		{% elsif siteLang == "it" %}
-			<h3>Diventa un collaboratore</h3>	
-			<p>Desideri diventare un collaboratore/webinar speaker di Binary.com?</p>
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Contattaci</a></p>
-		{% else %}
-			<h3>Become a contributor</h3>	
-			<p>Do you want to become a Binary.com contributor/webinar speaker?</p>
-			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">Contact Us</a></p>
-		{% endif %}
+			<h3>{{ translate.become_contributor }}</h3>	
+			<p>{{ translate.become_contributor_text }}</p>
+			<p><a href="mailto:marketing@binary.com?subject=Become%20a%20Contributor">{{ translate.contact_us }}</a></p>		
 		</div>
 	</div>
 </div>
