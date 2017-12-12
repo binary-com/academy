@@ -8,7 +8,7 @@
 			<a href="{{ post.url | prepend: SourceUrl }}"><h2>{{ post.title }}</h2></a>
 			<p class="post--date">{{ post.date | date: "%b" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }}</p>
 			<p>{{ post.excerpt }}</p>	
-			<p><a href="{{ post.url | prepend: SourceUrl }}">Read more..</a></p>
+			<p><a href="{{ post.url | prepend: SourceUrl }}">{{ translate.read_more }} ...</a></p>
 		</div>
 	</div>
 	<div class="separator-line-thin-gray"></div>	
