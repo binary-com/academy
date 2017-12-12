@@ -1,42 +1,9 @@
 <div class="row">
 	<div class="col">
 		<div class="sidebar-box fill-bg-color">
-		{% if siteLang == "en" %}
-			<h3>Partner with us</h3>
-			<p>We provide business partnership services like API, White Label etc.</p>
-			<p><a href="https://www.binary.com/en/partners.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_partnerswithus_en">Find Out More</a></p>
-		{% elsif siteLang == "de" %}
-			<h3>Schließen Sie sich uns an!</h3>
-			<p>Wir stellen Geschäftspartner Dienste wie API, Eigenmarke usw. zur Verfügung.</p>
-			<p><a href="https://www.binary.com/de/partners.html?utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_schliebensiesich_de">Erfahren Sie mehr</a></p>
-		{% elsif siteLang == "id" %}
-			<h3>Bermitra Bersama Kami!</h3>
-			<p>Kami menyediakan layanan bisnis kemitraan seperti API, White Label dll.</p>
-			<p><a href="https://www.binary.com/id/home.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_bermitrabersamakami_id">Temukan Lebih Lanjut</a></p>
-		{% elsif siteLang == "ru" %}
-			<h3>Станьте нашим партнером!</h3>
-			<p>Мы предоставляем услуги бизнес-партнерства, включая API, White Lable и др.</p>
-			<p><a href="https://www.binary.com/ru/partners.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_partnerwithus_ru">Подробнее</a></p>
-		{% elsif siteLang == "fr" %}
-			<h3>Envie d'en savoir plus ?</h3>
-			<p><a href="https://www.binary.com/fr/partners.html">Laissez-vous guider</a></p>
-		{% elsif siteLang == "es" %}
-			<h3>Sea Nuestro Socio!</h3>
-			<p>Ofrecemos servicios de colaboración como API, White Label etc.</p>
-			<p><a href="https://www.binary.com/es/partners.html">Obtenga más información</a></p>
-		{% elsif siteLang == "pt" %}
-			<h3>Seja nosso parceiro!</h3>
-			<p>Fornecemos serviços de parceria de negócios, tais como API, marcas brancas, etc.</p>
-			<p><a href="https://www.binary.com/pt/partners.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_sejanossoparceiro_pt">Descubra mais</a></p>
-		{% elsif siteLang == "it" %}
-			<h3>Collabora con noi</h3>
-			<p>Forniamo servizi di partnership aziendale come API, White Label ecc.</p>
-			<p><a href="https://www.binary.com/it/partners.html">Per saperne di più</a></p>		
-		{% else %}
-			<h3>Partner with us</h3>
-			<p>We provide business partnership services like API, White Label etc.</p>
-			<p><a href="https://www.binary.com/en/partners.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_partnerswithus_en">Find Out More</a></p>
-		{% endif %}	
+			<h3>{{ translate.become_partner }}</h3>	
+			<p>{{ translate.become_partner_text }}</p>
+			<p><a href="{{ translate.become_partner_cta_url }}">{{ translate.findout_more }}</a></p>
 		</div>
 	</div>
 </div>
