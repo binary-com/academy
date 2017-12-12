@@ -1,37 +1,9 @@
 <div class="row">
 	<div class="col">
 		<div class="sidebar-box fill-bg-color">
-		{% if siteLang == "en" %}
-			<h3>Ready to start?</h3>	
-			<p>Trade in the world's financial markets in a simple, user-friendly platform.</p>
-			<p><a class="button" href="https://www.binary.com/en/home.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_openafreeaccount_en"><span>Open A Free Account</span></a></p>
-		{% elsif siteLang == "de" %}
-			<h3>Bereit zu beginnen?</h3>	
-			<p><a class="button" href="https://www.binary.com/de/home.html?utm_source=blog&utm_medium=social&utm_campaign=nov2016_sidebar_eroffnensieein_de"><span>Eröffnen Sie ein kostenloses Konto</span></a></p>
-		{% elsif siteLang == "fr" %}
-			<h3>Prêt à démarrer ?</h3>	
-			<p><a class="button" href="https://www.binary.com"><span>Ouvrez un compte gratuit</span></a></p>
-		{% elsif siteLang == "ru" %}
-			<h3>Готовы начать?</h3>	
-			<p><a class="button" href="https://www.binary.com/ru/home.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_openafreeaccount_ru"><span>Открыть бесплатный счет</span></a></p>
-		{% elsif siteLang == "pt" %}
-			<h3>Pronto para começar?</h3>	
-			<p><a class="button" href="https://www.binary.com/pt/home.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_abraumacontagratuita_pt"><span>Abra uma conta gratuita</span></a></p>
-		{% elsif siteLang == "es" %}
-			<h3>Listo para empezar?</h3>	
-			<p><a class="button" href="https://www.binary.com"><span>Abrir una cuenta gratituta</span></a></p>
-		{% elsif siteLang == "id" %}
-			<h3>Siap Memulai?</h3>	
-			<p><a class="button" href="https://www.binary.com/id/home.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_daftarakunuangrill_id"><span>Daftar Akun Uang Riil</span></a></p>
-		{% elsif siteLang == "it" %}
-			<h3>Pronto per iniziare?</h3>	
-			<p>Negozia sui mercati finanziari del mondo con una piattaforma semplice e facile da usare.</p>
-			<p><a class="button" href="https://www.binary.com/it/home.html"><span>Apri un account gratis</span></a></p>
-		{% else %}
-			<h3>Ready to start?</h3>	
-			<p>Trade in the world's financial markets in a simple, user-friendly platform.</p>
-			<p><a class="button" href="https://www.binary.com/en/home.html?utm_source=blog&utm_medium=social&utm_campaign=oct2016_sidebar_openafreeaccount_en"><span>Open A Free Account</span></a></p>
-		{% endif %}
+			<h3>{{ translate.ready_to_start }}</h3>	
+			<p>{{ translate.ready_to_start_text }}</p>
+			<p><a class="button" href="{{ translate.ready_to_start_cta_url }}"><span>{{ translate.open_free_account }}</span></a></p>
 		</div>
 	</div>
 </div>
