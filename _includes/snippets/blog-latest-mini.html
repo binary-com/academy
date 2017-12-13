@@ -1,0 +1,18 @@
+{% include lang.html %}
+{% include geturl.html %}
+{% assign ActiveLanguagePosts = site.posts | where: "language", siteLang %}			
+<div class="flex-row row">
+	{% for post in ActiveLanguagePosts limit:3 %}
+		{% if post.title %}
+			<div class="col-sm-4">
+				<div class="card thumbnail">				
+					<div class="caption">
+						<a href="{{ post.url | prepend: SourceUrl }}"><h3>{{ post.title }}</h3></a>
+						<p class="flex-text">{{ post.excerpt | truncatewords:20 }}</p>
+						<p><a href="{{ post.url | prepend: SourceUrl }}" class="button"><span>{{ translate.read_more }}</span></a></p>
+					</div>
+				</div>
+			</div>
+		{% endif %}
+	{% endfor %}
+</div>
