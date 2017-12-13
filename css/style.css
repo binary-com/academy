@@ -385,6 +385,15 @@ img {
     text-align: center!important
 }
 
+.bordered {
+    border: 1px solid #dedede;
+}
+
+.bottom-30 {
+	margin-bottom: 30px;
+}
+
+
 .ico-banner-layout {
     background-image:url({{'/images/ico/970x90-bg.jpg' | prepend:SourceUrl}});
     background-repeat: no-repeat;
@@ -466,4 +475,41 @@ img {
 
 .ico-banner-links:hover {
     text-decoration: none
+}
+@media only screen and (min-width : 481px) {
+  .flex-row.row {
+    display: flex;
+	 flex-wrap: wrap;
+  }
+  .flex-row.row > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+  }
+  .flex-row.row:after, 
+  .flex-row.row:before {
+	 display: flex;
+  }
+  .flex-row.row > [class*='col-'] > .box {
+    display: flex;
+	 flex: 1;
+  }
+}
+
+/* Grow thumbnails to fill columns height */
+.flex-row .thumbnail,
+.flex-row .caption {
+	display: flex;
+	flex: 1 0 auto;
+	flex-direction: column;
+}
+
+/* Flex Grow Text Container */
+.flex-row .caption p.flex-text {
+	flex-grow: 1;
+}
+
+/* Flex Responsive Image */
+.flex-row img {
+	width: 100%;
+	height: auto;
 }
