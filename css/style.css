@@ -393,6 +393,9 @@ img {
 	margin-bottom: 30px;
 }
 
+.text-left {
+    text-align: left !important;
+}
 
 .ico-banner-layout {
     background-image:url({{'/images/ico/970x90-bg.jpg' | prepend:SourceUrl}});
