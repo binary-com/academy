@@ -3,7 +3,7 @@ layout: post
 title: "Introducing Standard and Advanced accounts for MT5"
 language: en
 permalink: /en/Introducing-Standard-and-Advanced-accounts-for-MT5/
-excerpt: The regulation of binary options in the United Kingdom has come under the full supervision of the Financial Conduct Authority (FCA) which is the financial regulation body in the UK...
+excerpt: We’re very pleased to announce our new Standard and Advanced accounts for MT5, alongside our newly-revamped Volatility Indices account...
 ---
 We’re very pleased to announce our new Standard and Advanced <a href="https://www.binary.com/en/metatrader/types-of-accounts.html">accounts for MT5</a>, alongside our newly-revamped Volatility Indices account:
 
