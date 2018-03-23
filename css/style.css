@@ -225,6 +225,10 @@ img {
     padding: 20px
 }
 
+.sm-padding {
+    padding: 10px;
+}
+
 .tb-15 {
     margin: 15px 0
 }
