@@ -54,4 +54,4 @@ For example, if the market has a close of 6,000 and a low of 5,200 over the cont
 
 Lookbacks are available on Volatility Indices –– our synthetic assets that simulate market volatility. Trading is available 24/7 and you can purchase your first contract with a minimum multiplier of $1 on a fiat account, or 0.01 on a crypto account.
 
-<a href="https://www.binary.com/en/trading.html">Start trading lookbacks</a> on your virtual and real accounts today.
+<a href="https://www.binary.com/en/trading.html?market=volidx&duration_amount=3&duration_units=m&amount=10&amount_type=payout&expiry_type=duration&underlying=R_10&formname=lookbackhigh&multiplier=1">Start trading lookbacks</a> on your virtual and real accounts today.
