@@ -1,0 +1,16 @@
+{% include lang.html %}
+{% include geturl.html %}
+{% assign ActiveLanguagePages = site.pages | where: "language", siteLang %}
+<div class="row">
+{% for page in ActiveLanguagePages limit: 11%}														
+	{% if page.tag == "contributor" %}	
+		{% if page.title %}
+			<div class="col-sm-4 top-20 center-text">
+				<a href="{{ page.permalink | prepend: SourceUrl }}"><img class="rounded" src="{{ page.image | prepend: SourceUrl }}" alt="{{ page.title }}"></a>
+				<h3 class="secondary-color">{{ page.title }}</h3>
+				<p>{{ page.content | truncatewords:20 }}</p>
+			</div>	
+		{% endif %}
+	{% endif %}				
+{% endfor %}
+</div>
