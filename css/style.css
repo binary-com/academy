@@ -221,6 +221,10 @@ img {
     width: 100%
 }
 
+.xl-padding {
+    padding: 50px
+}
+
 .md-padding {
     padding: 20px
 }
