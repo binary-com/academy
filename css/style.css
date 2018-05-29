@@ -549,3 +549,31 @@ img {
 	padding: 50px 0;
 }
 
+.title-xxs {
+    font-size: 16px;
+}
+.title-xs {
+    font-size: 18px;
+}
+.title-sm {
+    font-size: 22px;
+}
+.title-md {
+    font-size: 28px;
+}
+
+.title-lg {
+    font-size: 32px;
+}
+.title-xl {
+    font-size: 36px;
+}
+.title-xxl {
+    font-size: 48px;
+}
+.title-2xl {
+    font-size: 56px;
+}
+.title-3xl {
+    font-size: 72px;
+}
