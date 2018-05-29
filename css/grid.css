@@ -19,7 +19,7 @@ html {
   box-sizing: inherit;
 }
 
-.container {
+.container,  .container-xl {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
@@ -28,19 +28,19 @@ html {
 }
 
 @media (min-width: 576px) {
-  .container {
+  .container, .container-xl {
     max-width: 540px;
   }
 }
 
 @media (min-width: 768px) {
-  .container {
+  .container, .container-xl {
     max-width: 720px;
   }
 }
 
 @media (min-width: 992px) {
-  .container {
+  .container,  .container-xl {
     max-width: 970px;
   }
 }
@@ -49,6 +49,18 @@ html {
   .container {
     max-width: 970px;
   }
+.container-xl {
+    max-width: 1180px;
+  }  
+}
+
+@media (min-width: 1680px) {
+  .container {
+    max-width: 970px;
+  }
+   .container-xl {
+    max-width: 1440px;
+  } 
 }
 
 .container-fluid {
