@@ -14,6 +14,7 @@
 	<link rel="stylesheet" href="https://style.binary.com/binary.css">
 	<link rel="stylesheet" href="{{ '/css/grid.css' | prepend: site.url }}">
 	<link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.url }}">
+    {% if siteLang == 'pt' %}<style>.button span {text-transform: none;}</style>  {% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">		
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
