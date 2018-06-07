@@ -48,5 +48,6 @@ Choose a trade type that fits your market view or strategy:
     <li>Choose ‘Lower’ if you speculate that the market will expire below your preset barrier</li>
 </ul>
 
-#### Trade with Ladders now using your virtual or real money account. 
+
+<a href="https://www.binary.com/en/multi_barriers_trading.html">Trade with Ladders now</a> using your virtual or real money account. 
 
