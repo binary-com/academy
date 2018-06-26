@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binary.com launches new trade type for binary options –– High/Low Ticks"
+title: "Binary.com launches new trade type for binary options: High/Low Ticks"
 language: en
 permalink: /en/Binary-launches-new-trade-type-for-binary-options-High-Low-Ticks/
 excerpt: "We’re pleased to announce a new trade type for binary options: High/Low Ticks. High/Low Ticks have a strict duration of five ticks and are available exclusively on Volatility Indices..."
