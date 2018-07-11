@@ -12,7 +12,7 @@ Kami dengan gembira ingin mengumumkan peluncuran salah satu fitur yang paling di
 Mulai sekarang jika Anda bertrading <strong>kontrak Rise/Fall pada Forex dan Indeks Volatilitas</strong> dan memilih fitur “Pilih Equal”, Anda juga dapat memperoleh hasil jika spot akhir adalah <strong>sama</strong> dengan spot masuk:
 
 <div class="cta">
-    <img src="{{ '/images/22-jun-18.png' | prepend: SourceUrl }}" alt="{{ page.title }}">
+    <img src="{{ '/images/id-11-07-18.png' | prepend: SourceUrl }}" alt="{{ page.title }}">
 </div>
 
 ## Bagaimana cara kerjanya
