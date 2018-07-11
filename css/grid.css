@@ -19,6 +19,10 @@ html {
   box-sizing: inherit;
 }
 
+img {
+    max-width: 100%;
+}
+
 .container,  .container-xl {
   width: 100%;
   padding-right: 15px;
@@ -47,7 +51,7 @@ html {
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 970px;
+    max-width: 1199px;
   }
 .container-xl {
     max-width: 1180px;
@@ -56,10 +60,10 @@ html {
 
 @media (min-width: 1680px) {
   .container {
-    max-width: 970px;
+    max-width: 1199px;
   }
    .container-xl {
-    max-width: 1440px;
+    max-width: 1199px;
   } 
 }
 
