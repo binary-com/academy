@@ -25,5 +25,5 @@ excerpt: "Рады представить новый вид бинарных о�
 
 <div class="cta">
     <p>Торгуйте новыми контрактами с реального или демо-счёта:</p>
-    <a class="button" href="https://www.binary.com/ru/trading.html?currency=USD&market=volidx&underlying=R_10&formname=highlowticks"><span>Trade High/Low Ticks Now</span></a>
+    <a class="button" href="https://www.binary.com/ru/trading.html?currency=USD&market=volidx&underlying=R_10&formname=highlowticks"><span>Попробовать Наибольший/наименьший тик сейчас</span></a>
 </div>
