@@ -95,8 +95,4 @@ $(function() {
             scrollTop: $(".video-container").offset().top
         }, 300);
     });
-    $('.report-list').on('change', function() {
-        $('.single-report').hide();
-        $('#report-' + $('.report-list').val()).show();
-    });
 });
