@@ -54,7 +54,7 @@ $(function() {
         if (currLang === 'id') {
             getDailyReport('876', '8grqRDVc105iX6ztb0GwqWNd7ZgqdRLk');
         } else if (currLang === 'ru') {
-            getDailyReport('875', 'bPzDzniJKAKx76XffYA0JmNd7ZgqdRLk');
+            getDailyReport('875', '_bPzDzniJKAJe98Bs4LFaYvewH2wqIvSx');
         } else {
             getDailyReport('26', '2BSkOQpKavkJDmLoo-HGFZ0co5lt24DG');
         }
