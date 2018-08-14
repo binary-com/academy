@@ -27,4 +27,4 @@ A autenticação de dois fatores é um método de verificação da sua identidad
 
 Após ter concluído as etapas acima, será necessário inserir um código de autenticação cada vez que você desejar conectar-se à sua conta Binary.com.
 
-Você pode também ler as nossas <a href="https://academy.binary.com/en/security-tips/">dicas de segurança</a> para conhecer mais formas de manter a sua conta e o seus dados seguros.
+Você pode também ler as nossas <a href="https://academy.binary.com/pt/security-tips/">dicas de segurança</a> para conhecer mais formas de manter a sua conta e o seus dados seguros.
