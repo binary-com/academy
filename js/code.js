@@ -52,7 +52,7 @@ $(function() {
     }
     if ($('.daily-report').length) {
         if (currLang === 'id') {
-            getDailyReport('876', '8grqRDVc105iX6ztb0GwqWNd7ZgqdRLk');
+            getDailyReport('876', 'bPzDzniJKAL5JB4nNqUbEmNd7ZgqdRLk');
         } else if (currLang === 'ru') {
             getDailyReport('875', 'bPzDzniJKAKt204N_GNRyWNd7ZgqdRLk');
         } else {
