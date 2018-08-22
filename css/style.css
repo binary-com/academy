@@ -577,3 +577,29 @@ img {
 .title-3xl {
     font-size: 72px;
 }
+.security-divider {
+    opacity: 0.3;
+    width: 700px;
+    max-width: 100%;
+}
+@media only screen and (max-width:576px) {
+    .security-divider {
+        display: none
+    }
+    .info-section {
+        margin: 40px 0;
+        text-align: center;
+    }
+    .info-section img {
+        margin: 20px 0;
+        text-align: center;
+    }
+    .mob-top {
+        -ms-flex-order: -1;
+        order: -1;
+    }
+}
+.info-section-icon {
+    width: 180px;
+    height: auto;
+}
