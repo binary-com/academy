@@ -24,6 +24,6 @@ If you want to trade oil with leverage, we’re pleased to inform you that CFDs 
 Trading on Binary.com’s MT5 platform requires no minimum deposit and incurs no commissions. We’ve also recently revised our oil spreads so you can now trade with even tighter spreads.
 
 <div class="cta">
-    <h3 class="secondary-color">Want to start trading CFDs on oil? Fund your MT5 account now:</h3>
+    <h3>Want to start trading CFDs on oil? Fund your MT5 account now:</h3>
     <a class="button" href="https://www.binary.com/en/user/metatrader.html"><span>Yes, take me there</span></a>
 </div>
