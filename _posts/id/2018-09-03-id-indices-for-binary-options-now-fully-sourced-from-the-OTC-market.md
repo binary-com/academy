@@ -2,7 +2,7 @@
 layout: post
 title: "Indeks Binary.com pada opsi Binary kini sepenuhnya bersumber dari pasar OTC"
 language: id
-permalink: /id/id-indices-for-binary-options-now-fully-sourced-from-the-OTC-market/
+permalink: /id/indices-for-binary-options-now-fully-sourced-from-the-OTC-market/
 excerpt: Kami dengan gembira ingin menginformasikan bahwa mulai tanggal 12 September 2018, seluruh indeks yang kami tawarkan akan bersumber dari pasar over-the-counter (OTC)...
 ---
 Kami dengan gembira ingin menginformasikan bahwa mulai tanggal 12 September 2018, seluruh indeks yang kami tawarkan akan bersumber dari pasar over-the-counter (OTC). Hal ini memberikan manfaat lebih untuk Anda dimana periode trading yang ditawarkan tersedia lebih panjang, begitu juga dengan spot dan grafik yang ditampilkan adalah secara real-time.
