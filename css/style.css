@@ -197,6 +197,10 @@ img {
     margin-top: 20px;
 }
 
+.top-50 {
+    margin-top: 50px;
+}
+
 .bottom-20 {
     margin-bottom: 20px;
 }
@@ -348,12 +352,6 @@ img {
 .video-thumb p {
     font-size: 14px;
     margin: 0;
-}
-
-.unbounce--confirmation iframe {
-    border: none;
-    margin: 0;
-    padding: 0;
 }
 
 .button {
