@@ -18,7 +18,7 @@ The Standard STP account is available in EUR and GBP, and offers tight and varia
     <a class="button" href="https://www.binary.com/en/user/metatrader.html"><span>Yes, take me there</span></a>
 </div>
 
-<p class="font-s">Investing in complex products, such as CFDs come with a high risk of losing money rapidly due to leverage. Between 74-89% of retail investor accounts lose money when trading CFDs. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.</p>
+<p class="font-s top-50">Investing in complex products, such as CFDs come with a high risk of losing money rapidly due to leverage. Between 74-89% of retail investor accounts lose money when trading CFDs. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.</p>
 
 <p class="font-s">Prices of CFDs may vary and/or fluctuate due to current market prices and conditions, and changes in currency exchange rates. This may cause the value of your investment to go down as well as up, and you may lose some or all of the money you’ve invested.</p>
 
