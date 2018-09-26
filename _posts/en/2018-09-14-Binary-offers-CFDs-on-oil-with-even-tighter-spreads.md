@@ -3,7 +3,7 @@ layout: post
 title: "Binary.com offers CFDs on oil with even tighter spreads"
 language: en
 permalink: /en/Binary-offers-CFDs-on-oil-with-even-tighter-spreads/
-excerpt: Oil is one of the most popular forms of commodities trading This is due to its demand across a wide range of industries, including plastics, chemicals, and agriculture...
+excerpt: Oil is one of the most popular forms of commodities trading This is due to its demand across a wide range of industries, including plastics, chemicals, and agriculture ...
 ---
 Oil is one of the most popular forms of commodities trading This is due to its demand across a wide range of industries, including plastics, chemicals, and agriculture. It is also an essential commodity for consumers around the world who need oil to power their mode of transportation.
 
