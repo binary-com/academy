@@ -25,6 +25,10 @@ en:
     responsible_trading: "Responsible Trading"
     responsible_trading_link: "https://www.binary.com/en/responsible-trading.html"
     getstarted: "Get Started"
+    learning_resources: "Learning Resources"
+    weekly_market_update: "Weekly Market Update"
+    commodities_corner: "Commodities Corner"
+    weekly_trading_signals: "Weekly Trading Signals"
     
 de:
     site_title: "Akademie"
@@ -53,6 +57,10 @@ de:
     responsible_trading: "Verantwortungsbewusstes Trading"
     responsible_trading_link: "https://www.binary.com/de/responsible-trading.html"
     getstarted: "Erste Schritte"
+    learning_resources: "Lernmittel"
+    weekly_market_update: "Weekly Market Update"
+    commodities_corner: "Commodities Corner"
+    weekly_trading_signals: "Wöchentliche Handelssignale"
     
 es:
     site_title: "Academia"
@@ -81,6 +89,10 @@ es:
     responsible_trading: "Transacción responsable"
     responsible_trading_link: "https://www.binary.com/es/responsible-trading.html"
     getstarted: "Comenzar"
+    learning_resources: "Recursos"
+    weekly_market_update: "Actualización Semanal Mercado"
+    commodities_corner: "Materias Primas Corner"
+    weekly_trading_signals: "Señales de Trading semanales"
     
 id:
     site_title: "Akademi"
@@ -109,6 +121,10 @@ id:
     responsible_trading: "Tanggung Jawab Trading"
     responsible_trading_link: "https://www.binary.com/id/responsible-trading.html"
     getstarted: "Memulai"
+    learning_resources: "Sumber Pelatihan"
+    weekly_market_update: "Berita Pasar Mingguan"
+    commodities_corner: "Pojok Komoditas"
+    weekly_trading_signals: "Laporan Mingguan"
 
 ru:
     site_title: "Aкадемия"
@@ -137,6 +153,10 @@ ru:
     responsible_trading: "Ответственной торговле"
     responsible_trading_link: "https://www.binary.com/ru/responsible-trading.html"
     getstarted: "С чего начать"
+    learning_resources: "Ресурсы"
+    weekly_market_update: "Еженедельный обзор рынка"
+    commodities_corner: "Сырьевой уголок"
+    weekly_trading_signals: "Еженедельные Торговые сигналы"
 
 fr:
     site_title: "Académie"
@@ -165,6 +185,10 @@ fr:
     responsible_trading: "Trading Responsable"
     responsible_trading_link: "https://www.binary.com/fr/responsible-trading.html"
     getstarted: "Se lancer"
+    learning_resources: "Ressources"
+    weekly_market_update: "Mise à jour du marché hebdomadaire"
+    commodities_corner: "Commodities coin"
+    weekly_trading_signals: "Signaux de trading hebdomadaires"
 
 pt:
     site_title: "Academia"
@@ -193,6 +217,10 @@ pt:
     responsible_trading: "Negocião Responsável"
     responsible_trading_link: "https://www.binary.com/pt/responsible-trading.html"
     getstarted: "Começar"
+    learning_resources: "Centro de ensino"
+    weekly_market_update: "Actualização do mercado semanal"
+    commodities_corner: "Canto das matérias-primas"
+    weekly_trading_signals: "Sinais de negociação semanais"
 
 it:
    site_title: "Accademia"
@@ -221,3 +249,7 @@ it:
    responsible_trading: "Responsible Trading"
    responsible_trading_link: "https://www.binary.com/en/responsible-trading.html"
    getstarted: "Inizia"
+   learning_resources: "Learning Resources"
+   weekly_market_update: "Weekly Market Update"
+   commodities_corner: "Commodities Corner"
+   weekly_trading_signals: "Weekly Trading Signals"
