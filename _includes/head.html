@@ -2,21 +2,16 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-	<meta name="description" content="{{ site.description }}" />
-	<meta name="keywords" content="binary options, forex, forex trading, online trading, financial trading, binary trading, index trading, trading indices, forex trades, trading commodities, binary options strategy, binary options trading platform, binary strategy" />
-	<meta property="og:title" content="Binary.com Academy" />
-	<meta property="og:type" content="website" />
-	<meta property="og:description" content="Binary.com is the premier trading platform for binary options on all financial markets." />
-	<meta property="og:url" content="{{ site.url }}" />
-	<meta property="og:image" content="{{ '/images/og_image.gif' | prepend: site.url }}" />
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title | escape }} {% endif %}</title>
+	{% include geturl.html %}
+	{% include meta.html %}
 	<link rel="icon" href="{{ '/images/binary-icon.png' | prepend: site.url }}" sizes="57x57"/>
 	<link rel="stylesheet" href="https://style.binary.com/binary.css">
 	<link rel="stylesheet" href="{{ '/css/grid.css' | prepend: site.url }}">
 	<link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.url }}">
     {% if siteLang == 'pt' %}<style>.button span {text-transform: none;}</style>  {% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">		
-	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />	
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.url }}" />	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 	<script src="https://style.binary.com/binary.js"></script>
 	<script>
@@ -26,7 +21,7 @@
 		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 		ga('create', 'UA-40877026-11', 'auto');
 		ga('send', 'pageview');
-    </script>
+	</script>
 </head>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
