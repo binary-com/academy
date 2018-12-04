@@ -1,0 +1,41 @@
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 260 }}{% else %}{{ page.content | strip_html | truncate: 260 }}{% endif %}">
+<meta property="og:title" content="Binary.com Academy" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 260 }}{% else %}Binary.com is the premier trading platform for binary options on all financial markets.{% endif %}" />
+<meta property="og:url" content="{{ site.url }}" />
+<meta property="og:image" content="{% if page.image %}{{ page.image | prepend: SourceUrl }}{% else %}{{ '/images/og_image.gif' | prepend: site.url }}{% endif %}" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Binarydotcom">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 260 }}{% else %}{{ page.content | strip_html | truncate: 260 }}{% endif %}">
+<meta name="twitter:image" content="{{ '/images/og_image.gif' | prepend: site.url }}">
+<meta name="twitter:image:alt" content="Binary.com Academy">
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | replace:'index.html' | prepend: site.url }}"
+    },
+    "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title | escape }}{% endif %}",
+    "image": [
+        "{{ '/images/og_image.gif' | prepend: site.url }}"
+    ],
+    "datePublished": "{{ site.time | date_to_xmlschema }}",
+    "dateModified": "{{ site.time | date_to_xmlschema }}",
+    "author": {
+    "@type": "Organization",
+    "name": "Binary.com"
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Binary.com",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://academy.binary.com/images/binary-icon.png"
+    }
+},
+    "description": "{% if page.description %}{{ page.description | strip_html | truncate: 260 }}{% else %}{{ page.content | strip_html | truncate: 260 }}{% endif %}"
+}
+</script>
