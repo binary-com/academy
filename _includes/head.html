@@ -7,8 +7,8 @@
 	{% include meta.html %}
 	<link rel="icon" href="{{ '/images/binary-icon.png' | prepend: site.url }}" sizes="57x57"/>
 	<link rel="stylesheet" href="https://style.binary.com/binary.css">
-	<link rel="stylesheet" href="{{ '/css/grid.css' | prepend: site.url }}">
-	<link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.url }}">
+	<link rel="stylesheet" href="{{ '/css/grid.min.css' | prepend: site.url }}">
+	<link rel="stylesheet" href="{{ '/css/style.min.css' | prepend: site.url }}">
     {% if siteLang == 'pt' %}<style>.button span {text-transform: none;}</style>  {% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">		
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.url }}" />	
@@ -26,6 +26,6 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4";
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=893872640819623';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
