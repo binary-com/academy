@@ -11,7 +11,11 @@
 	<link rel="stylesheet" href="{{ '/css/style.min.css' | prepend: site.url }}">
     {% if siteLang == 'pt' %}<style>.button span {text-transform: none;}</style>  {% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">		
-	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.url }}" />	
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.url }}" />
+	<link rel="preconnect" href="https://apis.google.com">
+	<link rel="preconnect" href="https://ajax.googleapis.com">
+	<link rel="preconnect" href="https://www.google-analytics.com">
+	<link rel="preconnect" href="https://platform.twitter.com">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
