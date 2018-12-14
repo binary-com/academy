@@ -5,7 +5,18 @@ layout: compress
 {% include lang.html %}
 <html lang="{{ siteLang }}">
   {% include head.html %}
-    {% include header.html %}	
+	{% include header.html %}
+	
+	<script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script async src="{{ '/js/code.js' | prepend: SourceUrl }}"></script>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=893872640819623';
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-9">
@@ -21,6 +32,7 @@ layout: compress
 				</div>
 			</div>		
 		</div>
-     {% include footer.html %}  
+	 {% include footer.html %}
+	<script async src="https://style.binary.com/binary.js"></script>
     </body>
 </html>
