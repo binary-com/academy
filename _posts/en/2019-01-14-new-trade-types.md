@@ -3,7 +3,7 @@ layout: post
 title: "Binary.com launches new trade types and more for binary options on MetaTrader 5"
 language: en
 permalink: /en/new-trade-types-for-binary-options-MetaTrader5/
-excerpt: We’re pleased to inform you that we now support deposits and withdrawals via iWallet. iWallet is a comprehensive payment system that supports online micropayments at reasonable and competitive commission rates...
+excerpt: We’re pleased to inform you that we have just released a new version of our Expert Advisor for binary options trading on MetaTrader 5 (MT5) today with additional trade types and more...
 ---
 We’re pleased to inform you that we have just released a new version of our Expert Advisor for binary options trading on MetaTrader 5 (MT5) today with additional trade types and more.
 
