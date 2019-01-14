@@ -3,13 +3,13 @@ layout: post
 title: "Binary.com launches new trade types and more for binary options on MetaTrader 5"
 language: en
 permalink: /en/new-trade-types-for-binary-options-MetaTrader5/
-excerpt: We’re pleased to inform you that we have just released a new version of our Expert Advisor for binary options trading on MetaTrader 5 (MT5) today with additional trade types and more...
+excerpt: We have just released a new version of our Expert Advisor for binary options trading on MetaTrader 5 (MT5) today with additional trade types and more. Download the latest version of the Expert Advisor...
 ---
 We’re pleased to inform you that we have just released a new version of our Expert Advisor for binary options trading on MetaTrader 5 (MT5) today with additional trade types and more.
 
 <div class="cta">
-<p>Download the latest version of the Expert Advisor to gain access to the new trade types and everything else:</p>
-<p><a class="button" href="https://s3.amazonaws.com/binary-mt5/Binary.ex5"><span>Download the new Expert Advisor now</span></a></p>
+    <p>Download the latest version of the Expert Advisor to gain access to the new trade types and everything else:</p>
+    <p><a class="button" href="https://s3.amazonaws.com/binary-mt5/Binary.ex5"><span>Download the new Expert Advisor now</span></a></p>
 </div>
 
 ## New trade types
