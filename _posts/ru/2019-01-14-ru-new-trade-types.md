@@ -29,7 +29,7 @@ excerpt: Рады объявить о выходе новой версии Exper
 
 Пытаетесь разобраться в новых видах контрактов? Будем рады Вам помочь. С этой целью мы добавили страницу помощи на Expert Advisor с чёткими, проиллюстрированными примерами для каждого вида контракта.
 
-Если Вы являетесь новичком в торговле бинарными опционами на MT5, пожалуйста, прочтите наше <a href="https://www.binary.com/en/get-started/binary-options-mt5.html#how-to-trade-binary">пошаговое руководство</a> по установке и использованию Expert Advisor.
+Если Вы являетесь новичком в торговле бинарными опционами на MT5, пожалуйста, прочтите наше <a href="https://www.binary.com/ru/get-started/binary-options-mt5.html#how-to-trade-binary">пошаговое руководство</a> по установке и использованию Expert Advisor.
 
 <div class="cta">
     <p><a class="button" href="https://s3.amazonaws.com/binary-mt5/Binary.ex5"><span>Загрузите новый Expert Advisor сейчас</span></a></p>
