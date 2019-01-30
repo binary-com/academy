@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What’s New? One tick trading, new Digits slider"
+title: "One tick trading, new Digits slider"
 language: en
 permalink: /en/One-tick-trading-new-Digits-slider/
 excerpt: The shortest duration ever is now available on our Volatility Indices. At just one tick, you can take advantage of the fastest contract turnover. Try it now with our popular Rise/Fall trade type...

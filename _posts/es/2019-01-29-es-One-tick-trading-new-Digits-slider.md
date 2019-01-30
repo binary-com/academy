@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Qué hay de nuevo? Operaciones con un solo intervalo, nuevo control deslizante para Dígitos"
+title: "Operaciones con un solo intervalo, nuevo control deslizante para Dígitos"
 language: es
 permalink: /es/One-tick-trading-new-Digits-slider/
 excerpt: La duración más corta de contratos está disponible ahora en nuestros Índices de Volatilidad. En un solo intervalo, puede sacar provecho del movimiento de contratos más rápido. Pruébelo ahora con nuestro tipo de operación popular Alza/Baja...

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O que há de novo? Negociações de um tick e o novo controle deslizante para Dígitos"
+title: "Negociações de um tick e o novo controle deslizante para Dígitos"
 language: pt
 permalink: /pt/One-tick-trading-new-Digits-slider/
 excerpt: A mais curta duração de sempre está agora disponível nos nossos índices "Volatility". Com apenas um tick, é possível aproveitar a mais rápida liquidação de contratos que há. Experimente-a já com o tipo de negociação muito popular "Sobe/Desce"...
