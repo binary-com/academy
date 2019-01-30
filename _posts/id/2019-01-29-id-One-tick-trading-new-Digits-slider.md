@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apa yang terbaru? Trading satu tik, slider Digit baru"
+title: "Trading satu tik, slider Digit baru"
 language: id
 permalink: /id/One-tick-trading-new-Digits-slider/
 excerpt: Durasi terpendek kini tersedia pada Indeks Volatilitas kami. Hanya dalam satu tik, Anda dapat memanfaatkan pergantian kontrak tercepat. Cobalah pada  jenis trading Rise/Fall kami yang sangat populer...
