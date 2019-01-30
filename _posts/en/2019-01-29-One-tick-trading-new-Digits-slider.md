@@ -11,7 +11,7 @@ excerpt: The shortest duration ever is now available on our Volatility Indices. 
 The shortest duration ever is now available on our Volatility Indices. At just one tick, you can take advantage of the fastest contract turnover. Try it now with our popular Rise/Fall trade type:
 
 <div class="cta">
-    <p><a class="button" href="https://www.binary.com/en/trading.html?market=volidx&underlying=R_10&formname=risefall&duration_amount=1&duration_units=t&expiry_type=duration&date_start=now"><span>Trade at one tick with Rise/Fal</span></a></p>
+    <p><a class="button" href="https://www.binary.com/en/trading.html?market=volidx&underlying=R_10&formname=risefall&duration_amount=1&duration_units=t&expiry_type=duration&date_start=now"><span>Trade at one tick with Rise/Fall</span></a></p>
 </div>
 
 <div class="cta-lg">
