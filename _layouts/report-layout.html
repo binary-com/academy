@@ -36,6 +36,9 @@ layout: compress
 						{% include sidebar/become-contributor.html %}
 						{% include sidebar/contributor-list.html %}
 					{% endif %}
+					{% if page.language == "en" or page.language == "ru" or page.language == "id" %}
+					{% include sidebar/subscribe-report.html %}
+					{% endif %}
 					{% include sidebar/ready-to-start.html %}
 					{% include sidebar/partner-with-us.html %}
 					{% unless page.language == "it" %}

@@ -29,6 +29,10 @@ en:
     weekly_market_update: "Weekly Market Update"
     commodities_corner: "Commodities Corner"
     weekly_trading_signals: "Weekly Trading Signals"
+    subscribe_title: "Subscribe to Daily Report"
+    subscribe_text: "Sign up now to receive daily news and updates on the financial markets by e-mail. Get a comprehensive analysis of recent developments, including the most recent price movements, price variations and scenarios expected in the week and month ahead."
+    subscribe_button: "Subscribe"
+    subscribe_cta_url: "https://trade.binary.com/dailyreport_en_daveevans/"
     
 de:
     site_title: "Akademie"
@@ -125,6 +129,10 @@ id:
     weekly_market_update: "Berita Pasar Mingguan"
     commodities_corner: "Pojok Komoditas"
     weekly_trading_signals: "Laporan Mingguan"
+    subscribe_title: "Berlangganan Laporan Harian"
+    subscribe_text: "Daftar sekarang untuk memperoleh laporan harian dan berita terbaru pada pasar keuangan melalui email. Dapatkan analisis komprehensif tentang perkembangan terkini, termasuk pergerakan harga terbaru, variasi harga, dan skenario yang diharapkan pada minggu dan bulan mendatang."
+    subscribe_button: "Berlangganan"
+    subscribe_cta_url: "https://trade.binary.com/dailyreport_en_daveevans/"
 
 ru:
     site_title: "Aкадемия"
@@ -157,6 +165,10 @@ ru:
     weekly_market_update: "Еженедельный обзор рынка"
     commodities_corner: "Сырьевой уголок"
     weekly_trading_signals: "Еженедельные Торговые сигналы"
+    subscribe_title: "Подпишитесь на наш ежедневный обзор"
+    subscribe_text: "Хотите получать ежедневный обзор финансовых рынков прямиком на почту? Подпишитесь сейчас и будьте в курсе последних экономических событий, масштабных ценовых сдвигов и возможных сценариев движения рынков."
+    subscribe_button: "Подписаться"
+    subscribe_cta_url: "https://trade.binary.com/dailyreport_en_daveevans/"
 
 fr:
     site_title: "Académie"
