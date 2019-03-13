@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Novo tipo de negociação exclusivo: Sempre acima/Sempre abaixo"
+title: "Novo tipo de negociação exclusivo - Sempre acima/Sempre abaixo"
 language: pt
 permalink: /pt/New-unique-trade-type-Only-Ups-Only-Downs/
-excerpt: "É com grande entusiasmo que anunciamos o lançamento de Sempre acima/Sempre abaixo, um novo tipo de negociação disponível nos nossos índices "Volatility" e acessível através das plataformas SmartTrader, Webtrader e Binary Bot...."
+excerpt: "É com grande entusiasmo que anunciamos o lançamento de Sempre acima/Sempre abaixo, um novo tipo de negociação disponível nos nossos índices Volatility e acessível através das plataformas SmartTrader, Webtrader e Binary Bot..."
 ---
 {% include geturl.html %}
 
