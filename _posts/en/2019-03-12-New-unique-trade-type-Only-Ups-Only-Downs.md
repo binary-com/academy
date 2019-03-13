@@ -11,10 +11,10 @@ We are excited to announce the launch of <strong>Only Ups/Only Downs</strong>, a
 
 <div class="separator-lg"></div>
 <div class="row justify-content-center">
-    <div class="col-md-4 centered">
+    <div class="col-6 text-right">
         <img src="{{ '/images/runs/image3.png' | prepend: SourceUrl }}" alt="{{ page.title }}">
     </div>
-    <div class="col-md-4 centered">
+    <div class="col-6">
         <img src="{{ '/images/runs/image9.png' | prepend: SourceUrl }}" alt="{{ page.title }}">
     </div>
 </div>
