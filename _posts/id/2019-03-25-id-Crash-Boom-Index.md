@@ -13,5 +13,5 @@ Indeks Crash/Boom menyediakan berbagai probabilitas lonjakan atau penurunan besa
 Jika Anda menyukai Indeks Volatilitas kami, Anda akan menyukai pengalaman trading yang menyenangkan dari Indeks Crash/Boom kami.
 
 <div class="cta">
-    <a class="button" href="https://www.binary.com/en/user/metatrader.html"><span>Coba Crash/Boom di MT5 sekarang.</span></a>
+    <a class="button" href="https://www.binary.com/id/user/metatrader.html"><span>Coba Crash/Boom di MT5 sekarang</span></a>
 </div>
