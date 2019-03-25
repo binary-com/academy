@@ -13,6 +13,5 @@ With Crash/Boom, you get an index with varying probabilities of a massive spike 
 If you like our Volatility Indices, you’ll love the exciting trading experience of our Crash/Boom Index.  
 
 <div class="cta">
-    <p>Only Ups/Only Downs is unique to Binary.com, so be the first to try it out today.</p>
     <a class="button" href="https://www.binary.com/en/user/metatrader.html"><span>Try Crash/Boom on MT5 now</span></a>
 </div>
