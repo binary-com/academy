@@ -4,10 +4,8 @@ layout: compress
 <!DOCTYPE html>
 {% include lang.html %}
 <html lang="{{ siteLang }}">
-  {% include head.html %}
-	{% include header.html %}
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
-	<script async src="{{ '/js/code.js' | prepend: SourceUrl }}"></script>
+{% include head.html %}
+{% include header.html %}
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 	var js, fjs = d.getElementsByTagName(s)[0];
@@ -32,6 +30,5 @@ layout: compress
 			</div>		
 		</div>
 	 {% include footer.html %}
-	<script async src="https://style.binary.com/binary.js"></script>
     </body>
 </html>
