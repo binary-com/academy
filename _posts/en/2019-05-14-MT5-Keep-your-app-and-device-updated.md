@@ -10,6 +10,6 @@ To get the best experience, always keep your device updated with the latest vers
 
 By the way, our app has a new icon!
 
-<div class="cta">
-    <img src="{{ '/images/binary-mt5.png' | prepend: SourceUrl }}" alt="{{ page.title }}">
+<div class="cta-lg">
+    <img src="{{ '/images/binary-mt5.png' | prepend: SourceUrl }}" alt="{{ page.title }}" width="250">
 </div>
