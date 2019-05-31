@@ -5,7 +5,6 @@ language: en
 permalink: /en/Deriv-all-new-trading-experience/
 excerpt: "Our latest innovation, now available in beta. A feature-rich trading environment, integrating everything you need on one platform..."
 ---
-## The all-new trading experience
 
 Our latest innovation, now available in beta. A feature-rich trading environment, integrating everything you need on one platform.
 
