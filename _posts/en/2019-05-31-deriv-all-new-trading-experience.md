@@ -30,5 +30,5 @@ Our latest innovation, now available in beta. A feature-rich trading environment
 
 <div class="cta-lg">
     <p class="centered">It’s intuitive, customisable, and powerful.<br>Go ahead, experience it for yourself.</p>
-    <a class="button" href="https://deriv.app/"><span>Try Deriv now</span></a>
+    <a class="button" href="https://deriv.app/?utm_source=academy&utm_medium=social&utm_campaign=global-deriv-initial-promo-may-2019"><span>Try Deriv now</span></a>
     </div>
