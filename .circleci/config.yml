@@ -70,7 +70,7 @@ commands:
       - run: 
           name: Building docker image
           command: |
-            docker build -t ${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_TAG:-latest} .
+            docker build -t ${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_SHA1} .
   docker_push:
     description: "Push image to docker hub"
     steps:
@@ -78,7 +78,7 @@ commands:
           name: Pushing Image to docker hub
           command: |
             echo $DOCKERHUB_PASSWORD | docker login -u $DOCKERHUB_USERNAME --password-stdin
-            docker push ${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_TAG:-latest}
+            docker push ${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_SHA1}
   k8s_deploy:
     description: "Deploy to k8s cluster"
     steps:
@@ -87,7 +87,7 @@ commands:
           name: Deploying to k8s cluster for service binary-academy
           command: |
             echo $CA_CRT | base64 --decode > ca.crt
-            kubectl --server=${KUBE_SERVER} --certificate-authority=ca.crt --token=$SERVICEACCOUNT_TOKEN set image deployment/academy-binary-com academy-binary-com=${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_TAG}
+            kubectl --server=${KUBE_SERVER} --certificate-authority=ca.crt --token=$SERVICEACCOUNT_TOKEN set image deployment/academy-binary-com academy-binary-com=${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_SHA1}
 
 jobs:
   release:
