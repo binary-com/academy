@@ -87,7 +87,7 @@ commands:
           name: Deploying to k8s cluster for service binary-academy
           command: |
             echo $CA_CRT | base64 --decode > ca.crt
-            kubectl --server=${KUBE_SERVER} --certificate-authority=ca.crt --token=$SERVICEACCOUNT_TOKEN set image deployment/binary-academy << parameters.k8s_svc_name >>=${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_TAG}
+            kubectl --server=${KUBE_SERVER} --certificate-authority=ca.crt --token=$SERVICEACCOUNT_TOKEN set image deployment/academy-binary-com academy-binary-com=${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_TAG}
 
 jobs:
   release:
@@ -99,11 +99,6 @@ jobs:
       - release
       - docker_build
       - docker_push
-      
-  deploy_production:
-    docker:
-      - image: circleci/ruby:2.6.5
-    steps:
       - k8s_deploy
       
 workflows:
