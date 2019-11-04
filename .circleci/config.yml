@@ -33,22 +33,31 @@ commands:
     steps:
       - restore_cache:
           keys:
-            - bundle-v2-{{ checksum "Gemfile" }}
-            - bundle-v2-
+            - bundle-v1-{{ checksum "Gemfile" }}
+            - bundle-v1-
       - run:
           name: Bundle install
           command: |
             bundle install --path ./modules
       - save_cache:
-          key: node-{{ checksum "Gemfile" }}
+          key: bundle-v1-{{ checksum "Gemfile" }}
           paths:
             - "modules"
   release:
     description: "Build Jekyll site"
     steps:
+      - restore_cache:
+          keys:
+            - _site-v1-{{ CIRCLE_SHA1 }}
+            - _site-v1-
       - run:
           name: Building Jekyll site
-          command: bundle exec jekyll build
+          command: bundle exec jekyll build --incremental
+      - save_cache:
+          name: Save build cache
+          key: _site-v1-{{ CIRCLE_SHA1 }}
+          paths:
+            - _site
   docker_build:
     description: "Build Docker image"
     steps:
