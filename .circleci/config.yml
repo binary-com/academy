@@ -38,7 +38,6 @@ commands:
       - run:
           name: Bundle install
           command: |
-            chmod -R 777 /.bundle
             bundle install --path bundle
       - save_cache:
           key: node-{{ checksum "Gemfile" }}
