@@ -6,6 +6,7 @@ commands:
     description: "Git checkout and save cache"
     steps:
       - restore_cache:
+          name: Git restore cache
           keys:
             - source-v2-{{ .Branch }}-{{ .Revision }}
             - source-v2-{{ .Branch }}-
@@ -25,6 +26,7 @@ commands:
           name: Compress git objects 
           command: git gc
       - save_cache:
+          name: Git save cache
           key: source-v2-{{ .Branch }}-{{ .Revision }}
           paths:
             - ".git"
@@ -32,6 +34,7 @@ commands:
     description: "Bundle install"
     steps:
       - restore_cache:
+          name: Bundle modules cache restore
           keys:
             - bundle-v1-{{ checksum "Gemfile" }}
             - bundle-v1-
@@ -40,6 +43,7 @@ commands:
           command: |
             bundle install --path ./modules
       - save_cache:
+          name: Bundle modules cache save
           key: bundle-v1-{{ checksum "Gemfile" }}
           paths:
             - "modules"
@@ -47,15 +51,16 @@ commands:
     description: "Build Jekyll site"
     steps:
       - restore_cache:
+          name: "Build cache restore"
           keys:
-            - _site-v1-{{ CIRCLE_SHA1 }}
+            - _site-v1-{{ .Revision }}
             - _site-v1-
       - run:
           name: Building Jekyll site
           command: bundle exec jekyll build --incremental
       - save_cache:
-          name: Save build cache
-          key: _site-v1-{{ CIRCLE_SHA1 }}
+          name: Build cache save
+          key: _site-v1-{{ .Revision }}
           paths:
             - _site
   docker_build:
