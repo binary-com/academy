@@ -25,7 +25,7 @@ commands:
           name: Compress git objects 
           command: git gc
       - save_cache:
-          key: source-v1-{{ .Branch }}-{{ .Revision }}
+          key: source-v2-{{ .Branch }}-{{ .Revision }}
           paths:
             - ".git"
   bundle_install:
@@ -33,16 +33,16 @@ commands:
     steps:
       - restore_cache:
           keys:
-            - bundle-{{ checksum "Gemfile" }}
-            - bundle-
+            - bundle-v2-{{ checksum "Gemfile" }}
+            - bundle-v2-
       - run:
           name: Bundle install
           command: |
-            bundle install --path bundle
+            bundle install --path ./modules
       - save_cache:
           key: node-{{ checksum "Gemfile" }}
           paths:
-            - "node_modules"
+            - "modules"
   release:
     description: "Build Jekyll site"
     steps:
@@ -78,7 +78,7 @@ commands:
 jobs:
   release:
     docker:
-      - image: jekyll/jekyll:4
+      - image: circleci/ruby:2.6.5
     steps:
       - git_checkout_from_cache
       - bundle_install
@@ -88,10 +88,9 @@ jobs:
       
   deploy_production:
     docker:
-      - image: circleci/node:9.8.0-stretch
+      - image: circleci/ruby:2.6.5
     steps:
-      - k8s_deploy:
-          k8s_svc_name: "production-binary-com"
+      - k8s_deploy
       
 workflows:
   release:
