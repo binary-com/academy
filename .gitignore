@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 CNAME
 Gemfile.lock
+modules
