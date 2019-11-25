@@ -12,3 +12,6 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+  - modules
+  - Dockerfile
+  - academy.com.conf
