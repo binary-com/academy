@@ -1,6 +1,7 @@
 version: 2.1
 orbs:
   k8s: circleci/kubernetes@0.7.0
+  s3: circleci/aws-s3@1.0.13
 commands:
   git_checkout_from_cache:
     description: "Git checkout and save cache"
@@ -63,6 +64,37 @@ commands:
           key: _site-v1-{{ .Revision }}
           paths:
             - _site
+  compress:
+    description: "Compress"
+    steps:
+      - run:
+          name: "Compress"
+          command: |
+            pushd _site/
+            tar -cvf artifact.tar *
+            mv artifact.tar ${OLDPWD}/
+  upload_artifact:
+    description: "upload artifact to s3"
+    steps:
+      - s3/copy:    
+          from: artifact.tar
+          to: 's3://${ARTIFACT_S3_BUCKET}/${CIRCLE_PROJECT_REPONAME}/latest/'
+          aws-access-key-id: env_ARTIFACT_S3_AWS_ACCESS_KEY_ID
+          aws-secret-access-key: env_ARTIFACT_S3_AWS_SECRET_ACCESS_KEY
+          aws-region: env_ARTIFACT_S3_AWS_REGION
+  upload_checksum:
+    description: "upload artifact checksum to s3"
+    steps:
+      - run: 
+          name: 
+          command: |
+            sha256sum artifact.tar | cut -d ' ' -f 1 >> artifact-info.txt
+      - s3/copy:    
+          from: artifact-info.txt
+          to: 's3://${ARTIFACT_S3_BUCKET}/${CIRCLE_PROJECT_REPONAME}/latest/'
+          aws-access-key-id: env_ARTIFACT_S3_AWS_ACCESS_KEY_ID
+          aws-secret-access-key: env_ARTIFACT_S3_AWS_SECRET_ACCESS_KEY
+          aws-region: env_ARTIFACT_S3_AWS_REGION
   docker_build:
     description: "Build Docker image"
     steps:
@@ -97,9 +129,12 @@ jobs:
       - git_checkout_from_cache
       - bundle_install
       - release
-      - docker_build
-      - docker_push
-      - k8s_deploy
+      - compress
+      - upload_artifact
+      - upload_checksum
+      #- docker_build
+      #- docker_push
+      #- k8s_deploy
       
 workflows:
   release:
