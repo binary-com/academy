@@ -143,5 +143,5 @@ workflows:
           filters:
             branches:
               only: /^master/
-          context: binary-frontend-artifact-upload
+          context: binary-frontend-deploy
 
