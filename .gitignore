@@ -49,6 +49,7 @@ Thumbs.db
 ######################
 *.sass-cache*
 .cache/
+.jekyll-cache/
 _site
 /.idea
 secrets.json
