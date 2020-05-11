@@ -6,14 +6,6 @@ layout: none
 <html lang="{{ siteLang }}">
 {% include head.html %}
 {% include header.html %}
-<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=893872640819623';
-	fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-9">
@@ -23,10 +15,6 @@ layout: none
 					{% include sidebar/ready-to-start.html %}
 				    {% include sidebar/partner-with-us.html %}
 					{% include sidebar/learning-resources.html %}
-					<div class="sc--center">
-					{% include snippets/facebook.html %}
-					{% include snippets/twitter.html %}
-					</div>
 				</div>
 			</div>		
 		</div>
