@@ -138,7 +138,7 @@ jobs:
       - docker_build
       - docker_push
       - k8s_deploy
-      - deploy:
+      - deploy_gh_pages:
           target_branch: "production"
 
 workflows:
