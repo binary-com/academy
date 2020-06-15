@@ -78,6 +78,8 @@ commands:
       - run:
           name: Install and configure dependencies
           command: |
+            curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+            sudo apt install nodejs
             sudo npm install -g gh-pages@2.0.1
             git config user.email "ci-build@binary.com"
             git config user.name "ci-build"
