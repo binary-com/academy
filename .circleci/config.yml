@@ -135,11 +135,11 @@ jobs:
       - git_checkout_from_cache
       - bundle_install
       - release
-      - deploy:
-          target_branch: "production"
       - docker_build
       - docker_push
       - k8s_deploy
+      - deploy:
+          target_branch: "production"
 
 workflows:
   release:
