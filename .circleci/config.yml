@@ -88,7 +88,7 @@ commands:
             - "01:67:4a:6d:26:9c:70:c4:1a:60:91:88:d9:dd:f0:83"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages -d www --branch << parameters.target_branch >> --message '[skip ci]'
+          command: gh-pages -d _site --branch << parameters.target_branch >> --message '[skip ci]'
   docker_build:
     description: "Build Docker image"
     steps:
