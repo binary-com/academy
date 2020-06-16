@@ -85,10 +85,10 @@ commands:
             git config user.name "ci-build"
       - add_ssh_keys:
           fingerprints:
-            - "01:67:4a:6d:26:9c:70:c4:1a:60:91:88:d9:dd:f0:83"
+            - "f4:32:2d:2a:e4:02:ec:8a:f6:ae:97:da:2b:a4:4b:c6"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages -d _site --branch << parameters.target_branch >> --message '[skip ci]'
+          command: sudo gh-pages -d _site --branch << parameters.target_branch >> --message '[skip ci]'
   docker_build:
     description: "Build Docker image"
     steps:
