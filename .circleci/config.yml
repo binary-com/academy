@@ -139,15 +139,28 @@ jobs:
       - git_checkout_from_cache
       - bundle_install
       - release
-      # - docker_build
-      # - docker_push
-      # - k8s_deploy
+      - docker_build
+      - docker_push
+      - k8s_deploy
       - deploy_gh_pages:
           target_branch: "production"
+  release_staging:
+    docker:
+      - image: circleci/ruby:2.6.5
+    steps:
+      - git_checkout_from_cache
+      - bundle_install
+      - release
+      - deploy_gh_pages:
+          target_branch: "staging"
 
 workflows:
   release:
     jobs:
+      - release_staging:
+          filters:
+            branches:
+              only: /^master$/
       - release_production:
           filters:
             branches:
