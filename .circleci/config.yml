@@ -139,8 +139,8 @@ commands:
     steps:
       - slack/status:
           include_project_field: false
-          failure_message: "<< parameters.target >> release failed for academy with version `$(cat _site/version)`"
-          success_message: "<< parameters.target >> release succeeded for academy with version `$(cat _site/version)`"
+          failure_message: "<< parameters.target >> release failed for academy with version $(cat _site/version)"
+          success_message: "<< parameters.target >> release succeeded for academy with version $(cat _site/version)"
           webhook: ${SLACK_WEBHOOK} 
 jobs:
   release_staging:
