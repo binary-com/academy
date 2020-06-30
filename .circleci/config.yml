@@ -137,6 +137,13 @@ commands:
           success_message: "Release succeeded for Academy with version *$(cat _site/version)*"
           webhook: ${SLACK_WEBHOOK} 
 jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.6.5
+    steps:
+      - git_checkout_from_cache
+      - bundle_install
+      - build
   release_staging:
     docker:
       - image: circleci/ruby:2.6.5
@@ -167,6 +174,12 @@ jobs:
       - docker_build_push
       - k8s_deploy
 workflows:
+  build:
+    jobs:
+      - build:
+          filters:
+            branches:
+              ignore: /^master$/
   release:
     jobs:
       - release_staging:
