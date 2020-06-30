@@ -5374,39 +5374,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/fr/</loc>
+      <loc>https://academy.binary.com/id/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5421,7 +5391,7 @@
     <url>
       <loc>https://academy.binary.com/es/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5434,24 +5404,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/de/</loc>
+      <loc>https://academy.binary.com/pt/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/id/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5466,7 +5421,52 @@
     <url>
       <loc>https://academy.binary.com/ru/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/de/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/fr/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5481,7 +5481,7 @@
     <url>
       <loc>https://academy.binary.com/it/roberto-griscenko/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5496,37 +5496,7 @@
     <url>
       <loc>https://academy.binary.com/id/abdullah-fuad/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/jim-mellon/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/jim-mellon/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5541,7 +5511,22 @@
     <url>
       <loc>https://academy.binary.com/es/jim-mellon/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/jim-mellon/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5556,7 +5541,22 @@
     <url>
       <loc>https://academy.binary.com/de/jim-mellon/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/jim-mellon/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5571,52 +5571,7 @@
     <url>
       <loc>https://academy.binary.com/ru/sergey-romanyuk/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/fr/vince-stanzione/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/vince-stanzione/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/vince-stanzione/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5631,7 +5586,22 @@
     <url>
       <loc>https://academy.binary.com/es/vince-stanzione/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/vince-stanzione/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5646,7 +5616,37 @@
     <url>
       <loc>https://academy.binary.com/de/vince-stanzione/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/fr/vince-stanzione/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/vince-stanzione/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5661,7 +5661,7 @@
     <url>
       <loc>https://academy.binary.com/ru/vladimir-shepelitskiy/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5676,7 +5676,7 @@
     <url>
       <loc>https://academy.binary.com/id/yayah-khaeriah/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5691,7 +5691,7 @@
     <url>
       <loc>https://academy.binary.com/ru/Renat-Seytuarov/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5706,37 +5706,7 @@
     <url>
       <loc>https://academy.binary.com/fr/dave-evans/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/lee-sandford/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/lee-sandford/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5751,7 +5721,37 @@
     <url>
       <loc>https://academy.binary.com/es/lee-sandford/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/lee-sandford/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/lee-sandford/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5766,7 +5766,7 @@
     <url>
       <loc>https://academy.binary.com/id/jim-mellon/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5781,37 +5781,7 @@
     <url>
       <loc>https://academy.binary.com/de/theo-patsios/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/dave-evans/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/dave-evans/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5826,7 +5796,37 @@
     <url>
       <loc>https://academy.binary.com/es/dave-evans/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/dave-evans/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/dave-evans/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5841,7 +5841,7 @@
     <url>
       <loc>https://academy.binary.com/de/lee-sandford/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5856,7 +5856,7 @@
     <url>
       <loc>https://academy.binary.com/fr/nik-kalsi/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5871,7 +5871,7 @@
     <url>
       <loc>https://academy.binary.com/ru/sergey-musin/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5886,7 +5886,7 @@
     <url>
       <loc>https://academy.binary.com/id/vince-stanzione/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5901,7 +5901,7 @@
     <url>
       <loc>https://academy.binary.com/ru/alexander-galochkin/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5916,7 +5916,7 @@
     <url>
       <loc>https://academy.binary.com/de/dave-evans/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5931,7 +5931,7 @@
     <url>
       <loc>https://academy.binary.com/id/lee-sandford/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5946,7 +5946,7 @@
     <url>
       <loc>https://academy.binary.com/en/samuel-matilla/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5961,22 +5961,7 @@
     <url>
       <loc>https://academy.binary.com/es/nik-kalsi/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/fr/phil-carr/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -5991,7 +5976,22 @@
     <url>
       <loc>https://academy.binary.com/pt/phil-carr/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/fr/phil-carr/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6006,7 +6006,7 @@
     <url>
       <loc>https://academy.binary.com/id/dave-evans/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6021,7 +6021,7 @@
     <url>
       <loc>https://academy.binary.com/fr/ehab-gubil/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6036,7 +6036,7 @@
     <url>
       <loc>https://academy.binary.com/pt/nik-kalsi/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6051,7 +6051,7 @@
     <url>
       <loc>https://academy.binary.com/de/nik-kalsi/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6066,7 +6066,7 @@
     <url>
       <loc>https://academy.binary.com/ru/niklolay-masalov/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6081,7 +6081,7 @@
     <url>
       <loc>https://academy.binary.com/es/phil-carr/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6096,7 +6096,7 @@
     <url>
       <loc>https://academy.binary.com/en/phil-carr/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6111,22 +6111,7 @@
     <url>
       <loc>https://academy.binary.com/pt/chris-svorcik/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/ehab-gubil/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6141,7 +6126,22 @@
     <url>
       <loc>https://academy.binary.com/es/ehab-gubil/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/ehab-gubil/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6156,7 +6156,7 @@
     <url>
       <loc>https://academy.binary.com/fr/matt-shaw/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6171,7 +6171,7 @@
     <url>
       <loc>https://academy.binary.com/ru/jim-mellon/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6186,7 +6186,7 @@
     <url>
       <loc>https://academy.binary.com/id/phil-carr/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6201,22 +6201,7 @@
     <url>
       <loc>https://academy.binary.com/de/phil-carr/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/fr/chris-svorcik/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6231,7 +6216,7 @@
     <url>
       <loc>https://academy.binary.com/es/chris-svorcik/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6244,9 +6229,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/en/ehab-gubil/</loc>
+      <loc>https://academy.binary.com/fr/chris-svorcik/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6261,7 +6246,22 @@
     <url>
       <loc>https://academy.binary.com/de/ehab-gubil/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/ehab-gubil/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6276,7 +6276,7 @@
     <url>
       <loc>https://academy.binary.com/id/nik-kalsi/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6291,22 +6291,7 @@
     <url>
       <loc>https://academy.binary.com/ru/yevgeniy-boguraev/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/chris-svorcik/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6321,7 +6306,22 @@
     <url>
       <loc>https://academy.binary.com/de/chris-svorcik/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/chris-svorcik/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6336,7 +6336,7 @@
     <url>
       <loc>https://academy.binary.com/id/ehab-gubil/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6351,7 +6351,7 @@
     <url>
       <loc>https://academy.binary.com/pt/matt-shaw/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6366,7 +6366,7 @@
     <url>
       <loc>https://academy.binary.com/ru/vince-stanzione/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6381,7 +6381,7 @@
     <url>
       <loc>https://academy.binary.com/id/chris-svorcik/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6396,7 +6396,7 @@
     <url>
       <loc>https://academy.binary.com/ru/matt-shaw/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6411,7 +6411,7 @@
     <url>
       <loc>https://academy.binary.com/es/thomas-nowakowski/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6426,7 +6426,7 @@
     <url>
       <loc>https://academy.binary.com/pt/vernon-less/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6441,22 +6441,7 @@
     <url>
       <loc>https://academy.binary.com/it/alessandro-bernocchi/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/alberto-alvarado/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6471,7 +6456,22 @@
     <url>
       <loc>https://academy.binary.com/es/alberto-alvarado/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/alberto-alvarado/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6486,7 +6486,7 @@
     <url>
       <loc>https://academy.binary.com/ru/phil-carr/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6501,7 +6501,7 @@
     <url>
       <loc>https://academy.binary.com/pt/theo-patsios/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6516,7 +6516,7 @@
     <url>
       <loc>https://academy.binary.com/de/thomas-nowakowski/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6531,52 +6531,7 @@
     <url>
       <loc>https://academy.binary.com/pt/josh-k/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/matt-shaw/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/es/matt-shaw/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/de/matt-shaw/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6591,7 +6546,52 @@
     <url>
       <loc>https://academy.binary.com/id/matt-shaw/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/es/matt-shaw/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/de/matt-shaw/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/matt-shaw/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6606,7 +6606,7 @@
     <url>
       <loc>https://academy.binary.com/ru/valeriy-andryashin/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6621,22 +6621,7 @@
     <url>
       <loc>https://academy.binary.com/pt/paul-wallace/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/vernon-less/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6651,7 +6636,7 @@
     <url>
       <loc>https://academy.binary.com/es/vernon-less/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6666,7 +6651,22 @@
     <url>
       <loc>https://academy.binary.com/de/vernon-less/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/vernon-less/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6681,7 +6681,7 @@
     <url>
       <loc>https://academy.binary.com/ru/vitaly-popov/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6696,7 +6696,7 @@
     <url>
       <loc>https://academy.binary.com/de/julius-stein/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6711,7 +6711,7 @@
     <url>
       <loc>https://academy.binary.com/en/theo-patsios/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6726,7 +6726,7 @@
     <url>
       <loc>https://academy.binary.com/de/benjamin-hübner/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6741,7 +6741,7 @@
     <url>
       <loc>https://academy.binary.com/en/zeo-s/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6756,22 +6756,7 @@
     <url>
       <loc>https://academy.binary.com/en/paul-wallace/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/contributors/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6786,7 +6771,7 @@
     <url>
       <loc>https://academy.binary.com/es/contributors/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6799,9 +6784,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/de/contributors/</loc>
+      <loc>https://academy.binary.com/pt/contributors/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6816,7 +6801,22 @@
     <url>
       <loc>https://academy.binary.com/ru/contributors/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/de/contributors/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6831,22 +6831,7 @@
     <url>
       <loc>https://academy.binary.com/pt/downloads/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/de/downloads/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6861,7 +6846,7 @@
     <url>
       <loc>https://academy.binary.com/ru/downloads/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6874,24 +6859,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/fr/events/</loc>
+      <loc>https://academy.binary.com/de/downloads/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/events/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6906,7 +6876,7 @@
     <url>
       <loc>https://academy.binary.com/id/events/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6919,9 +6889,24 @@
   
     
     <url>
-      <loc>https://academy.binary.com/es/webinars/</loc>
+      <loc>https://academy.binary.com/fr/events/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/events/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6936,7 +6921,22 @@
     <url>
       <loc>https://academy.binary.com/it/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/es/webinars/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -6951,52 +6951,7 @@
     <url>
       <loc>https://academy.binary.com/404.html</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/fr/contributors/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/contributors/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/it/contributors/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7011,7 +6966,52 @@
     <url>
       <loc>https://academy.binary.com/id/contributors/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/it/contributors/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/fr/contributors/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/contributors/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7026,7 +7026,7 @@
     <url>
       <loc>https://academy.binary.com/ru/events/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7041,7 +7041,7 @@
     <url>
       <loc>https://academy.binary.com/es/learning-center/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7056,7 +7056,7 @@
     <url>
       <loc>https://academy.binary.com/de/webinars/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7071,52 +7071,7 @@
     <url>
       <loc>https://academy.binary.com/fr/downloads/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/learning-center/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/learning-center/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/de/learning-center/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7131,7 +7086,22 @@
     <url>
       <loc>https://academy.binary.com/id/learning-center/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/learning-center/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7146,7 +7116,7 @@
     <url>
       <loc>https://academy.binary.com/ru/learning-center/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7159,24 +7129,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/fr/blog/</loc>
+      <loc>https://academy.binary.com/de/learning-center/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/blog/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7189,39 +7144,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/pt/blog/</loc>
+      <loc>https://academy.binary.com/en/learning-center/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/es/blog/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/de/blog/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7236,7 +7161,37 @@
     <url>
       <loc>https://academy.binary.com/id/blog/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/es/blog/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/blog/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7251,7 +7206,7 @@
     <url>
       <loc>https://academy.binary.com/ru/blog/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7264,24 +7219,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/fr/commodities-corner/</loc>
+      <loc>https://academy.binary.com/de/blog/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/commodities-corner/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7294,24 +7234,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/pt/commodities-corner/</loc>
+      <loc>https://academy.binary.com/fr/blog/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/es/commodities-corner/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7324,9 +7249,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/de/commodities-corner/</loc>
+      <loc>https://academy.binary.com/en/blog/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7341,7 +7266,37 @@
     <url>
       <loc>https://academy.binary.com/id/commodities-corner/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/es/commodities-corner/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/commodities-corner/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7356,7 +7311,7 @@
     <url>
       <loc>https://academy.binary.com/ru/commodities-corner/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7369,9 +7324,9 @@
   
     
     <url>
-      <loc>https://academy.binary.com/en/downloads/</loc>
+      <loc>https://academy.binary.com/de/commodities-corner/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7384,9 +7339,24 @@
   
     
     <url>
-      <loc>https://academy.binary.com/es/downloads/</loc>
+      <loc>https://academy.binary.com/fr/commodities-corner/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/commodities-corner/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7401,7 +7371,37 @@
     <url>
       <loc>https://academy.binary.com/id/downloads/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/es/downloads/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/downloads/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7416,7 +7416,7 @@
     <url>
       <loc>https://academy.binary.com/feed-id.xml</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7431,7 +7431,7 @@
     <url>
       <loc>https://academy.binary.com/feed-ru.xml</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7446,7 +7446,7 @@
     <url>
       <loc>https://academy.binary.com/feed.xml</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7461,22 +7461,7 @@
     <url>
       <loc>https://academy.binary.com/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/contributors/join-us-as-a-webinar-speaker/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7491,7 +7476,22 @@
     <url>
       <loc>https://academy.binary.com/pt/contributors/join-us-as-a-webinar-speaker/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/contributors/join-us-as-a-webinar-speaker/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7506,7 +7506,7 @@
     <url>
       <loc>https://academy.binary.com/fr/learning-center/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7521,7 +7521,7 @@
     <url>
       <loc>https://academy.binary.com/id/metode-pembayaran/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7536,67 +7536,7 @@
     <url>
       <loc>https://academy.binary.com/ru/contributors/join-us-as-a-webinar-speaker/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/security-tips/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/security-tips/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/es/security-tips/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/de/security-tips/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7611,7 +7551,37 @@
     <url>
       <loc>https://academy.binary.com/id/security-tips/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/es/security-tips/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/security-tips/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7626,7 +7596,37 @@
     <url>
       <loc>https://academy.binary.com/ru/security-tips/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/de/security-tips/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/security-tips/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7643,7 +7643,7 @@
     <url>
       <loc>https://academy.binary.com/css/style.css</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7658,7 +7658,7 @@
     <url>
       <loc>https://academy.binary.com/url.html</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7673,52 +7673,7 @@
     <url>
       <loc>https://academy.binary.com/pt/webinar-videos/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/fr/webinars/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/en/webinars/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
-      
-      
-        <changefreq>weekly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://academy.binary.com/pt/webinars/</loc>
-      
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7733,7 +7688,22 @@
     <url>
       <loc>https://academy.binary.com/id/webinars/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/pt/webinars/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
@@ -7748,7 +7718,37 @@
     <url>
       <loc>https://academy.binary.com/ru/webinars/</loc>
       
-        <lastmod>2020-06-30T05:59:56+00:00</lastmod>
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/fr/webinars/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
+      
+      
+        <changefreq>weekly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://academy.binary.com/en/webinars/</loc>
+      
+        <lastmod>2020-06-30T06:02:50+00:00</lastmod>
       
       
         <changefreq>weekly</changefreq>
