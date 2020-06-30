@@ -1,6 +1,7 @@
 version: 2.1
 orbs:
   k8s: circleci/kubernetes@0.7.0
+  slack: circleci/slack@3.4.2
 commands:
   git_checkout_from_cache:
     description: "Git checkout and save cache"
@@ -47,7 +48,7 @@ commands:
           key: bundle-v1-{{ checksum "Gemfile" }}
           paths:
             - "modules"
-  release:
+  build:
     description: "Build Jekyll site"
     steps:
       - restore_cache:
@@ -63,7 +64,7 @@ commands:
           key: _site-v1-{{ .Revision }}
           paths:
             - _site
-  deploy_gh_pages:
+  deploy:
     description: "Deploy to static branches"
     parameters:
       target_branch:
@@ -87,11 +88,11 @@ commands:
             git config user.name "ci-build"
       - add_ssh_keys:
           fingerprints:
-            - "01:67:4a:6d:26:9c:70:c4:1a:60:91:88:d9:dd:f0:83"
+            - "39:c0:0a:eb:16:b3:57:13:ab:40:bc:1c:c5:a0:86:56"
       - run:
           name: Deploy docs to gh-pages branch
           command: /home/circleci/.npm-packages/bin/gh-pages -d _site --branch << parameters.target_branch >> --message '[skip ci]'
-  docker_build:
+  docker_build_push:
     description: "Build Docker image"
     steps:
       - setup_remote_docker
@@ -99,9 +100,6 @@ commands:
           name: Building docker image
           command: |
             docker build -t ${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_SHA1} -t ${DOCKHUB_ORGANISATION}/binary-static-academy:latest .
-  docker_push:
-    description: "Push image to docker hub"
-    steps:
       - run:
           name: Pushing Image to docker hub
           command: |
@@ -130,30 +128,44 @@ commands:
                 kubectl --server=${KUBE_SERVER} --certificate-authority=ca.crt --token=$SERVICEACCOUNT_TOKEN set image deployment/academy-binary-com academy-binary-com=${DOCKHUB_ORGANISATION}/binary-static-academy:${CIRCLE_SHA1}
               fi
             done
-
-jobs:
-  release_production:
-    docker:
-      - image: circleci/ruby:2.6.5
+  notify_slack:
+    description: "Notify slack"
     steps:
-      - git_checkout_from_cache
-      - bundle_install
-      - release
-      - docker_build
-      - docker_push
-      - k8s_deploy
-      - deploy_gh_pages:
-          target_branch: "production"
+      - slack/status:
+          include_project_field: false
+          failure_message: "Release failed for Academy with version *$(cat _site/version)*"
+          success_message: "Release succeeded for Academy with version *$(cat _site/version)*"
+          webhook: ${SLACK_WEBHOOK} 
+jobs:
   release_staging:
     docker:
       - image: circleci/ruby:2.6.5
     steps:
       - git_checkout_from_cache
       - bundle_install
-      - release
-      - deploy_gh_pages:
+      - build
+      - deploy:
           target_branch: "staging"
-
+      - notify_slack
+  release_production:
+    docker:
+      - image: circleci/ruby:2.6.5
+    steps:
+      - git_checkout_from_cache
+      - bundle_install
+      - build
+      - deploy:
+          target_branch: "production"
+      - notify_slack
+  release_aws_production:
+    docker:
+      - image: circleci/ruby:2.6.5
+    steps:
+      - git_checkout_from_cache
+      - bundle_install
+      - build
+      - docker_build_push
+      - k8s_deploy
 workflows:
   release:
     jobs:
@@ -162,6 +174,12 @@ workflows:
             branches:
               only: /^master$/
       - release_production:
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /^production.*/
+      - release_aws_production:
           filters:
             branches:
               ignore: /.*/
