@@ -25,5 +25,5 @@ Our latest innovation, now available in beta. A feature-rich trading environment
 </div>
 <div class="cta-lg">
     <p class="centered">It’s intuitive, customisable, and powerful.<br>Go ahead, experience it for yourself.</p>
-    <a class="button" href="https://deriv.app/?utm_source=binary&utm_medium=referral&utm_campaign=deriv-launch&utm_content=page-blog-button-trade-now"><span>Try Deriv now</span></a>
+    <a class="button" href="https://app.deriv.com/?utm_source=binary&utm_medium=referral&utm_campaign=deriv-launch&utm_content=page-blog-button-trade-now"><span>Try Deriv now</span></a>
 </div>
