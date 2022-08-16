@@ -80,6 +80,7 @@ commands:
           name: Install and configure dependencies
           command: |
             curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+            sudo apt-get --allow-releaseinfo-change update
             sudo apt install nodejs
             mkdir "/home/circleci/.npm-packages"
             npm config set prefix "/home/circleci/.npm-packages"
