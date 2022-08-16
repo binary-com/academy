@@ -64,34 +64,6 @@ commands:
           key: _site-v1-{{ .Revision }}
           paths:
             - _site
-  deploy:
-    description: "Deploy to static branches"
-    parameters:
-      target_branch:
-        type: string
-    steps:
-      - checkout
-      - attach_workspace:
-          at: _site
-      - run:
-          name: Tag build
-          command: echo "<< parameters.target_branch >> $(date -u +'%Y-%m-%dT%H:%M:%SZ')" > _site/version
-      - run:
-          name: Install and configure dependencies
-          command: |
-            curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-            sudo apt install nodejs
-            mkdir "/home/circleci/.npm-packages"
-            npm config set prefix "/home/circleci/.npm-packages"
-            npm install -g gh-pages@2.0.1
-            git config user.email "ci-build@binary.com"
-            git config user.name "ci-build"
-      - add_ssh_keys:
-          fingerprints:
-            - "01:67:4a:6d:26:9c:70:c4:1a:60:91:88:d9:dd:f0:83"
-      - run:
-          name: Deploy docs to gh-pages branch
-          command: /home/circleci/.npm-packages/bin/gh-pages -d _site --branch << parameters.target_branch >> --message '[skip ci]'
   docker_build_push:
     description: "Build Docker image"
     steps:
@@ -114,7 +86,7 @@ commands:
         default: ${CIRCLE_SHA1}
       k8s_namespace:
         type: string
-        default: "academy-binary-com-production"
+        default: "academy-binary-com-staging"
     steps:
       - k8s/install-kubectl
       - run:
@@ -148,8 +120,7 @@ jobs:
       - git_checkout_from_cache
       - bundle_install
       - build
-      - deploy:
-          target_branch: "staging"
+      #- k8s_deploy # devops will add staging k8s manifests
       - notify_slack
   release_production:
     docker:
@@ -158,18 +129,9 @@ jobs:
       - git_checkout_from_cache
       - bundle_install
       - build
-      - deploy:
-          target_branch: "production"
+      - k8s_deploy:
+          k8s_namespace: "academy-binary-com-production"
       - notify_slack
-  release_aws_production:
-    docker:
-      - image: circleci/ruby:2.6.5
-    steps:
-      - git_checkout_from_cache
-      - bundle_install
-      - build
-      - docker_build_push
-      - k8s_deploy
 workflows:
   build:
     jobs:
@@ -189,10 +151,5 @@ workflows:
               ignore: /.*/
             tags:
               only: /^production.*/
-      - release_aws_production:
-          filters:
-            branches:
-              ignore: /.*/
-            tags:
-              only: /^production.*/
           context: binary-frontend-artifact-upload
+      
