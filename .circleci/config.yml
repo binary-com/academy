@@ -149,6 +149,8 @@ workflows:
           filters:
             branches:
               ignore: /^master$/
+            tags:
+              ignore: /.*/
   release:
     jobs:
       - release_staging:
