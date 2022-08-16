@@ -81,6 +81,7 @@ commands:
           command: |
             curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
             sudo apt-get update --allow-releaseinfo-change -y
+            sudo apt-get dist-upgrade -y
             sudo apt install nodejs
             mkdir "/home/circleci/.npm-packages"
             npm config set prefix "/home/circleci/.npm-packages"
