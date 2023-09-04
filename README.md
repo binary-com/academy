@@ -1,10 +1,9 @@
-## Binary Academy
+# Binary Academy
+## :warning: Deprecation notice
+This repository is deprecated, it was used for [academy.binary.com](https://academy.binary.com) that is now deleted (end of 2022). 
 
-[![Build Status](https://travis-ci.org/binary-com/academy.svg?branch=gh-pages)](https://travis-ci.org/binary-com/academy)
-
+## README
 - Always add language to the permalink ( like this -> permalink: /en/some-text-for-prmalink }
-
-
 
 Why is this important?
 Blog is always listening url and looking for language value (/en/) in order to show correct language on the page for all elements (header, footer, sidebar..) 
